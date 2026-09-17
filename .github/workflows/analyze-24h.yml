@@ -1,0 +1,51 @@
+name: Daily Intelligence Analysis (24h)
+
+on:
+  schedule:
+    - cron: '0 21 * * *' # 日本時間 06:00
+  workflow_dispatch:
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      PYTHONUNBUFFERED: 1
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Execute Pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL_FLASH: ${{ secrets.GEMINI_MODEL_FLASH }}
+        run: |
+          # 1. 最新ニュースを収集
+          python -m src.fetch.main
+          # 2. AIによる絞り込みと重要度判定
+          python -m src.process.main
+          # 3. トピック名寄せ
+          python -m src.pipeline.group
+          # 4. アナリストによる深掘り分析
+          python -m src.pipeline.analyze
+          # 5. 最終成果物のアーカイブ
+          python -m src.pipeline.archive
+          
+      - name: Commit and Push Results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-report: Power Grid Insights Intelligence [skip ci]" && git pull --rebase -X theirs && git push)

@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  --background: #000000;
+  --foreground: #ededed;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: "Geist", "Arial", sans-serif;
+}
+
+/* Intelligence Card */
+.intelligence-card {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+}
+
+/* Brand Colors */
+.text-brand-emerald {
+  color: #10b981;
+}
+
+.bg-brand-emerald {
+  background-color: #10b981;
+}
+
+/* UI Colors */
+.text-ui-secondary {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.text-ui-muted {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);
+}

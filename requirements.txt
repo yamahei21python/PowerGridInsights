@@ -1,0 +1,15 @@
+# Power Grid Insights - Python Dependencies
+
+# Core
+feedparser>=6.0.0
+python-dotenv>=1.0.0
+
+# LLM
+litellm>=1.0.0
+
+# Utilities
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Development
+ruff>=0.1.0
