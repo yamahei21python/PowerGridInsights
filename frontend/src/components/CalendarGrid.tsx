@@ -1,0 +1,136 @@
+"use client";
+
+import React, { useState } from "react";
+import { ChevronLeft, ChevronRight, Calendar as CalendarIcon } from "lucide-react";
+import Link from "next/link";
+
+interface CalendarGridProps {
+  availableDates: string[];
+  selectedDate: string;
+}
+
+export default function CalendarGrid({ availableDates, selectedDate }: CalendarGridProps) {
+  // 表示中の月（初期値は選択中の日付、または今日）
+  const [viewMonth, setViewMonth] = useState(new Date(selectedDate || new Date()));
+
+  const year = viewMonth.getFullYear();
+  const month = viewMonth.getMonth();
+
+  // 月の最初の日と最後の日
+  const firstDayOfMonth = new Date(year, month, 1);
+  const lastDayOfMonth = new Date(year, month + 1, 0);
+
+  // カレンダーのグリッド用データ（前月の埋め、当月の日、翌月の埋め）
+  const daysInMonth = lastDayOfMonth.getDate();
+  const startDayOfWeek = firstDayOfMonth.getDay(); // 0: 日曜日
+
+  // 日付の配列生成 (YYYY-MM-DD 形式)
+  const generateDateStr = (d: number) => {
+    return `${year}-${String(month + 1).padStart(2, "0")}-${String(d).padStart(2, "0")}`;
+  };
+
+  const prevMonth = () => setViewMonth(new Date(year, month - 1, 1));
+  const nextMonth = () => setViewMonth(new Date(year, month + 1, 1));
+
+  const weekDays = ["日", "月", "火", "水", "木", "金", "土"];
+
+  // グリッドを42マス(6週間分)にするための配列
+  const calendarDays = [];
+  
+  // 前月分を埋める
+  for (let i = 0; i < startDayOfWeek; i++) {
+    calendarDays.push(null);
+  }
+  
+  // 当月分
+  for (let d = 1; d <= daysInMonth; d++) {
+    calendarDays.push(d);
+  }
+  
+  // 翌月分を埋める (行末まで)
+  const remainingCells = (7 - (calendarDays.length % 7)) % 7;
+  for (let i = 0; i < remainingCells; i++) {
+    calendarDays.push(null);
+  }
+
+  return (
+    <div className="bg-white/5 border border-white/10 px-4 py-2 rounded-xl backdrop-blur-xl w-[360px] shadow-2xl">
+      {/* Header */}
+      <div className="relative flex items-center justify-center mb-3 pt-1 px-1">
+        <h3 className="text-white font-medium text-base flex items-center gap-2">
+          <span className="text-ui-muted text-xs font-mono">{year}</span>
+          <span className="text-brand-emerald font-bold tracking-tight">{month + 1}月</span>
+        </h3>
+        <div className="absolute right-1 flex gap-1.5">
+          <button
+            onClick={prevMonth}
+            className="p-1.5 rounded-md bg-white/5 text-ui-muted hover:bg-white/10 hover:text-white transition-colors"
+          >
+            <ChevronLeft size={14} strokeWidth={1.5} />
+          </button>
+          <button
+            onClick={nextMonth}
+            className="p-1.5 rounded-md bg-white/5 text-ui-muted hover:bg-white/10 hover:text-white transition-colors"
+          >
+            <ChevronRight size={14} strokeWidth={1.5} />
+          </button>
+        </div>
+      </div>
+
+      {/* Week Headers */}
+      <div className="grid grid-cols-7 gap-2 mb-2">
+        {weekDays.map((day, idx) => (
+          <div
+            key={day}
+            className={`text-[9px] font-bold text-center py-1 uppercase tracking-widest
+              ${idx === 0 ? "text-rose-500/80" : idx === 6 ? "text-brand-emerald/80" : "text-ui-muted"}`}
+          >
+            {day}
+          </div>
+        ))}
+      </div>
+
+      {/* Grid Body */}
+      <div className="grid grid-cols-7 gap-2">
+        {calendarDays.map((day, idx) => {
+          if (day === null) {
+            return <div key={`empty-${idx}`} className="h-5" />;
+          }
+
+          const dateStr = generateDateStr(day);
+          const hasReport = availableDates.includes(dateStr);
+          const isSelected = selectedDate === dateStr;
+          const isSunday = idx % 7 === 0;
+          const isSaturday = idx % 7 === 6;
+
+          return (
+            <Link
+              key={dateStr}
+              href={`/?date=${dateStr}`}
+              className={`h-5 flex flex-col items-center justify-center rounded-sm border relative transition-all group active:scale-90
+                ${isSelected 
+                  ? "bg-[#10b981]/20 border-[#10b981] shadow-[0_0_15px_rgba(16,185,129,0.6),0_0_30px_rgba(16,185,129,0.3)] z-10" 
+                  : hasReport 
+                    ? "bg-white/5 border-white/10 hover:border-[#10b981]/50 hover:bg-white/10" 
+                    : "border-transparent opacity-10 pointer-events-none"
+                }`}
+            >
+              <span className={`text-[10px] font-mono font-bold transition-colors
+                ${isSelected 
+                  ? "text-white drop-shadow-[0_0_5px_rgba(16,185,129,0.8)]" 
+                  : isSunday 
+                    ? "text-rose-400" 
+                    : isSaturday 
+                      ? "text-[#10b981]/60" 
+                      : "text-zinc-400"
+                }`}
+              >
+                {day}
+              </span>
+            </Link>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
