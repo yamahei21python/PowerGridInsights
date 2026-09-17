@@ -88,7 +88,7 @@ def run_analyze() -> List[Dict]:
         report = {
             "topic_name": topic_name,
             "article_ids": aids,
-            "articles": [a for a in articles.get("articles", []) if a.get("id") in aids],
+            "articles": [a for a in articles if a.get("id") in aids],
             "is_grouped": is_grouped,
             "analysis": analysis,
         }
