@@ -71,14 +71,15 @@ async def precision_recovery_fallback(
 
                     response = await call_llm_async(
                         messages,
-                        f"gemini/{model_name}",
+                        model_name,
                         api_key,
                     )
 
-                    json_match = re.search(r"\{.*\}", response, re.DOTALL)
-                    if json_match:
-                        data = json.loads(json_match.group())
-                        return data.get("body_markdown", raw_text)
+                    if response:
+                        json_match = re.search(r"\{.*\}", response, re.DOTALL)
+                        if json_match:
+                            data = json.loads(json_match.group())
+                            return data.get("body_markdown", raw_text)
                 except Exception as e:
                     logger.warning(f"Attempt {attempt + 1} 失敗: {e}")
                     await asyncio.sleep(2)

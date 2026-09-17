@@ -34,6 +34,19 @@ def save_json(data: Any, filename: str) -> bool:
         return False
 
 
+def read_text_file(filename: str) -> Optional[str]:
+    """テキストファイルを読み込む"""
+    try:
+        filepath = Path(filename)
+        if not filepath.exists():
+            return None
+        with open(filepath, "r", encoding="utf-8") as f:
+            return f.read()
+    except Exception as e:
+        logger.error(f"テキスト読み込みエラー ({filename}): {e}")
+        return None
+
+
 def ensure_dir(directory: str) -> None:
     """ディレクトリが存在することを確認"""
     Path(directory).mkdir(parents=True, exist_ok=True)
