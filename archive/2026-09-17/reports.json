@@ -1,0 +1,90 @@
+[
+  {
+    "topic_name": "系統用蓄電池の運用管理システム開発",
+    "article_ids": [
+      274140,
+      815165
+    ],
+    "articles": [
+      {
+        "id": 274140,
+        "title": "【蓄電関連】日本蓄電池：山口県柳井市の8.1MWh系統用蓄電所を運用開始、デジタルグリッドが市場取引を支援 - みんなの広報宣伝部",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XeGNQMzFFdjdlaHl2LXlMbmV6OURtWGs5blRoUmdQdUhxMzV3SlVwMEVvdVlPNTNxY2JFaktUelBSdEdFcnA3a3RHc0p3U2hPY2hmSlB0WmI3Z0pueVlsMUxPQ1RCVTkzNUg3M0JtS2hHQQ?oc=5",
+        "published": "Thu, 17 Sep 2026 00:02:05 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9XeGNQMzFFdjdlaHl2LXlMbmV6OURtWGs5blRoUmdQdUhxMzV3SlVwMEVvdVlPNTNxY2JFaktUelBSdEdFcnA3a3RHc0p3U2hPY2hmSlB0WmI3Z0pueVlsMUxPQ1RCVTkzNUg3M0JtS2hHQQ?oc=5\" target=\"_blank\">【蓄電関連】日本蓄電池：山口県柳井市の8.1MWh系統用蓄電所を運用開始、デジタルグリッドが市場取引を支援</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "市場動向",
+        "reason": "系統用蓄電所の運用開始と市場取引支援の具体的事例。",
+        "score": 70,
+        "is_highly_important": true
+      },
+      {
+        "id": 815165,
+        "title": "100拠点の蓄電所を一括管理可能 住友電工が系統蓄電所向けESM：蓄電・発電機器 - スマートジャパン - ITmedia",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oVFdDSHFJLTFVejhhRXZLTUREY051SWVsVWtuZnAwbHNQay1CUHVJdkV6T1M0RldFemZieE1IVjVUQ3ViV1hDWFdpdjBKVG9oYnY5VEFybTlYOVZpVlc1MVRsODNQZnBoSEY5c3FtU2tDZllV?oc=5",
+        "published": "Thu, 17 Sep 2026 04:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9oVFdDSHFJLTFVejhhRXZLTUREY051SWVsVWtuZnAwbHNQay1CUHVJdkV6T1M0RldFemZieE1IVjVUQ3ViV1hDWFdpdjBKVG9oYnY5VEFybTlYOVZpVlc1MVRsODNQZnBoSEY5c3FtU2tDZllV?oc=5\" target=\"_blank\">100拠点の蓄電所を一括管理可能 住友電工が系統蓄電所向けESM：蓄電・発電機器 - スマートジャパン</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "技術革新",
+        "reason": "系統用蓄電所の管理システムは運用のキー技術。",
+        "score": 85,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": true,
+    "analysis": {
+      "summary_points": [
+        "日本蓄電池による特定拠点（8.1MWh）での市場参入とデジタルグリッドの運用支援",
+        "住友電工が最大100拠点の一元管理とマルチユース運用を実現するEMS「sEMSA-ESS」を投入",
+        "系統用蓄電池ビジネスは「拠点開発」から、市場最適化とマルチサイト管理による「収益最大化」のフェーズへ移行"
+      ],
+      "insight": "系統用蓄電池事業の焦点が、物理的な設置から『収益最適化のためのデジタル制御』へと完全に移りました。特に住友電工の100拠点一元管理システムは、各市場（容量・需給・卸）のアルゴリズム最適化を標準化するもので、アグリゲーターの参入障壁を下げると同時に、運用効率による勝者総取り戦を加速させるゲームチェンジャーとなるでしょう。"
+    }
+  },
+  {
+    "topic_name": "系統用蓄電池市場の需要拡大と供給体制の強化",
+    "article_ids": [
+      430804,
+      747587
+    ],
+    "articles": [
+      {
+        "id": 430804,
+        "title": "蓄電所の収益構造が激変、運用の巧拙で収益力に差 - 特集 - メガソーラービジネス plus - 日経BP",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnQy0tTmZpRXFiVHBRc1piQnRYNEUybnBkQ0h3aGtxeWlManFIVC1xbW90ZHNhend6NlVNb0FjblFPa3hOWWkyYml3TWZhTXl4MTZUMmZnSmpBUXl2LS12ZEFaaUVNdXVIQUdKMVAwNFdlMUtVTFJ6Uw?oc=5",
+        "published": "Wed, 16 Sep 2026 13:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBnQy0tTmZpRXFiVHBRc1piQnRYNEUybnBkQ0h3aGtxeWlManFIVC1xbW90ZHNhend6NlVNb0FjblFPa3hOWWkyYml3TWZhTXl4MTZUMmZnSmpBUXl2LS12ZEFaaUVNdXVIQUdKMVAwNFdlMUtVTFJ6Uw?oc=5\" target=\"_blank\">蓄電所の収益構造が激変、運用の巧拙で収益力に差 - 特集 - メガソーラービジネス plus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経BP</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "市場動向",
+        "reason": "収益構造の分析は事業プレイヤーにとって非常に有益。",
+        "score": 80,
+        "is_highly_important": true
+      },
+      {
+        "id": 747587,
+        "title": "系統用蓄電池拡大、ダイヘン受注2.6倍見通し - LOGISTICS TODAY",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3aUZwcjVBazZfY1Nfd1lSQXktdGV5c1N4d3Nibl9nRUJpVnlpNFJrV2FaTk90akhEMjZKQnBOQUFZXzc3V0xmYjF3?oc=5",
+        "published": "Wed, 16 Sep 2026 09:23:55 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3aUZwcjVBazZfY1Nfd1lSQXktdGV5c1N4d3Nibl9nRUJpVnlpNFJrV2FaTk90akhEMjZKQnBOQUFZXzc3V0xmYjF3?oc=5\" target=\"_blank\">系統用蓄電池拡大、ダイヘン受注2.6倍見通し</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "市場動向",
+        "reason": "サプライチェーン側（ダイヘン）の動向は市況を反映。",
+        "score": 70,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": true,
+    "analysis": {
+      "summary_points": [
+        "系統用蓄電池市場は、再エネの変動性対策として世界的な需要拡大フェーズに突入",
+        "収益源が調整力公募から市場取引・FIP対応へとシフトし、運用の巧拙が収益を左右する「運用ビジネス」へ変貌",
+        "ハードウェア供給サイド（ダイヘン等）は、パッケージ化と生産体制の増強により爆発的な受注増に対応するスケールメリットを追求"
+      ],
+      "insight": "系統用蓄電池は「設置すれば儲かる」初期段階から、高度な市場予測とアグリゲーション技術を要する「運用の勝者」を選ぶ市場へ転換した。ハード側もパッケージ化による工期短縮が鍵となっており、単なる設備投資から、いかに市場ボラティリティを制御し収益化するかの運用アルゴリズム競争へと、業界の焦点は完全にシフトしている。"
+    }
+  }
+]
