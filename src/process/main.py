@@ -143,7 +143,6 @@ def process_news_with_ai(
                     score = 0
             if article.get("is_highly_important") or score >= 70:
                 featured.append(article)
-                featured.append(article)
 
     save_json(featured, FEATURED_NEWS_FILE)
     logger.info(f"重要記事: {len(featured)} 件を抽出")

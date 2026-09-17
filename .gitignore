@@ -1,6 +1,8 @@
 # Dependencies
 node_modules/
 venv/
+venv_crawl4ai/
+env/
 __pycache__/
 *.pyc
 
@@ -10,10 +12,15 @@ out/
 
 # Environment
 .env
+.env.*
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Temporary Article Contents
+# (GHA内で削除しますが、ローカル環境でもコミット対象外にします)
+articles_md/
 
 # IDE
 .vscode/
@@ -36,3 +43,8 @@ npm-debug.log*
 
 # Vercel
 .vercel/
+
+# Test/Draft files
+test_*.py
+test_*.json
+test_*.md

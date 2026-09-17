@@ -5,7 +5,7 @@ import hashlib
 import logging
 from typing import List, Dict
 
-from src.config import NEWS_SOURCES, MAX_ARTICLES, NEWS_DATA_FILE
+from src.config import MAX_ARTICLES, NEWS_DATA_FILE
 from src.utils.io import load_json, save_json
 
 logger = logging.getLogger(__name__)

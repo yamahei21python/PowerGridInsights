@@ -33,17 +33,21 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL_FLASH: ${{ secrets.GEMINI_MODEL_FLASH }}
         run: |
-          # 1. 最新ニュースを収集
+          # 1. 前日の中間ファイルをクリーンアップ
+          python -m src.pipeline.cleanup --mode morning
+          # 2. 最新ニュースを収集
           python -m src.fetch.main
-          # 2. AIによる絞り込みと重要度判定
+          # 3. AIによる絞り込みと重要度判定
           python -m src.process.main
-          # 3. 本文抽出
+          # 4. 本文抽出
           python -m src.extract
-          # 4. トピック名寄せ
+          # 5. トピック名寄せ
           python -m src.pipeline.group
-          # 5. アナリストによる深掘り分析
+          # 6. アナリストによる深掘り分析
           python -m src.pipeline.analyze
-          # 6. 最終成果物のアーカイブ
+          # 7. AIエディターによる一括校閲
+          python -m src.pipeline.verify
+          # 8. 最終成果物のアーカイブ
           python -m src.pipeline.archive
           
       - name: Commit and Push Results

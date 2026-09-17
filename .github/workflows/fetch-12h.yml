@@ -25,6 +25,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Evening Cleanup (Preparing for data stock)
+        run: python -m src.pipeline.cleanup --mode evening
+
       - name: Fetch Power Grid News
         run: python -m src.fetch.main
 
