@@ -1,41 +1,6 @@
 [
   {
-    "topic_name": "次世代用途向け蓄電池開発への経産省支援",
-    "article_ids": [
-      752995
-    ],
-    "is_grouped": true
-  },
-  {
-    "topic_name": "住宅向け太陽光発電・蓄電池導入補助金",
-    "article_ids": [
-      852012
-    ],
-    "is_grouped": true
-  },
-  {
-    "topic_name": "日本蓄電池による柳井市系統用蓄電所の運用開始",
-    "article_ids": [
-      274140
-    ],
-    "is_grouped": true
-  },
-  {
-    "topic_name": "系統用蓄電池の運用収益とアグリゲーターの役割",
-    "article_ids": [
-      430804
-    ],
-    "is_grouped": true
-  },
-  {
-    "topic_name": "安葆による台南蓄電池コンテナ工場への投資",
-    "article_ids": [
-      659319
-    ],
-    "is_grouped": true
-  },
-  {
-    "topic_name": "ダイヘンによる蓄電池パッケージ生産能力の増強",
+    "topic_name": "ダイヘンの系統用蓄電池パッケージ生産能力増強",
     "article_ids": [
       747587,
       346187
@@ -43,28 +8,7 @@
     "is_grouped": true
   },
   {
-    "topic_name": "NextDriveと自然オペレーションズの系統用蓄電池事業提携",
-    "article_ids": [
-      471884
-    ],
-    "is_grouped": true
-  },
-  {
-    "topic_name": "BYDのステーション型蓄電池ユニットGC Block投入",
-    "article_ids": [
-      946752
-    ],
-    "is_grouped": true
-  },
-  {
-    "topic_name": "系統用蓄電所におけるネガポジ運用の開始",
-    "article_ids": [
-      717848
-    ],
-    "is_grouped": true
-  },
-  {
-    "topic_name": "パワーエックスによるEV充電器の最大240kW対応改修",
+    "topic_name": "パワーエックスの蓄電池型超急速EV充電器の240kW改修",
     "article_ids": [
       594332,
       154723
@@ -72,16 +16,10 @@
     "is_grouped": true
   },
   {
-    "topic_name": "住友電工による系統用蓄電所向けEMSの開発と販売",
+    "topic_name": "系統用蓄電池プロジェクトの建設・完工",
     "article_ids": [
-      376706,
-      815165
-    ],
-    "is_grouped": true
-  },
-  {
-    "topic_name": "クローバー・テクノロジーズによる佐賀市の系統用蓄電所建設",
-    "article_ids": [
+      274140,
+      917751,
       540986
     ],
     "is_grouped": true

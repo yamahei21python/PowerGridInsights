@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17 06:06:18",
-  "total_count": 75,
+  "updated_at": "2026-09-17 07:36:54",
+  "total_count": 80,
   "articles": [
     {
       "id": 752995,
@@ -674,6 +674,51 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4TWhLZk5IMjZzVlNSTUdMd3FYcEJjNkxueVA1eHpHbE1pSzRaczdGVVg2cjFkZmhESWphamlHRnNIajFZR013SkliYngyWVVJazZjcnUxS0tfSVYzTzZCdzd5cFE0U1ZIc1cwMnF5bVB3UGlZcnR1RA?oc=5",
       "published": "Wed, 16 Sep 2026 09:40:02 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB4TWhLZk5IMjZzVlNSTUdMd3FYcEJjNkxueVA1eHpHbE1pSzRaczdGVVg2cjFkZmhESWphamlHRnNIajFZR013SkliYngyWVVJazZjcnUxS0tfSVYzTzZCdzd5cFE0U1ZIc1cwMnF5bVB3UGlZcnR1RA?oc=5\" target=\"_blank\">「電気は貯められない」はもう昔の話――系統用蓄電池が担う\"3つの役割\"を読み解くウェビナーを開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RBB TODAY</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 653319,
+      "title": "米テスラの二足歩行ロボットや蓄電池を展示 日本初のギャラリーが大阪にオープン - sankei.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VaXBLdWNsZko1dlJTSnVHNHVGeVE2VmdXaE9fTVBNeUFQVXNiU0NEaTViMmVkWEMtU2hpWGVfNzY3SVRwTnRVVHRob25xblZNZVgwSlF4OVo4a0NkTHRHa09IU1JtX00zYW9sbllCT3R5cTNQZUE?oc=5",
+      "published": "Thu, 17 Sep 2026 03:07:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1VaXBLdWNsZko1dlJTSnVHNHVGeVE2VmdXaE9fTVBNeUFQVXNiU0NEaTViMmVkWEMtU2hpWGVfNzY3SVRwTnRVVHRob25xblZNZVgwSlF4OVo4a0NkTHRHa09IU1JtX00zYW9sbllCT3R5cTNQZUE?oc=5\" target=\"_blank\">米テスラの二足歩行ロボットや蓄電池を展示 日本初のギャラリーが大阪にオープン</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sankei.com</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 700546,
+      "title": "開発中の人型ロボットの模型などを展示する「テスラギャラリー梅田」＝9月17日午前、大阪市北区（土井繁孝撮影） - sankei.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDJ6UWxoNlcxMEVrUkpGamlYeGlxNDliWDR1QV9IcEhUemgtWldKaW1JNVRMU2h3cmJHbUR6bXp3TTVFSk9nWUxYQ25lOEplVklHbGlsbC1kT1pxdFJnT0YxTm44RVF2YTFNWmd1cTFEWndFOXdXZDhPbmNWWGxwT3VaNUVYbk10YzdoVmRaNXdxUWk2N2RmMXRQM3VTd0dBT0E?oc=5",
+      "published": "Thu, 17 Sep 2026 03:07:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDJ6UWxoNlcxMEVrUkpGamlYeGlxNDliWDR1QV9IcEhUemgtWldKaW1JNVRMU2h3cmJHbUR6bXp3TTVFSk9nWUxYQ25lOEplVklHbGlsbC1kT1pxdFJnT0YxTm44RVF2YTFNWmd1cTFEWndFOXdXZDhPbmNWWGxwT3VaNUVYbk10YzdoVmRaNXdxUWk2N2RmMXRQM3VTd0dBT0E?oc=5\" target=\"_blank\">開発中の人型ロボットの模型などを展示する「テスラギャラリー梅田」＝9月17日午前、大阪市北区（土井繁孝撮影）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sankei.com</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 717617,
+      "title": "佐賀市（九州エリア）で２MW／４.６MWhの系統用蓄電所の建設工事着手、クローバー・テクノロジーズがEPCを担当 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zc0tsdEExdUdOWWdBejNPM2NMY3VRMkZQTDFZZkVmeHdOdUZFR1lDTWJLNk8yUG9obGVqc205cEhZUUEyZjY1UloxYVJoVUFVRE9fR1dRdkxtSWEwSTBHTjF2cTdIMmV1dHNtVUZVZW1HSUk?oc=5",
+      "published": "Thu, 17 Sep 2026 06:30:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE0zc0tsdEExdUdOWWdBejNPM2NMY3VRMkZQTDFZZkVmeHdOdUZFR1lDTWJLNk8yUG9obGVqc205cEhZUUEyZjY1UloxYVJoVUFVRE9fR1dRdkxtSWEwSTBHTjF2cTdIMmV1dHNtVUZVZW1HSUk?oc=5\" target=\"_blank\">佐賀市（九州エリア）で２MW／４.６MWhの系統用蓄電所の建設工事着手、クローバー・テクノロジーズがEPCを担当</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 476758,
+      "title": "気候部と韓国電力がVPL推進 電力網改革を加速 - CHOSUNBIZ - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPenlsN1dNV0dqVGVuNXFDcWVzZ3dpdTdVeVVsazJlVE9zYUdsLTg4RVdlWjQzWEFKUzJoV1BqeE9hRGhUdDFRSWkzeDQyYTB2ajVGZlV6UTQxRHlNQ19GVk4xcXAzblJWWThIZG1aUXJoUklLUmJzZi1fcGhNSXFtT1VB0gGWAUFVX3lxTFBfYnZqTk1zS0thRmRHRHByUUdKQ01FX2tnbUgxN2dQTjFZazVoS0ppQlVFTVdWVVo1cFgyMTFfNmhIZmRoY3pRbnpXRGJMNF9rWlRWOE40aHNydG4tV19MR3FGS09uOGZWZ1JWQTR4ZEMxTnpnSUFSaGI3UzlwZnpLMlc1bGtOdzlEVnhFRUc3d0l1S09SZw?oc=5",
+      "published": "Thu, 17 Sep 2026 06:52:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPenlsN1dNV0dqVGVuNXFDcWVzZ3dpdTdVeVVsazJlVE9zYUdsLTg4RVdlWjQzWEFKUzJoV1BqeE9hRGhUdDFRSWkzeDQyYTB2ajVGZlV6UTQxRHlNQ19GVk4xcXAzblJWWThIZG1aUXJoUklLUmJzZi1fcGhNSXFtT1VB0gGWAUFVX3lxTFBfYnZqTk1zS0thRmRHRHByUUdKQ01FX2tnbUgxN2dQTjFZazVoS0ppQlVFTVdWVVo1cFgyMTFfNmhIZmRoY3pRbnpXRGJMNF9rWlRWOE40aHNydG4tV19MR3FGS09uOGZWZ1JWQTR4ZEMxTnpnSUFSaGI3UzlwZnpLMlc1bGtOdzlEVnhFRUc3d0l1S09SZw?oc=5\" target=\"_blank\">気候部と韓国電力がVPL推進 電力網改革を加速 - CHOSUNBIZ</a>&nbsp;",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 302104,
+      "title": "再エネ拡大に伴う新たな課題「電力系統の慣性低下」の課題解決へエナリスと北海道大学、配電系統におけるGFMインバータの系統安定化効果寄与度評価手法に関する共同研究を開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjblNsX3lzRUhDX21xUVJpVzRfbnloN0YxVS1JT2pDVkZfcmZKdjl6Sy1QbnRqVGxqY3VYaGU3TTk3UFM0SVcxSzJWcndhV0dmZFFaQi1IMjU5YzN1WlI4alF3Q0Q3LUR3QXc?oc=5",
+      "published": "Thu, 17 Sep 2026 06:10:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBjblNsX3lzRUhDX21xUVJpVzRfbnloN0YxVS1JT2pDVkZfcmZKdjl6Sy1QbnRqVGxqY3VYaGU3TTk3UFM0SVcxSzJWcndhV0dmZFFaQi1IMjU5YzN1WlI4alF3Q0Q3LUR3QXc?oc=5\" target=\"_blank\">再エネ拡大に伴う新たな課題「電力系統の慣性低下」の課題解決へエナリスと北海道大学、配電系統におけるGFMインバータの系統安定化効果寄与度評価手法に関する共同研究を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     }
