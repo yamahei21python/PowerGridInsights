@@ -27,7 +27,7 @@ def call_llm(
     user_content: str,
     response_format: dict | None = None,
     max_retries: int = API_RETRY_COUNT,
-) -> Optional[dict]:
+) -> Optional[dict | list]:
     """
     LLM を呼び出し、JSON レスポンスをパースして返す。
     リトライロジックを含む。

@@ -47,6 +47,14 @@ def analyze_topic(topic_name: str, combined_content: str, is_grouped: bool) -> D
     result = call_llm(ANALYSIS_PROMPT, user_input, {"type": "json_object"})
 
     if result:
+        # LLMがdictを返した場合（正常）
+        if isinstance(result, dict):
+            return result
+        # LLMがlistを返した場合（先頭のdictを使用）
+        elif isinstance(result, list) and result:
+            for item in result:
+                if isinstance(item, dict):
+                    return item
         return result
 
     return {"summary_points": ["分析エラー"], "insight": "リトライ上限到達"}
@@ -88,7 +96,7 @@ def run_analyze() -> List[Dict]:
         report = {
             "topic_name": topic_name,
             "article_ids": aids,
-            "articles": [a for a in articles if a.get("id") in aids],
+            "articles": [a for a in articles if a.get("id") in aids or str(a.get("id", "")) in {str(x) for x in aids}],
             "is_grouped": is_grouped,
             "analysis": analysis,
         }

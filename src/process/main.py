@@ -110,20 +110,39 @@ def process_news_with_ai(
     if result:
         if isinstance(result, list):
             for r in result:
-                results_map[r["id"]] = r
-        elif isinstance(result, dict) and "groups" in result:
-            for r in result.get("groups", []):
-                results_map[r["id"]] = r
+                rid = r.get("id")
+                if rid is not None:
+                    results_map[rid] = r
+        elif isinstance(result, dict):
+            # LLMが {"groups": [...]} または直接dictで返す場合
+            items = result.get("groups") if "groups" in result else [result] if "id" in result else []
+            for r in items:
+                rid = r.get("id")
+                if rid is not None:
+                    results_map[rid] = r
 
     for article in original_articles:
         aid = article.get("id")
+        llm_result = None
         if aid in results_map:
-            article.update(results_map[aid])
-            if article.get("is_highly_important") or article.get("score", 0) >= 70:
-                featured.append(article)
+            llm_result = results_map[aid]
         elif str(aid) in results_map:
-            article.update(results_map[str(aid)])
-            if article.get("is_highly_important") or article.get("score", 0) >= 70:
+            llm_result = results_map[str(aid)]
+
+        if llm_result:
+            # LLM結果の主要キーのみマージ（元記事のid/link等を保持）
+            for key in ("primary_category", "reason", "score", "is_highly_important"):
+                if key in llm_result:
+                    article[key] = llm_result[key]
+
+            score = article.get("score", 0)
+            if isinstance(score, str):
+                try:
+                    score = int(score)
+                except (ValueError, TypeError):
+                    score = 0
+            if article.get("is_highly_important") or score >= 70:
+                featured.append(article)
                 featured.append(article)
 
     save_json(featured, FEATURED_NEWS_FILE)

@@ -74,19 +74,33 @@ def group_articles() -> list[dict]:
         return []
 
     # 結果のバリデーション
+    groups = []
     if isinstance(result, dict) and "groups" in result:
         groups = result["groups"]
-    else:
+    elif isinstance(result, list):
+        groups = result
+    elif isinstance(result, dict):
+        # LLMが {"groups": [...]} 以外の形式で返した場合
         for val in result.values():
             if isinstance(val, list):
                 groups = val
                 break
 
-    # ID存在確認
+    # ID存在確認（str/int混合対応）
     all_ids = {a["id"] for a in ai_input}
+    all_ids_str = {str(i) for i in all_ids}
+    all_ids_int = set()
+    for i in all_ids:
+        try:
+            all_ids_int.add(int(i))
+        except (ValueError, TypeError):
+            pass
     validated = []
     for g in groups:
-        valid_ids = [aid for aid in g.get("article_ids", []) if aid in all_ids]
+        valid_ids = []
+        for aid in g.get("article_ids", []):
+            if aid in all_ids or aid in all_ids_str or aid in all_ids_int:
+                valid_ids.append(aid)
         if valid_ids:
             g["article_ids"] = valid_ids
             validated.append(g)

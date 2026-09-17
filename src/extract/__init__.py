@@ -191,6 +191,11 @@ HTMLから記事を抽出。body_markdownに本文。有料記事やログイン
                 source_url, crawler, run_config, api_key, model_name
             )
 
+            # デコード済みURLがあれば記事に書き戻す
+            final_url = resolve_url_gnews(source_url)
+            if final_url != source_url:
+                article["link"] = final_url
+
             aid = article.get("id")
             filename = f"{ARTICLES_DIR}/{aid}.md"
 

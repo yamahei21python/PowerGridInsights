@@ -20,7 +20,7 @@ export async function getAvailableDates(): Promise<string[]> {
 
 export async function getReports(date?: string): Promise<AnalysisReport[]> {
   const url = date 
-    ? `${GITHUB_RAW_BASE_URL}/archive/${date}.json`
+    ? `${GITHUB_RAW_BASE_URL}/archive/${date}/reports.json`
     : `${GITHUB_RAW_BASE_URL}/final_reports.json`;
 
   try {

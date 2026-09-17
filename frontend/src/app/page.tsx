@@ -12,7 +12,10 @@ export default async function Home({
   const availableDates = await getAvailableDates();
   
   // デフォルトの日付：パラメータがない場合は最新のアーカイブ、それもなければ今日
-  const selectedDate = selectedParam || availableDates[0] || new Date().toISOString().split('T')[0];
+  const selectedDate = selectedParam || availableDates[0] || (() => {
+    const d = new Date();
+    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+  })();
   const reports = await getReports(selectedDate);
   
   const dateObj = new Date(selectedDate);

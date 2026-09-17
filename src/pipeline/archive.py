@@ -1,7 +1,6 @@
 """Archive module - アーカイブ処理"""
 
 import logging
-import shutil
 from datetime import datetime
 from pathlib import Path
 
