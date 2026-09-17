@@ -1,6 +1,8 @@
 """テキスト処理ユーティリティ - Power Grid Insights"""
 
 import re
+import unicodedata
+from difflib import SequenceMatcher
 from typing import List
 
 
@@ -32,3 +34,66 @@ def normalize_url(url: str) -> str:
     if not url.startswith(('http://', 'https://')):
         url = 'https://' + url
     return url.rstrip('/')
+
+
+def get_similarity(a: str, b: str) -> float:
+    """2つの文字列の類似度を計算 (0.0 - 1.0)"""
+    return SequenceMatcher(None, a, b).ratio()
+
+
+def normalize_title(title: str) -> str:
+    """タイトルからメディア名やノイズを除去して純粋な見出しにする"""
+    # 全角・半角の正規化
+    t = unicodedata.normalize("NFKC", title)
+    # 「 - メディア名」を削除
+    t = t.split(" - ")[0]
+    # カッコ（全角・半角）内のテキストを削除
+    t = re.sub(r"（.*?）|\(.*?\)", "", t)
+    # 末尾のメディア名をさらに強引に削除
+    t = re.sub(r"\|.*$", "", t)
+    return t.strip()
+
+
+def get_site_priority(site_name: str) -> int:
+    """メディアごとの取得しやすさ・信頼性スコア"""
+    priorities = {
+        "蓄電所ネット": 100,
+        "BESS NEWS": 95,
+        "AI電気速報": 90,
+        "スマートグリッドフォーラム": 85,
+        "日経BP メガソーラービジネス": 80,
+        "SOLAR JOURNAL": 75,
+        "新エネルギー新聞": 70,
+        "PV Magazine Japan": 65,
+        "エネルギーフォーラム": 60,
+        "電気新聞": 55,
+        "環境ビジネスオンライン": 50,
+        "PR TIMES": 45,
+        "時事通信": 40,
+    }
+    return priorities.get(site_name, 30)
+
+
+def is_major_media(site_name: str) -> bool:
+    """大手紙または主要メディアかどうかを判定"""
+    excluded_keywords = [
+        "ABEMA",
+        "ニコニコ",
+        "GUNOSY",
+        "AU WEB",
+        "Dメニュー",
+        "MSN",
+        "STRAIGHT PRESS",
+        "SPEEDME.RU",
+        "매일경제",
+    ]
+    return not any(k in site_name.upper() for k in excluded_keywords)
+
+
+def strip_markdown_block(text: str) -> str:
+    """Markdownコードブロックを除去"""
+    if text.startswith("```json"):
+        return text[7:-3].strip()
+    if text.startswith("```"):
+        return text[3:-3].strip()
+    return text.strip()

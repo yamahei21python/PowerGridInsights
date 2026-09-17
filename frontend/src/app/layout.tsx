@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Header from "@/components/common/Header";
+import Footer from "@/components/common/Footer";
 
 export const metadata: Metadata = {
   title: "Power Grid Insights",
@@ -14,7 +16,9 @@ export default function RootLayout({
   return (
     <html lang="ja">
       <body className="antialiased">
-        {children}
+        <Header />
+        <main className="min-h-screen">{children}</main>
+        <Footer />
       </body>
     </html>
   );

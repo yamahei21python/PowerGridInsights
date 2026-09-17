@@ -26,6 +26,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          python -m playwright install chromium --with-deps
 
       - name: Execute Pipeline
         env:
@@ -36,11 +37,13 @@ jobs:
           python -m src.fetch.main
           # 2. AIによる絞り込みと重要度判定
           python -m src.process.main
-          # 3. トピック名寄せ
+          # 3. 本文抽出
+          python -m src.extract
+          # 4. トピック名寄せ
           python -m src.pipeline.group
-          # 4. アナリストによる深掘り分析
+          # 5. アナリストによる深掘り分析
           python -m src.pipeline.analyze
-          # 5. 最終成果物のアーカイブ
+          # 6. 最終成果物のアーカイブ
           python -m src.pipeline.archive
           
       - name: Commit and Push Results

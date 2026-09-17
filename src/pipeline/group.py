@@ -1,71 +1,103 @@
-"""Group module - トピック名寄せ"""
+"""Group module - トピック名寄せ（詳細版）"""
 
+import json
 import logging
-from typing import List, Dict
+import time
 
-from src.config import FEATURED_NEWS_FILE, GROUPED_NEWS_FILE
-from src.utils.io import load_json, save_json
+from src.config import (
+    ARTICLES_DIR,
+    FEATURED_NEWS_FILE,
+    GROUPED_NEWS_FILE,
+    REQUEST_DELAY_SEC,
+)
+from src.utils.io import load_json, save_json, read_text_file
 from src.utils.api import call_llm
 
 logger = logging.getLogger(__name__)
 
 GROUPING_PROMPT = """
-あなたは蓄電池・電力業界のニュース編集者です。
-以下の記事タイトルをグループ化してください。
+あなたは厳格なニュース編集長です。
+ニュースを「戦略的なトピック」ごとに名寄せしてください。
 
-【グループ化ルール】
-- 同一トピックの記事をグループ化
-- 1グループあたり2-5件
-- グループ名は簡潔に（20文字以内）
+【禁止】
+- 曖昧なトピック名（動向、関連、市場、技術、まとめ等）
+- 具体的な共通点がない記事同士のグループ化
 
-【出力形式】
+【ルール】
+1. 完全に同じ話題のみグループ化
+2. 迷ったらグループ化しない（is_grouped: false）
+3. トピック名は具体的（例：「系統用蓄電池の容量市場落札」）
+
+【出力】
 {
   "groups": [
-    {
-      "topic_name": "グループ名",
-      "article_ids": [1, 2, 3],
-      "is_grouped": true
-    }
+    {"topic_name": "...", "article_ids": [id1, id2], "is_grouped": true/false}
   ]
 }
 """
 
 
-def run_group() -> List[Dict]:
-    """トピック名寄せパイプライン実行"""
-    articles_data = load_json(FEATURED_NEWS_FILE)
-    if not articles_data or "articles" not in articles_data:
-        logger.error("featured_news.json が見つかりません")
+def group_articles() -> list[dict]:
+    """記事をトピックごとにグルーピング"""
+    articles = load_json(FEATURED_NEWS_FILE)
+    if not articles:
+        logger.error(f"{FEATURED_NEWS_FILE}が見つかりません")
         return []
 
-    articles = articles_data["articles"]
-    logger.info(f"{len(articles)} 件の記事をグループ化中...")
+    logger.info(f"全 {len(articles)} 件をグルーピング...")
 
-    # 記事タイトルを整理
-    article_list = [{"id": a["id"], "title": a["title"]} for a in articles]
+    # AI入力データの作成
+    ai_input = []
+    for article in articles:
+        aid = article.get("id")
+        title = article.get("title", "")
 
-    user_input = "記事一覧:\n"
-    for a in article_list:
-        user_input += f"- ID:{a['id']} {a['title']}\n"
+        md_file = f"{ARTICLES_DIR}/{aid}.md"
+        content_intro = "(本文なし)"
 
-    result = call_llm(GROUPING_PROMPT, user_input, {"type": "json_object"})
+        if read_text_file(md_file):
+            content = read_text_file(md_file)
+            if "PAYWALL_BLOCKED" in content or "Scrape Error" in content:
+                continue
+            content_intro = content[:500].replace("\n", " ")
 
-    if result and "groups" in result:
+        ai_input.append({"id": aid, "title": title, "intro": content_intro})
+
+    result = call_llm(
+        GROUPING_PROMPT,
+        f"【記事リスト】\n{json.dumps(ai_input, ensure_ascii=False, indent=2)}",
+        {"type": "json_object"},
+    )
+
+    if not result:
+        logger.error("グルーピング失敗")
+        return []
+
+    # 結果のバリデーション
+    if isinstance(result, dict) and "groups" in result:
         groups = result["groups"]
     else:
-        # フォールバック: 記事を単一グループに
-        groups = [{
-            "topic_name": "蓄電池・電力ニュース",
-            "article_ids": [a["id"] for a in articles],
-            "is_grouped": False,
-        }]
+        for val in result.values():
+            if isinstance(val, list):
+                groups = val
+                break
 
-    save_json(groups, GROUPED_NEWS_FILE)
-    logger.info(f"{len(groups)} 個のグループを生成")
-    return groups
+    # ID存在確認
+    all_ids = {a["id"] for a in ai_input}
+    validated = []
+    for g in groups:
+        valid_ids = [aid for aid in g.get("article_ids", []) if aid in all_ids]
+        if valid_ids:
+            g["article_ids"] = valid_ids
+            validated.append(g)
+
+    save_json(validated, GROUPED_NEWS_FILE)
+    logger.info(f"{len(validated)} 個のトピックに集約")
+    return validated
 
 
 if __name__ == "__main__":
     import logging
+
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
-    run_group()
+    group_articles()
