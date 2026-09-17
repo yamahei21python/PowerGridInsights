@@ -1,56 +1,59 @@
 @import "tailwindcss";
 
 :root {
-  --background: #000000;
-  --foreground: #ededed;
+  /* Base Colors (Linear Inspired) */
+  --bg-marketing: #08090a;
+  --bg-panel: #0f1011;
+  --bg-surface: rgba(255, 255, 255, 0.03);
+  --bg-surface-hover: rgba(255, 255, 255, 0.05);
+  
+  /* Brand Colors (Supabase Inspired) */
+  --brand-emerald: #3ecf8e;
+  --brand-link: #00c573;
+  --brand-glow: rgba(62, 207, 142, 0.15);
+  
+  /* Typography Colors (Linear Inspired) */
+  --text-primary: #f7f8f8;
+  --text-secondary: #d0d6e0;
+  --text-muted: #62666d;
+
+  /* Borders */
+  --border-standard: rgba(255, 255, 255, 0.08);
+  --border-subtle: rgba(255, 255, 255, 0.04);
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: "Geist", "Arial", sans-serif;
+  color: var(--text-primary);
+  background: var(--bg-marketing);
+  /* Subtle grain and dark gradient for depth */
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(62, 207, 142, 0.05) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(59, 130, 246, 0.02) 0px, transparent 50%);
+  min-height: 100vh;
+  /* Inter Variable with cv01, ss03 enabled for Linear look */
+  font-family: 'Inter Variable', var(--font-geist-sans), sans-serif;
+  font-feature-settings: "cv01", "ss03";
+  letter-spacing: -0.011em;
 }
 
-/* Intelligence Card */
-.intelligence-card {
-  background: rgba(255, 255, 255, 0.02);
-  border: 1px solid rgba(255, 255, 255, 0.05);
-  border-radius: 12px;
-  backdrop-filter: blur(10px);
-}
+@layer utilities {
+  .intelligence-card {
+    background: var(--bg-surface);
+    backdrop-filter: blur(12px);
+    border: 1px solid var(--border-standard);
+    border-radius: 8px; /* Design system: lg(8px) */
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  
+  .intelligence-card:hover {
+    background: var(--bg-surface-hover);
+    border-color: rgba(255, 255, 255, 0.15);
+    transform: translateY(-2px);
+  }
 
-/* Brand Colors */
-.text-brand-emerald {
-  color: #10b981;
-}
-
-.bg-brand-emerald {
-  background-color: #10b981;
-}
-
-/* UI Colors */
-.text-ui-secondary {
-  color: rgba(255, 255, 255, 0.7);
-}
-
-.text-ui-muted {
-  color: rgba(255, 255, 255, 0.4);
-}
-
-/* Custom scrollbar */
-::-webkit-scrollbar {
-  width: 6px;
-}
-
-::-webkit-scrollbar-track {
-  background: rgba(255, 255, 255, 0.05);
-}
-
-::-webkit-scrollbar-thumb {
-  background: rgba(255, 255, 255, 0.1);
-  border-radius: 3px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: rgba(255, 255, 255, 0.2);
+  /* Linear-style dense headline */
+  .text-hero-dense {
+    line-height: 1.0;
+    letter-spacing: -0.05em;
+  }
 }
