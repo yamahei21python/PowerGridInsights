@@ -65,23 +65,29 @@ async def call_llm_async(
     messages: list[dict],
     model_name: Optional[str] = None,
     api_key: Optional[str] = None,
+    retries: int = 3,
 ) -> Optional[str]:
-    """非同期LLM呼び出し (messages配列を直接受け取る)"""
+    """非同期LLM呼び出し (messages配列を直接受け取る) + リトライ"""
+    import asyncio
     from src.config import GEMINI_MODEL_FLASH
 
     model = model_name or GEMINI_MODEL_FLASH
     key = api_key or GEMINI_API_KEY
 
-    try:
-        response = await litellm.acompletion(
-            model=f"gemini/{model}",
-            messages=messages,
-            api_key=key,
-        )
-        return response.choices[0].message.content
-    except Exception as e:
-        logger.error(f"非同期LLMエラー: {e}")
-        return None
+    for attempt in range(retries):
+        try:
+            response = await litellm.acompletion(
+                model=f"gemini/{model}",
+                messages=messages,
+                api_key=key,
+            )
+            return response.choices[0].message.content
+        except Exception as e:
+            logger.warning(f"LLM試行 {attempt+1}/{retries} 失敗: {e}")
+            if attempt < retries - 1:
+                await asyncio.sleep(5 * (attempt + 1))
+    logger.error(f"非同期LLMエラー: 全{retries}試行失敗")
+    return None
 
 
 def parse_json_response(content: str) -> dict | list:
