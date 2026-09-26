@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26 13:32:03",
-  "total_count": 25,
+  "updated_at": "2026-09-26 23:20:46",
+  "total_count": 34,
   "articles": [
     {
       "id": 129239,
@@ -224,6 +224,87 @@
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GMFVFcUVaX1FGUlJtcnIxQ2NvNTBGWVRHdXplei05MUE3cEhRVXpNZW0yME1xWU9DX2xia0Y2NWJlcmtMeGtOdVhB?oc=5",
       "published": "Fri, 25 Sep 2026 15:02:26 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GMFVFcUVaX1FGUlJtcnIxQ2NvNTBGWVRHdXplei05MUE3cEhRVXpNZW0yME1xWU9DX2xia0Y2NWJlcmtMeGtOdVhB?oc=5\" target=\"_blank\">日本の大容量静脈内溶液市場2026年版</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pando.life</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 799270,
+      "title": "蓄電池の運用最適化へ 武蔵精密など3社が実証実験 マイクログリッド運用知見を活用 - 東愛知新聞社",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mZkxKY0plem55WnZTX3JqM2VRZDVmbGpuTkw0YzVBSExibTBXSTc4YW1XSE43NHo5T2tIVXJHM01jYkdpUGpHdlV5TkdHczVqeFNtMTJfRkNZaU8w?oc=5",
+      "published": "Sat, 26 Sep 2026 17:11:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mZkxKY0plem55WnZTX3JqM2VRZDVmbGpuTkw0YzVBSExibTBXSTc4YW1XSE43NHo5T2tIVXJHM01jYkdpUGpHdlV5TkdHczVqeFNtMTJfRkNZaU8w?oc=5\" target=\"_blank\">蓄電池の運用最適化へ 武蔵精密など3社が実証実験 マイクログリッド運用知見を活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東愛知新聞社</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 872764,
+      "title": "Fit Founder、日本エネルギー総合システムの北海道007蓄電所 プロジェクトを支援 - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3SnQxTXJJcTZlNmU5MGV2SWNwUkxHZzR1dEJRSmJYX3BDcXdPQnplRXM1TXVhVHdEU3BuZ1JpR2hZRWNDMEpaQkFhZHFRTEI2V2c?oc=5",
+      "published": "Sat, 26 Sep 2026 20:40:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3SnQxTXJJcTZlNmU5MGV2SWNwUkxHZzR1dEJRSmJYX3BDcXdPQnplRXM1TXVhVHdEU3BuZ1JpR2hZRWNDMEpaQkFhZHFRTEI2V2c?oc=5\" target=\"_blank\">Fit Founder、日本エネルギー総合システムの北海道007蓄電所 プロジェクトを支援</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 269943,
+      "title": "パワーエックス、蓄電池型の急速充電器がポルシェディーラーに初採用 今後他店にも納入を計画 - netdenjd.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBaXloWXVwblNzNEZDNmlVNWxGUENSUllyZlpQTzlVVzNxR0xrZl8ySWtqNG1mVWF0RnJhdkVrcG1KMTZiZHRWV182WWJkMmxfT1E?oc=5",
+      "published": "Sat, 26 Sep 2026 10:37:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBaXloWXVwblNzNEZDNmlVNWxGUENSUllyZlpQTzlVVzNxR0xrZl8ySWtqNG1mVWF0RnJhdkVrcG1KMTZiZHRWV182WWJkMmxfT1E?oc=5\" target=\"_blank\">パワーエックス、蓄電池型の急速充電器がポルシェディーラーに初採用 今後他店にも納入を計画</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">netdenjd.com</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 137512,
+      "title": "次世代AIサーバーが置けない日本のデータセンター - 日経クロステック",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9abXZ0eEJnN0lrRkVwVXdsTWVNR05yYWJPd3pyaHN3YXZ0YmlldTM5RkVJWEJiaUNXVVlOV1BkLXFJYnlRdk9PYlhpRlE2amFtbXJkNlYwaDdJa0JxRUdj?oc=5",
+      "published": "Sat, 26 Sep 2026 07:49:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9abXZ0eEJnN0lrRkVwVXdsTWVNR05yYWJPd3pyaHN3YXZ0YmlldTM5RkVJWEJiaUNXVVlOV1BkLXFJYnlRdk9PYlhpRlE2amFtbXJkNlYwaDdJa0JxRUdj?oc=5\" target=\"_blank\">次世代AIサーバーが置けない日本のデータセンター</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 947656,
+      "title": "セクション232ポリシリコン関税が迫る：太陽光調達の窓が狭まる - ニュースと統計 - indexbox.io",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3U4SkJQQmR3VmtnVTRDdERGWm1NVnlDZWFBWThhN0VtRENuQk9CYVdnSEluRmotek1qZ21ydF9YZ0NXSHhYQ2FfUFR0WkRQQXBJUC1xUUdzazlSLV92NVpfNjB6VzNENU16cjJHekZiaXF2R0wzZWNuNVpSeGRQaDUzLXkzYmFtQ3NGTTRYRGFfME42QlZWUG5oaV9seWVCdW9LZURtUVBiMGU1dGNB?oc=5",
+      "published": "Sat, 26 Sep 2026 10:00:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3U4SkJQQmR3VmtnVTRDdERGWm1NVnlDZWFBWThhN0VtRENuQk9CYVdnSEluRmotek1qZ21ydF9YZ0NXSHhYQ2FfUFR0WkRQQXBJUC1xUUdzazlSLV92NVpfNjB6VzNENU16cjJHekZiaXF2R0wzZWNuNVpSeGRQaDUzLXkzYmFtQ3NGTTRYRGFfME42QlZWUG5oaV9seWVCdW9LZURtUVBiMGU1dGNB?oc=5\" target=\"_blank\">セクション232ポリシリコン関税が迫る：太陽光調達の窓が狭まる - ニュースと統計</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">indexbox.io</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 663447,
+      "title": "グリーンエナジー＆カンパニー、第18回定時株主総会＆株主説明会を開催 - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBycmFTcUFLaldVRXNCdU4tQ21JTUF2TzNIUUgzTDRxeVlfSUNfcFo3Um41LWcyWl9YQ1QzRDkyR1d3R3FObTFwMXVhVzNvYWFpcUE?oc=5",
+      "published": "Sat, 26 Sep 2026 09:05:21 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBycmFTcUFLaldVRXNCdU4tQ21JTUF2TzNIUUgzTDRxeVlfSUNfcFo3Um41LWcyWl9YQ1QzRDkyR1d3R3FObTFwMXVhVzNvYWFpcUE?oc=5\" target=\"_blank\">グリーンエナジー＆カンパニー、第18回定時株主総会＆株主説明会を開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 886671,
+      "title": "クリハラントから特別高圧蓄電所向け蓄電システムを受注 - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdktKWE9nU1ZRREhGRl9FbE5RX1ZEWFZVSmlyWktyeVduc2VZc2lxVWluSW10UTNWWFdwNG54NmFVLXlUN3lsUXZBcXA5MWlvdkE?oc=5",
+      "published": "Sat, 26 Sep 2026 09:25:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdktKWE9nU1ZRREhGRl9FbE5RX1ZEWFZVSmlyWktyeVduc2VZc2lxVWluSW10UTNWWFdwNG54NmFVLXlUN3lsUXZBcXA5MWlvdkE?oc=5\" target=\"_blank\">クリハラントから特別高圧蓄電所向け蓄電システムを受注</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 442635,
+      "title": "蓄電池ビジネスの長期安定収益をテーマにしたセミナーを4月21日に開催 - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VdVAtYl9GZlM0YW9oMlMyZWFvRm1lSGN2dENVaE1QenZ4VVVQaEdkMHByMldxR2s3SjhBQVV0NlN0MlAxdms2b194aFVGR3phT1E?oc=5",
+      "published": "Sat, 26 Sep 2026 08:35:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VdVAtYl9GZlM0YW9oMlMyZWFvRm1lSGN2dENVaE1QenZ4VVVQaEdkMHByMldxR2s3SjhBQVV0NlN0MlAxdms2b194aFVGR3phT1E?oc=5\" target=\"_blank\">蓄電池ビジネスの長期安定収益をテーマにしたセミナーを4月21日に開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 302923,
+      "title": "不動産クラウドファンディング「ヤマワケエステート」がサービス開始3周年！累計調達額678億円突破を記念し、豪華賞品が当たるキャンペーンを実施 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NRXNYdm1NSHZXWXJqVzJYZFIyMlhWTkZHSDlyRk4xbGJmM2Vid1F0bWp3VVR1NUtsZ3NUR2dNNE9aanBQQWtTOGtGVTkxa2RwdWU4NFZBYW1veGFWRWhBSUx3MUtrd2dhLWc?oc=5",
+      "published": "Sat, 26 Sep 2026 01:00:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9NRXNYdm1NSHZXWXJqVzJYZFIyMlhWTkZHSDlyRk4xbGJmM2Vid1F0bWp3VVR1NUtsZ3NUR2dNNE9aanBQQWtTOGtGVTkxa2RwdWU4NFZBYW1veGFWRWhBSUx3MUtrd2dhLWc?oc=5\" target=\"_blank\">不動産クラウドファンディング「ヤマワケエステート」がサービス開始3周年！累計調達額678億円突破を記念し、豪華賞品が当たるキャンペーンを実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     }
