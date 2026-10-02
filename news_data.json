@@ -1,544 +1,40 @@
 {
-  "updated_at": "2026-10-02 00:26:26",
-  "total_count": 77,
+  "updated_at": "2026-10-02 15:14:18",
+  "total_count": 50,
   "articles": [
     {
-      "id": 853995,
-      "title": "九州の太陽光を「FIP転＋蓄電池＋需給調整市場」で運用 - ニュース - メガソーラービジネス plus - 日経BP",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RcHRLV05GSUZOaXFlOG5DNGhrSnlvMjMtUDZIaGJLZGo2eHpiSXN4Q0tCbTNVQlA5MjgyaE01WnozdVVyMjNLZEZET0dqNEpHWS0xTWY3ZnMwekpESWtxVXlNWC14WVhKQlFuRmJld0JGX1Zl?oc=5",
-      "published": "Thu, 01 Oct 2026 02:09:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1RcHRLV05GSUZOaXFlOG5DNGhrSnlvMjMtUDZIaGJLZGo2eHpiSXN4Q0tCbTNVQlA5MjgyaE01WnozdVVyMjNLZEZET0dqNEpHWS0xTWY3ZnMwekpESWtxVXlNWC14WVhKQlFuRmJld0JGX1Zl?oc=5\" target=\"_blank\">九州の太陽光を「FIP転＋蓄電池＋需給調整市場」で運用 - ニュース - メガソーラービジネス plus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経BP</font>",
+      "id": 77860,
+      "title": "ニッケル亜鉛電池の実製品を公開 寿命が鉛蓄電池の4倍で重量エネルギー密度も2倍：電動化 - MONOist",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJTXJTcnhhUWZjbGZJQWF4OWQ0bWVSaWYwcGFLZk5FVWJ1MWtkYW4zbVduS3g5b0RxRE9CcXlhT1dsYlZESGE1WDZVOVRSMHJZNnVubGNUeDJjM2dCeWhfck4xajBvUVlmTHdtY0ttTQ?oc=5",
+      "published": "Fri, 02 Oct 2026 06:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBJTXJTcnhhUWZjbGZJQWF4OWQ0bWVSaWYwcGFLZk5FVWJ1MWtkYW4zbVduS3g5b0RxRE9CcXlhT1dsYlZESGE1WDZVOVRSMHJZNnVubGNUeDJjM2dCeWhfck4xajBvUVlmTHdtY0ttTQ?oc=5\" target=\"_blank\">ニッケル亜鉛電池の実製品を公開 寿命が鉛蓄電池の4倍で重量エネルギー密度も2倍：電動化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MONOist</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 672904,
-      "title": "三社電機、太陽光や蓄電池向けコンバーター 故障対応など容易に - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hc2JISDR6ZVJIT1lDNnhxUk5sRkFQNGt6VTU1OWxiR1RYMkJjRmNZVEN5X1o1TEVDN2xGSC1EMnBOTWVTcmtuamphc2NwSWQtSG9Hc2tRT3B5Y2o0SmJXcGp5Vy1PMEt3eGNjcg?oc=5",
-      "published": "Thu, 01 Oct 2026 07:04:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9hc2JISDR6ZVJIT1lDNnhxUk5sRkFQNGt6VTU1OWxiR1RYMkJjRmNZVEN5X1o1TEVDN2xGSC1EMnBOTWVTcmtuamphc2NwSWQtSG9Hc2tRT3B5Y2o0SmJXcGp5Vy1PMEt3eGNjcg?oc=5\" target=\"_blank\">三社電機、太陽光や蓄電池向けコンバーター 故障対応など容易に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "id": 450888,
+      "title": "【日本蓄電池株式会社】和歌山県海南市にて系統用蓄電施設 「NC海南市木津蓄電所」蓄電池設置開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lQ2Yza1lBQlgyZy0tNmFOLVNzSDdod2VuaEVFalhNYTBVUWg0Mm5jQzZMSWk3ekpGV040X19OYWZGemFEVjVKMndFSG5LaVBabmFoNnRsZ3A4TEtub1hfdmdzMVBBRVYzd0E?oc=5",
+      "published": "Fri, 02 Oct 2026 03:00:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1lQ2Yza1lBQlgyZy0tNmFOLVNzSDdod2VuaEVFalhNYTBVUWg0Mm5jQzZMSWk3ekpGV040X19OYWZGemFEVjVKMndFSG5LaVBabmFoNnRsZ3A4TEtub1hfdmdzMVBBRVYzd0E?oc=5\" target=\"_blank\">【日本蓄電池株式会社】和歌山県海南市にて系統用蓄電施設 「NC海南市木津蓄電所」蓄電池設置開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 388776,
-      "title": "太陽光＋蓄電池のアワリーマッチング率検証、NTTアノードら24／7CFEへ - kankyo-business.jp",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CZURJVmwwQnRQMEtCbVh3TjhKYlNsMUhnWmwzal94ZkYwSzNMUDlHX3NtOVRwell0YkZKOHZkX08zQXNaQkllbDRvREZFVG1ydXZYR3BJX0tsSFUtUkI2VU5MUmNyMzV3OVh5QXA3azlURGYxelRRa3UwZ04?oc=5",
-      "published": "Thu, 01 Oct 2026 10:13:42 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5CZURJVmwwQnRQMEtCbVh3TjhKYlNsMUhnWmwzal94ZkYwSzNMUDlHX3NtOVRwell0YkZKOHZkX08zQXNaQkllbDRvREZFVG1ydXZYR3BJX0tsSFUtUkI2VU5MUmNyMzV3OVh5QXA3azlURGYxelRRa3UwZ04?oc=5\" target=\"_blank\">太陽光＋蓄電池のアワリーマッチング率検証、NTTアノードら24／7CFEへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kankyo-business.jp</font>",
+      "id": 939928,
+      "title": "【系統用蓄電池の用地選定】ハザード・地目・都市計画・関係法令を事業化前に確認―初期スクリーニング項目を公開 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tc3A2eUM5TDhQTlFNYU9XTDFCS3lNQXROVmVCb0JZV1RENzBob3FZVmZUZ1JTa3YwRzZfejlZaVdOa0xlU0N2TGxhWHBPaHZsNF9HVXpFX0Z0Z2FFVlFtMFlqcFpSNnlvVy1nenZaczBCQQ?oc=5",
+      "published": "Fri, 02 Oct 2026 14:40:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE8tc3A2eUM5TDhQTlFNYU9XTDFCS3lNQXROVmVCb0JZV1RENzBob3FZVmZUZ1JTa3YwRzZfejlZaVdOa0xlU0N2TGxhWHBPaHZsNF9HVXpFX0Z0Z2FFVlFtMFlqcFpSNnlvVy1nenZaczBCQQ?oc=5\" target=\"_blank\">【系統用蓄電池の用地選定】ハザード・地目・都市計画・関係法令を事業化前に確認―初期スクリーニング項目を公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 100779,
-      "title": "自家消費からBCP対策、電力市場参入まで 製造業を支えるGoodWeの産業用蓄電システム「ESAシリーズ」 - solarjournal.jp",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XM1IzRXhBaEc3UkxiV0JwLXp6Y2NCcnlCYkxhQ2RDTDZDRnhKYUdYYnlrcEFOb2lmeFh2UWtmVERSMFFkZ290Mld6Umx0X3M?oc=5",
-      "published": "Thu, 01 Oct 2026 05:57:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XM1IzRXhBaEc3UkxiV0JwLXp6Y2NCcnlCYkxhQ2RDTDZDRnhKYUdYYnlrcEFOb2lmeFh2UWtmVERSMFFkZ290Mld6Umx0X3M?oc=5\" target=\"_blank\">自家消費からBCP対策、電力市場参入まで 製造業を支えるGoodWeの産業用蓄電システム「ESAシリーズ」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">solarjournal.jp</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 870616,
-      "title": "【日本蓄電池株式会社】山口県周南市にて系統用蓄電施設「NC周南市湯野蓄電所」需給調整市場への参入 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mbU40SHh5VmRLazdXVEU0RTJvQ2VCXy1pcXl3aEhORGljRnhlY25ELVdYUC1DSURoVndaM0wyZzk3YVhQT0Z2RDRNM3FpQWVpQ21TMTI1VE55QThiclVibXQxT21ZNDFSNGc?oc=5",
-      "published": "Thu, 01 Oct 2026 03:00:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9mbU40SHh5VmRLazdXVEU0RTJvQ2VCXy1pcXl3aEhORGljRnhlY25ELVdYUC1DSURoVndaM0wyZzk3YVhQT0Z2RDRNM3FpQWVpQ21TMTI1VE55QThiclVibXQxT21ZNDFSNGc?oc=5\" target=\"_blank\">【日本蓄電池株式会社】山口県周南市にて系統用蓄電施設「NC周南市湯野蓄電所」需給調整市場への参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 426266,
-      "title": "東京都、既存マンションの太陽光・蓄電池導入アドバイザーを無料派遣 - 住宅産業新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHUldRZUZNN0JVSE9tbU1EV0VIRzliQS1fOFZzMFlucHM4OFdCVS1LaE85RE9kWTdDd1hvU3FwN25LV1JyWF9VQW1xMVdxZU5POFHSAVJBVV95cUxQR1JXUWVGTTdCVUhPbW1NRFdFSEc5YkEtXzhWczBZbnBzODhXQlUtS2hPOURPZFk3Q3dYb1NxcDduS1dSclhfVUFtcTFXcWVOTzhR?oc=5",
-      "published": "Thu, 01 Oct 2026 02:46:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHUldRZUZNN0JVSE9tbU1EV0VIRzliQS1fOFZzMFlucHM4OFdCVS1LaE85RE9kWTdDd1hvU3FwN25LV1JyWF9VQW1xMVdxZU5POFHSAVJBVV95cUxQR1JXUWVGTTdCVUhPbW1NRFdFSEc5YkEtXzhWczBZbnBzODhXQlUtS2hPOURPZFk3Q3dYb1NxcDduS1dSclhfVUFtcTFXcWVOTzhR?oc=5\" target=\"_blank\">東京都、既存マンションの太陽光・蓄電池導入アドバイザーを無料派遣</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">住宅産業新聞</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 664309,
-      "title": "【日本蓄電池株式会社】岡山県真庭市にて系統用蓄電施設「NC真庭市田羽根蓄電所」受電開始 - yama.minato-yamaguchi.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oY0NHVWVmV1JjUTdOajNoWURTZGVJemNuNmZPNGVsYUU1bGZKb1JrTUoyUktWOWJteUUyZTNpMFdRZHF2OVBXdDNVc01kcW1uclRJVmUzdGJCRFpVbllJaTNKSERMTHdQRWVJeTdkRWF2Y2NfalNkdQ?oc=5",
-      "published": "Thu, 01 Oct 2026 08:11:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5oY0NHVWVmV1JjUTdOajNoWURTZGVJemNuNmZPNGVsYUU1bGZKb1JrTUoyUktWOWJteUUyZTNpMFdRZHF2OVBXdDNVc01kcW1uclRJVmUzdGJCRFpVbllJaTNKSERMTHdQRWVJeTdkRWF2Y2NfalNkdQ?oc=5\" target=\"_blank\">【日本蓄電池株式会社】岡山県真庭市にて系統用蓄電施設「NC真庭市田羽根蓄電所」受電開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yama.minato-yamaguchi.co.jp</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 627772,
-      "title": "TESSグループ、京セラTCLソーラー合同会社様向けにFIP太陽光発電所に併設する「蓄電池」を納入 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81NElDMXJzTDdqRHo3UXpCNEZWZXJESGIycGFYMlRtbzlUVWRZYWxFRm14dVpLb0NlbHhxUHRNRnJrem1fQ0ZEMUt6cjJ5ZmRzTlIxc2tZVzF3RmdjZ0RPZVFrcnhVSUlaSUFNV2F3M1VseXFoUWNweG1CZw?oc=5",
-      "published": "Thu, 01 Oct 2026 12:00:38 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE81NElDMXJzTDdqRHo3UXpCNEZWZXJESGIycGFYMlRtbzlUVWRZYWxFRm14dVpLb0NlbHhxUHRNRnJrem1fQ0ZEMUt6cjJ5ZmRzTlIxc2tZVzF3RmdjZ0RPZVFrcnhVSUlaSUFNV2F3M1VseXFoUWNweG1CZw?oc=5\" target=\"_blank\">TESSグループ、京セラTCLソーラー合同会社様向けにFIP太陽光発電所に併設する「蓄電池」を納入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 52562,
-      "title": "電源不要!! 完全オフグリッドのソーラーカーポートがEVライフを変える！ - bestcarweb.jp",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Vci1UQVhyZnZNZjJwa01xWFZDZXBSZW8wR2lpZDVPSjJzT1I1cHJicU1mYzE3TkN0TjQzVS1EeWNUMnVScE8wYUNB?oc=5",
-      "published": "Thu, 01 Oct 2026 06:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Vci1UQVhyZnZNZjJwa01xWFZDZXBSZW8wR2lpZDVPSjJzT1I1cHJicU1mYzE3TkN0TjQzVS1EeWNUMnVScE8wYUNB?oc=5\" target=\"_blank\">電源不要!! 完全オフグリッドのソーラーカーポートがEVライフを変える！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bestcarweb.jp</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 656182,
-      "title": "【緊急・限定 10社】系統用蓄電池「J-BESS」販売代理店の募集を開始 - Excite エキサイト",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91dTVoUGZVSVNYekNadjZrTFFXWl9YZVN4M3ZmY3NSX2ZNVzlTX1I5NVBmWFFSdjVDR1ZfODdYVDJtbVhFTUtGYnp4LWZuWlIzZGlmYWZqUV9Pa1F0d21rQ3R4by1CNXluQy1XNk1hV3BwYm9N?oc=5",
-      "published": "Thu, 01 Oct 2026 15:15:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE91dTVoUGZVSVNYekNadjZrTFFXWl9YZVN4M3ZmY3NSX2ZNVzlTX1I5NVBmWFFSdjVDR1ZfODdYVDJtbVhFTUtGYnp4LWZuWlIzZGlmYWZqUV9Pa1F0d21rQ3R4by1CNXluQy1XNk1hV3BwYm9N?oc=5\" target=\"_blank\">【緊急・限定 10社】系統用蓄電池「J-BESS」販売代理店の募集を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Excite エキサイト</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 148441,
-      "title": "コレックホールディングス[6578]：コレックホールディングス、系統用蓄電池設備の工事を着工～再生可能エネルギーの活用促進と電力系統の安定化に貢献～ 2026年10月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hcmVrcktxVWtTZ3R1NzJTSm01Z2lqekd2RFpfTWlIcXNueWxYUnBtdTg0bDRGLVBSNWtFd2ppZEl4d1JDSU5MWmlYNlRVNlEtb2JSQV9VYTB5ZFlMakdTYkJlV3hJQ2VTNFE?oc=5",
-      "published": "Thu, 01 Oct 2026 06:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1hcmVrcktxVWtTZ3R1NzJTSm01Z2lqekd2RFpfTWlIcXNueWxYUnBtdTg0bDRGLVBSNWtFd2ppZEl4d1JDSU5MWmlYNlRVNlEtb2JSQV9VYTB5ZFlMakdTYkJlV3hJQ2VTNFE?oc=5\" target=\"_blank\">コレックホールディングス[6578]：コレックホールディングス、系統用蓄電池設備の工事を着工～再生可能エネルギーの活用促進と電力系統の安定化に貢献～ 2026年10月1日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 802616,
-      "title": "【日本蓄電池株式会社】岡山県真庭市にて系統用蓄電施設「NC真庭市田羽根蓄電所」受電開始 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmNmszbnRoZWM1RWp2ZVZGWDdLN0ZWcW5IY1M4bHU5THBpSzYtYWVlZldKSXRqU01ac0YwNkg1cXhCTlhrMnJ5WkFNcjBWTE52V1BMV1VKU2RKOHFEM1p5YnpfdW5oS2ktbFE?oc=5",
-      "published": "Thu, 01 Oct 2026 03:00:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBmNmszbnRoZWM1RWp2ZVZGWDdLN0ZWcW5IY1M4bHU5THBpSzYtYWVlZldKSXRqU01ac0YwNkg1cXhCTlhrMnJ5WkFNcjBWTE52V1BMV1VKU2RKOHFEM1p5YnpfdW5oS2ktbFE?oc=5\" target=\"_blank\">【日本蓄電池株式会社】岡山県真庭市にて系統用蓄電施設「NC真庭市田羽根蓄電所」受電開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 833062,
-      "title": "デジタルグリッド[350A]：系統用蓄電池の取扱量200MW(100拠点超)を突破 サービス開始から約1年9カ月で達成 2026年10月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHpzUXNUVHpHd2hKaXRoQmNUQ0Nlbmh1SHFqaWJpbW8teG10aGg0dUR3VUotb1E0MWpwcE00QVRCUmZMenRXQ0JiclpWMWdfNTVQWjMtMkRaMWh0SjlDZDBzVnViaWlqQmJpYUxzei1ES2dSRWNOU3lUT041MlhUYVlGMnRfN2o4MmVSUExMNEpMdThlX2s0czAtNU9OeXpldkw3Vld1UVN0NFRZdGEzZHIzY3hONk83WEVXYVpkNEROdmhXOTFwY1Z0Tk0?oc=5",
-      "published": "Wed, 30 Sep 2026 23:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHpzUXNUVHpHd2hKaXRoQmNUQ0Nlbmh1SHFqaWJpbW8teG10aGg0dUR3VUotb1E0MWpwcE00QVRCUmZMenRXQ0JiclpWMWdfNTVQWjMtMkRaMWh0SjlDZDBzVnViaWlqQmJpYUxzei1ES2dSRWNOU3lUT041MlhUYVlGMnRfN2o4MmVSUExMNEpMdThlX2s0czAtNU9OeXpldkw3Vld1UVN0NFRZdGEzZHIzY3hONk83WEVXYVpkNEROdmhXOTFwY1Z0Tk0?oc=5\" target=\"_blank\">デジタルグリッド[350A]：系統用蓄電池の取扱量200MW(100拠点超)を突破 サービス開始から約1年9カ月で達成 2026年10月1日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 370668,
-      "title": "福岡・飯塚第一メガソーラー発電所における併設蓄電池の運転開始 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sa2xhUWIteER5c0hTQVNnVXpWUDJETEZlaGUwTXdZSzFvY1lzRmU5c1BnQmc1blpwRGJMOW5ienBxRXY4Ul9fNWlhak5SOHo0dXlSeTRPdVplY2RadlI0XzBhTXdyWURpWlE?oc=5",
-      "published": "Thu, 01 Oct 2026 01:10:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1sa2xhUWIteER5c0hTQVNnVXpWUDJETEZlaGUwTXdZSzFvY1lzRmU5c1BnQmc1blpwRGJMOW5ienBxRXY4Ul9fNWlhak5SOHo0dXlSeTRPdVplY2RadlI0XzBhTXdyWURpWlE?oc=5\" target=\"_blank\">福岡・飯塚第一メガソーラー発電所における併設蓄電池の運転開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 68868,
-      "title": "系統用蓄電池の取扱量200MW(100拠点超)を突破 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zZGkwMXJOWFprUFhoMEh6UFZPU1VIaGUta09lbkdmSm96eFlod1RSaVI5MzhfbkpsRXFfc1NjOElFeTlnWm9DVXdocmdGNS1MWU1kb3pQRWhJVUtjV1M3cHgzRENuTFF0aGc?oc=5",
-      "published": "Wed, 30 Sep 2026 23:30:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9zZGkwMXJOWFprUFhoMEh6UFZPU1VIaGUta09lbkdmSm96eFlod1RSaVI5MzhfbkpsRXFfc1NjOElFeTlnWm9DVXdocmdGNS1MWU1kb3pQRWhJVUtjV1M3cHgzRENuTFF0aGc?oc=5\" target=\"_blank\">系統用蓄電池の取扱量200MW(100拠点超)を突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 853300,
-      "title": "Tensor Energy、福岡・飯塚第一メガソーラー発電所の併設蓄電池において「Tensor Cloud」によるAI自動制御運用を開始 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZLVlvNmhPLWRJbVVQYzlpZi1NaXdtUTctR2l5azRSSWxJbnBMOXNYUUxHenBmQ2JhcjZrMHg5NVZTNzc0MHJYOXc2b2RMUi1ZbVN3T043bEJYX1ZjM192c0lZT3RaOTBIMHc?oc=5",
-      "published": "Thu, 01 Oct 2026 02:50:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZLVlvNmhPLWRJbVVQYzlpZi1NaXdtUTctR2l5azRSSWxJbnBMOXNYUUxHenBmQ2JhcjZrMHg5NVZTNzc0MHJYOXc2b2RMUi1ZbVN3T043bEJYX1ZjM192c0lZT3RaOTBIMHc?oc=5\" target=\"_blank\">Tensor Energy、福岡・飯塚第一メガソーラー発電所の併設蓄電池において「Tensor Cloud」によるAI自動制御運用を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 534784,
-      "title": "【系統用蓄電池の用地選定】ハザード・地目・都市計画・関係法令を事業化前に確認―初期スクリーニング項目を公開 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDUXlQTUFnQXJFTjVLMDdxV3RHNFdoX2xWT21uaDNHVWlZTHZ0TlhMd2ZFd2U4dk5TNGo0U2F5UFZRR19fUU1JYTRwM3ZBeEtPUjVsb1lTVEgxRnQ4STFEbmdhNmZnVWJ3Nnc?oc=5",
-      "published": "Thu, 01 Oct 2026 01:10:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBDUXlQTUFnQXJFTjVLMDdxV3RHNFdoX2xWT21uaDNHVWlZTHZ0TlhMd2ZFd2U4dk5TNGo0U2F5UFZRR19fUU1JYTRwM3ZBeEtPUjVsb1lTVEgxRnQ4STFEbmdhNmZnVWJ3Nnc?oc=5\" target=\"_blank\">【系統用蓄電池の用地選定】ハザード・地目・都市計画・関係法令を事業化前に確認―初期スクリーニング項目を公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 381046,
-      "title": "リユース蓄電池の劣化状況をリアルタイムで管理・診断するクラウド活用、エネルギーマネジメント実証開始…武蔵精密工業 1枚目の写真・画像 - レスポンス（Response.jp）",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM2lvSTkzT2c1Sk5ZcERoWFh3NGhrQ3lCVFlUaFpHMXZEQkhSTEV0TTJJT3A5RUtWN0tad3R2Si1VVmlvQW1fTUpucVhjVW9GWWoyWS15bk1JU3ZNZUVXbVc4MzBENDFWaUszQmZvTkdnQkgwZGpUYmwxWDFsVE9fNV9ySkkzejd1R3p6SEFZZw?oc=5",
-      "published": "Thu, 01 Oct 2026 00:15:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQM2lvSTkzT2c1Sk5ZcERoWFh3NGhrQ3lCVFlUaFpHMXZEQkhSTEV0TTJJT3A5RUtWN0tad3R2Si1VVmlvQW1fTUpucVhjVW9GWWoyWS15bk1JU3ZNZUVXbVc4MzBENDFWaUszQmZvTkdnQkgwZGpUYmwxWDFsVE9fNV9ySkkzejd1R3p6SEFZZw?oc=5\" target=\"_blank\">リユース蓄電池の劣化状況をリアルタイムで管理・診断するクラウド活用、エネルギーマネジメント実証開始…武蔵精密工業 1枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 90095,
-      "title": "リユース蓄電池の劣化状況をリアルタイムで管理・診断するクラウド活用、エネルギーマネジメント実証開始…武蔵精密工業 - レスポンス（Response.jp）",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tS3BxSG9UeUV2ODhKVmcwd2ZiQlF5WkIxMlpGbkdGZ1NMNTdmaXdpN3N4bHE3OS11OHJrYmN4S1dPQ0FJeGkxcXV6UWd4N0NQNFYtclk1TUVwTkhSU1dJ?oc=5",
-      "published": "Thu, 01 Oct 2026 00:15:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tS3BxSG9UeUV2ODhKVmcwd2ZiQlF5WkIxMlpGbkdGZ1NMNTdmaXdpN3N4bHE3OS11OHJrYmN4S1dPQ0FJeGkxcXV6UWd4N0NQNFYtclk1TUVwTkhSU1dJ?oc=5\" target=\"_blank\">リユース蓄電池の劣化状況をリアルタイムで管理・診断するクラウド活用、エネルギーマネジメント実証開始…武蔵精密工業</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 8801,
-      "title": "NTTアノードエナジー・JERA Cross・ドコモ、系統用蓄電池を活用したHourly Matching実証実験を開始 - LIGARE（リガーレ）",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjSHlMdDQ0dlo4VkpZSC1zc0pfYlV1X1pJY0F2SzQzRWxuTXZJQndIZm5VUlNtaUZGZlo1NF8wNGJHVkVjS3JidnNMSzNkTzJpXy1rVEQwVndKZw?oc=5",
-      "published": "Wed, 30 Sep 2026 23:33:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjSHlMdDQ0dlo4VkpZSC1zc0pfYlV1X1pJY0F2SzQzRWxuTXZJQndIZm5VUlNtaUZGZlo1NF8wNGJHVkVjS3JidnNMSzNkTzJpXy1rVEQwVndKZw?oc=5\" target=\"_blank\">NTTアノードエナジー・JERA Cross・ドコモ、系統用蓄電池を活用したHourly Matching実証実験を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LIGARE（リガーレ）</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 6536,
-      "title": "【海外】CATL：エジプトBMEに蓄電池技術をライセンス供与、年産1GWhから5GWhへの拡張を計画 - みんなの広報宣伝部",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kdlpKb0hmTHhQUUQ2emk5SlEwRnZPMHQ5RkpTdzhFeWEyY3k2NW42c19XV2NERVJoNGR3eHk0M0dDZWRub09RcmNONC04Rkg5OV9uVDdKUGNaMEcwTTdhSU9OVlBPUHNJZWJla2M4eXBYUQ?oc=5",
-      "published": "Wed, 30 Sep 2026 23:02:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5kdlpKb0hmTHhQUUQ2emk5SlEwRnZPMHQ5RkpTdzhFeWEyY3k2NW42c19XV2NERVJoNGR3eHk0M0dDZWRub09RcmNONC04Rkg5OV9uVDdKUGNaMEcwTTdhSU9OVlBPUHNJZWJla2M4eXBYUQ?oc=5\" target=\"_blank\">【海外】CATL：エジプトBMEに蓄電池技術をライセンス供与、年産1GWhから5GWhへの拡張を計画</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 834899,
-      "title": "系統用蓄電池の取扱量200MW(100拠点超)を突破 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PVVhSMTk3UjBYTURTRHRhcTVPLUZDajIzY2ZLSE4yb2R2Wkt1RGw5R25FWFVROWFZT2ZzdVNCMng2N1Q5cXlIVnlMMVNjNVJHWEUzbWhuTFNQTmw0OFpnQy1YZlB1cURsQ1EyU25Db1RCT2NKaWVTenNqbw?oc=5",
-      "published": "Thu, 01 Oct 2026 05:15:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1PVVhSMTk3UjBYTURTRHRhcTVPLUZDajIzY2ZLSE4yb2R2Wkt1RGw5R25FWFVROWFZT2ZzdVNCMng2N1Q5cXlIVnlMMVNjNVJHWEUzbWhuTFNQTmw0OFpnQy1YZlB1cURsQ1EyU25Db1RCT2NKaWVTenNqbw?oc=5\" target=\"_blank\">系統用蓄電池の取扱量200MW(100拠点超)を突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 537253,
-      "title": "並列冗長可能な250kWマルチユース双方向DC/DCコンバーターを開発 - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KOTYzVURTQVFBbE4ybXpOYkUzUkdOM0tJeE42cHB2dHZfbEljTnRRVEtXdVZYTGotR3laVmRJT1RoQXQtaEczanBUekFmWUdRRzY1ckRPaFFDMFozTWczREdYTGJQVWxPcTEyZ2NXMDJyZw?oc=5",
-      "published": "Thu, 01 Oct 2026 14:40:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9KOTYzVURTQVFBbE4ybXpOYkUzUkdOM0tJeE42cHB2dHZfbEljTnRRVEtXdVZYTGotR3laVmRJT1RoQXQtaEczanBUekFmWUdRRzY1ckRPaFFDMFozTWczREdYTGJQVWxPcTEyZ2NXMDJyZw?oc=5\" target=\"_blank\">並列冗長可能な250kWマルチユース双方向DC/DCコンバーターを開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 402211,
-      "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル - sannichi.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pUDBaa3F4cTdVbE12ckZoNkNOYWhWOXU2Wk9yejVpZWZJVTFITDUtNzdVZUU4aWlfQXFONWgxWFpjSk9IMWliYnZqZUpoRHoyRzU4ZG1LWlNDeVJHUVJLM3FQOXQ?oc=5",
-      "published": "Thu, 01 Oct 2026 06:32:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pUDBaa3F4cTdVbE12ckZoNkNOYWhWOXU2Wk9yejVpZWZJVTFITDUtNzdVZUU4aWlfQXFONWgxWFpjSk9IMWliYnZqZUpoRHoyRzU4ZG1LWlNDeVJHUVJLM3FQOXQ?oc=5\" target=\"_blank\">プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sannichi.co.jp</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 256934,
-      "title": "ＭＥＮＡの蓄電池市場、30年までに急成長へ - Economic Media Bulletin Limited (EMB)",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43VDVIdDBNd3cydWM4VW5sWEoxTVZFZWxfZzJjOGs3S0pwMExBYUl2WXNfdWZXbU00YnJtZDhkZWx5aWtMaV9NZnVmbGlURGNscTV3VTVMaw?oc=5",
-      "published": "Wed, 30 Sep 2026 23:07:07 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE43VDVIdDBNd3cydWM4VW5sWEoxTVZFZWxfZzJjOGs3S0pwMExBYUl2WXNfdWZXbU00YnJtZDhkZWx5aWtMaV9NZnVmbGlURGNscTV3VTVMaw?oc=5\" target=\"_blank\">ＭＥＮＡの蓄電池市場、30年までに急成長へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economic Media Bulletin Limited (EMB)</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 552835,
-      "title": "星・PacificLight社、同国初の水素対応・蓄電池一体型ガス火力発電所の建設着工。100％水素移行目指す（2026.9） - 株式会社グリーンプロダクション",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOVWd6ZGVXUGJKdkljWkxFbVRVUEZpeEVHNmxwQWpTWWlSZEwzVEhoNkVfVjR6OVM3OUxrZTNEM1E5d0JpTXdPSlBIS3ZPc2dRYzc2RjJ5QQ?oc=5",
-      "published": "Wed, 30 Sep 2026 19:23:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOVWd6ZGVXUGJKdkljWkxFbVRVUEZpeEVHNmxwQWpTWWlSZEwzVEhoNkVfVjR6OVM3OUxrZTNEM1E5d0JpTXdPSlBIS3ZPc2dRYzc2RjJ5QQ?oc=5\" target=\"_blank\">星・PacificLight社、同国初の水素対応・蓄電池一体型ガス火力発電所の建設着工。100％水素移行目指す（2026.9）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株式会社グリーンプロダクション</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 965975,
-      "title": "HEMS中核機器「AiSEG3」を2027年1月25日バージョンアップ。GX ZEHに対応し、さらなる自家消費拡大に向けて機能向上 - RBB TODAY",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xZ0pma2RUZXlrQUdGNV8tbHdNRDAyX2Y0TlB1LUV6cmlOMXVmaVFUTlhIZlU2LU51b1RBMmtLSVNIdjViSTZ4LUV2dlhQRWdkZC1tM1RlZXJQZ2UxV1VyMU1TR0VYMkdmUTJwcDBPQ0ZVaFhPZFRKaQ?oc=5",
-      "published": "Thu, 01 Oct 2026 06:46:18 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4xZ0pma2RUZXlrQUdGNV8tbHdNRDAyX2Y0TlB1LUV6cmlOMXVmaVFUTlhIZlU2LU51b1RBMmtLSVNIdjViSTZ4LUV2dlhQRWdkZC1tM1RlZXJQZ2UxV1VyMU1TR0VYMkdmUTJwcDBPQ0ZVaFhPZFRKaQ?oc=5\" target=\"_blank\">HEMS中核機器「AiSEG3」を2027年1月25日バージョンアップ。GX ZEHに対応し、さらなる自家消費拡大に向けて機能向上</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RBB TODAY</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 61294,
-      "title": "Tensor Energy、福岡・飯塚第一メガソーラー発電所の併設蓄電池において「Tensor Cloud」によるAI自動制御運用を開始 - 写真・画像(1/1) - 西日本新聞me",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83MHFLZWZwcFNmclNUc3REeHlNaWhXV3pnNVJaT3o2aGNaNjJucUE4TWk3YkpQa2lXWEtBZUpqdnR2ZXp6R2lVcS1Pd3pQZ2xGUHJ5c0U4NA?oc=5",
-      "published": "Thu, 01 Oct 2026 06:48:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE83MHFLZWZwcFNmclNUc3REeHlNaWhXV3pnNVJaT3o2aGNaNjJucUE4TWk3YkpQa2lXWEtBZUpqdnR2ZXp6R2lVcS1Pd3pQZ2xGUHJ5c0U4NA?oc=5\" target=\"_blank\">Tensor Energy、福岡・飯塚第一メガソーラー発電所の併設蓄電池において「Tensor Cloud」によるAI自動制御運用を開始 - 写真・画像(1/1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 116442,
-      "title": "【Amazonベストセラー1位】Jackery「ポータブル電源」は1070Whの大容量でありながら驚くほどの軽量コンパクト設計【10月1日】 - All About ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YWmNqZkU0RFB6ekE4N1doREVuaUE0OUozbWFpeFhLMWlvRURSaUlScDJGVHBVRXdUN1BkTW9CMHVvamVzZkt5ZUZfUHA3bmdOU0FzSWlBa0ZrQQ?oc=5",
-      "published": "Thu, 01 Oct 2026 08:45:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YWmNqZkU0RFB6ekE4N1doREVuaUE0OUozbWFpeFhLMWlvRURSaUlScDJGVHBVRXdUN1BkTW9CMHVvamVzZkt5ZUZfUHA3bmdOU0FzSWlBa0ZrQQ?oc=5\" target=\"_blank\">【Amazonベストセラー1位】Jackery「ポータブル電源」は1070Whの大容量でありながら驚くほどの軽量コンパクト設計【10月1日】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">All About ニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 67859,
-      "title": "7件から81件へ。土地を持たない投資家と土地オーナーをつなぐ「系統用蓄電池投資ナビ」の挑戦 - iza.ne.jp",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3BxS3d0SFIxaGN2OWM3U1QwVmk4eDBnTGFJX1Y3bUFmdzVBallEcHRhUzNZTHpfQkFFLTBocTdsX0pPLWVtZ1ZTVmpEMTRHaWhUaTl4cEFwMTBPcnhrdU5makp1VEswcllSOW5aY0hXcXhuajVKT1BFYWxuZnRSZEp3?oc=5",
-      "published": "Thu, 01 Oct 2026 01:50:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3BxS3d0SFIxaGN2OWM3U1QwVmk4eDBnTGFJX1Y3bUFmdzVBallEcHRhUzNZTHpfQkFFLTBocTdsX0pPLWVtZ1ZTVmpEMTRHaWhUaTl4cEFwMTBPcnhrdU5makp1VEswcllSOW5aY0hXcXhuajVKT1BFYWxuZnRSZEp3?oc=5\" target=\"_blank\">7件から81件へ。土地を持たない投資家と土地オーナーをつなぐ「系統用蓄電池投資ナビ」の挑戦</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iza.ne.jp</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 588679,
-      "title": "HB-E210系ココC-3編成が2両で仙石東北ラインの運用に充当 - 4号車の5号車寄り",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oblFTaUVxbldRUHphWTJUS1JQWUZsU2RQV05lTFBfdXh1RlNPSG5LTWxNZy1OSV9YVHpnZDJmTEE5SEZ0RjZnSTRGRnloQ1E?oc=5",
-      "published": "Thu, 01 Oct 2026 00:08:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oblFTaUVxbldRUHphWTJUS1JQWUZsU2RQV05lTFBfdXh1RlNPSG5LTWxNZy1OSV9YVHpnZDJmTEE5SEZ0RjZnSTRGRnloQ1E?oc=5\" target=\"_blank\">HB-E210系ココC-3編成が2両で仙石東北ラインの運用に充当</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">4号車の5号車寄り</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 363778,
-      "title": "三社電機製作所、250kWのマルチユース双方向DC/DCコンバーターを開発 - ニュースメディアVOIX",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53VlNOSTFqQVN2R1NfOFpnMzVNVS1xWVlKenAzRDZQLUVqSXdqVWRkdXAyVHZic1hJNWIwdk9NeHo0a0gwNDlNeWZLamg2NE4xN2RB?oc=5",
-      "published": "Thu, 01 Oct 2026 02:04:48 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE53VlNOSTFqQVN2R1NfOFpnMzVNVS1xWVlKenAzRDZQLUVqSXdqVWRkdXAyVHZic1hJNWIwdk9NeHo0a0gwNDlNeWZLamg2NE4xN2RB?oc=5\" target=\"_blank\">三社電機製作所、250kWのマルチユース双方向DC/DCコンバーターを開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 187798,
-      "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL87号 宮城栗原 系統連携蓄電池シリーズ２. 完売』 - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Vc0hwVURhbkVEUFU3YlNvUG1mSlN6VjU1XzZ4QjJxV1RDQy1CQnlERTRGMlRjT2p3Q2hldll3V0E4MEhIZ1FGTTg4YURza3h6Yk9OSnlWaXlKb29rUnd5dGR5TFZDZ29ZNUs3a2FnRUdaZw?oc=5",
-      "published": "Wed, 30 Sep 2026 17:10:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5Vc0hwVURhbkVEUFU3YlNvUG1mSlN6VjU1XzZ4QjJxV1RDQy1CQnlERTRGMlRjT2p3Q2hldll3V0E4MEhIZ1FGTTg4YURza3h6Yk9OSnlWaXlKb29rUnd5dGR5TFZDZ29ZNUs3a2FnRUdaZw?oc=5\" target=\"_blank\">【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL87号 宮城栗原 系統連携蓄電池シリーズ２. 完売』</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 39494,
-      "title": "小牛田でキハ110系が脱線 - 4号車の5号車寄り",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIMHNNdHlXZENEOTUxU3hwd2V6M0xXWkY2aFZ6QXFBemd4ak5ucU9OYnQ1QnZsbHBIN0xBUk9zTktWSHBPRzVTaWthNDd5YVU?oc=5",
-      "published": "Wed, 30 Sep 2026 23:53:25 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIMHNNdHlXZENEOTUxU3hwd2V6M0xXWkY2aFZ6QXFBemd4ak5ucU9OYnQ1QnZsbHBIN0xBUk9zTktWSHBPRzVTaWthNDd5YVU?oc=5\" target=\"_blank\">小牛田でキハ110系が脱線</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">4号車の5号車寄り</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 128368,
-      "title": "Tensor Energy、福岡・飯塚第一メガソーラー発電所の併設蓄電池において「Tensor Cloud」によるAI自動制御運用を開始 - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hVDFNNXR1UEpEak9BMm5DV040MFgwVklTTWtiLTJMSDk5aVpKUGtvYVdvSjhtZ3FvbE9aaXdDVjJjeHlPWVM5N2JxTHJLV3M2UXVMTmJyZGdNOG9aVVNUd0hn?oc=5",
-      "published": "Thu, 01 Oct 2026 07:33:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hVDFNNXR1UEpEak9BMm5DV040MFgwVklTTWtiLTJMSDk5aVpKUGtvYVdvSjhtZ3FvbE9aaXdDVjJjeHlPWVM5N2JxTHJLV3M2UXVMTmJyZGdNOG9aVVNUd0hn?oc=5\" target=\"_blank\">Tensor Energy、福岡・飯塚第一メガソーラー発電所の併設蓄電池において「Tensor Cloud」によるAI自動制御運用を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 818909,
-      "title": "系統用蓄電池の取扱量200MW(100拠点超)を突破 (2026年10月1日掲載) - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vbDA0d2pkNXdpOExuMnlLYldMT1BFdWZUQ2FMeVByejRQckRJLWxwTFU5OXNHSmkydFp4N1d4OEFmTWQ5cDBVZmQ0WlJxSm4xVkJjWUZBc21ZVzFmbUtjS2hB?oc=5",
-      "published": "Wed, 30 Sep 2026 23:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vbDA0d2pkNXdpOExuMnlLYldMT1BFdWZUQ2FMeVByejRQckRJLWxwTFU5OXNHSmkydFp4N1d4OEFmTWQ5cDBVZmQ0WlJxSm4xVkJjWUZBc21ZVzFmbUtjS2hB?oc=5\" target=\"_blank\">系統用蓄電池の取扱量200MW(100拠点超)を突破 (2026年10月1日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 373580,
-      "title": "7件から81件へ。土地を持たない投資家と土地オーナーをつなぐ「系統用蓄電池投資ナビ」の挑戦 (2026年10月1日掲載) - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OMzdMTDdmMFgwWDcxamQyWmxLbGRPcG80bTgzQ2ZmNEV2WjFDN0piUmVWMFExbXNRdmtZaUtoZlRqSklaM3RSeTZqVWdJRk4zZDN3QWhTSW5BSXRsQjRrNGV3?oc=5",
-      "published": "Thu, 01 Oct 2026 01:50:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OMzdMTDdmMFgwWDcxamQyWmxLbGRPcG80bTgzQ2ZmNEV2WjFDN0piUmVWMFExbXNRdmtZaUtoZlRqSklaM3RSeTZqVWdJRk4zZDN3QWhTSW5BSXRsQjRrNGV3?oc=5\" target=\"_blank\">7件から81件へ。土地を持たない投資家と土地オーナーをつなぐ「系統用蓄電池投資ナビ」の挑戦 (2026年10月1日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 723717,
-      "title": "コレックホールディングス[6578]：コレックホールディングス、系統用蓄電池設備の工事を着工～再生可能エネルギーの活用促進と電力系統の安定化に貢献～ 2026年10月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc2dYd3FvazVKT1djVjlRT1dvMW54cU8yeHlZM2RpaXBIcE8zZmZEalB4LVBfTzdBa0thbUg3M3R3eUJvTGtjb3BVdG9wZjQ0dzd2cWp6ZFdyaE11NjFCNmcxOEp5b19QNEFXb0hOUXFJaHRrQ2hEdzNJRUVlcllTbmIwVnN4SmI3ZTlKYWtSRWoybmF1QmdpSlFLR2hyTFNpXzNqVnlDSXVJeHNNMDBPcmVOYVEzZm5tbUlIM2JXUHcxZll5Z21UemFyRDA?oc=5",
-      "published": "Thu, 01 Oct 2026 06:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPc2dYd3FvazVKT1djVjlRT1dvMW54cU8yeHlZM2RpaXBIcE8zZmZEalB4LVBfTzdBa0thbUg3M3R3eUJvTGtjb3BVdG9wZjQ0dzd2cWp6ZFdyaE11NjFCNmcxOEp5b19QNEFXb0hOUXFJaHRrQ2hEdzNJRUVlcllTbmIwVnN4SmI3ZTlKYWtSRWoybmF1QmdpSlFLR2hyTFNpXzNqVnlDSXVJeHNNMDBPcmVOYVEzZm5tbUlIM2JXUHcxZll5Z21UemFyRDA?oc=5\" target=\"_blank\">コレックホールディングス[6578]：コレックホールディングス、系統用蓄電池設備の工事を着工～再生可能エネルギーの活用促進と電力系統の安定化に貢献～ 2026年10月1日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 549263,
-      "title": "福島県浪江町で系統用蓄電所の建設を開始 - sumitomocorp.com",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wUmotV2NoTldJcmpsYmh2VWFrSnpIbVNLNlR5LWlGeTRVTU1KTEdyUGJ3Z2hJVm1KM2NoRzI4dU1obGh6V2ZLQ2FIQ201aHktUFJUZXVlUzZja0hobnMwbGE1QnNpaWVxUWVvRWM2Snd3UQ?oc=5",
-      "published": "Thu, 01 Oct 2026 01:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1wUmotV2NoTldJcmpsYmh2VWFrSnpIbVNLNlR5LWlGeTRVTU1KTEdyUGJ3Z2hJVm1KM2NoRzI4dU1obGh6V2ZLQ2FIQ201aHktUFJUZXVlUzZja0hobnMwbGE1QnNpaWVxUWVvRWM2Snd3UQ?oc=5\" target=\"_blank\">福島県浪江町で系統用蓄電所の建設を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sumitomocorp.com</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 817666,
-      "title": "「太陽光＋蓄電所」でアワリーマッチング、西日本で実証 - ニュース - メガソーラービジネス plus - 日経BP",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zMnNSN1oyMmI5T0daY2VKTFNGVW56NjVPNjR1V0p5Y2NRYVdxMl80aXYtQW42dkRlU09Mb1l4eXRXX0g5N1hqMXNSd3o2M0RzNnZUczBsRXA2UW8yaldKSkwwQWZnLVdIcjhlVHNpU0dmZ21S?oc=5",
-      "published": "Thu, 01 Oct 2026 01:56:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4zMnNSN1oyMmI5T0daY2VKTFNGVW56NjVPNjR1V0p5Y2NRYVdxMl80aXYtQW42dkRlU09Mb1l4eXRXX0g5N1hqMXNSd3o2M0RzNnZUczBsRXA2UW8yaldKSkwwQWZnLVdIcjhlVHNpU0dmZ21S?oc=5\" target=\"_blank\">「太陽光＋蓄電所」でアワリーマッチング、西日本で実証 - ニュース - メガソーラービジネス plus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経BP</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 786008,
-      "title": "TAOKE ENERGY、系統用蓄電所4カ所の運転を開始 - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OdmlBQnpMd1p5OW1WQVNZaUVCV3ZpX2RnRVZ4OGlaY1NXc0w3NVJKVVJZYW5BN3hVNGhld3hjZ08xZ09GNGJUUkd6cVhGcmZnNnFOdlBwNDFUTV9XRHVOZWtkZlViakVYUGg3RUFMSzU?oc=5",
-      "published": "Thu, 01 Oct 2026 01:47:48 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5OdmlBQnpMd1p5OW1WQVNZaUVCV3ZpX2RnRVZ4OGlaY1NXc0w3NVJKVVJZYW5BN3hVNGhld3hjZ08xZ09GNGJUUkd6cVhGcmZnNnFOdlBwNDFUTV9XRHVOZWtkZlViakVYUGg3RUFMSzU?oc=5\" target=\"_blank\">TAOKE ENERGY、系統用蓄電所4カ所の運転を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 964570,
-      "title": "IBeeT、静岡ガスグループ向けに伊藤忠商事「Bluestorage」高圧蓄電システムを供給 - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOMmg0YXBiMjhyT2dYcFE3YlJ0T2tDck8tc2Y2eEJtSkNIbk9Yc2NNblZjLVZmSGxjWGFoVURuTGU5NlI3VENETnNNS3h2VGlRZ0xDQVd4MlhHbnBXekVXajB3N1p3dTY5TGN3ZHJ5SXJ3UQ?oc=5",
-      "published": "Thu, 01 Oct 2026 06:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBOMmg0YXBiMjhyT2dYcFE3YlJ0T2tDck8tc2Y2eEJtSkNIbk9Yc2NNblZjLVZmSGxjWGFoVURuTGU5NlI3VENETnNNS3h2VGlRZ0xDQVd4MlhHbnBXekVXajB3N1p3dTY5TGN3ZHJ5SXJ3UQ?oc=5\" target=\"_blank\">IBeeT、静岡ガスグループ向けに伊藤忠商事「Bluestorage」高圧蓄電システムを供給</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 228607,
-      "title": "大分県由布市および山形県米沢市における系統用蓄電所事業への参画について - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3MVRHbDVsTEN1elRuMW9wVl9Qc2hwSE9tNHBuN005X2JmY3dnWW1nQjI5UFU5TXRUc3dGSTFQUVdaNk5HNDJPa0NXdHRXTWpiRTh3RUlBdlNuRnc4ZDF2SW04ZmlWZTdma1VjQUNZbW5Odw?oc=5",
-      "published": "Wed, 30 Sep 2026 22:10:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB3MVRHbDVsTEN1elRuMW9wVl9Qc2hwSE9tNHBuN005X2JmY3dnWW1nQjI5UFU5TXRUc3dGSTFQUVdaNk5HNDJPa0NXdHRXTWpiRTh3RUlBdlNuRnc4ZDF2SW04ZmlWZTdma1VjQUNZbW5Odw?oc=5\" target=\"_blank\">大分県由布市および山形県米沢市における系統用蓄電所事業への参画について</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 538583,
-      "title": "株式会社HYBRID、JC-STAR ★1適合設備を採用した「RE.U511蓄電所」を起点に系統用蓄電所事業を本格展開 - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VX1B4eWJvQ3hvUVF0LWU2aEhydEpPd3pjMEJEektJdS1Qc0t0WkJLQlJNaWRrbm9aeFA5dFQxaENDajhTdmdoNm54ZHJoXzUzbUZZQ2taWlZJSlQtQVB6S19PSThTbzdjOXdiWEhMQS1yQQ?oc=5",
-      "published": "Wed, 30 Sep 2026 20:10:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5VX1B4eWJvQ3hvUVF0LWU2aEhydEpPd3pjMEJEektJdS1Qc0t0WkJLQlJNaWRrbm9aeFA5dFQxaENDajhTdmdoNm54ZHJoXzUzbUZZQ2taWlZJSlQtQVB6S19PSThTbzdjOXdiWEhMQS1yQQ?oc=5\" target=\"_blank\">株式会社HYBRID、JC-STAR ★1適合設備を採用した「RE.U511蓄電所」を起点に系統用蓄電所事業を本格展開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 227953,
-      "title": "【海外】Trina Storage：西豪州ワルーナ太陽光・蓄電計画にBESS供給、81.5MW・6.9時間設備を2028年から運用へ - みんなの広報宣伝部",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10Z0xmNkktb3YyM21rTkx4eHpobG9OT3lhYWFVcVg3V201VFgxZEh0aU95bVFwN0I3b3QtZVFJTFlXMmMxOXA4OVpaVkc3ek54VlFpdVZycGh2bmtEc1lOUy00R0ZGcF84VkREeW5jSmlqZw?oc=5",
-      "published": "Wed, 30 Sep 2026 23:02:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE10Z0xmNkktb3YyM21rTkx4eHpobG9OT3lhYWFVcVg3V201VFgxZEh0aU95bVFwN0I3b3QtZVFJTFlXMmMxOXA4OVpaVkc3ek54VlFpdVZycGh2bmtEc1lOUy00R0ZGcF84VkREeW5jSmlqZw?oc=5\" target=\"_blank\">【海外】Trina Storage：西豪州ワルーナ太陽光・蓄電計画にBESS供給、81.5MW・6.9時間設備を2028年から運用へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 188449,
-      "title": "韓国投資証券がサムスンSDIを買い目標株価60万ウォン維持 - CHOSUNBIZ - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeTlYeE5OaGlTemtyXzdLV2E2R0lMQ3FzVVI3TC1wT25nUjlaQ2xLMk95T3VlaGE4OVdaeldPdVNWMFBZM1BDUnYta0NNRk5RZS05OGFHTVhHTURzT3FkVHBrdi1MLU9UUWVGT3JYZ3FyWlhhQnJyZVFGWHAtSzVlVWF0UWVKeUY3REszLU9LVGc5Z0Fz0gGUAUFVX3lxTE55OVh4Tk5oaVN6a3JfN0tXYTZHSUxDcXNVUjdMLXBPbmdSOVpDbEsyT3lPdWVoYTg5V1p6V091U1YwUFkzUENSdi1rQ01GTlFlLTk4YUdNWEdNRHNPcWRUcGt2LUwtT1RRZUZPclhncXJaWGFCcnJlUUZYcC1LNWVVYXRRZUp5RjdESzMtT0tUZzlnQXM?oc=5",
-      "published": "Wed, 30 Sep 2026 23:46:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOeTlYeE5OaGlTemtyXzdLV2E2R0lMQ3FzVVI3TC1wT25nUjlaQ2xLMk95T3VlaGE4OVdaeldPdVNWMFBZM1BDUnYta0NNRk5RZS05OGFHTVhHTURzT3FkVHBrdi1MLU9UUWVGT3JYZ3FyWlhhQnJyZVFGWHAtSzVlVWF0UWVKeUY3REszLU9LVGc5Z0Fz0gGUAUFVX3lxTE55OVh4Tk5oaVN6a3JfN0tXYTZHSUxDcXNVUjdMLXBPbmdSOVpDbEsyT3lPdWVoYTg5V1p6V091U1YwUFkzUENSdi1rQ01GTlFlLTk4YUdNWEdNRHNPcWRUcGt2LUwtT1RRZUZPclhncXJaWGFCcnJlUUZYcC1LNWVVYXRRZUp5RjdESzMtT0tUZzlnQXM?oc=5\" target=\"_blank\">韓国投資証券がサムスンSDIを買い目標株価60万",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 125778,
-      "title": "韓国電池がBESS保証20年で北米欧攻勢 - CHOSUNBIZ - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRU9fR0I2eVRSUEdabWtSWGx4UUpBN0Y1Y1dpWDVRSnJxOHNvbzlfUS1sMkF5bGtzRFN1YTlKY1Vjb3J1VU9JSERvS1M5eTI5SEo3UHZ6V3dEVk9idkh3eHJQZG9OS0RlSnZ1X3pKb1pFYUdrRkRxNUZEVTVoS1poTVNB0gGWAUFVX3lxTE9JM21pUjA3Mm00bTAwWFR6LV9SSTlXY0U0S2Qxa3FwZnB3cllVUkJpQjJRRFZuZkhrWWRoWXhuUkN5OVloVERKYTQ5RzhYTFVpT3MtZ2ptSVByXzFrOHUxQktGeTd6dkl1dUViSS1kd0s4cjlHQ2tWWkMzbUVCSGlvUE5QLXg5cm1paXVVaW96UjQtWlNtQQ?oc=5",
-      "published": "Wed, 30 Sep 2026 21:01:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRU9fR0I2eVRSUEdabWtSWGx4UUpBN0Y1Y1dpWDVRSnJxOHNvbzlfUS1sMkF5bGtzRFN1YTlKY1Vjb3J1VU9JSERvS1M5eTI5SEo3UHZ6V3dEVk9idkh3eHJQZG9OS0RlSnZ1X3pKb1pFYUdrRkRxNUZEVTVoS1poTVNB0gGWAUFVX3lxTE9JM21pUjA3Mm00bTAwWFR6LV9SSTlXY0U0S2Qxa3FwZnB3cllVUkJpQjJRRFZuZkhrWWRoWXhuUkN5OVloVERKYTQ5RzhYTFVpT3MtZ2ptSVByXzFrOHUxQktGeTd6dkl1dUViSS1kd0s4cjlHQ2tWWkMzbUVCSGlvUE5QLXg5cm1paXVVaW96UjQtWlNtQQ?oc=5\" target=\"_blank\">韓国電池がBESS保証20年で北米欧攻勢 - CHOSUNBIZ</a>&nbsp;&nb",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 920550,
-      "title": "韓国バッテリー3社、ESS保証を20年に拡大…中国の追撃に対抗し防御線を構築 - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGakIwN2dkTWhlZFBtRzFUNDV6a0tsZEpQeFJRTF9nRjU2QXlJeXpNMWFKTWlncWVkRG5xY2t4bUd1VGx4TkpYUHVpdXh5d3lzVWV2MElMNWtEX0FzZmxFdzNwMFlEdEhtWDhSaDJpeUlZVlc5?oc=5",
-      "published": "Wed, 30 Sep 2026 22:25:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBGakIwN2dkTWhlZFBtRzFUNDV6a0tsZEpQeFJRTF9nRjU2QXlJeXpNMWFKTWlncWVkRG5xY2t4bUd1VGx4TkpYUHVpdXh5d3lzVWV2MElMNWtEX0FzZmxFdzNwMFlEdEhtWDhSaDJpeUlZVlc5?oc=5\" target=\"_blank\">韓国バッテリー3社、ESS保証を20年に拡大…中国の追撃に対抗し防御線を構築</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 731805,
-      "title": "株式会社HYBRID、JC-STAR ★1適合設備を採用した「RE.U511蓄電所」を起点に系統用蓄電所事業を本格展開 - RBB TODAY",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ONVdxa3NLeVRiNXJlOXdNNE1oV2Uxcl8zS2pTQlJIVFlNekZaV2JaUjNnaGxMd0JvWVROQVJXWjlaY2VHM3dsTlRwSHBocGJ0Tnlpb3NNVVRyaXZaTjRBZUl5UXJzOHpHbTB2Ql9TUG1fM0xzU3V2RA?oc=5",
-      "published": "Wed, 30 Sep 2026 20:10:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ONVdxa3NLeVRiNXJlOXdNNE1oV2Uxcl8zS2pTQlJIVFlNekZaV2JaUjNnaGxMd0JvWVROQVJXWjlaY2VHM3dsTlRwSHBocGJ0Tnlpb3NNVVRyaXZaTjRBZUl5UXJzOHpHbTB2Ql9TUG1fM0xzU3V2RA?oc=5\" target=\"_blank\">株式会社HYBRID、JC-STAR ★1適合設備を採用した「RE.U511蓄電所」を起点に系統用蓄電所事業を本格展開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RBB TODAY</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 521215,
-      "title": "エナジー・ソリューションズの蓄電所EMS、需給調整市場・一次調整力対応 - kankyo-business.jp",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uVUVUVFVSWUVtM3BqOTZZeldlRUpFUlNVZG82MEdFNkEwVTdUNmhYczZUazlXdFE0WWo2Q0RSSHIzeVhIUGR0Wml5WVpvSmxQeTY1MkVaY3l6ZVhiMnZCX1Q3Wm1lSHVIRHg5OS1xX3ZtWVRfQTNtajF1TmQ?oc=5",
-      "published": "Thu, 01 Oct 2026 00:13:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5uVUVUVFVSWUVtM3BqOTZZeldlRUpFUlNVZG82MEdFNkEwVTdUNmhYczZUazlXdFE0WWo2Q0RSSHIzeVhIUGR0Wml5WVpvSmxQeTY1MkVaY3l6ZVhiMnZCX1Q3Wm1lSHVIRHg5OS1xX3ZtWVRfQTNtajF1TmQ?oc=5\" target=\"_blank\">エナジー・ソリューションズの蓄電所EMS、需給調整市場・一次調整力対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kankyo-business.jp</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 958260,
-      "title": "【蓄電関連】クローバー・テクノロジーズ：佐賀市で4.579MWh系統用蓄電所を着工、2027年1月末の運用開始を計画 - みんなの広報宣伝部",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mTjFyeWFTSHVLVERCMm5PZ1BlYWZfZXB0WWNldUo3Tmdsa2kxN3JfWTBCeGVyNE1tZXFZcG1TbzJUZXhUSWNzUFJXRUZSX2FuR2kyX0xUelp6cWlRbTNNSk11OTFka0gtZm03dTF4VEVsQQ?oc=5",
-      "published": "Wed, 30 Sep 2026 23:02:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9mTjFyeWFTSHVLVERCMm5PZ1BlYWZfZXB0WWNldUo3Tmdsa2kxN3JfWTBCeGVyNE1tZXFZcG1TbzJUZXhUSWNzUFJXRUZSX2FuR2kyX0xUelp6cWlRbTNNSk11OTFka0gtZm03dTF4VEVsQQ?oc=5\" target=\"_blank\">【蓄電関連】クローバー・テクノロジーズ：佐賀市で4.579MWh系統用蓄電所を着工、2027年1月末の運用開始を計画</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 567606,
-      "title": "大分県由布市および山形県米沢市における系統用蓄電所事業への参画について - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tazlyRjFXVjVtQW43WXdabUNLdzNHSDB1M1gyVGFXN1FjbVFUY1pha0lfLVJoLWpsWHcySWxDMy10YU1sYWlQLWd3RHlmNEhIQUJwbUpud1hkdHBJaXJGWVpSbXRhSm5vaFlNWVlBYW5XZ3FPRkQ2X3c4MA?oc=5",
-      "published": "Wed, 30 Sep 2026 16:15:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE8tazlyRjFXVjVtQW43WXdabUNLdzNHSDB1M1gyVGFXN1FjbVFUY1pha0lfLVJoLWpsWHcySWxDMy10YU1sYWlQLWd3RHlmNEhIQUJwbUpud1hkdHBJaXJGWVpSbXRhSm5vaFlNWVlBYW5XZ3FPRkQ2X3c4MA?oc=5\" target=\"_blank\">大分県由布市および山形県米沢市における系統用蓄電所事業への参画について</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 135464,
-      "title": "中国電力の機器制御型デマンドレスポンスサービスにおける対象機器を拡大 - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BWm1jSDJzMEIxTGFKb3kyYVFyRmF2T0FEWFJ2dktlVElfTVhDelFPdHV5a2U5NXk2SnhMd3RLXzduME01Nm9JWVVzZWZobzFqVGpvZHZTTGxYMTdEcmJXRWZ3cjlWWXQxT040MEVYd1pmUQ?oc=5",
-      "published": "Thu, 01 Oct 2026 14:10:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5BWm1jSDJzMEIxTGFKb3kyYVFyRmF2T0FEWFJ2dktlVElfTVhDelFPdHV5a2U5NXk2SnhMd3RLXzduME01Nm9JWVVzZWZobzFqVGpvZHZTTGxYMTdEcmJXRWZ3cjlWWXQxT040MEVYd1pmUQ?oc=5\" target=\"_blank\">中国電力の機器制御型デマンドレスポンスサービスにおける対象機器を拡大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 645785,
-      "title": "物流倉庫の屋根で発電し、オフィスへ送る…三井物産系ファンドが採用した「設備賃貸モデル」 - ビジネスジャーナル",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jWEhoWmZZU0dpMXFCb1Rkemc1b0MwbVNfM3lFc3E1SFBRWXNUdV9xVDRtLWIyeDl3c25iMzNyMTZSTEx5OWNWcHdTMDNoT2ZKLUNkNWVkM2RjN3c?oc=5",
-      "published": "Wed, 30 Sep 2026 21:00:15 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jWEhoWmZZU0dpMXFCb1Rkemc1b0MwbVNfM3lFc3E1SFBRWXNUdV9xVDRtLWIyeDl3c25iMzNyMTZSTEx5OWNWcHdTMDNoT2ZKLUNkNWVkM2RjN3c?oc=5\" target=\"_blank\">物流倉庫の屋根で発電し、オフィスへ送る…三井物産系ファンドが採用した「設備賃貸モデル」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ビジネスジャーナル</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 328300,
-      "title": "なぜ「商業施設の駐車場」に太陽光パネルが増えているのか？ 年間1800万kWhを創出！ 買い物客が集まる現場で何が起きているのか――変わり始めた施設の使い方とは - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHZwUGhNRXVOZk4xXy1PWU9Vc1pLUXFpdGhwUDk3Ymt3NkJIX2xKcXBXbFA5SV9jZTdJZVNWUnRXZC1TYWhIWUxOOXJLNGpOOUhxNHN3ckV1TDVBMzFjNVhiSlN5SVpJNm5MTUpxYkpoZVlBdk95TnFrSzQ0NW1FYjVveWI1cVlUei1DSdIBiAFBVV95cUxOeUNyMFc0Y0M1b1ZKT29oN1dGeVRsek1UMjJNYXd1dWg4T0JRMUwwNl9hTGJMajFXRGlIV0JEbnJTeXlsVUhwSkRubnhpYzQxOWRMbjlTblJtVXU5UWJkVDVJYTJscWJmcWh2LVM4cVZtSjI4ME81Z2d1clY3NGxqOFpKODRTVDho?oc=5",
-      "published": "Thu, 01 Oct 2026 02:51:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHZwUGhNRXVOZk4xXy1PWU9Vc1pLUXFpdGhwUDk3Ymt3NkJIX2xKcXBXbFA5SV9jZTdJZVNWUnRXZC1TYWhIWUxOOXJLNGpOOUhxNHN3ckV1TDVBMzFjNVhiSlN5SVpJNm5MTUpxYkpoZVlBdk95TnFrSzQ0NW1FYjVveWI1cVlUei1DSdIBiAFBVV95cUxOeUNyMFc0Y0M1b1ZKT29oN1dGeVRsek1UMjJNYXd1dWg4T0JRMUwwNl9hTGJMajFXRGlIV0JEbnJTeXlsVUhwSkRubnhpYzQxOWRMbjlTblJtVXU5UWJkVDVJYTJscWJmcWh2LVM4cVZtSjI4ME81Z2d1clY3NGxqOFpKODRTVDho?oc=5\" target=\"_blank\">なぜ「商業施設の駐車場」に太陽光パネルが増えているのか？ 年間1800万kWhを創出！ 買い物客が集ま",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 430405,
-      "title": "青森三沢蓄電所の商用運転を開始 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yVGI3RjBEbHE0Ymg2eHM4Zi1aR04zM2FuZDkzNFFzQXJBSDRWZDM0TEZpbnM2OU1rcFVtOHVEMnpoZWVLXzZhSVBIM2NNa2otX3lya0Y0b3o5WG9IVFFJWDEtdFhNZ2RrNWc?oc=5",
-      "published": "Thu, 01 Oct 2026 06:00:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0yVGI3RjBEbHE0Ymg2eHM4Zi1aR04zM2FuZDkzNFFzQXJBSDRWZDM0TEZpbnM2OU1rcFVtOHVEMnpoZWVLXzZhSVBIM2NNa2otX3lya0Y0b3o5WG9IVFFJWDEtdFhNZ2RrNWc?oc=5\" target=\"_blank\">青森三沢蓄電所の商用運転を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 937217,
-      "title": "コンボAGVカーパーキングロボットの世界市場（2026年～2032年）、市場規模（積載容量 ≤ 1.5 トン、1.5 トン 2.5 トン）・分析レポートを発表 - アットプレス",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42MG5DeVFGNXZUNW9tU0NkQThyRmQxZkU2Y3oyOHp6OTRtdllraDVDNFBSdTZkemtmejhySVRlMmZkUHJ2VXlMdi04YnloZjA?oc=5",
-      "published": "Thu, 01 Oct 2026 09:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE42MG5DeVFGNXZUNW9tU0NkQThyRmQxZkU2Y3oyOHp6OTRtdllraDVDNFBSdTZkemtmejhySVRlMmZkUHJ2VXlMdi04YnloZjA?oc=5\" target=\"_blank\">コンボAGVカーパーキングロボットの世界市場（2026年～2032年）、市場規模（積載容量 ≤ 1.5 トン、1.5 トン 2.5 トン）・分析レポートを発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 371300,
-      "title": "日本のデータセンター物理セキュリティ市場：データセンター容量の拡大と重要インフラ保護がセキュリティ需要を促進 - Excite エキサイト",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrYWgtYmRqbmZvVFNod29wdjVnX2NkTHhOX0RhZWJKOEpYdDV2bF9kVTRSUjVSYVk3Y0NFQjQ5QUZERjJGczJFN04tYTBQbDNGVkdwZVpEUUVzdk1QSXU0djNxU3lxR1R3WlE?oc=5",
-      "published": "Thu, 01 Oct 2026 08:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBrYWgtYmRqbmZvVFNod29wdjVnX2NkTHhOX0RhZWJKOEpYdDV2bF9kVTRSUjVSYVk3Y0NFQjQ5QUZERjJGczJFN04tYTBQbDNGVkdwZVpEUUVzdk1QSXU0djNxU3lxR1R3WlE?oc=5\" target=\"_blank\">日本のデータセンター物理セキュリティ市場：データセンター容量の拡大と重要インフラ保護がセキュリティ需要を促進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Excite エキサイト</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 242411,
-      "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL87号 宮城栗原 系統連携蓄電池シリーズ２. 完売』 - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pWER4VG5xdmNmWlYyZG1UbC1ES001eGhhMWlNRGI3TzdVQ2FRVXNONHdMS2VycXp2S3VoNThGX2t0Um1aX0JSZTdpcmxueUc5Vy1SVjc2NV9oNFFmM2JzdThQM1ZwWEtqS09r?oc=5",
-      "published": "Wed, 30 Sep 2026 23:10:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1pWER4VG5xdmNmWlYyZG1UbC1ES001eGhhMWlNRGI3TzdVQ2FRVXNONHdMS2VycXp2S3VoNThGX2t0Um1aX0JSZTdpcmxueUc5Vy1SVjc2NV9oNFFmM2JzdThQM1ZwWEtqS09r?oc=5\" target=\"_blank\">【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL87号 宮城栗原 系統連携蓄電池シリーズ２. 完売』</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 762228,
-      "title": "日本のデータセンター物理セキュリティ市場：データセンター容量の拡大と重要インフラ保護がセキュリティ需要を促進 - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IaEIwZzVaQVdCanBrQ2JZdXpsclkwakpkSU9DWXZ2OE44TlZzbG1YcktKZmsxWjhGN3Zra05fUHRna2ptT0Qwc2RvNjAzazdtb1NoTTZUcmZGdTBXb3hVaVd3?oc=5",
-      "published": "Thu, 01 Oct 2026 08:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IaEIwZzVaQVdCanBrQ2JZdXpsclkwakpkSU9DWXZ2OE44TlZzbG1YcktKZmsxWjhGN3Zra05fUHRna2ptT0Qwc2RvNjAzazdtb1NoTTZUcmZGdTBXb3hVaVd3?oc=5\" target=\"_blank\">日本のデータセンター物理セキュリティ市場：データセンター容量の拡大と重要インフラ保護がセキュリティ需要を促進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
+      "id": 424620,
+      "title": "リチウムイオン蓄電池の世界市場（2026年～2032年）、市場規模（リン酸鉄リチウム電池、三元系リチウム電池、その他）・分析レポートを発表 - atpress.ne.jp",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvZ1BBZ3hSLUl2Rk5IVXQyck1aaC12RWRxUlhkMU13Uml1U0pIQk9ydE9vZGJLbXZseEcyYW50ejFqM1J3SksxQ2RaZFlIQQ?oc=5",
+      "published": "Fri, 02 Oct 2026 02:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvZ1BBZ3hSLUl2Rk5IVXQyck1aaC12RWRxUlhkMU13Uml1U0pIQk9ydE9vZGJLbXZseEcyYW50ejFqM1J3SksxQ2RaZFlIQQ?oc=5\" target=\"_blank\">リチウムイオン蓄電池の世界市場（2026年～2032年）、市場規模（リン酸鉄リチウム電池、三元系リチウム電池、その他）・分析レポートを発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">atpress.ne.jp</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
@@ -552,11 +48,47 @@
       "source_type": "rss"
     },
     {
-      "id": 427996,
-      "title": "【脱炭素・SDGs・ESG】ファミリー工房：「SDGsマン」で地域広告を強化、太陽光・蓄電池・断熱改修など住宅情報を発信 - みんなの広報宣伝部",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kel9DaFJNckpaY0pWdVBUUEtRQzRDVy0wQlBPaUFjcGJnR1VDSDlLVDFWTWVkU3I3N1VESzdGQ2VFNUtBNldwSWJISFBLbVlocF9MRWs0VHFUMng2blVOSEpBdkgwQnNGLW9LSW1fT2NaZw?oc=5",
-      "published": "Thu, 01 Oct 2026 22:13:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5kel9DaFJNckpaY0pWdVBUUEtRQzRDVy0wQlBPaUFjcGJnR1VDSDlLVDFWTWVkU3I3N1VESzdGQ2VFNUtBNldwSWJISFBLbVlocF9MRWs0VHFUMng2blVOSEpBdkgwQnNGLW9LSW1fT2NaZw?oc=5\" target=\"_blank\">【脱炭素・SDGs・ESG】ファミリー工房：「SDGsマン」で地域広告を強化、太陽光・蓄電池・断熱改修など住宅情報を発信</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
+      "id": 725152,
+      "title": "ドイツ当局、ＥＶ蓄電池利用の規制を緩和へ - Economic Media Bulletin Limited (EMB)",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yYnpTRWU5MWFLN2JUS01vaFBzUDAtbldLdVZBbEhaYl9EQUtlWkdUOG9DZnI5VERaNWpWZVpIQXFxa2NxY3RKWldlRXhySndiZW5hMHFXY0lBTkZpNGc?oc=5",
+      "published": "Fri, 02 Oct 2026 04:14:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yYnpTRWU5MWFLN2JUS01vaFBzUDAtbldLdVZBbEhaYl9EQUtlWkdUOG9DZnI5VERaNWpWZVpIQXFxa2NxY3RKWldlRXhySndiZW5hMHFXY0lBTkZpNGc?oc=5\" target=\"_blank\">ドイツ当局、ＥＶ蓄電池利用の規制を緩和へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economic Media Bulletin Limited (EMB)</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 681160,
+      "title": "【太陽光発電】サステナブルホールディングス：低圧太陽光案件を3～9月に相次ぎ引き渡し、開発・施工ノウハウを系統用蓄電池へ展開 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53TmZnR013SVE4TFlpVDFmY1hJUlZHUHhHZXMtLXk0allPc2N6NGprOFplcGl0ZDl0VVh5aThuenhWM29mZHh6MXdZc1VYamd3UHQ4Y05EZC1weExGZDhsWUNBdUZaOFFuRFhJVldqaG56UQ?oc=5",
+      "published": "Thu, 01 Oct 2026 22:08:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE53TmZnR013SVE4TFlpVDFmY1hJUlZHUHhHZXMtLXk0allPc2N6NGprOFplcGl0ZDl0VVh5aThuenhWM29mZHh6MXdZc1VYamd3UHQ4Y05EZC1weExGZDhsWUNBdUZaOFFuRFhJVldqaG56UQ?oc=5\" target=\"_blank\">【太陽光発電】サステナブルホールディングス：低圧太陽光案件を3～9月に相次ぎ引き渡し、開発・施工ノウハウを系統用蓄電池へ展開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">xn--q9ji3c6d676qnnlo0fgmgrr6k.com</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 920783,
+      "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル - sannichi.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UNWptOTVFOXZVeUpjcTEzbmEwZTh1eFFQYmdKYXJKNVdXd0NGSXVOQTBxR1JCbTNndEprRWh2NjBYTXppazA4alVUMFhlSXRuS1JOZkpUOUg1a1ZkRWxsN1c0VV8?oc=5",
+      "published": "Fri, 02 Oct 2026 04:17:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UNWptOTVFOXZVeUpjcTEzbmEwZTh1eFFQYmdKYXJKNVdXd0NGSXVOQTBxR1JCbTNndEprRWh2NjBYTXppazA4alVUMFhlSXRuS1JOZkpUOUg1a1ZkRWxsN1c0VV8?oc=5\" target=\"_blank\">プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sannichi.co.jp</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 709106,
+      "title": "【日本蓄電池株式会社】和歌山県海南市にて系統用蓄電施設 「NC海南市木津蓄電所」蓄電池設置開始 - Excite エキサイト",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBheEZTTFVaWm1qOU5aMXloRXJDTnpNeUFLS3pWdU1UUTlZeTlabTNQYkFXWmdqVFN5anRhVV84cTdVZ01wOXNMMVJhMWUxQlNFdEFLZ19Kc0FtMkxYNVJNeFdyNktFOEFQUFZfNVc1UU1kaldNRXc?oc=5",
+      "published": "Fri, 02 Oct 2026 03:45:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBheEZTTFVaWm1qOU5aMXloRXJDTnpNeUFLS3pWdU1UUTlZeTlabTNQYkFXWmdqVFN5anRhVV84cTdVZ01wOXNMMVJhMWUxQlNFdEFLZ19Kc0FtMkxYNVJNeFdyNktFOEFQUFZfNVc1UU1kaldNRXc?oc=5\" target=\"_blank\">【日本蓄電池株式会社】和歌山県海南市にて系統用蓄電施設 「NC海南市木津蓄電所」蓄電池設置開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Excite エキサイト</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 388776,
+      "title": "太陽光＋蓄電池のアワリーマッチング率検証、NTTアノードら24／7CFEへ - kankyo-business.jp",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CZURJVmwwQnRQMEtCbVh3TjhKYlNsMUhnWmwzal94ZkYwSzNMUDlHX3NtOVRwell0YkZKOHZkX08zQXNaQkllbDRvREZFVG1ydXZYR3BJX0tsSFUtUkI2VU5MUmNyMzV3OVh5QXA3azlURGYxelRRa3UwZ04?oc=5",
+      "published": "Thu, 01 Oct 2026 16:13:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5CZURJVmwwQnRQMEtCbVh3TjhKYlNsMUhnWmwzal94ZkYwSzNMUDlHX3NtOVRwell0YkZKOHZkX08zQXNaQkllbDRvREZFVG1ydXZYR3BJX0tsSFUtUkI2VU5MUmNyMzV3OVh5QXA3azlURGYxelRRa3UwZ04?oc=5\" target=\"_blank\">太陽光＋蓄電池のアワリーマッチング率検証、NTTアノードら24／7CFEへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kankyo-business.jp</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
@@ -570,6 +102,51 @@
       "source_type": "rss"
     },
     {
+      "id": 25287,
+      "title": "【日本蓄電池株式会社】山口県周南市にて系統用蓄電施設「NC周南市湯野蓄電所」需給調整市場への参入 - news.nicovideo.jp",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pTlNrd18xQUVJQU5GaERUV3UybDRvUTBXV2o2M3BGQ2hoWGFjcXN5b3ZaVlI4cXVlWGZZNW5GSnp5S2VRaXBxUlA2clQxUmdNRjQ5Wk1EVTVmWTNUTHB4ZHFEZWFDM3VOcVpmSzZ4UUtqWmJIQUZOWTlSQQ?oc=5",
+      "published": "Thu, 01 Oct 2026 23:15:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1pTlNrd18xQUVJQU5GaERUV3UybDRvUTBXV2o2M3BGQ2hoWGFjcXN5b3ZaVlI4cXVlWGZZNW5GSnp5S2VRaXBxUlA2clQxUmdNRjQ5Wk1EVTVmWTNUTHB4ZHFEZWFDM3VOcVpmSzZ4UUtqWmJIQUZOWTlSQQ?oc=5\" target=\"_blank\">【日本蓄電池株式会社】山口県周南市にて系統用蓄電施設「NC周南市湯野蓄電所」需給調整市場への参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.nicovideo.jp</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 503132,
+      "title": "【宮若蓄電所で竣工後の運用準備を継続】9月に設備点検・保守対応を実施、試験完了後の実務工程を推進 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXVVQ4cENoT3lNQlY1bzV0VnM5Sm5PZUJMM0IwYW9tOUNaR3BORFlrNnNiVy15MWRoaUYxQzJUdl9xcGpPcnJPZUt3VlIxOGJiS2h1UEx6dmNUQWRPTGZIZEoxQ202SGdZS3c?oc=5",
+      "published": "Fri, 02 Oct 2026 01:10:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBXVVQ4cENoT3lNQlY1bzV0VnM5Sm5PZUJMM0IwYW9tOUNaR3BORFlrNnNiVy15MWRoaUYxQzJUdl9xcGpPcnJPZUt3VlIxOGJiS2h1UEx6dmNUQWRPTGZIZEoxQ202SGdZS3c?oc=5\" target=\"_blank\">【宮若蓄電所で竣工後の運用準備を継続】9月に設備点検・保守対応を実施、試験完了後の実務工程を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 81809,
+      "title": "【日本蓄電池株式会社】岡山県真庭市にて系統用蓄電施設「NC真庭市田羽根蓄電所」受電開始 - news.nicovideo.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4eWtzRUR2VmE0NlZrRUFaNXhfaXlqVTBLS0Y4cTJJWFoxdm0zWDN2SXhkUDdEVEZZTEdERjRKVE50QmZIZzBvOXNaOVNWdkk0RzJtaGdXS3V2VmhheGJ3LWxSSjE4UW5G?oc=5",
+      "published": "Thu, 01 Oct 2026 23:45:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4eWtzRUR2VmE0NlZrRUFaNXhfaXlqVTBLS0Y4cTJJWFoxdm0zWDN2SXhkUDdEVEZZTEdERjRKVE50QmZIZzBvOXNaOVNWdkk0RzJtaGdXS3V2VmhheGJ3LWxSSjE4UW5G?oc=5\" target=\"_blank\">【日本蓄電池株式会社】岡山県真庭市にて系統用蓄電施設「NC真庭市田羽根蓄電所」受電開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.nicovideo.jp</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 427996,
+      "title": "【脱炭素・SDGs・ESG】ファミリー工房：「SDGsマン」で地域広告を強化、太陽光・蓄電池・断熱改修など住宅情報を発信 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kel9DaFJNckpaY0pWdVBUUEtRQzRDVy0wQlBPaUFjcGJnR1VDSDlLVDFWTWVkU3I3N1VESzdGQ2VFNUtBNldwSWJISFBLbVlocF9MRWs0VHFUMng2blVOSEpBdkgwQnNGLW9LSW1fT2NaZw?oc=5",
+      "published": "Thu, 01 Oct 2026 22:13:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5kel9DaFJNckpaY0pWdVBUUEtRQzRDVy0wQlBPaUFjcGJnR1VDSDlLVDFWTWVkU3I3N1VESzdGQ2VFNUtBNldwSWJISFBLbVlocF9MRWs0VHFUMng2blVOSEpBdkgwQnNGLW9LSW1fT2NaZw?oc=5\" target=\"_blank\">【脱炭素・SDGs・ESG】ファミリー工房：「SDGsマン」で地域広告を強化、太陽光・蓄電池・断熱改修など住宅情報を発信</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">xn--q9ji3c6d676qnnlo0fgmgrr6k.com</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 516379,
+      "title": "Tensor Energy、福岡・飯塚第一メガソーラー発電所の併設蓄電池において「Tensor Cloud」によるAI自動制御運用を開始 - news.nicovideo.jp",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JdXBLd1dLdXVtVXlYS0N1NkNVU21BQ1JQcGdGZW1YYzZMZVZLQVFYNVVZMHJxTmYyU2lrazl2Q1VubGthSXhDN1JuVWFKT1VfZkhUcEdhdGRoanRpNEJtY2g5QlNfZDNZWkZ1M2RQSk5COXo0cGQ4bDRGcw?oc=5",
+      "published": "Thu, 01 Oct 2026 21:15:34 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9JdXBLd1dLdXVtVXlYS0N1NkNVU21BQ1JQcGdGZW1YYzZMZVZLQVFYNVVZMHJxTmYyU2lrazl2Q1VubGthSXhDN1JuVWFKT1VfZkhUcEdhdGRoanRpNEJtY2g5QlNfZDNZWkZ1M2RQSk5COXo0cGQ4bDRGcw?oc=5\" target=\"_blank\">Tensor Energy、福岡・飯塚第一メガソーラー発電所の併設蓄電池において「Tensor Cloud」によるAI自動制御運用を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.nicovideo.jp</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
       "id": 618177,
       "title": "【緊急・限定 10社】系統用蓄電池「J-BESS」販売代理店の募集を開始 - news.nicovideo.jp",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DVFNsUmMyaTdjaDV6a294SnlFU3V0U0NyQ1BCMDlKWGlMNXpYMVVoQmw3eG54Z2VGWHB6N3NCSFVVc1RMQUxYYnVaY3E2Wi1ldk9FNktobmlZV2ZnQ3V4d1M5X3dJaERJWEQ0OXVyYmVTM0U0dG55bWcyNA?oc=5",
@@ -579,29 +156,29 @@
       "source_type": "rss"
     },
     {
-      "id": 3473,
-      "title": "ベトナムにおける送電網の近代化と蓄電池エネルギー貯蔵システム（BESS）の開発を促進する。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2Y5aEMtQm1lYW5sbnp1NDB5ZzNzd1ZMZFQwcmFtaldPRy1ZMm9OZ3pnUDhsd1ZvMUFZUGdQWjhCMUVjY2dNQ2xfdkttUXE5LUtxd2ZHWEhjVHpyS2ZXb1dWcmx3UE5QaXVtcGdNY2k0ZDJyNWZoUTJ2RW5MUWNIdUphN21jdXVWb2ZJVWFmTTBXa0k?oc=5",
-      "published": "Thu, 01 Oct 2026 13:34:13 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2Y5aEMtQm1lYW5sbnp1NDB5ZzNzd1ZMZFQwcmFtaldPRy1ZMm9OZ3pnUDhsd1ZvMUFZUGdQWjhCMUVjY2dNQ2xfdkttUXE5LUtxd2ZHWEhjVHpyS2ZXb1dWcmx3UE5QaXVtcGdNY2k0ZDJyNWZoUTJ2RW5MUWNIdUphN21jdXVWb2ZJVWFmTTBXa0k?oc=5\" target=\"_blank\">ベトナムにおける送電網の近代化と蓄電池エネルギー貯蔵システム（BESS）の開発を促進する。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "id": 214600,
+      "title": "HEMS中核機器「AiSEG3」を2027年1月25日バージョンアップ。GX ZEHに対応し、さらなる自家消費拡大に向けて機能向上 - news.nicovideo.jp",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96OU1VYjVMbTNBS3JVRTlocE01cy1OT0NMT0Z2MnlQdGVRUDl2WEIxVFdDYkc1S2EtTzdHbEJEODk2ZGNHMFRFQk1SdmZPRDA3T2FOV0liTk44YmZEUFJfbjFOVnVFNk5ZbEdaSFhYUV9nd3c5ZUoyUlByRQ?oc=5",
+      "published": "Thu, 01 Oct 2026 23:21:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE96OU1VYjVMbTNBS3JVRTlocE01cy1OT0NMT0Z2MnlQdGVRUDl2WEIxVFdDYkc1S2EtTzdHbEJEODk2ZGNHMFRFQk1SdmZPRDA3T2FOV0liTk44YmZEUFJfbjFOVnVFNk5ZbEdaSFhYUV9nd3c5ZUoyUlByRQ?oc=5\" target=\"_blank\">HEMS中核機器「AiSEG3」を2027年1月25日バージョンアップ。GX ZEHに対応し、さらなる自家消費拡大に向けて機能向上</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.nicovideo.jp</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 240161,
-      "title": "系統用蓄電池の取扱量200MW(100拠点超)を突破 - news.nicovideo.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OWkpBYkRnaTdudEFDSmQzLS1lcUFuc1BRakxaWHpyLUtISlBuWFBjNDVQUlJBTXVHQXItc1VsMWUxR1ZNamtDNzJucXN5eGF3b0V3NA?oc=5",
-      "published": "Thu, 01 Oct 2026 05:15:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OWkpBYkRnaTdudEFDSmQzLS1lcUFuc1BRakxaWHpyLUtISlBuWFBjNDVQUlJBTXVHQXItc1VsMWUxR1ZNamtDNzJucXN5eGF3b0V3NA?oc=5\" target=\"_blank\">系統用蓄電池の取扱量200MW(100拠点超)を突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.nicovideo.jp</font>",
+      "id": 509142,
+      "title": "大和ハウス工業の系統蓄電所に蓄電システムを納入 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42UFUxcWZla3YwdlVfck5jaF9CYjlMczZRem9aRkU4U09oY1JoYnJQYXVJdTZ0QXBWMWV5WXhCTFVCbnIxdFlxVjFqcDRTS2tQYnBrcUg2VW94UG1CYVJGMHc5NFAyTDZJNkt6NXdVOUNsUQ?oc=5",
+      "published": "Fri, 02 Oct 2026 02:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE42UFUxcWZla3YwdlVfck5jaF9CYjlMczZRem9aRkU4U09oY1JoYnJQYXVJdTZ0QXBWMWV5WXhCTFVCbnIxdFlxVjFqcDRTS2tQYnBrcUg2VW94UG1CYVJGMHc5NFAyTDZJNkt6NXdVOUNsUQ?oc=5\" target=\"_blank\">大和ハウス工業の系統蓄電所に蓄電システムを納入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 4216,
-      "title": "【速報】危機管理産業展2026 RISCON TOKYO 現地レポート｜核シェルター・クマ対策・大型蓄電池が集結 - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1VVXBOaDhMYm9icDA5Q2JoRUNXNGgwcE5kTmpNbkFZd1N4N2UzWW5KMklFREo2enRNZWZjdGhqbHJldw?oc=5",
-      "published": "Thu, 01 Oct 2026 20:51:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1VVXBOaDhMYm9icDA5Q2JoRUNXNGgwcE5kTmpNbkFZd1N4N2UzWW5KMklFREo2enRNZWZjdGhqbHJldw?oc=5\" target=\"_blank\">【速報】危機管理産業展2026 RISCON TOKYO 現地レポート｜核シェルター・クマ対策・大型蓄電池が集結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YouTube</font>",
+      "id": 328892,
+      "title": "パワーエックスが大和ハウスの系統蓄電所に蓄電システムを納入 - ニュースメディアVOIX",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uYjdCUUdWWU1jUm83RjR3aXZYS3YyVDBpUXJMQ1REWWhPX0VHLUt6dHJ3dFB0VTRvYzN4UHFHZzZLTnhLYU9JbS00anNlbVRHeU9N?oc=5",
+      "published": "Fri, 02 Oct 2026 02:03:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uYjdCUUdWWU1jUm83RjR3aXZYS3YyVDBpUXJMQ1REWWhPX0VHLUt6dHJ3dFB0VTRvYzN4UHFHZzZLTnhLYU9JbS00anNlbVRHeU9N?oc=5\" target=\"_blank\">パワーエックスが大和ハウスの系統蓄電所に蓄電システムを納入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
@@ -615,65 +192,245 @@
       "source_type": "rss"
     },
     {
-      "id": 127580,
-      "title": "福岡・飯塚第一メガソーラー発電所における併設蓄電池の運転開始 - news.infoseek.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMc3g5MW5wekZEOWpRUkpTd09LUFNKeVVPQnZkQkNZdzFoTW5HX0tnRkpBMXg3MjEwVlpEdUUyOWN1ZmlSaW14U1lzY2ZNOGhhT3A0Z1cwLXI5Qk91cExldHVnWHNKdDJ2T2xobV96alZ5Zw?oc=5",
-      "published": "Thu, 01 Oct 2026 01:10:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBMc3g5MW5wekZEOWpRUkpTd09LUFNKeVVPQnZkQkNZdzFoTW5HX0tnRkpBMXg3MjEwVlpEdUUyOWN1ZmlSaW14U1lzY2ZNOGhhT3A0Z1cwLXI5Qk91cExldHVnWHNKdDJ2T2xobV96alZ5Zw?oc=5\" target=\"_blank\">福岡・飯塚第一メガソーラー発電所における併設蓄電池の運転開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.infoseek.co.jp</font>",
+      "id": 344812,
+      "title": "野外フェスや大型イベントの熱中症対策と脱プラを両立。「AirElixir」を活用した「グリーン給水スポット」の展開方針を発表 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95cWMzV3Q2SU04ZTI5Y2NxYWV6aWtKUTFhTGI3WVNHbWhGSlVtdGRLOEZSd3NhOGpfY1RBMVZuMHM4Y1VSYm5BVnF2UUtTTDloYm9lOXN1bWd1YmFVeF9kX2lWWUcteTNvaVE?oc=5",
+      "published": "Fri, 02 Oct 2026 05:22:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE95cWMzV3Q2SU04ZTI5Y2NxYWV6aWtKUTFhTGI3WVNHbWhGSlVtdGRLOEZSd3NhOGpfY1RBMVZuMHM4Y1VSYm5BVnF2UUtTTDloYm9lOXN1bWd1YmFVeF9kX2lWWUcteTNvaVE?oc=5\" target=\"_blank\">野外フェスや大型イベントの熱中症対策と脱プラを両立。「AirElixir」を活用した「グリーン給水スポット」の展開方針を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 230073,
+      "title": "Tensor Energyとポートは高圧系統用蓄電所のアグリゲーション契約を締結 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wXzdsd1dzdUEwaEZuZ1pHYUZFWnA5bXVvLXppTlN2MUNPVmpHZnJhb2Utc2J3cDl2XzBXLXJPWUhDNXYyWWFpdllxdndIU2dHQ2hiSHJyZGVXekgtbThtWjRnWTFONVNoWFE?oc=5",
+      "published": "Fri, 02 Oct 2026 01:00:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9wXzdsd1dzdUEwaEZuZ1pHYUZFWnA5bXVvLXppTlN2MUNPVmpHZnJhb2Utc2J3cDl2XzBXLXJPWUhDNXYyWWFpdllxdndIU2dHQ2hiSHJyZGVXekgtbThtWjRnWTFONVNoWFE?oc=5\" target=\"_blank\">Tensor Energyとポートは高圧系統用蓄電所のアグリゲーション契約を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 660203,
+      "title": "ソーラーポストに、テスラの新型「Model Y L」がやってきました！🚗⚡今回は、テスラセンター仙台での納車の様子をご紹介します。3... - gurutto-fukushima.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nTVN5WkZXT05NY1JoemhrcTZNOWFXZTN4eW5wbWl4SW5SZ0N4bl8tXzY0RW1WM0FrS3hoUjJLVUxJMmROaWRtbjZXOGJWTDNUM3dWUzNVTnBwTWsxWC1EMzZaa0sxS1dXU2dwSVJLY3FxUWVkZzlMQVJsczM?oc=5",
+      "published": "Fri, 02 Oct 2026 09:41:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9nTVN5WkZXT05NY1JoemhrcTZNOWFXZTN4eW5wbWl4SW5SZ0N4bl8tXzY0RW1WM0FrS3hoUjJLVUxJMmROaWRtbjZXOGJWTDNUM3dWUzNVTnBwTWsxWC1EMzZaa0sxS1dXU2dwSVJLY3FxUWVkZzlMQVJsczM?oc=5\" target=\"_blank\">ソーラーポストに、テスラの新型「Model Y L」がやってきました！🚗⚡今回は、テスラセンター仙台での納車の様子をご紹介します。3...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gurutto-fukushima.com</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 730719,
+      "title": "エネルギー危機：あるヨーロッパの国が大きな勝利を収め、世界的な競争をリードし、何でも可能であることを証明した。 - vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb2gwMmFUSEhIblhxdTlRRUFZUHE3dEVPb0RBUmg4c1Z5NlJFN0VjUFlxdnRLaGZNNHhCaVJiQVBsNUpPTkI2anBfcHh2RW5FaGhUT2xER0hmRmRxZ3A3akJUQXh6UVNHS1BWWkxtd1Uyc1FSWnhHUUFMV3AwQWxwNC1HMm9OdTFtcmtVUk9EOVp5SGZNekVVSlctVXhpTE5GcFd2YS1vanVab05ndy1FNW84b08wSzZIUzJvWjZCcmQ2NklCNFZBZzlMd3BJTWNBR3lNM05B?oc=5",
+      "published": "Fri, 02 Oct 2026 11:16:06 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb2gwMmFUSEhIblhxdTlRRUFZUHE3dEVPb0RBUmg4c1Z5NlJFN0VjUFlxdnRLaGZNNHhCaVJiQVBsNUpPTkI2anBfcHh2RW5FaGhUT2xER0hmRmRxZ3A3akJUQXh6UVNHS1BWWkxtd1Uyc1FSWnhHUUFMV3AwQWxwNC1HMm9OdTFtcmtVUk9EOVp5SGZNekVVSlctVXhpTE5GcFd2YS1vanVab05ndy1FNW84b08wSzZIUzJvWjZCcmQ2NklCNFZBZzlMd3BJTWNBR3lNM05B?oc=5\" target=\"_blank\">エネルギー危機：あるヨーロッパの国が大きな勝利を収め、世界的な競争をリードし、何でも可能であることを証明した。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vietnam.vn</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 164238,
+      "title": "災害時の電源確保へ 坂下町と会津こもれび発電所が協定 ポータブル蓄電池借り受け - 47NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfRVN5ZlJUNEJyUWRyeG9YZnRuLVZjdF9fZ0NqSTY1cmdwYmEwUkVmVmxDdmF1Z3VfMkNtMFNBbVdmRnFidjYwYVlHYw?oc=5",
+      "published": "Thu, 01 Oct 2026 20:13:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfRVN5ZlJUNEJyUWRyeG9YZnRuLVZjdF9fZ0NqSTY1cmdwYmEwUkVmVmxDdmF1Z3VfMkNtMFNBbVdmRnFidjYwYVlHYw?oc=5\" target=\"_blank\">災害時の電源確保へ 坂下町と会津こもれび発電所が協定 ポータブル蓄電池借り受け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 182349,
+      "title": "操電、2026年5月期の売上高57.3億円 前年比約2倍を達成。2030年2GWhの分散型蓄電所構築へ - news.nicovideo.jp",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ldlNKd3N4Z2hrVzlLNTZyWVdfaEwwSjJsZi1TX2s1eFBuRlBjcEhXM3B6RURjQTl3azFtWFJHemoxWU81YjlfQTNqNEl5dDFTX1NpVlRXNXNCSHVSYnAxT1pUVHpvRS1oMGl4Yy1aRG9lOFBkWEdCcXVFUQ?oc=5",
+      "published": "Fri, 02 Oct 2026 14:21:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1ldlNKd3N4Z2hrVzlLNTZyWVdfaEwwSjJsZi1TX2s1eFBuRlBjcEhXM3B6RURjQTl3azFtWFJHemoxWU81YjlfQTNqNEl5dDFTX1NpVlRXNXNCSHVSYnAxT1pUVHpvRS1oMGl4Yy1aRG9lOFBkWEdCcXVFUQ?oc=5\" target=\"_blank\">操電、2026年5月期の売上高57.3億円 前年比約2倍を達成。2030年2GWhの分散型蓄電所構築へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.nicovideo.jp</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 389823,
+      "title": "次世代電池「ニッケル亜鉛電池」をJapan Mobility Show Bizweek 2026に出展 - RBB TODAY",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zTTZtb2VIMl9TUkZkUC15UUdtSmRnMS1UbGt2UUktaURnLW1fNE9hNEMtcnk5YjBfZ3B2dTVvY2Joem9XSVhqbmVqLXFPSlZiSGFraEVVWDN6R2lzTFJjZjZsM0tXb01UMDI2X3JFV08tdVBvLUlMMQ?oc=5",
+      "published": "Fri, 02 Oct 2026 02:16:21 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9zTTZtb2VIMl9TUkZkUC15UUdtSmRnMS1UbGt2UUktaURnLW1fNE9hNEMtcnk5YjBfZ3B2dTVvY2Joem9XSVhqbmVqLXFPSlZiSGFraEVVWDN6R2lzTFJjZjZsM0tXb01UMDI2X3JFV08tdVBvLUlMMQ?oc=5\" target=\"_blank\">次世代電池「ニッケル亜鉛電池」をJapan Mobility Show Bizweek 2026に出展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RBB TODAY</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 516738,
+      "title": "Tensor Energyとポート、系統用蓄電所のアグリゲーション契約で新たな協業開始 - ニュースメディアVOIX",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kdVotZmJRR1ZQaElVX2labUJwamJZUkJERUM0SlFzc3VOZThydXVGMTlWNGZYcXFibGZnVW1oWl9RRUYzSFJGTndQWXRfcDhycGJmMk5VWHMtUU1SYzdYUEZlSENKczFNY203TQ?oc=5",
+      "published": "Fri, 02 Oct 2026 01:45:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5kdVotZmJRR1ZQaElVX2labUJwamJZUkJERUM0SlFzc3VOZThydXVGMTlWNGZYcXFibGZnVW1oWl9RRUYzSFJGTndQWXRfcDhycGJmMk5VWHMtUU1SYzdYUEZlSENKczFNY203TQ?oc=5\" target=\"_blank\">Tensor Energyとポート、系統用蓄電所のアグリゲーション契約で新たな協業開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 952233,
+      "title": "Transelectricaは蓄電容量が1,162MWに増加したと発表したが、専門家は消費者に転嫁されるコストについて警告している - Informat.ro",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUTRGbHdBZUw5dm9qaEFDUmJHdmdSeFM3SlMwQmYtclE4dGIyVG9pOURfZk9jY3JaZ1JlblRmYnFjQ01hNnVpb3VyaEJRS3l2RzdLNWxPeFlkeDN1T0dycHJ6SUdsVXB5a3puODM2Z0ktSlJDdnh5TWZfLVRLY05zZWw1SE1JdkpKMlN3dlFEbExlZklDaFplNC00T2hqZzU1RGhXVmhWTTFjcTA?oc=5",
+      "published": "Fri, 02 Oct 2026 09:04:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUTRGbHdBZUw5dm9qaEFDUmJHdmdSeFM3SlMwQmYtclE4dGIyVG9pOURfZk9jY3JaZ1JlblRmYnFjQ01hNnVpb3VyaEJRS3l2RzdLNWxPeFlkeDN1T0dycHJ6SUdsVXB5a3puODM2Z0ktSlJDdnh5TWZfLVRLY05zZWw1SE1JdkpKMlN3dlFEbExlZklDaFplNC00T2hqZzU1RGhXVmhWTTFjcTA?oc=5\" target=\"_blank\">Transelectricaは蓄電容量が1,162MWに増加したと発表したが、専門家は消費者に転嫁されるコストについて警告している</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Informat.ro</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 529685,
+      "title": "Tesla Japan (@teslajapan) on X - t.co",
+      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBNRFNxNnMyN2xnMFlscGxQemkyVUpHVHhtaDBZN1E3bmlkUS02UmQ1dXZIV0dzMmdCUUFB?oc=5",
+      "published": "Fri, 02 Oct 2026 08:04:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTFBNRFNxNnMyN2xnMFlscGxQemkyVUpHVHhtaDBZN1E3bmlkUS02UmQ1dXZIV0dzMmdCUUFB?oc=5\" target=\"_blank\">Tesla Japan (@teslajapan) on X</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">t.co</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 745097,
+      "title": "大和ハウス工業の系統蓄電所に蓄電システムを納入 - AGARA 紀伊民報",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Bb1BsVHMyX1MtMF9yZXgtczRESGhkbE5IV2dCeTBTMHVsZlpOT1E1R0N6TGFERUFXcEZHdXJiV1BNU1E4Tms1ajJ2dTkyaHY2d3NsSnRibzdhUmd3OEp4Uw?oc=5",
+      "published": "Fri, 02 Oct 2026 02:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Bb1BsVHMyX1MtMF9yZXgtczRESGhkbE5IV2dCeTBTMHVsZlpOT1E1R0N6TGFERUFXcEZHdXJiV1BNU1E4Tms1ajJ2dTkyaHY2d3NsSnRibzdhUmd3OEp4Uw?oc=5\" target=\"_blank\">大和ハウス工業の系統蓄電所に蓄電システムを納入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AGARA 紀伊民報</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
       "id": 400624,
-      "title": "TAOKE ENERGY、系統用蓄電所4カ所の運転を開始 - sanyonews.jp",
+      "title": "TAOKE ENERGY、系統用蓄電所4カ所の運転を開始 - 山陽新聞",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VeTlxMjRWQlVoRjhHX2xsT2xmdF9VdVFPOUppa3BhUlpOdkJiWVVOTDVrRXpMRGJGT3AxMTIxelFkUzJQOW9QcW9LbkRud1YtUWc?oc=5",
       "published": "Thu, 01 Oct 2026 16:51:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VeTlxMjRWQlVoRjhHX2xsT2xmdF9VdVFPOUppa3BhUlpOdkJiWVVOTDVrRXpMRGJGT3AxMTIxelFkUzJQOW9QcW9LbkRud1YtUWc?oc=5\" target=\"_blank\">TAOKE ENERGY、系統用蓄電所4カ所の運転を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sanyonews.jp</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VeTlxMjRWQlVoRjhHX2xsT2xmdF9VdVFPOUppa3BhUlpOdkJiWVVOTDVrRXpMRGJGT3AxMTIxelFkUzJQOW9QcW9LbkRud1YtUWc?oc=5\" target=\"_blank\">TAOKE ENERGY、系統用蓄電所4カ所の運転を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 884943,
+      "title": "ポート、高圧系統用蓄電所のアグリゲーション業務をTensor Energyに委託 - ニュースメディアVOIX",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qMjB0MHhxSGVqMEQzZVZqbGczUG9GVV9ZRHY2XzU2RGZlUjBSejkwSF8wckdFVlN5ZEJaYUI4dk1fMGFxbDYydS1ROEZWNkFnbm1v?oc=5",
+      "published": "Fri, 02 Oct 2026 01:03:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qMjB0MHhxSGVqMEQzZVZqbGczUG9GVV9ZRHY2XzU2RGZlUjBSejkwSF8wckdFVlN5ZEJaYUI4dk1fMGFxbDYydS1ROEZWNkFnbm1v?oc=5\" target=\"_blank\">ポート、高圧系統用蓄電所のアグリゲーション業務をTensor Energyに委託</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 440922,
+      "title": "Sassorとポート、高圧系統用蓄電所のアグリゲーション運用に関する契約を締結 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GVHZXclltVFBPT0RXTVBkZzZ6ZXYtVlBRTC1jd1pnekF3RTBIZ3ZTaFhKN0RyRHF0UGxZd0twN3RPcGZPa25IWUpjdEk3bTFkaTlJYUpsbWlweVlpX2NiSXl2TkxsNERuR29CYUY3b21ZUQ?oc=5",
+      "published": "Fri, 02 Oct 2026 09:15:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1GVHZXclltVFBPT0RXTVBkZzZ6ZXYtVlBRTC1jd1pnekF3RTBIZ3ZTaFhKN0RyRHF0UGxZd0twN3RPcGZPa25IWUpjdEk3bTFkaTlJYUpsbWlweVlpX2NiSXl2TkxsNERuR29CYUY3b21ZUQ?oc=5\" target=\"_blank\">Sassorとポート、高圧系統用蓄電所のアグリゲーション運用に関する契約を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
       "id": 595838,
-      "title": "【提携・M&A・新会社】スターシーズ：ホーネットと次世代インフラ向け資金枠組みを協議、系統用蓄電所やAIデータセンターを対象 - みんなの広報宣伝部",
+      "title": "【提携・M&A・新会社】スターシーズ：ホーネットと次世代インフラ向け資金枠組みを協議、系統用蓄電所やAIデータセンターを対象 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zWVpFSXNtY20tNGIyRzRtcmJaT3pEZHZCeFZyM0N1VEpiZ01OcDJjZXRIbWFnUXI5LWlMNzVoRHZqS1VvTWVyZmR3N25vWXc1UTFXYUNfeE1nNW1mS1AySEJHT3ZZZG5Hcm5NTjVlellPQQ?oc=5",
       "published": "Thu, 01 Oct 2026 22:03:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9zWVpFSXNtY20tNGIyRzRtcmJaT3pEZHZCeFZyM0N1VEpiZ01OcDJjZXRIbWFnUXI5LWlMNzVoRHZqS1VvTWVyZmR3N25vWXc1UTFXYUNfeE1nNW1mS1AySEJHT3ZZZG5Hcm5NTjVlellPQQ?oc=5\" target=\"_blank\">【提携・M&amp;A・新会社】スターシーズ：ホーネットと次世代インフラ向け資金枠組みを協議、系統用蓄電所やAIデータセンターを対象</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9zWVpFSXNtY20tNGIyRzRtcmJaT3pEZHZCeFZyM0N1VEpiZ01OcDJjZXRIbWFnUXI5LWlMNzVoRHZqS1VvTWVyZmR3N25vWXc1UTFXYUNfeE1nNW1mS1AySEJHT3ZZZG5Hcm5NTjVlellPQQ?oc=5\" target=\"_blank\">【提携・M&amp;A・新会社】スターシーズ：ホーネットと次世代インフラ向け資金枠組みを協議、系統用蓄電所やAIデータセンターを対象</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">xn--q9ji3c6d676qnnlo0fgmgrr6k.com</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 359359,
-      "title": "【日本蓄電池株式会社】山口県周南市にて系統用蓄電施設「NC周南市湯野蓄電所」需給調整市場への参入 - news.infoseek.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Uc0s2Z3RfSDJvTmFGdlM3ZmUtNFUzaVFMVTlZRktvdjA1QWE0ZU5SczVoLVpEYlR0YzBfNFQyclVYUWhubmFLeW51dHdfdkhzSVpHV2wwOEd6NzV6TnVzYXNWZnFHQ1ozYjlVV2t1Q0Y2dw?oc=5",
-      "published": "Thu, 01 Oct 2026 03:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5Uc0s2Z3RfSDJvTmFGdlM3ZmUtNFUzaVFMVTlZRktvdjA1QWE0ZU5SczVoLVpEYlR0YzBfNFQyclVYUWhubmFLeW51dHdfdkhzSVpHV2wwOEd6NzV6TnVzYXNWZnFHQ1ozYjlVV2t1Q0Y2dw?oc=5\" target=\"_blank\">【日本蓄電池株式会社】山口県周南市にて系統用蓄電施設「NC周南市湯野蓄電所」需給調整市場への参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.infoseek.co.jp</font>",
+      "id": 689944,
+      "title": "IBeeT、静岡ガスグループ向けに伊藤忠商事「Bluestorage」高圧蓄電システムを供給 - news.nicovideo.jp",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KT3ljUWc5bEFWbHEwS2hXSTRYZ0dZenFUbWlkUGplVXBVY3RwZXBuNXg2a3Z4eWFhSEdMdV9uUmNCTmp5RFB0aDNERDNZMWQ1Z2VoYmtQRkxYR1cwdnJFdE5BNTJVdTlSSWp1NUNEOFZnOVlNSmRsUG9DQQ?oc=5",
+      "published": "Fri, 02 Oct 2026 07:30:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9KT3ljUWc5bEFWbHEwS2hXSTRYZ0dZenFUbWlkUGplVXBVY3RwZXBuNXg2a3Z4eWFhSEdMdV9uUmNCTmp5RFB0aDNERDNZMWQ1Z2VoYmtQRkxYR1cwdnJFdE5BNTJVdTlSSWp1NUNEOFZnOVlNSmRsUG9DQQ?oc=5\" target=\"_blank\">IBeeT、静岡ガスグループ向けに伊藤忠商事「Bluestorage」高圧蓄電システムを供給</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.nicovideo.jp</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 783188,
-      "title": "なぜ「商業施設の駐車場」に太陽光パネルが増えているのか？ 年間1800万kWhを創出！ 買い物客が集まる現場で何が起きているのか――変わり始めた施設の使い方とは - merkmal-biz.jp",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JcDBfelZkNndvZVNmdThKRGpTMzBuYXF0bnlETjlRU2xJdi1qZTBTQ05Nb3pjX1pvdWF3LWwyZWpuZTBzRnVrRFN3MVM?oc=5",
-      "published": "Thu, 01 Oct 2026 02:58:27 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JcDBfelZkNndvZVNmdThKRGpTMzBuYXF0bnlETjlRU2xJdi1qZTBTQ05Nb3pjX1pvdWF3LWwyZWpuZTBzRnVrRFN3MVM?oc=5\" target=\"_blank\">なぜ「商業施設の駐車場」に太陽光パネルが増えているのか？ 年間1800万kWhを創出！ 買い物客が集まる現場で何が起きているのか――変わり始めた施設の使い方とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">merkmal-biz.jp</font>",
+      "id": 809059,
+      "title": "【vlog】暮らしを楽しむ家づくりとインテリアを考える｜40代夫婦の日常｜北海道BESSの家に行ってきました - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKZGFvcHNZY2lldFpwaXAxX3cxc2h5WGRQRlhQNGlOX2lKeDlrRHBIRmFoZ3RZMC1DR2lFY2N3WEgtdWx6aWQwZmo2dkNmdVpKb19Qc1dQOHc1MjJL?oc=5",
+      "published": "Fri, 02 Oct 2026 09:00:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKZGFvcHNZY2lldFpwaXAxX3cxc2h5WGRQRlhQNGlOX2lKeDlrRHBIRmFoZ3RZMC1DR2lFY2N3WEgtdWx6aWQwZmo2dkNmdVpKb19Qc1dQOHc1MjJL?oc=5\" target=\"_blank\">【vlog】暮らしを楽しむ家づくりとインテリアを考える｜40代夫婦の日常｜北海道BESSの家に行ってきました</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YouTube</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 161740,
-      "title": "福岡・飯塚第一メガソーラー発電所における併設蓄電池の運転開始 - news.nicovideo.jp",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtbmJJblBnbVBKVzRwUG05WFZVeTI0OXVvUWlNeFlSSkR1U1U0ZktHOWk2YXNoNXVLZmczZ1ZnYzZQZ0p0WmlvYlZ5RVN2RUUxRFlWTVZtRFI5bTFLcGdXR1pvVWRJMlot?oc=5",
-      "published": "Thu, 01 Oct 2026 14:30:20 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtbmJJblBnbVBKVzRwUG05WFZVeTI0OXVvUWlNeFlSSkR1U1U0ZktHOWk2YXNoNXVLZmczZ1ZnYzZQZ0p0WmlvYlZ5RVN2RUUxRFlWTVZtRFI5bTFLcGdXR1pvVWRJMlot?oc=5\" target=\"_blank\">福岡・飯塚第一メガソーラー発電所における併設蓄電池の運転開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.nicovideo.jp</font>",
+      "id": 873626,
+      "title": "EVNハノイは、電気の安全性を確保し、火災や爆発を防止するための対策を強化している。 - vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0t6ZXIwUDFiZVpLNG56ZXVQSUdCYkFPUS1xUHFQZC1FTjdKdmtmblZwVzB6eHJSQlI1MWdwOGxHLUJuSlhpcmJxbnNVODc4WTJlNjY3TkJpVFRWNE1maDJWZFA0UThaeGU3U1Y1cHp1eVJlbDVfblVNVUJFMXN0RXJOUVJ5S2NWNlBfUVhndXpoOXFMc01qanEtUUVjdw?oc=5",
+      "published": "Fri, 02 Oct 2026 06:42:05 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQX0t6ZXIwUDFiZVpLNG56ZXVQSUdCYkFPUS1xUHFQZC1FTjdKdmtmblZwVzB6eHJSQlI1MWdwOGxHLUJuSlhpcmJxbnNVODc4WTJlNjY3TkJpVFRWNE1maDJWZFA0UThaeGU3U1Y1cHp1eVJlbDVfblVNVUJFMXN0RXJOUVJ5S2NWNlBfUVhndXpoOXFMc01qanEtUUVjdw?oc=5\" target=\"_blank\">EVNハノイは、電気の安全性を確保し、火災や爆発を防止するための対策を強化している。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vietnam.vn</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 688812,
-      "title": "なぜ、太陽光発電の「FIP転・蓄電池併設」が注目されているのか？ - 日経クロステック（xTECH）",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94RktuYlRyU3FrT2c0M29WR0NCcDRRN0RHZ2dUbXBBU2tnSE9mSFByOGh5d1FPMndPZ0ZucDdmdy05dGlWY3JzV0VBdDVzc04yV1Q3dklCVGxqR1J6YVdhY2daSlNPb1ZfYVBkTg?oc=5",
+      "id": 892527,
+      "title": "Sassorとポートが高圧系統用蓄電所の市場運用契約を締結し、収益最大化を目指す取り組み - ニュースメディアVOIX",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JSENpaW9pVDF6VDJ2QkxMMnBBU24wWVBTOXZzeG9hUFM3LWRrdDRQOUVmUmF3LUh1bzVTTEIyZlJSX01zd0lWb1MtSlFULWFlMFJMZXYxV3JGZFVNR1pXZW5qbWxJbmd2TTJIM1NwdjhvalUwN3pQdw?oc=5",
+      "published": "Fri, 02 Oct 2026 07:33:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5JSENpaW9pVDF6VDJ2QkxMMnBBU24wWVBTOXZzeG9hUFM3LWRrdDRQOUVmUmF3LUh1bzVTTEIyZlJSX01zd0lWb1MtSlFULWFlMFJMZXYxV3JGZFVNR1pXZW5qbWxJbmd2TTJIM1NwdjhvalUwN3pQdw?oc=5\" target=\"_blank\">Sassorとポートが高圧系統用蓄電所の市場運用契約を締結し、収益最大化を目指す取り組み</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 871256,
+      "title": "青森三沢蓄電所の商用運転を開始 - news.nicovideo.jp",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rc1Frclh5U0FGZ0l2Qmc5Q1l0RXlOeUEwZzBHMUFVVC1MRV94WElWdGduTzB4SGhpX3FRb1o3RkRmaXRpbHpNQmpwUkR6TGh2cUVBVkdiWHU0UHJjSzZUeUhPNXVNekF0N0MxSEU3ZWttVVZ4X3RXeGxESQ?oc=5",
+      "published": "Fri, 02 Oct 2026 06:51:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9rc1Frclh5U0FGZ0l2Qmc5Q1l0RXlOeUEwZzBHMUFVVC1MRV94WElWdGduTzB4SGhpX3FRb1o3RkRmaXRpbHpNQmpwUkR6TGh2cUVBVkdiWHU0UHJjSzZUeUhPNXVNekF0N0MxSEU3ZWttVVZ4X3RXeGxESQ?oc=5\" target=\"_blank\">青森三沢蓄電所の商用運転を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.nicovideo.jp</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 188461,
+      "title": "なぜ、太陽光発電の「FIP転・蓄電池併設」が注目されているのか？（4ページ目） - 日経クロステック（xTECH）",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BYV9lM09XWFhSRmlfNDlCYlNwZXNvb3E4UkxncEZlbF93VUZweTVqaVQyQ1h6U091Smtaa19kbXM2TTdZRE1IOHNJbXhHMTZReFJQcFZYQld0OVJhaXkwbk0zZ3oxMGZLREVra2JZS0pHUQ?oc=5",
       "published": "Thu, 01 Oct 2026 20:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE94RktuYlRyU3FrT2c0M29WR0NCcDRRN0RHZ2dUbXBBU2tnSE9mSFByOGh5d1FPMndPZ0ZucDdmdy05dGlWY3JzV0VBdDVzc04yV1Q3dklCVGxqR1J6YVdhY2daSlNPb1ZfYVBkTg?oc=5\" target=\"_blank\">なぜ、太陽光発電の「FIP転・蓄電池併設」が注目されているのか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック（xTECH）</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5BYV9lM09XWFhSRmlfNDlCYlNwZXNvb3E4UkxncEZlbF93VUZweTVqaVQyQ1h6U091Smtaa19kbXM2TTdZRE1IOHNJbXhHMTZReFJQcFZYQld0OVJhaXkwbk0zZ3oxMGZLREVra2JZS0pHUQ?oc=5\" target=\"_blank\">なぜ、太陽光発電の「FIP転・蓄電池併設」が注目されているのか？（4ページ目）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック（xTECH）</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 706208,
+      "title": "オリックス初、系統用蓄電所開発に外部資金 アセットマネジメント領域拡大で - kankyo-business.jp",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pNmtfeHRneVg3Nk94ZDZLeHdRbnFseGZkWVRqaUxSeTZxU2prWEw4TGV3WUxmVnY4d2xHZFl2SGFGVWJNU3psOTIwTnZ1YnNYUDAySktaRFU1TFhLZFhCS1JrSFhmU3N0Z241V3pSbmh5TkFEdUU5WXpWeEo?oc=5",
+      "published": "Fri, 02 Oct 2026 06:01:11 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1pNmtfeHRneVg3Nk94ZDZLeHdRbnFseGZkWVRqaUxSeTZxU2prWEw4TGV3WUxmVnY4d2xHZFl2SGFGVWJNU3psOTIwTnZ1YnNYUDAySktaRFU1TFhLZFhCS1JrSFhmU3N0Z241V3pSbmh5TkFEdUU5WXpWeEo?oc=5\" target=\"_blank\">オリックス初、系統用蓄電所開発に外部資金 アセットマネジメント領域拡大で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kankyo-business.jp</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 749832,
+      "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル - sannichi.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VZDh5eEpkNk5GZzBJWGlPTkp5ZmQ4NnNjZ090VllnTV9IM0JPa1ZoeENpZ0tPeDBFMTNFZW05U0g2eW9MS0R4WFI0YVJ4YVNTRERRYWNLY1FqUzA0dU54VTZB?oc=5",
+      "published": "Fri, 02 Oct 2026 02:49:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VZDh5eEpkNk5GZzBJWGlPTkp5ZmQ4NnNjZ090VllnTV9IM0JPa1ZoeENpZ0tPeDBFMTNFZW05U0g2eW9MS0R4WFI0YVJ4YVNTRERRYWNLY1FqUzA0dU54VTZB?oc=5\" target=\"_blank\">プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sannichi.co.jp</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 325366,
+      "title": "ポートとSassor、高圧系統用蓄電所の運用で契約締結 - ニュースメディアVOIX",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mUjVFWmc4OXdYTDBGQWt6LUdjNHpiRVBDQ3JrQmxLZ1dRYlp2bkduZTZNUGJqQlh5QTd1dDk5eDNuNDVNSTExM29Kai1zYjBKNEk4?oc=5",
+      "published": "Fri, 02 Oct 2026 06:02:21 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mUjVFWmc4OXdYTDBGQWt6LUdjNHpiRVBDQ3JrQmxLZ1dRYlp2bkduZTZNUGJqQlh5QTd1dDk5eDNuNDVNSTExM29Kai1zYjBKNEk4?oc=5\" target=\"_blank\">ポートとSassor、高圧系統用蓄電所の運用で契約締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 736808,
+      "title": "バッグ・オン・バルブ技術市場：推進剤の種類、素材、コンテナ容量、流通チャネル、用途別―2026年～2032年の世界市場予測 - Newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CYU5LUVRPbmVZYVotNjZ1dFkwajJfb2xFWjJLZXhqQ05yUGlMVnpJcXZ2ZWQyN1JXc284YmdXbjRBcjhIWjVQdFFuX1hJZGs?oc=5",
+      "published": "Fri, 02 Oct 2026 08:08:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CYU5LUVRPbmVZYVotNjZ1dFkwajJfb2xFWjJLZXhqQ05yUGlMVnpJcXZ2ZWQyN1JXc284YmdXbjRBcjhIWjVQdFFuX1hJZGs?oc=5\" target=\"_blank\">バッグ・オン・バルブ技術市場：推進剤の種類、素材、コンテナ容量、流通チャネル、用途別―2026年～2032年の世界市場予測</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newscast.jp</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 810278,
+      "title": "三元系パワーバッテリー用電解液の世界市場（2026年～2032年）、市場規模（室温1Cサイクルにおける80%容量サイクル数：2000以下、室温1Cサイクルにおける80%容量サイクル数：2000～2500、室温1Cサイクルにおける80%容量サイクル数：2500以上）・分析レポートを発 - atpress.ne.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VOVVqTHpVbGhDOU5xai1ObS1lTWdTeTFYUkp0YW1zdG56QmhUT21Yazhmazc4c1NuR1BFUHBaRldEMWNmcnBUbllfTEdpS0E?oc=5",
+      "published": "Fri, 02 Oct 2026 09:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VOVVqTHpVbGhDOU5xai1ObS1lTWdTeTFYUkp0YW1zdG56QmhUT21Yazhmazc4c1NuR1BFUHBaRldEMWNmcnBUbllfTEdpS0E?oc=5\" target=\"_blank\">三元系パワーバッテリー用電解液の世界市場（2026年～2032年）、市場規模（室温1Cサイクルにおける80%容量サイクル数：2000以下、室温1Cサイクルにおける80%容量サイクル数：2000～2500、室温1Cサイクルにおける80%容量サイクル数：2500以上）・分析レポートを発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">atpress.ne.jp</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 644481,
+      "title": "青森三沢蓄電所の商用運転を開始 - news.nicovideo.jp",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaTDhuRFJkVlgyd3NhcDk0eUdLT3V1aEdUeGRUUGxhT3lrMkMwQ0xQWGlTYU93d2tmNUM0cmdxaEQ5Rnk3cGx0a2ozcnJyeXJCbkRLbXBXeWJkY1VJTk1VRjlONC1KNmxjUUdsaDM0NDkwSWhFbWVXdlVOdw?oc=5",
+      "published": "Fri, 02 Oct 2026 06:51:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBaTDhuRFJkVlgyd3NhcDk0eUdLT3V1aEdUeGRUUGxhT3lrMkMwQ0xQWGlTYU93d2tmNUM0cmdxaEQ5Rnk3cGx0a2ozcnJyeXJCbkRLbXBXeWJkY1VJTk1VRjlONC1KNmxjUUdsaDM0NDkwSWhFbWVXdlVOdw?oc=5\" target=\"_blank\">青森三沢蓄電所の商用運転を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.nicovideo.jp</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
@@ -687,11 +444,11 @@
       "source_type": "rss"
     },
     {
-      "id": 807727,
-      "title": "【日本蓄電池株式会社】岡山県真庭市にて系統用蓄電施設「NC真庭市田羽根蓄電所」受電開始 - news.infoseek.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoSGFCZDBKZnBQamhqNU5KWEV6UFpjSzBQVFlYX1FDckpYQW5TY2JBdXJYc1NHNHZKeGRxWkpnQW9lYWNlb0RSX2M2cHd1YWFCZzZfZnZxX3c5WEp3YUY2MkRYcW11YTFOcWszOWZpTUx5UQ?oc=5",
-      "published": "Thu, 01 Oct 2026 03:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBoSGFCZDBKZnBQamhqNU5KWEV6UFpjSzBQVFlYX1FDckpYQW5TY2JBdXJYc1NHNHZKeGRxWkpnQW9lYWNlb0RSX2M2cHd1YWFCZzZfZnZxX3c5WEp3YUY2MkRYcW11YTFOcWszOWZpTUx5UQ?oc=5\" target=\"_blank\">【日本蓄電池株式会社】岡山県真庭市にて系統用蓄電施設「NC真庭市田羽根蓄電所」受電開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.infoseek.co.jp</font>",
+      "id": 137736,
+      "title": "「高静電容量MLCCの世界市場」市場規模予測・企業動向レポートを発行、年平均8.6%で成長する見込み - news.nicovideo.jp",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZSDRjeWgxZ2FBLWVUUmpDLVljcjg4NzFNYVhEa0ktRXZIblM1ZkQzR3JzRllpbV9SRjhMblBucGgxSGZNTkdSNU1RZV9uQ0xwOEd5dWRaR1NPSmVHNUNIV1FwR0J2SjBjOWJCM1N6VHZCMzdZWC0tQ0NKdw?oc=5",
+      "published": "Fri, 02 Oct 2026 06:03:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZSDRjeWgxZ2FBLWVUUmpDLVljcjg4NzFNYVhEa0ktRXZIblM1ZkQzR3JzRllpbV9SRjhMblBucGgxSGZNTkdSNU1RZV9uQ0xwOEd5dWRaR1NPSmVHNUNIV1FwR0J2SjBjOWJCM1N6VHZCMzdZWC0tQ0NKdw?oc=5\" target=\"_blank\">「高静電容量MLCCの世界市場」市場規模予測・企業動向レポートを発行、年平均8.6%で成長する見込み</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.nicovideo.jp</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     }
