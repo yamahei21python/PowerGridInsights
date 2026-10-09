@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08 15:59:35",
-  "total_count": 43,
+  "updated_at": "2026-10-09 00:56:15",
+  "total_count": 56,
   "articles": [
     {
       "id": 30147,
@@ -386,6 +386,123 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYLXhPaG1UNUxhbXJUX3JOU0xKTlpVVko3TUdiM1RXQi1ydFE3cDdhZFJSa0thNmdLM3hsR1FsUV85ZzhzXzQ5WV9ZOVZmQVE?oc=5",
       "published": "Thu, 08 Oct 2026 01:30:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYLXhPaG1UNUxhbXJUX3JOU0xKTlpVVko3TUdiM1RXQi1ydFE3cDdhZFJSa0thNmdLM3hsR1FsUV85ZzhzXzQ5WV9ZOVZmQVE?oc=5\" target=\"_blank\">3D NANDフラッシュメモリ市場、2035年に1,706億3,000万米ドルへ拡大｜CAGR 17.12％、大容量ストレージ需要とデータセンター向け高密度メモリ需要が市場成長を加速 | 株式会社レポートオーシャン</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 153445,
+      "title": "気候テック10：EV電池を蓄電池に再利用するモーメント・ エナジー - MITテクノロジーレビュー",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUQtU3MtaHhzNXNILUgzVEZPMXJGMHRpQUt6TmFpWFlwZWhqZGZFVUVYRUp2a2k3aXdjSEVpNk9yUmppNkxPZmVzSWxxTUxyTks4Y3h6bjk3SHB3MXpVMFpBZ0JjV1dmZnlLWFhNM1REZ2JldUFXS0g2TjVxbWFSUFQzZER4aGVMR2ZaMFBzYTM1YzFzR05yYzJ2WVg3UUxBTUlfaXFpX1EtbTFiUHVBQ2FB?oc=5",
+      "published": "Thu, 08 Oct 2026 21:31:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUQtU3MtaHhzNXNILUgzVEZPMXJGMHRpQUt6TmFpWFlwZWhqZGZFVUVYRUp2a2k3aXdjSEVpNk9yUmppNkxPZmVzSWxxTUxyTks4Y3h6bjk3SHB3MXpVMFpBZ0JjV1dmZnlLWFhNM1REZ2JldUFXS0g2TjVxbWFSUFQzZER4aGVMR2ZaMFBzYTM1YzFzR05yYzJ2WVg3UUxBTUlfaXFpX1EtbTFiUHVBQ2FB?oc=5\" target=\"_blank\">気候テック10：EV電池を蓄電池に再利用するモーメント・ エナジー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MITテクノロジーレビュー</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 194434,
+      "title": "暮らしに合わせてシステムを拡張でき、家庭内の電力をかしこく活用するトリプル蓄電システム「KPTP-Bシリーズ」を発売 - OMRON Global",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoR2NNV1ZqUXdhaHNVZXZJbU1UZXdPM28tYzFUaWZtWVY4RkZyNkFvVFA3RUpXY3dNX013NzJ0U0dkc21GRWhVX0ZCQ0lvTnpWeGlVV1lMTTNLWXhFT19iSQ?oc=5",
+      "published": "Thu, 08 Oct 2026 02:36:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoR2NNV1ZqUXdhaHNVZXZJbU1UZXdPM28tYzFUaWZtWVY4RkZyNkFvVFA3RUpXY3dNX013NzJ0U0dkc21GRWhVX0ZCQ0lvTnpWeGlVV1lMTTNLWXhFT19iSQ?oc=5\" target=\"_blank\">暮らしに合わせてシステムを拡張でき、家庭内の電力をかしこく活用するトリプル蓄電システム「KPTP-Bシリーズ」を発売</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OMRON Global</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 592068,
+      "title": "家庭向け蓄電システム発売へ オムロン子会社 太陽光・蓄電池・V2Hに対応 - 京都新聞デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51SmlMQUVyaUtOUGNWbzdtMERIR0piQzNEZEYxOThaVVlHd3FXMXhhc01IcEV2Q1NMRE1OekE5S2Z2TzgzZUhxdEpTa1JQWXQ1Nms3OUNXY2hJVk0?oc=5",
+      "published": "Thu, 08 Oct 2026 21:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE51SmlMQUVyaUtOUGNWbzdtMERIR0piQzNEZEYxOThaVVlHd3FXMXhhc01IcEV2Q1NMRE1OekE5S2Z2TzgzZUhxdEpTa1JQWXQ1Nms3OUNXY2hJVk0?oc=5\" target=\"_blank\">家庭向け蓄電システム発売へ オムロン子会社 太陽光・蓄電池・V2Hに対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 287939,
+      "title": "蓄電池の系統接続、検討料引き上げへ 出力制御見通し・JC-STAR要件も - 環境ビジネスオンライン",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jaGdXVk5pZDUyQnpGLXd6Umx2VDE0UHl6dmRhRXpXS181dGRkM0l3eGI2NFNjY0RpN2kxTm9PNXJCd0NlbUU0Q0hkOGVQTHJ5NHc1VjRNdFltU25lZkk3TnVGemxsT3liWkxxbVJoeVR6XzJrcWswbF9uaVE?oc=5",
+      "published": "Thu, 08 Oct 2026 04:25:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9jaGdXVk5pZDUyQnpGLXd6Umx2VDE0UHl6dmRhRXpXS181dGRkM0l3eGI2NFNjY0RpN2kxTm9PNXJCd0NlbUU0Q0hkOGVQTHJ5NHc1VjRNdFltU25lZkk3TnVGemxsT3liWkxxbVJoeVR6XzJrcWswbF9uaVE?oc=5\" target=\"_blank\">蓄電池の系統接続、検討料引き上げへ 出力制御見通し・JC-STAR要件も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">環境ビジネスオンライン</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 512233,
+      "title": "容量市場のオークションはなぜ「数年前」に行われるのか――先行確保の仕組みを読み解くウェビナーを開催 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TSDMtbGtTak44YWliaVRUX3FUMlB0eW9yQzkzOE9SRmx6Z251bHVjWTVKNExmTUxyc1poRFhKZ3J2dGVVUnNjWlZCY1NXOE9MYk5NUWVUallKMHF1bHFTMVB6eXNCeVQyM3NpUVVwcHlkYW1WWWNQbmxGNA?oc=5",
+      "published": "Thu, 08 Oct 2026 21:30:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1TSDMtbGtTak44YWliaVRUX3FUMlB0eW9yQzkzOE9SRmx6Z251bHVjWTVKNExmTUxyc1poRFhKZ3J2dGVVUnNjWlZCY1NXOE9MYk5NUWVUallKMHF1bHFTMVB6eXNCeVQyM3NpUVVwcHlkYW1WWWNQbmxGNA?oc=5\" target=\"_blank\">容量市場のオークションはなぜ「数年前」に行われるのか――先行確保の仕組みを読み解くウェビナーを開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 649289,
+      "title": "グリーンアライアンス、宮崎県日向市総合体育館（愛称：ひよざえもんアリーナ日向）に太陽光発電システムと蓄電池を寄贈 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4SXlEZDYwaWZHZlRxZlkwVE9iVUxhS1luQ2Fma2E0dWpvWHY3dl9BNWRzU05wckZudG03NmZYa2NiaURUSHM5blZsTXl6cnFkOGJSbzBHdGxxM1BtdHVlMGYtdWJETjBIX3c?oc=5",
+      "published": "Thu, 08 Oct 2026 07:30:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB4SXlEZDYwaWZHZlRxZlkwVE9iVUxhS1luQ2Fma2E0dWpvWHY3dl9BNWRzU05wckZudG03NmZYa2NiaURUSHM5blZsTXl6cnFkOGJSbzBHdGxxM1BtdHVlMGYtdWJETjBIX3c?oc=5\" target=\"_blank\">グリーンアライアンス、宮崎県日向市総合体育館（愛称：ひよざえもんアリーナ日向）に太陽光発電システムと蓄電池を寄贈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 851626,
+      "title": "【BCP対策・防災備蓄に】プライム・スター、第三者機関の安全性試験に合格した小型ポータブル蓄電池「HUG-CUBE」を発売 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvZW9jTVNxMWVjWW43ZUUzckdEbjUzYjJELTJLSGNsOEFPRGpiSmd3Z1VySlNObUZta25oS1BZX09lSnU2eTIzMVFVVkxiUlB2bE1aR1VKX19BTndqcHNGV3VTc2NhTDZZ?oc=5",
+      "published": "Thu, 08 Oct 2026 18:00:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvZW9jTVNxMWVjWW43ZUUzckdEbjUzYjJELTJLSGNsOEFPRGpiSmd3Z1VySlNObUZta25oS1BZX09lSnU2eTIzMVFVVkxiUlB2bE1aR1VKX19BTndqcHNGV3VTc2NhTDZZ?oc=5\" target=\"_blank\">【BCP対策・防災備蓄に】プライム・スター、第三者機関の安全性試験に合格した小型ポータブル蓄電池「HUG-CUBE」を発売</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 86285,
+      "title": "エジソンパワーが蓄電池の価値創造と収益化事業を強化 - South65",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQX0pJa09BQTh2QnRyU3JUU0tEQ0kwenRRcTNMV3hPdTA2dkJoRVJVVXdzUDhBMnNSbS1ENzF4SkEwbmEza09xUGs3UUpHZjlYNXlSR0hha0gyT0kxTnY5WWYwVGlUZGkxREZURTJkTEtGalhBWGV6Z3Q3aVd4OWVoNmVkbmV1T0NVVHl6a2V4cFpzN1A3UzQ0UEI1NzZydDNpU2pMNVBucWhfSGZfOVdDQkVlVy1YV2s4RHUwSnlxOVRFemM4alhBMVBVazBpNFd3dkhDc3VNbGdudl9qd3RZZk9ZTFRJUTdkbjJMS1VlMU9LZE1qMFlaS2RPUWVBR0U1VG0xWFJPTU56eVotSk95cGN2bGpwZ01BZ2JiY3RVNTdSTy1ESElQOHBqZWdUYktjTmJOUDgtN0puTGhpV0w40gHEAkFVX3lxTFBvSGN1c18yQWRJcHEyT2hFZ2lDbTYyN0ZGOXRJd1FjcWU0eHB6NHBJZzV6djFkcGVTM3IzVzZOazdWTDhIcFlYRkFycnJkUExyWUxOamhERWkzZGMwd1VUeVRkUGRLYXFYeTRuMF90QnVFRXFtLUNrcWtUQlFlN2tkYVdjb05tQkJ4bFRhc0YyQnh0RS12QkgtTklsdUVteThka2pDWHJ4YkFGNEptWTdVWmMteV9nRDVsaFhKWVNpQXh1V2RndUVTNmRNYU9GSkJFNHJDSlZvQ0JyOTgtUnJQZGRsN3lFZDdMV1dXX2pUUjZ1M24tT0toWUZzTUh5cXREalJNT2hLQkpvU0RJdUszUnhoN3ljZmlNMVN3X1hkTmZpem8yRXppamlqaDJuVXhWM2R6a0VRUEdzMlhpeHZjX3FLaQ?oc=5",
+      "published": "Thu, 08 Oct 2026 09:37:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwJBVV95cUxQX0pJa09BQTh2QnRyU3JUU0tEQ0kwenRRcTNMV3hPdTA2dkJoRVJVVXdzUDhBMnNSbS1ENzF4SkEwbmEza09xUGs3UUpHZjlYNXlSR0hha0gyT0kxTnY5WWYwVGlUZGkxREZURTJkTEtGalhBWGV6Z3Q3aVd4OWVoNmVkbmV1T0NVVHl6a2V4cFpzN1A3UzQ0UEI1NzZydDNpU2pMNVBucWhfSGZfOVdDQkVlVy1YV2s4RHUwSnlxOVRFemM4alhBMVBVazBpNFd3dkhDc3VNbGdudl9qd3RZZk9ZTFRJUTdkbjJMS1VlMU9LZE1qMFlaS2RPUWVBR0U1VG0xWFJPTU56eVotSk95cGN2bGpwZ01BZ2JiY3RVNTdSTy1ESElQOHBqZWdUYktjTmJOUDgtN0puTGhpV0w40gHEAkFVX3lxTFBvSGN1c1",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 925203,
+      "title": "従来6台の機器を最小3台に、オムロンが最大12kW充電対応のトリプル蓄電システムを発売 - マイナビニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fbVNKdktqQllFaW1mRXFXWlBCX3RFbExneUFqbXVFQXUtZE5TcDRiM3FqcTk3OVVhUkx3Mm5NdGxPX0NmZkE5Z0R0Y3R2SGxDNDdYak5TYzRjczNIOVF0aW1YZkNabWk2?oc=5",
+      "published": "Thu, 08 Oct 2026 06:48:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fbVNKdktqQllFaW1mRXFXWlBCX3RFbExneUFqbXVFQXUtZE5TcDRiM3FqcTk3OVVhUkx3Mm5NdGxPX0NmZkE5Z0R0Y3R2SGxDNDdYak5TYzRjczNIOVF0aW1YZkNabWk2?oc=5\" target=\"_blank\">従来6台の機器を最小3台に、オムロンが最大12kW充電対応のトリプル蓄電システムを発売</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">マイナビニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 647885,
+      "title": "小矢部市と共同記者会見を実施 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kaHViTDlzS1NLbmE1YUtONW1sT2h3bXEweUVIM0hOQWFJLWRkUUFFdkNwbGZRUVhoalRRN0FmSWJWQ052bWhmVWJUVm55NERwTGFIQW5fMzAyckNmNW1kbEQ1RDVkZVNDVXFTcUJOMjlMdw?oc=5",
+      "published": "Thu, 08 Oct 2026 05:52:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5kaHViTDlzS1NLbmE1YUtONW1sT2h3bXEweUVIM0hOQWFJLWRkUUFFdkNwbGZRUVhoalRRN0FmSWJWQ052bWhmVWJUVm55NERwTGFIQW5fMzAyckNmNW1kbEQ1RDVkZVNDVXFTcUJOMjlMdw?oc=5\" target=\"_blank\">小矢部市と共同記者会見を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 20903,
+      "title": "【需給調整市場】翌日の電力不足に備え 調整能力を取引 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaU9pd3pSaWhKbG1OMFB1Q0N0Y3VHRFQ0MXNNQmZ4ZlJJZ29aazRweG53eE9LZ05WWF9kWGlqMUx0bzdPZnlfT2F2ZTREQTRVQUNCeWJpcjNaelZUYURYS2d0NkFIelp4MTNmV3JoM3c1ajJsVVdSY0RsM2duSi1YVU16aUlRaFpQa2pOZS1PV1gxUkVWVlpHRjc5alo?oc=5",
+      "published": "Thu, 08 Oct 2026 20:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaU9pd3pSaWhKbG1OMFB1Q0N0Y3VHRFQ0MXNNQmZ4ZlJJZ29aazRweG53eE9LZ05WWF9kWGlqMUx0bzdPZnlfT2F2ZTREQTRVQUNCeWJpcjNaelZUYURYS2d0NkFIelp4MTNmV3JoM3c1ajJsVVdSY0RsM2duSi1YVU16aUlRaFpQa2pOZS1PV1gxUkVWVlpHRjc5alo?oc=5\" target=\"_blank\">【需給調整市場】翌日の電力不足に備え 調整能力を取引</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 692046,
+      "title": "安芸高田市に地域共生型の太陽光と蓄電所、ウエストが稼働（2ページ目） - 日経クロステック（xTECH）",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YUVU4MHE0eE01cXFIWjJuS1kzSVIxeWcxdy00MlBXNDVsdGpXanhlRWRwTldPTEVMME5QNEZsVFRHa3pIanR4Y3JqM0d5VEFHRzVHaTdiSmplUnk1MDl2RmotV3pjY1dXbm5yeGxWb2c1QQ?oc=5",
+      "published": "Thu, 08 Oct 2026 20:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9YUVU4MHE0eE01cXFIWjJuS1kzSVIxeWcxdy00MlBXNDVsdGpXanhlRWRwTldPTEVMME5QNEZsVFRHa3pIanR4Y3JqM0d5VEFHRzVHaTdiSmplUnk1MDl2RmotV3pjY1dXbm5yeGxWb2c1QQ?oc=5\" target=\"_blank\">安芸高田市に地域共生型の太陽光と蓄電所、ウエストが稼働（2ページ目）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック（xTECH）</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 510788,
+      "title": "10月8日のConstellation Energy Corp (CEG) 終値は4.85%下落：投資家が知っておくべき情報 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFhtdFYyZjFHcC0xS2xUUk5WOGxUZGdzNy1OU3dUTXVWNkZuZ3M0UVliWlVBUzViQUxMUGNxM0NXWGZhbkQ3TkVLNXk4S09yemRLdTRHSFBDR3FFNFYyRVVFM1NjSjhONTJVYVp4Wll1MURtYmRmZTBPQmQzOUJ2ZjRQMXM2TmxRVk4xaV93?oc=5",
+      "published": "Thu, 08 Oct 2026 20:16:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFhtdFYyZjFHcC0xS2xUUk5WOGxUZGdzNy1OU3dUTXVWNkZuZ3M0UVliWlVBUzViQUxMUGNxM0NXWGZhbkQ3TkVLNXk4S09yemRLdTRHSFBDR3FFNFYyRVVFM1NjSjhONTJVYVp4Wll1MURtYmRmZTBPQmQzOUJ2ZjRQMXM2TmxRVk4xaV93?oc=5\" target=\"_blank\">10月8日のConstellation Energy Corp (CEG) 終値は4.85%下落：投資家が知っておくべき情報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     }
