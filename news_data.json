@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09 15:41:54",
-  "total_count": 50,
+  "updated_at": "2026-10-10 00:28:13",
+  "total_count": 60,
   "articles": [
     {
       "id": 62227,
@@ -449,6 +449,96 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFhtdFYyZjFHcC0xS2xUUk5WOGxUZGdzNy1OU3dUTXVWNkZuZ3M0UVliWlVBUzViQUxMUGNxM0NXWGZhbkQ3TkVLNXk4S09yemRLdTRHSFBDR3FFNFYyRVVFM1NjSjhONTJVYVp4Wll1MURtYmRmZTBPQmQzOUJ2ZjRQMXM2TmxRVk4xaV93?oc=5",
       "published": "Thu, 08 Oct 2026 20:16:17 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFhtdFYyZjFHcC0xS2xUUk5WOGxUZGdzNy1OU3dUTXVWNkZuZ3M0UVliWlVBUzViQUxMUGNxM0NXWGZhbkQ3TkVLNXk4S09yemRLdTRHSFBDR3FFNFYyRVVFM1NjSjhONTJVYVp4Wll1MURtYmRmZTBPQmQzOUJ2ZjRQMXM2TmxRVk4xaV93?oc=5\" target=\"_blank\">10月8日のConstellation Energy Corp (CEG) 終値は4.85%下落：投資家が知っておくべき情報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 154002,
+      "title": "【太陽光発電】エナジー・ソリューションズ：「ソーラーマスター」にFIP転試算機能、蓄電池併設時の収益比較にも対応 - みんなの広報宣伝部",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93MlRpTG42Z2ZXZUx3QzAydmVPLS1Eajk0VW1TNFFMVktjblNuRzA5LUdaX0w1OGUwd0E0eDgyMWpXQ2xTcFV4N1NZNVR6bzRKOHpadzFUMXM1Z0xIRFZkM2xGYTJYdThQbUthclRxWHRGdw?oc=5",
+      "published": "Fri, 09 Oct 2026 22:48:52 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE93MlRpTG42Z2ZXZUx3QzAydmVPLS1Eajk0VW1TNFFMVktjblNuRzA5LUdaX0w1OGUwd0E0eDgyMWpXQ2xTcFV4N1NZNVR6bzRKOHpadzFUMXM1Z0xIRFZkM2xGYTJYdThQbUthclRxWHRGdw?oc=5\" target=\"_blank\">【太陽光発電】エナジー・ソリューションズ：「ソーラーマスター」にFIP転試算機能、蓄電池併設時の収益比較にも対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 476375,
+      "title": "【蓄電関連】森ビル：深谷市で初の系統用蓄電所を運転開始、8MWh蓄電池を将来の広域VPP構築へ活用 - みんなの広報宣伝部",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tdGM2NEMzeDhfSHNDM3BKVk1vLUFkUUNORmZXcTVKYW5rZjBFUzF2U1RlUXhtdEZORnV3WHFSbFdqS2VyOTNjalhITmRRaC1HTXBLNjRYbWJnOVRraWJGcFVpMWtseHNRWlZNSjVfWFpTQQ?oc=5",
+      "published": "Fri, 09 Oct 2026 22:44:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE8tdGM2NEMzeDhfSHNDM3BKVk1vLUFkUUNORmZXcTVKYW5rZjBFUzF2U1RlUXhtdEZORnV3WHFSbFdqS2VyOTNjalhITmRRaC1HTXBLNjRYbWJnOVRraWJGcFVpMWtseHNRWlZNSjVfWFpTQQ?oc=5\" target=\"_blank\">【蓄電関連】森ビル：深谷市で初の系統用蓄電所を運転開始、8MWh蓄電池を将来の広域VPP構築へ活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 667072,
+      "title": "BASC、CEATEC 2026に最大級ブース出展へ…蓄電池エコシステムの全体像を58社で発信 1枚目の写真・画像 - レスポンス（Response.jp）",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlV042UEhhTHpGOWRMVjZQYkhoSFMwdWpKZEVZTE5KZkF5WWRqNHVLeFI2SGNVYzhtd2I2TUtUamhGRGFWU2VMdUJIb0JQdWRKeHVhMzRnM0hOWHVzdkotb0JIcEUzNXZjYm5pbk1iUWVDZw?oc=5",
+      "published": "Fri, 09 Oct 2026 04:45:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBlV042UEhhTHpGOWRMVjZQYkhoSFMwdWpKZEVZTE5KZkF5WWRqNHVLeFI2SGNVYzhtd2I2TUtUamhGRGFWU2VMdUJIb0JQdWRKeHVhMzRnM0hOWHVzdkotb0JIcEUzNXZjYm5pbk1iUWVDZw?oc=5\" target=\"_blank\">BASC、CEATEC 2026に最大級ブース出展へ…蓄電池エコシステムの全体像を58社で発信 1枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 432752,
+      "title": "Sagamihara Innovation Gate 採択企業 大和製罐株式会社が、エネルギーマネジメント実証を市内工場で開始 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WbDU2a2dtN0ZfNHBDeUYyU1Rlc25IR0l3Vk11RmN2bUJCbmtjblY0LUNIcWFDbUJmbDBOaERCX012cG1SOTE4bnlDWnl1T0ZjbUxMYkRnVzcyNXdMakpyd1d2YkV5MFNzQWRKblZudEZHUzlwQVFsZnJKQQ?oc=5",
+      "published": "Fri, 09 Oct 2026 10:48:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9WbDU2a2dtN0ZfNHBDeUYyU1Rlc25IR0l3Vk11RmN2bUJCbmtjblY0LUNIcWFDbUJmbDBOaERCX012cG1SOTE4bnlDWnl1T0ZjbUxMYkRnVzcyNXdMakpyd1d2YkV5MFNzQWRKblZudEZHUzlwQVFsZnJKQQ?oc=5\" target=\"_blank\">Sagamihara Innovation Gate 採択企業 大和製罐株式会社が、エネルギーマネジメント実証を市内工場で開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 593853,
+      "title": "日本の新型潜水艦「しょうげい」が進水 リチウムイオン電池が変える潜航能力と静粛性の秘密 - XenoSpectrum",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52a00wQU1yRUI0RS16VUpreTdJN1Qwdk1tSHJCNFJhMXl0b3l3a25wNHVnQjVvdmhvdHFLYzFNR1hrTzNYZzFLNWVnZDFhcHAzN2EwZHpSVS03Mmp6Yk16ZmUzLXJLc2FWVWNWOGxVNkFQT0pV?oc=5",
+      "published": "Fri, 09 Oct 2026 23:53:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE52a00wQU1yRUI0RS16VUpreTdJN1Qwdk1tSHJCNFJhMXl0b3l3a25wNHVnQjVvdmhvdHFLYzFNR1hrTzNYZzFLNWVnZDFhcHAzN2EwZHpSVS03Mmp6Yk16ZmUzLXJLc2FWVWNWOGxVNkFQT0pV?oc=5\" target=\"_blank\">日本の新型潜水艦「しょうげい」が進水 リチウムイオン電池が変える潜航能力と静粛性の秘密</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 618797,
+      "title": "【蓄電関連】TAOKE ENERGY：2MW・8MWhの系統用蓄電所4カ所が運転開始、GK-TK活用で事業基盤を強化 - みんなの広報宣伝部",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtNkkwNmRNWHBGNXB6TGNoNXJyNWpRUmc5VnIweGNzanliRVJSQlI1MmlIekhCRDJXeWFEZGVmMHpmMGVBSnQ5Qk1zRGFLelU0ZTJaYmRGVHdLNDZWX29nQUdaSzgtQkhYbVV2VUJnQlhaUQ?oc=5",
+      "published": "Fri, 09 Oct 2026 22:44:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAtNkkwNmRNWHBGNXB6TGNoNXJyNWpRUmc5VnIweGNzanliRVJSQlI1MmlIekhCRDJXeWFEZGVmMHpmMGVBSnQ5Qk1zRGFLelU0ZTJaYmRGVHdLNDZWX29nQUdaSzgtQkhYbVV2VUJnQlhaUQ?oc=5\" target=\"_blank\">【蓄電関連】TAOKE ENERGY：2MW・8MWhの系統用蓄電所4カ所が運転開始、GK-TK活用で事業基盤を強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 661360,
+      "title": "Bluefield Energy、「［九州］次世代エネルギー展」で太陽光発電所・蓄電所の収益最大化策を紹介 - 南日本新聞",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS05sMDJmTzlxdUg2Q0VrZWNaZkZRbUZxemNQdlFnUVNJSUNUVjlVNUNqSVJQM0lVR3BseTh6N0ljMENsYkpSVW5kOFpodkI1V3lUMWphMmtrZ2ptQWJGZzRfM2VzNVdlbDBMSGFFX3NuejRLcGFwNG9fVTJkQ2k0Yg?oc=5",
+      "published": "Fri, 09 Oct 2026 15:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPS05sMDJmTzlxdUg2Q0VrZWNaZkZRbUZxemNQdlFnUVNJSUNUVjlVNUNqSVJQM0lVR3BseTh6N0ljMENsYkpSVW5kOFpodkI1V3lUMWphMmtrZ2ptQWJGZzRfM2VzNVdlbDBMSGFFX3NuejRLcGFwNG9fVTJkQ2k0Yg?oc=5\" target=\"_blank\">Bluefield Energy、「［九州］次世代エネルギー展」で太陽光発電所・蓄電所の収益最大化策を紹介</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">南日本新聞</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 159847,
+      "title": "日本のレドックスフロー電池 (RFB)市場2026年版 - pando.life",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1KRy1OcUtIOTRXUVdnUnNfN3BjWHlPb3Q1NGVuTTdKUktoVnQyYUZtTk9nUmZwbEZzaW9wR3h6MUpYYzIxN0phY2lR?oc=5",
+      "published": "Fri, 09 Oct 2026 16:17:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1KRy1OcUtIOTRXUVdnUnNfN3BjWHlPb3Q1NGVuTTdKUktoVnQyYUZtTk9nUmZwbEZzaW9wR3h6MUpYYzIxN0phY2lR?oc=5\" target=\"_blank\">日本のレドックスフロー電池 (RFB)市場2026年版</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pando.life</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 203543,
+      "title": "【講演レポート】船井総合研究所主催「地方不動産活用ビジネスサミット」にて、代表取締役社長 鈴江崇文が講師として登壇しました - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yb3AyTzg1MXlEYjFhSmthQzE3UlNzRmI1dDUtX3JjcUNTUGR5TTYya1pUTXJyT19CSk9aOWlXZmVIWmlXcXBSSVBrWVBKakhLTmxXTW52X2NnZjh1SUU2b2JKd3dySUVzVEdFSUNzYS05QQ?oc=5",
+      "published": "Fri, 09 Oct 2026 01:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE8yb3AyTzg1MXlEYjFhSmthQzE3UlNzRmI1dDUtX3JjcUNTUGR5TTYya1pUTXJyT19CSk9aOWlXZmVIWmlXcXBSSVBrWVBKakhLTmxXTW52X2NnZjh1SUU2b2JKd3dySUVzVEdFSUNzYS05QQ?oc=5\" target=\"_blank\">【講演レポート】船井総合研究所主催「地方不動産活用ビジネスサミット」にて、代表取締役社長 鈴江崇文が講師として登壇しました</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 200549,
+      "title": "ヴィストラ（VST）の42億ドルの原子力融資コミットメントに対し、投資家はどのように反応しているか - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONjNrbGRDSFdEVFl1ZGF6M2pvdDdhUXNlY29JVjhRX2hQOXhuOXFoNmpmdXBGNUcyRUdSUkhXdU1oeWdhYWpzVDNnTDJ0UWsxVnpveXlwYTlPU1ZYUXhiTlNza0t5MkJ4YUZMdFJXSlgxWUtuTWY1UkpoM3Y2ak04cDhsS2VHV0JNX3YtVkE1RdIBjwFBVV95cUxONjNrbGRDSFdEVFl1ZGF6M2pvdDdhUXNlY29JVjhRX2hQOXhuOXFoNmpmdXBGNUcyRUdSUkhXdU1oeWdhYWpzVDNnTDJ0UWsxVnpveXlwYTlPU1ZYUXhiTlNza0t5MkJ4YUZMdFJXSlgxWUtuTWY1UkpoM3Y2ak04cDhsS2VHV0JNX3YtVkE1RQ?oc=5",
+      "published": "Fri, 09 Oct 2026 15:01:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxONjNrbGRDSFdEVFl1ZGF6M2pvdDdhUXNlY29JVjhRX2hQOXhuOXFoNmpmdXBGNUcyRUdSUkhXdU1oeWdhYWpzVDNnTDJ0UWsxVnpveXlwYTlPU1ZYUXhiTlNza0t5MkJ4YUZMdFJXSlgxWUtuTWY1UkpoM3Y2ak04cDhsS2VHV0JNX3YtVkE1RdIBjwFBVV95cUxONjNrbGRDSFdEVFl1ZGF6M2pvdDdhUXNlY29JVjhRX2hQOXhuOXFoNmpmdXBGNUcyRUdSUkhXdU1oeWdhYWpzVDNnTDJ0UWsxVnpveXlwYTlPU1ZYUXhiTlNza0t5MkJ4YUZMdFJXSlgxWUtuTWY1UkpoM3Y2ak04cDhsS2VHV0JNX3YtVkE1RQ?oc=5\" target=\"_blank\">ヴィストラ（VST）の42億ドルの原子力融資コミットメントに対し、投資家は",
       "site_name": "Googleニュース",
       "source_type": "rss"
     }
