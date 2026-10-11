@@ -1,0 +1,46 @@
+[
+  {
+    "topic_name": "森ビルやTAOKE蓄電所が始動",
+    "article_ids": [
+      476375,
+      618797
+    ],
+    "articles": [
+      {
+        "id": 476375,
+        "title": "【蓄電関連】森ビル：深谷市で初の系統用蓄電所を運転開始、8MWh蓄電池を将来の広域VPP構築へ活用 - みんなの広報宣伝部",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tdGM2NEMzeDhfSHNDM3BKVk1vLUFkUUNORmZXcTVKYW5rZjBFUzF2U1RlUXhtdEZORnV3WHFSbFdqS2VyOTNjalhITmRRaC1HTXBLNjRYbWJnOVRraWJGcFVpMWtseHNRWlZNSjVfWFpTQQ?oc=5",
+        "published": "Fri, 09 Oct 2026 22:43:52 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE8tdGM2NEMzeDhfSHNDM3BKVk1vLUFkUUNORmZXcTVKYW5rZjBFUzF2U1RlUXhtdEZORnV3WHFSbFdqS2VyOTNjalhITmRRaC1HTXBLNjRYbWJnOVRraWJGcFVpMWtseHNRWlZNSjVfWFpTQQ?oc=5\" target=\"_blank\">【蓄電関連】森ビル：深谷市で初の系統用蓄電所を運転開始、8MWh蓄電池を将来の広域VPP構築へ活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Project",
+        "reason": "系統用蓄電所の運転開始とVPP活用の具体事例。",
+        "score": 70,
+        "is_highly_important": true
+      },
+      {
+        "id": 618797,
+        "title": "【蓄電関連】TAOKE ENERGY：2MW・8MWhの系統用蓄電所4カ所が運転開始、GK-TK活用で事業基盤を強化 - みんなの広報宣伝部",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtNkkwNmRNWHBGNXB6TGNoNXJyNWpRUmc5VnIweGNzanliRVJSQlI1MmlIekhCRDJXeWFEZGVmMHpmMGVBSnQ5Qk1zRGFLelU0ZTJaYmRGVHdLNDZWX29nQUdaSzgtQkhYbVV2VUJnQlhaUQ?oc=5",
+        "published": "Fri, 09 Oct 2026 22:43:52 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAtNkkwNmRNWHBGNXB6TGNoNXJyNWpRUmc5VnIweGNzanliRVJSQlI1MmlIekhCRDJXeWFEZGVmMHpmMGVBSnQ5Qk1zRGFLelU0ZTJaYmRGVHdLNDZWX29nQUdaSzgtQkhYbVV2VUJnQlhaUQ?oc=5\" target=\"_blank\">【蓄電関連】TAOKE ENERGY：2MW・8MWhの系統用蓄電所4カ所が運転開始、GK-TK活用で事業基盤を強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Project",
+        "reason": "複数の系統用蓄電所稼働事例。事業基盤強化の動き。",
+        "score": 70,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": true,
+    "analysis": {
+      "summary_points": [
+        "森ビルによる再エネ・蓄電池連携の垂直統合型VPP戦略の始動",
+        "TAOKE ENERGYによるGK-TKスキームを用いた多拠点展開の加速",
+        "系統用蓄電所の標準スペック（2MW/8MWh）が市場で定着化"
+      ],
+      "insight": "今回の森ビルとTAOKE ENERGYの動きは、単なる容量確保から『市場運用・VPP構築への最適化』へフェーズが移行したことを象徴する。特にディベロッパーがアセットを保有し、広域でVPPを組む構図は不動産ポートフォリオとの相性が良く、他社も追随するだろう。GK-TK等の資金調達スキームも定着し、今後はEMSのアルゴリズム精度が収益性の分岐点となる。"
+    }
+  }
+]

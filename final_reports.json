@@ -1,148 +1,46 @@
 [
   {
-    "topic_name": "系統用蓄電所の運転開始",
+    "topic_name": "森ビルやTAOKE蓄電所が始動",
     "article_ids": [
-      168360,
       476375,
       618797
     ],
     "articles": [
       {
-        "id": 168360,
-        "title": "系統用蓄電池に参入、群馬・伊勢崎で稼働開始/京葉ガス - ガスエネルギー新聞",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xR2xxSEFuQ2g2NjJoc2xpVDJ3Tks0VzZycG15dHoxYmlnVl9tOUxROUh4WGFDUklQYmpKSmZNZ21LZDhNeHFwVjE2OS1IR1ZwdUlhQmFLRjg?oc=5",
-        "published": "Fri, 09 Oct 2026 11:05:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xR2xxSEFuQ2g2NjJoc2xpVDJ3Tks0VzZycG15dHoxYmlnVl9tOUxROUh4WGFDUklQYmpKSmZNZ21LZDhNeHFwVjE2OS1IR1ZwdUlhQmFLRjg?oc=5\" target=\"_blank\">系統用蓄電池に参入、群馬・伊勢崎で稼働開始/京葉ガス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ガスエネルギー新聞</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "Project",
-        "reason": "系統用蓄電池の稼働開始という具体的プロジェクト進捗。",
-        "score": 75,
-        "is_highly_important": false
-      },
-      {
         "id": 476375,
         "title": "【蓄電関連】森ビル：深谷市で初の系統用蓄電所を運転開始、8MWh蓄電池を将来の広域VPP構築へ活用 - みんなの広報宣伝部",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tdGM2NEMzeDhfSHNDM3BKVk1vLUFkUUNORmZXcTVKYW5rZjBFUzF2U1RlUXhtdEZORnV3WHFSbFdqS2VyOTNjalhITmRRaC1HTXBLNjRYbWJnOVRraWJGcFVpMWtseHNRWlZNSjVfWFpTQQ?oc=5",
-        "published": "Fri, 09 Oct 2026 22:44:10 GMT",
+        "published": "Fri, 09 Oct 2026 22:43:52 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE8tdGM2NEMzeDhfSHNDM3BKVk1vLUFkUUNORmZXcTVKYW5rZjBFUzF2U1RlUXhtdEZORnV3WHFSbFdqS2VyOTNjalhITmRRaC1HTXBLNjRYbWJnOVRraWJGcFVpMWtseHNRWlZNSjVfWFpTQQ?oc=5\" target=\"_blank\">【蓄電関連】森ビル：深谷市で初の系統用蓄電所を運転開始、8MWh蓄電池を将来の広域VPP構築へ活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
         "primary_category": "Project",
-        "reason": "系統用蓄電所の稼働開始。VPP活用への展望を含み評価できる。",
-        "score": 75,
-        "is_highly_important": false
+        "reason": "系統用蓄電所の運転開始とVPP活用の具体事例。",
+        "score": 70,
+        "is_highly_important": true
       },
       {
         "id": 618797,
         "title": "【蓄電関連】TAOKE ENERGY：2MW・8MWhの系統用蓄電所4カ所が運転開始、GK-TK活用で事業基盤を強化 - みんなの広報宣伝部",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtNkkwNmRNWHBGNXB6TGNoNXJyNWpRUmc5VnIweGNzanliRVJSQlI1MmlIekhCRDJXeWFEZGVmMHpmMGVBSnQ5Qk1zRGFLelU0ZTJaYmRGVHdLNDZWX29nQUdaSzgtQkhYbVV2VUJnQlhaUQ?oc=5",
-        "published": "Fri, 09 Oct 2026 22:44:04 GMT",
+        "published": "Fri, 09 Oct 2026 22:43:52 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAtNkkwNmRNWHBGNXB6TGNoNXJyNWpRUmc5VnIweGNzanliRVJSQlI1MmlIekhCRDJXeWFEZGVmMHpmMGVBSnQ5Qk1zRGFLelU0ZTJaYmRGVHdLNDZWX29nQUdaSzgtQkhYbVV2VUJnQlhaUQ?oc=5\" target=\"_blank\">【蓄電関連】TAOKE ENERGY：2MW・8MWhの系統用蓄電所4カ所が運転開始、GK-TK活用で事業基盤を強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
         "primary_category": "Project",
-        "reason": "複数拠点の系統用蓄電所稼働。事業規模を示すニュース。",
+        "reason": "複数の系統用蓄電所稼働事例。事業基盤強化の動き。",
         "score": 70,
-        "is_highly_important": false
-      }
-    ],
-    "is_grouped": true,
-    "analysis": {
-      "summary_points": [
-        "非エネルギー専業（森ビル等）の参入によるアセットポートフォリオの多様化",
-        "GK-TKスキームを活用した金融的手法による大規模かつ継続的な開発モデルの確立",
-        "単体運用から、将来的な広域VPPおよびアグリゲーションを視野に入れた市場戦略への移行"
-      ],
-      "insight": "系統用蓄電所の主戦場は、容量確保から『市場運用・VPP高度化』へ移った。森ビルのような異業種が再エネ供給と蓄電をセットで取り込む動きは、分散型電源の面制御に向けた布石だ。一方、TAOKE ENERGYらのGK-TKスキーム活用は、投機的開発からインフラ資産化への転換点であり、運用スキルの差別化が事業勝敗を分かつフェーズに入った。"
-    }
-  },
-  {
-    "topic_name": "容量市場および長期脱炭素電源オークションの仕組みに関する解説",
-    "article_ids": [
-      668311,
-      512233
-    ],
-    "articles": [
-      {
-        "id": 668311,
-        "title": "長期脱炭素電源オークション、蓄電池の落札はなぜ狭き門なのか――20年固定収入の裏側を読み解くウェビナーを開催 - 産経ニュース",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tZVRWaVR5TlBPOV8zeURsdVFHQTRFcWxIVU1WZDFVc0ktdmtvWnlLdjhlU1JxdEttQ2dwbmRKZ1hoVmtaZUdncm5qV2FnS0YxVS1tREhPdzhDUEMwdUVUaU5ieFB3VmZTZ3hVaUg4Z2Y5b1F1NjhjMzFjbw?oc=5",
-        "published": "Fri, 09 Oct 2026 09:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE0tZVRWaVR5TlBPOV8zeURsdVFHQTRFcWxIVU1WZDFVc0ktdmtvWnlLdjhlU1JxdEttQ2dwbmRKZ1hoVmtaZUdncm5qV2FnS0YxVS1tREhPdzhDUEMwdUVUaU5ieFB3VmZTZ3hVaUg4Z2Y5b1F1NjhjMzFjbw?oc=5\" target=\"_blank\">長期脱炭素電源オークション、蓄電池の落札はなぜ狭き門なのか――20年固定収入の裏側を読み解くウェビナーを開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "Market Trend",
-        "reason": "長期脱炭素電源オークションの課題分析は事業戦略上重要。",
-        "score": 85,
         "is_highly_important": true
-      },
-      {
-        "id": 512233,
-        "title": "容量市場のオークションはなぜ「数年前」に行われるのか――先行確保の仕組みを読み解くウェビナーを開催 - ニコニコニュース",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TSDMtbGtTak44YWliaVRUX3FUMlB0eW9yQzkzOE9SRmx6Z251bHVjWTVKNExmTUxyc1poRFhKZ3J2dGVVUnNjWlZCY1NXOE9MYk5NUWVUallKMHF1bHFTMVB6eXNCeVQyM3NpUVVwcHlkYW1WWWNQbmxGNA?oc=5",
-        "published": "Thu, 08 Oct 2026 21:30:55 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1TSDMtbGtTak44YWliaVRUX3FUMlB0eW9yQzkzOE9SRmx6Z251bHVjWTVKNExmTUxyc1poRFhKZ3J2dGVVUnNjWlZCY1NXOE9MYk5NUWVUallKMHF1bHFTMVB6eXNCeVQyM3NpUVVwcHlkYW1WWWNQbmxGNA?oc=5\" target=\"_blank\">容量市場のオークションはなぜ「数年前」に行われるのか――先行確保の仕組みを読み解くウェビナーを開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "Policy",
-        "reason": "容量市場の仕組み解説は市場関係者にとっての重要情報。",
-        "score": 75,
-        "is_highly_important": false
       }
     ],
     "is_grouped": true,
     "analysis": {
       "summary_points": [
-        "長期脱炭素電源オークションは20年間の固定収入を提供し、供給力不足解消と投資予見性の確保を狙う制度である。",
-        "蓄電池には3万kW以上かつ連続6時間以上の放電能力という厳しい参入要件が課されており、投資のハードルを高めている。",
-        "オークションの競争は激化しており、第3回では応札容量の半分以下しか落札されないなど、勝者選定の難易度が急速に上昇している。"
+        "森ビルによる再エネ・蓄電池連携の垂直統合型VPP戦略の始動",
+        "TAOKE ENERGYによるGK-TKスキームを用いた多拠点展開の加速",
+        "系統用蓄電所の標準スペック（2MW/8MWh）が市場で定着化"
       ],
-      "insight": "容量メカニズムによる「20年固定費回収」のスキームは、プロジェクトファイナンスの組成には不可欠だが、実態は収益の9割還付という厳しい制約付きだ。特に蓄電池は6時間以上の定格容量という長周期要件がボトルネックとなり、高コスト体質からの脱却が求められる。単なる「市場収益の安定化」ではなく、オークション落札という名の『国策の篩（ふるい）』を通過できるか否かが、事業の存続を分ける決定的な分岐点となっている。"
-    }
-  },
-  {
-    "topic_name": "データセンター向け原子力発電購入契約",
-    "article_ids": [
-      825365,
-      200549
-    ],
-    "articles": [
-      {
-        "id": 825365,
-        "title": "ゴールドマン・サックス研究レポート解説：コンステレーション・エナジー、グーグルと3.6GWの原子力発電契約を締結、契約率は28%に上昇 - 深潮TechFlow",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKUzFhX2Jrem5LUzdqQVFGMXdrdFQ1MzM1amFFcEgzeENfeG5xbHB3UHlBeTNXWk5RZzBZM0o3NHQ0cnFsQTU1alVNaVpJMFZDQmJuUTdoNVdBM3pZ?oc=5",
-        "published": "Fri, 09 Oct 2026 11:34:53 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKUzFhX2Jrem5LUzdqQVFGMXdrdFQ1MzM1amFFcEgzeENfeG5xbHB3UHlBeTNXWk5RZzBZM0o3NHQ0cnFsQTU1alVNaVpJMFZDQmJuUTdoNVdBM3pZ?oc=5\" target=\"_blank\">ゴールドマン・サックス研究レポート解説：コンステレーション・エナジー、グーグルと3.6GWの原子力発電契約を締結、契約率は28%に上昇</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "Market Trend",
-        "reason": "原子力と蓄電池の組み合わせ戦略。米国の大規模事例として重要。",
-        "score": 80,
-        "is_highly_important": true
-      },
-      {
-        "id": 200549,
-        "title": "ヴィストラ（VST）の42億ドルの原子力融資コミットメントに対し、投資家はどのように反応しているか - Simply Wall Street",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONjNrbGRDSFdEVFl1ZGF6M2pvdDdhUXNlY29JVjhRX2hQOXhuOXFoNmpmdXBGNUcyRUdSUkhXdU1oeWdhYWpzVDNnTDJ0UWsxVnpveXlwYTlPU1ZYUXhiTlNza0t5MkJ4YUZMdFJXSlgxWUtuTWY1UkpoM3Y2ak04cDhsS2VHV0JNX3YtVkE1RdIBjwFBVV95cUxONjNrbGRDSFdEVFl1ZGF6M2pvdDdhUXNlY29JVjhRX2hQOXhuOXFoNmpmdXBGNUcyRUdSUkhXdU1oeWdhYWpzVDNnTDJ0UWsxVnpveXlwYTlPU1ZYUXhiTlNza0t5MkJ4YUZMdFJXSlgxWUtuTWY1UkpoM3Y2ak04cDhsS2VHV0JNX3YtVkE1RQ?oc=5",
-        "published": "Fri, 09 Oct 2026 15:01:37 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxONjNrbGRDSFdEVFl1ZGF6M2pvdDdhUXNlY29JVjhRX2hQOXhuOXFoNmpmdXBGNUcyRUdSUkhXdU1oeWdhYWpzVDNnTDJ0UWsxVnpveXlwYTlPU1ZYUXhiTlNza0t5MkJ4YUZMdFJXSlgxWUtuTWY1UkpoM3Y2ak04cDhsS2VHV0JNX3YtVkE1RdIBjwFBVV95cUxONjNrbGRDSFdEVFl1ZGF6M2pvdDdhUXNlY29JVjhRX2hQOXhuOXFoNmpmdXBGNUcyRUdSUkhXdU1oeWdhYWpzVDNnTDJ0UWsxVnpveXlwYTlPU1ZYUXhiTlNza0t5MkJ4YUZMdFJXSlgxWUtuTWY1UkpoM3Y2ak04cDhsS2VHV0JNX3YtVkE1RQ?oc=5\" target=\"_blank\">ヴィストラ（VST）の42億ドルの原子力融資コミットメントに対し、投資家は",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "Market Trend",
-        "reason": "原子力融資に対する市場の反応。エネルギー金融の動向として重要。",
-        "score": 75,
-        "is_highly_important": false
-      }
-    ],
-    "is_grouped": true,
-    "analysis": {
-      "summary_points": [
-        "IPP各社による原子力資産の長期契約化が進行し、卸売市場の価格変動リスクから固定・プレミアム価格の収益構造へ転換している。",
-        "コンステレーション・エナジーの契約率は28%に留まる一方で、タレンやビストラは先行しており、原子力容量のポートフォリオ管理が各社のバリュエーションを左右する主要因となっている。",
-        "PJM市場の規制環境（IRAS判決やRBPプロセス）が、データセンター向け電力供給プロジェクトの収益性とFCF成長の「最後の不確実性」として立ちはだかっている。"
-      ],
-      "insight": "AIデータセンターの電力飢餓を背景に、原子力が単なるクリーン電源から『価格決定権を持つ資産』へ変貌した。注目すべきは、IPP各社が容量のアップグレードをテコにどれほど高いプレミアムを乗せられるかという収益最大化競争だ。今後は単なる契約締結のニュースではなく、PJM等の規制当局がグリッド接続と送電コスト負担をどう裁定するかという『制度的制約』が、株価のプレミアムを決定づけるフェーズに突入した。"
+      "insight": "今回の森ビルとTAOKE ENERGYの動きは、単なる容量確保から『市場運用・VPP構築への最適化』へフェーズが移行したことを象徴する。特にディベロッパーがアセットを保有し、広域でVPPを組む構図は不動産ポートフォリオとの相性が良く、他社も追随するだろう。GK-TK等の資金調達スキームも定着し、今後はEMSのアルゴリズム精度が収益性の分岐点となる。"
     }
   }
 ]
