@@ -1,34 +1,78 @@
 [
   {
-    "topic_name": "森ビルやTAOKE蓄電所が始動",
+    "topic_name": "IIJ松江データセンターパークの蓄電池を活用した災害時電力供給協定",
     "article_ids": [
-      476375,
-      618797
+      798020,
+      394690
     ],
     "articles": [
       {
-        "id": 476375,
-        "title": "【蓄電関連】森ビル：深谷市で初の系統用蓄電所を運転開始、8MWh蓄電池を将来の広域VPP構築へ活用 - みんなの広報宣伝部",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tdGM2NEMzeDhfSHNDM3BKVk1vLUFkUUNORmZXcTVKYW5rZjBFUzF2U1RlUXhtdEZORnV3WHFSbFdqS2VyOTNjalhITmRRaC1HTXBLNjRYbWJnOVRraWJGcFVpMWtseHNRWlZNSjVfWFpTQQ?oc=5",
-        "published": "Fri, 09 Oct 2026 22:43:52 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE8tdGM2NEMzeDhfSHNDM3BKVk1vLUFkUUNORmZXcTVKYW5rZjBFUzF2U1RlUXhtdEZORnV3WHFSbFdqS2VyOTNjalhITmRRaC1HTXBLNjRYbWJnOVRraWJGcFVpMWtseHNRWlZNSjVfWFpTQQ?oc=5\" target=\"_blank\">【蓄電関連】森ビル：深谷市で初の系統用蓄電所を運転開始、8MWh蓄電池を将来の広域VPP構築へ活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
+        "id": 798020,
+        "title": "IIJ、島根県松江市と災害時の電力供給に関する協定を締結 - 山陽新聞",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkekxDenNHVnA3ZWtNRnJDR2xFU0otLVhmUUs5QU9LZEVWenF0d24yd1U0b1NhNEpYNG9XaG9oQTZDTGZ2a3JRTFRoeU1QRlJwOGc?oc=5",
+        "published": "Sat, 10 Oct 2026 17:07:27 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkekxDenNHVnA3ZWtNRnJDR2xFU0otLVhmUUs5QU9LZEVWenF0d24yd1U0b1NhNEpYNG9XaG9oQTZDTGZ2a3JRTFRoeU1QRlJwOGc?oc=5\" target=\"_blank\">IIJ、島根県松江市と災害時の電力供給に関する協定を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "Project",
-        "reason": "系統用蓄電所の運転開始とVPP活用の具体事例。",
+        "primary_category": "Regional Info",
+        "reason": "島根県での災害時電力協定。地域固有の重要情報。",
+        "score": 80,
+        "is_highly_important": true
+      },
+      {
+        "id": 394690,
+        "title": "島根：社有蓄電池 災害時に活用：地域ニュース - 読売新聞",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95c3I2NnBTZTVFOGNLWlFnSi1oUURRTkMzUG5NWVNWdEZCRThXRUszYmlGS1hkYU0xQzZ3VkdVSjRZV0ZrRE54QkhyYmxLelUzQm5uVDRSOUVBMDFnc3JKc3FzMHZrVnp1eDNZeGpqTnRQZWM?oc=5",
+        "published": "Sun, 11 Oct 2026 20:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE95c3I2NnBTZTVFOGNLWlFnSi1oUURRTkMzUG5NWVNWdEZCRThXRUszYmlGS1hkYU0xQzZ3VkdVSjRZV0ZrRE54QkhyYmxLelUzQm5uVDRSOUVBMDFnc3JKc3FzMHZrVnp1eDNZeGpqTnRQZWM?oc=5\" target=\"_blank\">島根：社有蓄電池 災害時に活用：地域ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Regional Info",
+        "reason": "地域単位の蓄電池活用事例として重要。",
+        "score": 80,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": true,
+    "analysis": {
+      "summary_points": [
+        "IIJ松江データセンターパークの蓄電池（1,741kWh）を活用した避難所への電力供給スキームの構築",
+        "公用EVを「移動式電源」として活用し、災害時に約2日分の避難所電力を確保する災害協定を締結",
+        "「脱炭素先行地域」の枠組みを活かし、平時はバックアップおよび需給調整、有事は地域レジリエンス強化という「ワット・ビット連携」の実装"
+      ],
+      "insight": "本件は、データセンターのバックアップ資産を地域インフラとして転用する「地域共生型DC」の好例だ。単なる非常用電源の提供に留まらず、脱炭素先行地域の補助金をテコに蓄電池とEV充電環境を整備し、平時の電力需給調整と有事のBCPを統合している点は特筆に値する。今後は、データセンターの余剰電力を地域エネルギーマネジメントへいかに動的に最適配分するかが、自治体連携モデルの収益的・技術的な分水嶺となるだろう。"
+    }
+  },
+  {
+    "topic_name": "グリーンエナジー＆カンパニーによる系統用蓄電所の建設受注と開発",
+    "article_ids": [
+      119677,
+      531015
+    ],
+    "articles": [
+      {
+        "id": 119677,
+        "title": "グリーンエナジー＆カンパニー、クラダシとの合弁で系統用蓄電所事業を拡大。第一弾となる国内2案件が始動 - 山陽新聞",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GLU5hX0dyYTB2Q3hhckhKVGg5Zk1HMzNSUG0zQXI3aTFNNlVTdUtNZl9Ud08tTXFZUDV3dHJnZ25wa2VSXzJQSFY1bURVdGI1SVE?oc=5",
+        "published": "Sun, 11 Oct 2026 02:46:29 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GLU5hX0dyYTB2Q3hhckhKVGg5Zk1HMzNSUG0zQXI3aTFNNlVTdUtNZl9Ud08tTXFZUDV3dHJnZ25wa2VSXzJQSFY1bURVdGI1SVE?oc=5\" target=\"_blank\">グリーンエナジー＆カンパニー、クラダシとの合弁で系統用蓄電所事業を拡大。第一弾となる国内2案件が始動</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Large Projects",
+        "reason": "系統用蓄電所の新規事業化、業界動向として重要。",
         "score": 70,
         "is_highly_important": true
       },
       {
-        "id": 618797,
-        "title": "【蓄電関連】TAOKE ENERGY：2MW・8MWhの系統用蓄電所4カ所が運転開始、GK-TK活用で事業基盤を強化 - みんなの広報宣伝部",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtNkkwNmRNWHBGNXB6TGNoNXJyNWpRUmc5VnIweGNzanliRVJSQlI1MmlIekhCRDJXeWFEZGVmMHpmMGVBSnQ5Qk1zRGFLelU0ZTJaYmRGVHdLNDZWX29nQUdaSzgtQkhYbVV2VUJnQlhaUQ?oc=5",
-        "published": "Fri, 09 Oct 2026 22:43:52 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAtNkkwNmRNWHBGNXB6TGNoNXJyNWpRUmc5VnIweGNzanliRVJSQlI1MmlIekhCRDJXeWFEZGVmMHpmMGVBSnQ5Qk1zRGFLelU0ZTJaYmRGVHdLNDZWX29nQUdaSzgtQkhYbVV2VUJnQlhaUQ?oc=5\" target=\"_blank\">【蓄電関連】TAOKE ENERGY：2MW・8MWhの系統用蓄電所4カ所が運転開始、GK-TK活用で事業基盤を強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
+        "id": 531015,
+        "title": "グリーンエナジー＆カンパニーグループ、静岡ガス＆パワーより浜松市の系統用蓄電所建設を受注 - 朝日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxNXJ4SlFzM1RweG85MnVkcE5yb0ZFV0JDRmw1d21uYm9iY1hxZXU5UWthUmt0Qm43bXBCakhqcTYtLUIxWTlvdXkxNjQ5aWpnXzdGaV92ZjhENFU?oc=5",
+        "published": "Sun, 11 Oct 2026 01:38:28 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxNXJ4SlFzM1RweG85MnVkcE5yb0ZFV0JDRmw1d21uYm9iY1hxZXU5UWthUmt0Qm43bXBCakhqcTYtLUIxWTlvdXkxNjQ5aWpnXzdGaV92ZjhENFU?oc=5\" target=\"_blank\">グリーンエナジー＆カンパニーグループ、静岡ガス＆パワーより浜松市の系統用蓄電所建設を受注</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "Project",
-        "reason": "複数の系統用蓄電所稼働事例。事業基盤強化の動き。",
+        "primary_category": "Large Projects",
+        "reason": "建設受注等の具体的な事業進捗。",
         "score": 70,
         "is_highly_important": true
       }
@@ -36,11 +80,11 @@
     "is_grouped": true,
     "analysis": {
       "summary_points": [
-        "森ビルによる再エネ・蓄電池連携の垂直統合型VPP戦略の始動",
-        "TAOKE ENERGYによるGK-TKスキームを用いた多拠点展開の加速",
-        "系統用蓄電所の標準スペック（2MW/8MWh）が市場で定着化"
+        "クラダシとのGK-TKスキームによる蓄電所共同開発と、静岡ガス&パワーからの設計・調達・建設(EPC)一括受注という二面展開を実現",
+        "蓄電所事業への本格参入から短期間で稼働・開発案件を急速に積み上げ、累計5500件の再エネ開発実績による用地・権利取得の強みが結実",
+        "地域エネルギー事業者との協業および金融スキームの多様化により、大規模インフラ投資のレバレッジを効かせたビジネスモデルへ転換"
       ],
-      "insight": "今回の森ビルとTAOKE ENERGYの動きは、単なる容量確保から『市場運用・VPP構築への最適化』へフェーズが移行したことを象徴する。特にディベロッパーがアセットを保有し、広域でVPPを組む構図は不動産ポートフォリオとの相性が良く、他社も追随するだろう。GK-TK等の資金調達スキームも定着し、今後はEMSのアルゴリズム精度が収益性の分岐点となる。"
+      "insight": "同社は再エネ開発のノウハウを系統用蓄電池の立地選定と権利化に完全シフトさせており、単なる施工業者から事業開発パートナーへと進化を遂げている。特にGK-TKスキームの活用と大手ガス会社からの受注は、収益源を「建設利益」から「運用・アセット管理による長期収益」へ最適化する意図が見え、需給調整市場でのプレゼンス拡大を予感させる。"
     }
   }
 ]
