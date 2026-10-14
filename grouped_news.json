@@ -1,0 +1,96 @@
+[
+  {
+    "topic_name": "fantasistaによる滋賀県長浜市の系統用蓄電所建設",
+    "article_ids": [
+      383641,
+      420812
+    ],
+    "is_grouped": true
+  },
+  {
+    "topic_name": "系統用蓄電池の需給調整市場への参入と運用",
+    "article_ids": [
+      744388,
+      995205
+    ],
+    "is_grouped": true
+  },
+  {
+    "topic_name": "系統用蓄電池事業の市場動向および事業開発",
+    "article_ids": [
+      875689,
+      380927
+    ],
+    "is_grouped": true
+  },
+  {
+    "topic_name": "太陽光発電・光蓄電池等の技術開発",
+    "article_ids": [
+      465413
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "岩石蓄熱の実証実験",
+    "article_ids": [
+      243710
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "住宅用蓄電池を活用した電力需要管理",
+    "article_ids": [
+      935717
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "大分県野津の系統用蓄電池プロジェクト",
+    "article_ids": [
+      622383
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "系統用蓄電池の補助金制度に関するウェビナー",
+    "article_ids": [
+      394012
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "日本気象協会とRecharge Powerによる蓄電池運用高度化の連携",
+    "article_ids": [
+      797215
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "CATLのナトリウムイオン電池受注",
+    "article_ids": [
+      350565
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "エネルギー需要家の統合エネルギー戦略",
+    "article_ids": [
+      402740
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "Universによる蓄電所向けエネルギー管理システム",
+    "article_ids": [
+      817861
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "AIデータセンター向けニッケル亜鉛電池の開発",
+    "article_ids": [
+      815815
+    ],
+    "is_grouped": false
+  }
+]

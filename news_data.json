@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14 14:14:58",
-  "total_count": 58,
+  "updated_at": "2026-10-14 23:36:56",
+  "total_count": 82,
   "articles": [
     {
       "id": 465413,
@@ -521,6 +521,222 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSVRnQncteFpPUjZ0Zng4UE1yX1E4b3AyTU1nanQ0MTF2SlppYjFKZU5Bbzh5Zkx6UDA2SVhReXNqcWY3NHpsQWNLdmI5ZEN0RThkMUl4SQ?oc=5",
       "published": "Tue, 13 Oct 2026 21:03:15 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBSVRnQncteFpPUjZ0Zng4UE1yX1E4b3AyTU1nanQ0MTF2SlppYjFKZU5Bbzh5Zkx6UDA2SVhReXNqcWY3NHpsQWNLdmI5ZEN0RThkMUl4SQ?oc=5\" target=\"_blank\">米ＰＪＭ、供給力確保に難渋／データセンター需要増背景 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 559456,
+      "title": "蓄電池型超急速ＥＶ充電システム 若狭町できょう利用開始 ＰＬＡＮＴ駐車場 - 中日新聞Web",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iVXhaQy13a0Q2WEpLSHhGVXM3bUM3MUxpNWpDRXpidjFhMUpLVnVPb3BuWHo1MHJ0RHpmZ1V5M3ExdnkzcEdlZFZwR18yLTZCQjJRdXV4cDdnSnM?oc=5",
+      "published": "Wed, 14 Oct 2026 20:05:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iVXhaQy13a0Q2WEpLSHhGVXM3bUM3MUxpNWpDRXpidjFhMUpLVnVPb3BuWHo1MHJ0RHpmZ1V5M3ExdnkzcEdlZFZwR18yLTZCQjJRdXV4cDdnSnM?oc=5\" target=\"_blank\">蓄電池型超急速ＥＶ充電システム 若狭町できょう利用開始 ＰＬＡＮＴ駐車場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中日新聞Web</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 817861,
+      "title": "「蓄電所がけん引するIoTの第二段階、電力全体や店舗にも波及」、シンガポールUniversの百合田カントリーマネジャー - 日経BP",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GNnBPU1Y3RjF4anJRVVRaOUY3STBIVWc0Nk14T043eGh4M2w5dGtSRmQwTkJZS3dfUzN1M2Q3Q09NVDhnVkRQZ205TlVyS0FRcVUzbTFZOVYzTnZKbWIwbEh0YldEMjlZYXhEdDlFV3otOURJZHZKVA?oc=5",
+      "published": "Wed, 14 Oct 2026 20:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5GNnBPU1Y3RjF4anJRVVRaOUY3STBIVWc0Nk14T043eGh4M2w5dGtSRmQwTkJZS3dfUzN1M2Q3Q09NVDhnVkRQZ205TlVyS0FRcVUzbTFZOVYzTnZKbWIwbEh0YldEMjlZYXhEdDlFV3otOURJZHZKVA?oc=5\" target=\"_blank\">「蓄電所がけん引するIoTの第二段階、電力全体や店舗にも波及」、シンガポールUniversの百合田カントリーマネジャー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経BP</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 219355,
+      "title": "蓄電池型超急速ＥＶ充電システム 若狭町できょう利用開始 ＰＬＡＮＴ駐車場 - 47NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RSFdNYnFpNlFsckt3OHNwcG13SS1oY0dhVkwxMkFKWmFyaFZkM1JidF9HdjV0bXJJQlN6UVpueVpPY25JNmFMMmVxbw?oc=5",
+      "published": "Wed, 14 Oct 2026 20:05:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RSFdNYnFpNlFsckt3OHNwcG13SS1oY0dhVkwxMkFKWmFyaFZkM1JidF9HdjV0bXJJQlN6UVpueVpPY25JNmFMMmVxbw?oc=5\" target=\"_blank\">蓄電池型超急速ＥＶ充電システム 若狭町できょう利用開始 ＰＬＡＮＴ駐車場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 822447,
+      "title": "【蓄電関連】サステナブルホールディングス：系統用蓄電池の用地選定項目を公開、ハザードや法規制を事業化前に確認 - みんなの広報宣伝部",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yR21HLUpfREF3ekxRbFNBLTBPZHd1RXROVlpmQThZZWVmUFBGMmlkSzhrUzM0VUJzQ3BKUzRwdnp4MWdWUFhERmRNdHpDc1gwNVBFdUNvd3pLdmVxSGNBQlpBQUN2d25LcHU4ZVBmLS1ZUQ?oc=5",
+      "published": "Wed, 14 Oct 2026 22:05:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE4yR21HLUpfREF3ekxRbFNBLTBPZHd1RXROVlpmQThZZWVmUFBGMmlkSzhrUzM0VUJzQ3BKUzRwdnp4MWdWUFhERmRNdHpDc1gwNVBFdUNvd3pLdmVxSGNBQlpBQUN2d25LcHU4ZVBmLS1ZUQ?oc=5\" target=\"_blank\">【蓄電関連】サステナブルホールディングス：系統用蓄電池の用地選定項目を公開、ハザードや法規制を事業化前に確認</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 427003,
+      "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL88号 山梨市三富系統連携蓄電池シリーズ② 完売』 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10QmVuMUR2M1F4Wlo1SDJjNTg1ckFodUNCZkdyMkxfYnAwVUhSbEQtdDZfV0t3bGxNRjhzd0owUDJWLWtrWHR0bm1wUVY3SEFRYlcyRlgtOTlPQTZEaGRHZXBmeHZxQ20wY1E?oc=5",
+      "published": "Wed, 14 Oct 2026 23:00:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE10QmVuMUR2M1F4Wlo1SDJjNTg1ckFodUNCZkdyMkxfYnAwVUhSbEQtdDZfV0t3bGxNRjhzd0owUDJWLWtrWHR0bm1wUVY3SEFRYlcyRlgtOTlPQTZEaGRHZXBmeHZxQ20wY1E?oc=5\" target=\"_blank\">【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL88号 山梨市三富系統連携蓄電池シリーズ② 完売』</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 688613,
+      "title": "マクセルが「次世代蓄電池量産へ」 工場自動化機器向け - 京都新聞デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MU1pBMHN4ZjJuY2tQSC0yU1BCUWlmeENhNjczQldMU3FUSDVMYzlOZkNwVm1mQWk1cG5PMURod1N6RmM3cTlYQS13RVA4azF6czhaTnBkelE?oc=5",
+      "published": "Wed, 14 Oct 2026 21:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MU1pBMHN4ZjJuY2tQSC0yU1BCUWlmeENhNjczQldMU3FUSDVMYzlOZkNwVm1mQWk1cG5PMURod1N6RmM3cTlYQS13RVA4azF6czhaTnBkelE?oc=5\" target=\"_blank\">マクセルが「次世代蓄電池量産へ」 工場自動化機器向け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 815815,
+      "title": "ニッケル亜鉛電池がAIデータセンター向けで採用へ、10年間の開発成果が花開く：Japan Mobility Show Bizweek 2026 - MONOist",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WbUp6OG9lT19WeVh4Q3hFUDRxVTR6MmZmeFBjeGFyNmVINVNjWWxNSnhSU1YxbkY5N04xYjhvWS1lbF9kdFhKTW1yVTlOc3JjSnMxei0wTDB3ZG9FUFplN2hSUFlPNTF0ZXhpUkE1RQ?oc=5",
+      "published": "Wed, 14 Oct 2026 21:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9WbUp6OG9lT19WeVh4Q3hFUDRxVTR6MmZmeFBjeGFyNmVINVNjWWxNSnhSU1YxbkY5N04xYjhvWS1lbF9kdFhKTW1yVTlOc3JjSnMxei0wTDB3ZG9FUFplN2hSUFlPNTF0ZXhpUkE1RQ?oc=5\" target=\"_blank\">ニッケル亜鉛電池がAIデータセンター向けで採用へ、10年間の開発成果が花開く：Japan Mobility Show Bizweek 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MONOist</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 682810,
+      "title": "蓄電池型超急速ＥＶ充電システム　若狭町できょう利用開始　ＰＬＡＮＴ駐車場 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wQXFILTdBRnlYUlU3OEZOTF9OR2lhVTQtcnZrNFZmc2x4QzJBZF93dkVvTm5oeGRxa2Qwckt4UUxhbFBEc2JkQ0tTdy1vLUs4YWZnY0cxbFF0V0dkbXJoRURFWldEdVNDenhzemt2ZjdESnFnaHc1NmRjbUNLVlHSAX9BVV95cUxOcEFxSC03QUZ5WFJVNzhGTkxfTkdpYVU0LXJ2azRWZnNseEMyQWRfd3ZFb05uaHhkcWtkMHJLeFFMYWxQRHNiZENLU3ctby1LOGFmZ2NHMWxRdFdHZG1yaEVERVpXRHVTQ3p4c3prdmY3REpxZ2h3NTZkY21DS1ZR?oc=5",
+      "published": "Wed, 14 Oct 2026 20:05:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5wQXFILTdBRnlYUlU3OEZOTF9OR2lhVTQtcnZrNFZmc2x4QzJBZF93dkVvTm5oeGRxa2Qwckt4UUxhbFBEc2JkQ0tTdy1vLUs4YWZnY0cxbFF0V0dkbXJoRURFWldEdVNDenhzemt2ZjdESnFnaHc1NmRjbUNLVlHSAX9BVV95cUxOcEFxSC03QUZ5WFJVNzhGTkxfTkdpYVU0LXJ2azRWZnNseEMyQWRfd3ZFb05uaHhkcWtkMHJLeFFMYWxQRHNiZENLU3ctby1LOGFmZ2NHMWxRdFdHZG1yaEVERVpXRHVTQ3p4c3prdmY3REpxZ2h3NTZkY21DS1ZR?oc=5\" target=\"_blank\">蓄電池型超急速ＥＶ充電システム　若狭町できょう利用開始　ＰＬＡＮＴ駐車場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 808925,
+      "title": "10月28日 SSKセミナー「低圧系統用蓄電池・VPPビジネス【基礎編】」RAUL株式会社代表 江田健二が登壇します - ドリームニュース",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91YXZNV2hqYkhEWFpqOV93UVo5NVdNZTgyRTl4VWVmYmd5SjVkeExCb0tPd3Y1aGVwa2tDZGhXYzktRml6cjRnaDBQTzk0TTZNM3FV?oc=5",
+      "published": "Wed, 14 Oct 2026 09:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE91YXZNV2hqYkhEWFpqOV93UVo5NVdNZTgyRTl4VWVmYmd5SjVkeExCb0tPd3Y1aGVwa2tDZGhXYzktRml6cjRnaDBQTzk0TTZNM3FV?oc=5\" target=\"_blank\">10月28日 SSKセミナー「低圧系統用蓄電池・VPPビジネス【基礎編】」RAUL株式会社代表 江田健二が登壇します</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドリームニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 73882,
+      "title": "系統用蓄電池の国補助金はなぜ「事業を完結させない」のか――1.8万円のギャップを読み解くウェビナーを開催 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4aHdUR2xjNFRTMjFVU1BBMFdjbjJEbk10c0RpSFUzVXlEVzJaNElhZ19RX2lldnIyRVBnOTVoX1pka1J0bmlobjcxUkV0UzZFeXVqb1BycURzZXFBN3ZJWVdCd2JyNzE0?oc=5",
+      "published": "Wed, 14 Oct 2026 20:48:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4aHdUR2xjNFRTMjFVU1BBMFdjbjJEbk10c0RpSFUzVXlEVzJaNElhZ19RX2lldnIyRVBnOTVoX1pka1J0bmlobjcxUkV0UzZFeXVqb1BycURzZXFBN3ZJWVdCd2JyNzE0?oc=5\" target=\"_blank\">系統用蓄電池の国補助金はなぜ「事業を完結させない」のか――1.8万円のギャップを読み解くウェビナーを開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 303781,
+      "title": "系統用蓄電池事業、第1号案件が運転開始 追加5件を受注 〜発足約2ヶ月で第1号案件を受注・2026年9月運開開始〜 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ycXE4bG9Xb192ZGlMS2tPeTRVcmRjOGxxZVdDQjJSaHgtanFqeVY5MkFud1loWU80Z1VTNlFITUU4dFQ5dDBsczFfV3k2TkdtN0NaSlRRTXRzcTlFY0FQNnl2TGlmNWtoR0E?oc=5",
+      "published": "Wed, 14 Oct 2026 05:00:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0ycXE4bG9Xb192ZGlMS2tPeTRVcmRjOGxxZVdDQjJSaHgtanFqeVY5MkFud1loWU80Z1VTNlFITUU4dFQ5dDBsczFfV3k2TkdtN0NaSlRRTXRzcTlFY0FQNnl2TGlmNWtoR0E?oc=5\" target=\"_blank\">系統用蓄電池事業、第1号案件が運転開始 追加5件を受注 〜発足約2ヶ月で第1号案件を受注・2026年9月運開開始〜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 365299,
+      "title": "エネルギーの効率的な利用目指す 県内初 蓄電池型の超急速EV充電システムが量販店に登場 若狭町 - TVer",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FbG8xN21FbWU4NUFwUGpYSEFyRS1wSnRXb0w2S1p2bHJubzJTT0ZNTWlpMzhVajVmRnlDSHRSQWJEUEtmaGhnMXY2OA?oc=5",
+      "published": "Wed, 14 Oct 2026 12:17:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FbG8xN21FbWU4NUFwUGpYSEFyRS1wSnRXb0w2S1p2bHJubzJTT0ZNTWlpMzhVajVmRnlDSHRSQWJEUEtmaGhnMXY2OA?oc=5\" target=\"_blank\">エネルギーの効率的な利用目指す 県内初 蓄電池型の超急速EV充電システムが量販店に登場 若狭町</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TVer</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 499928,
+      "title": "系統用蓄電池事業の第2号案件始動滋賀県長浜市に「fantasista nagahama PSS」建設開始 (2026年10月14日掲載) - ライブドアニュース",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HOXo4bVVQZmdKMXVEOFdEUm44OFA2TzI3bkhUS1pTMXhxSmNDQlZvTWg1ODNGdGZ1Q0xpNkJ0MkFCVkRPUElONjQwUDNpVVg5SEVBMkllUFkweFlGQW51Ni1R?oc=5",
+      "published": "Wed, 14 Oct 2026 03:05:52 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HOXo4bVVQZmdKMXVEOFdEUm44OFA2TzI3bkhUS1pTMXhxSmNDQlZvTWg1ODNGdGZ1Q0xpNkJ0MkFCVkRPUElONjQwUDNpVVg5SEVBMkllUFkweFlGQW51Ni1R?oc=5\" target=\"_blank\">系統用蓄電池事業の第2号案件始動滋賀県長浜市に「fantasista nagahama PSS」建設開始 (2026年10月14日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 892144,
+      "title": "系統用蓄電池事業、第1号案件が運転開始 追加5件を受注 ～発足約2ヶ月で第1号案件を受注・2026年9月運開開始 - Excite エキサイト",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xa0NBM2podk5PVkNUdER6X3h5WFZBemxCZ3BnSGc3aHdKaVlQSFB6MlMyTWJRRUVWVnViR2tsWFEwZ1RTenFiX0ZlSG4tZVdCQ1pZYTU5SDQ4QXhvQ2ZCeTJMYkpqeFFjSFVGNzdPTW1FSVk?oc=5",
+      "published": "Wed, 14 Oct 2026 11:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9xa0NBM2podk5PVkNUdER6X3h5WFZBemxCZ3BnSGc3aHdKaVlQSFB6MlMyTWJRRUVWVnViR2tsWFEwZ1RTenFiX0ZlSG4tZVdCQ1pZYTU5SDQ4QXhvQ2ZCeTJMYkpqeFFjSFVGNzdPTW1FSVk?oc=5\" target=\"_blank\">系統用蓄電池事業、第1号案件が運転開始 追加5件を受注 ～発足約2ヶ月で第1号案件を受注・2026年9月運開開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Excite エキサイト</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 976674,
+      "title": "【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL91号 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBadkx5RVkzTjhPemJleTNZdkRmMmFaVi1SNmY5M1IzMzN0aml2aU9hcXRSVmtKdDdjR0liUWhqNDF6UTNhOEJpRTNaM1Q0U2FUcnR0WA?oc=5",
+      "published": "Wed, 14 Oct 2026 01:45:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBadkx5RVkzTjhPemJleTNZdkRmMmFaVi1SNmY5M1IzMzN0aml2aU9hcXRSVmtKdDdjR0liUWhqNDF6UTNhOEJpRTNaM1Q0U2FUcnR0WA?oc=5\" target=\"_blank\">【完売御礼】人々の未来の利益と今の生活を豊かにするCAMEL『CAMEL91号</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 605258,
+      "title": "蓄電所が災害時の「非常用電源」に、高山市が活用 - 日経クロステック",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55bGh2LTJ5NzNCa05wazc3UVBWQmRocjZ4aVp2UHdGMHBXZHh2M29RVXlROGkyUmc1Yld3SzA1Q3BFSkxsSU9NNTlURmJjME94MGVwVTdidjB0LW84akRDMHROWS1DMmVSdjg0cA?oc=5",
+      "published": "Wed, 14 Oct 2026 20:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE55bGh2LTJ5NzNCa05wazc3UVBWQmRocjZ4aVp2UHdGMHBXZHh2M29RVXlROGkyUmc1Yld3SzA1Q3BFSkxsSU9NNTlURmJjME94MGVwVTdidjB0LW84akRDMHROWS1DMmVSdjg0cA?oc=5\" target=\"_blank\">蓄電所が災害時の「非常用電源」に、高山市が活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 103880,
+      "title": "暮らしのフリーマーケット - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDdfTUU3YXRfUU9HakpoaHZycEl6cW1xakZGdmRjR1NFNjBhel9BM2JaWV9fQW5rUFV6MmpyTWQ1aFk3andLd0pHTVJvaHNFTjN1czJqSjB4bHpzR092Y3UxS3VxckhmWVBHcGdXcDJCOXJxRExHSHVtSUI3MXJiNdIBhgFBVV95cUxNOGNYcWhncjkxS3FtSUprVVQyWUNndU5XalVKeTVsck1veTVIdzVJVElKbVNiSGxraExRczlDX1BsNFB2Y2MyMUFHRkEwYThqV0VDN0cxbF9KRnFZaTFLSUZud3lUdUFpZi1RQmh0RVg0Z0ZlbFI3MFhPaW1hMTZSWXd1S1RlUQ?oc=5",
+      "published": "Wed, 14 Oct 2026 01:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDdfTUU3YXRfUU9HakpoaHZycEl6cW1xakZGdmRjR1NFNjBhel9BM2JaWV9fQW5rUFV6MmpyTWQ1aFk3andLd0pHTVJvaHNFTjN1czJqSjB4bHpzR092Y3UxS3VxckhmWVBHcGdXcDJCOXJxRExHSHVtSUI3MXJiNdIBhgFBVV95cUxNOGNYcWhncjkxS3FtSUprVVQyWUNndU5XalVKeTVsck1veTVIdzVJVElKbVNiSGxraExRczlDX1BsNFB2Y2MyMUFHRkEwYThqV0VDN0cxbF9KRnFZaTFLSUZud3lUdUFpZi1RQmh0RVg0Z0ZlbFI3MFhPaW1hMTZSWXd1S1RlUQ?oc=5\" target=\"_blank\">暮らしのフリーマーケット</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 121425,
+      "title": "AIで発電・蓄電・電力消費を一元管理へ AmpotechとBuskowitzが提携、フィリピンで太陽光発電3.3MWpを共同推進 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0Uk1paWoxbVdZSGs3TlZTRmVfdFhCR0w2d3BPWlZEcnBOTzN1ZUZjQnZpWlkyY1hpbEFjeU9FMHJuaVRXY1JoM01BUzJMbVNrUnZldA?oc=5",
+      "published": "Wed, 14 Oct 2026 02:18:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0Uk1paWoxbVdZSGs3TlZTRmVfdFhCR0w2d3BPWlZEcnBOTzN1ZUZjQnZpWlkyY1hpbEFjeU9FMHJuaVRXY1JoM01BUzJMbVNrUnZldA?oc=5\" target=\"_blank\">AIで発電・蓄電・電力消費を一元管理へ AmpotechとBuskowitzが提携、フィリピンで太陽光発電3.3MWpを共同推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 451134,
+      "title": "需給調整市場の価格低下とボラティリティに対応、ENESがAIによる収益最大化運用を強化 - Excite エキサイト",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfSThRTXVZY2k4a1k2dFF6UUVkcTNEc3VIV0NReGR5S2xHeTdLbHVMZmU2M1hPQkdNY3d0T1RGY0I3aE5QcFM4ZlZoQU5rcGxFcF95bkFCZEFYMGpRbFZaSlMyMFVyUUpKYnJURDFZQzVZcG8?oc=5",
+      "published": "Wed, 14 Oct 2026 19:10:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBfSThRTXVZY2k4a1k2dFF6UUVkcTNEc3VIV0NReGR5S2xHeTdLbHVMZmU2M1hPQkdNY3d0T1RGY0I3aE5QcFM4ZlZoQU5rcGxFcF95bkFCZEFYMGpRbFZaSlMyMFVyUUpKYnJURDFZQzVZcG8?oc=5\" target=\"_blank\">需給調整市場の価格低下とボラティリティに対応、ENESがAIによる収益最大化運用を強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Excite エキサイト</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 29528,
+      "title": "GBP、トランスデューサに代わるJanitza製「高速周波数計測器」の一次調整力向け対応を発表 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oWHJLUFVEel9zVlRYTmw0b1ZXSzQ0YzJIZ0pFTFJJWTZ3eEtaOXdhdTdFNWF0TzJyQ0stNlFhZFFMLXFib3RxQTJXMS01OGpibEZUX1RMOHNHSjdfNVBDSVhJRExOa0l1U0E?oc=5",
+      "published": "Wed, 14 Oct 2026 23:00:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5oWHJLUFVEel9zVlRYTmw0b1ZXSzQ0YzJIZ0pFTFJJWTZ3eEtaOXdhdTdFNWF0TzJyQ0stNlFhZFFMLXFib3RxQTJXMS01OGpibEZUX1RMOHNHSjdfNVBDSVhJRExOa0l1U0E?oc=5\" target=\"_blank\">GBP、トランスデューサに代わるJanitza製「高速周波数計測器」の一次調整力向け対応を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 505492,
+      "title": "トラーチが創業5周年で組織改革に着手 - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9NMTh0eW1JZTFsVXpWSkVpeFdXQlBiQlI1NHEtSmVVZ3FnNU9rZWIxbHA4RXdPUC1zdUFpMnVSNlVJbzQ5d1E?oc=5",
+      "published": "Wed, 14 Oct 2026 05:40:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9NMTh0eW1JZTFsVXpWSkVpeFdXQlBiQlI1NHEtSmVVZ3FnNU9rZWIxbHA4RXdPUC1zdUFpMnVSNlVJbzQ5d1E?oc=5\" target=\"_blank\">トラーチが創業5周年で組織改革に着手</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 758054,
+      "title": "系統用蓄電池の国補助金はなぜ「事業を完結させない」のか――1.8万円のギャップを読み解くウェビナーを開催 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TVHNxNEVSYVhTcUJORGNJNWRnTG1tc0hSc3dnajFCLUpZRmF1N2doTVgxSEgycEUtQzRKVzFOc2lid0IzWTRZZVlTWGZ6MFZFbDVyclpNV3JfSmd1UzFjTy11V3VpN3ZaRkE?oc=5",
+      "published": "Wed, 14 Oct 2026 09:00:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9TVHNxNEVSYVhTcUJORGNJNWRnTG1tc0hSc3dnajFCLUpZRmF1N2doTVgxSEgycEUtQzRKVzFOc2lid0IzWTRZZVlTWGZ6MFZFbDVyclpNV3JfSmd1UzFjTy11V3VpN3ZaRkE?oc=5\" target=\"_blank\">系統用蓄電池の国補助金はなぜ「事業を完結させない」のか――1.8万円のギャップを読み解くウェビナーを開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 99098,
+      "title": "【画像】需給調整市場の価格低下とボラティリティに対応、ENESがAIによる収益最大化運用を強化 - ライブドアニュース",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2cG9MeW96RVJnY194QUhrWGt1cVhyUHltZDBNcW05U3FBM3NjQUVvQUJ3TWlsRlZJZWl4M3N1OElEclRVaFBJOUFtOThjdlhQYjVMX0otYmx2Z2tyVE4tczYtX2dQZU5lX1k3blpvYzZrWGtuUVI4?oc=5",
+      "published": "Wed, 14 Oct 2026 01:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFA2cG9MeW96RVJnY194QUhrWGt1cVhyUHltZDBNcW05U3FBM3NjQUVvQUJ3TWlsRlZJZWl4M3N1OElEclRVaFBJOUFtOThjdlhQYjVMX0otYmx2Z2tyVE4tczYtX2dQZU5lX1k3blpvYzZrWGtuUVI4?oc=5\" target=\"_blank\">【画像】需給調整市場の価格低下とボラティリティに対応、ENESがAIによる収益最大化運用を強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 908610,
+      "title": "天然ガス焚き火力発電市場における新たなトレンド：用途（住宅用、商業用）とタイプ別の詳細概 - pando.life",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9jUG10LTRwRzJDbFNBRTlNenlCaDJmRzdETjU4ZHZ3c2l0VWVfdnlNd3ByV3prMWZkZnBwdVBBZ190azIwaU1HTGVn?oc=5",
+      "published": "Wed, 14 Oct 2026 22:02:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9jUG10LTRwRzJDbFNBRTlNenlCaDJmRzdETjU4ZHZ3c2l0VWVfdnlNd3ByV3prMWZkZnBwdVBBZ190azIwaU1HTGVn?oc=5\" target=\"_blank\">天然ガス焚き火力発電市場における新たなトレンド：用途（住宅用、商業用）とタイプ別の詳細概</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pando.life</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     }
