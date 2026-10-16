@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16 13:40:14",
-  "total_count": 46,
+  "updated_at": "2026-10-16 23:13:02",
+  "total_count": 57,
   "articles": [
     {
       "id": 949860,
@@ -413,6 +413,105 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04NkJvTW9nNWRGeUMyMkxVRTJ4dmF2OHRTU2ozVnF3dFR5RGJHQ0JOdHI0Z2phQzd0Zk1NdGRaazQ1T19yX1NVeTB4Q0VYLThpcFkxeg?oc=5",
       "published": "Thu, 15 Oct 2026 19:15:23 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE04NkJvTW9nNWRGeUMyMkxVRTJ4dmF2OHRTU2ozVnF3dFR5RGJHQ0JOdHI0Z2phQzd0Zk1NdGRaazQ1T19yX1NVeTB4Q0VYLThpcFkxeg?oc=5\" target=\"_blank\">SUNEAST、サーバー／データセンター向けストレージ市場に参入。高耐久SATA SSDのサンプル評価受付を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 732547,
+      "title": "【蓄電関連】日本蓄電池：和歌山・海南市で系統用蓄電池を設置、需給調整市場や再エネ出力平準化に活用 - みんなの広報宣伝部",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjSFZNQ2lnVm1PQlJGek9ybGlfSXExZFlXSkU3X1Q4NncySFVaY1QzZE5FS2E3V1Z1TTZROWVKeHBsUWhiRE13SDZkLWp6R1ZKV3Q4UDV2bVAxX3RiRWxUemVZeTAwc3lhM3hHelN0c0QtUQ?oc=5",
+      "published": "Fri, 16 Oct 2026 22:13:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBjSFZNQ2lnVm1PQlJGek9ybGlfSXExZFlXSkU3X1Q4NncySFVaY1QzZE5FS2E3V1Z1TTZROWVKeHBsUWhiRE13SDZkLWp6R1ZKV3Q4UDV2bVAxX3RiRWxUemVZeTAwc3lhM3hHelN0c0QtUQ?oc=5\" target=\"_blank\">【蓄電関連】日本蓄電池：和歌山・海南市で系統用蓄電池を設置、需給調整市場や再エネ出力平準化に活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 623311,
+      "title": "再エネ出力制御はなぜ16倍に増えたのか――優先給電ルールと蓄電池の役割を読み解くウェビナーを開催 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43T1ZQSThHVFpBbTMzS1BmbXN0WGctakdpT3pESEJOaFNWdkczLWRjVmkyMEN0S0wwbXlHNlA1Qm9STVl2cnNvN2EwWk1STURfbnI0YzR1dGVmV3NRNDRxd3pMT1p5LS1Jam5pYjZBM3drc3dSX1ZRR0JMOA?oc=5",
+      "published": "Fri, 16 Oct 2026 21:15:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE43T1ZQSThHVFpBbTMzS1BmbXN0WGctakdpT3pESEJOaFNWdkczLWRjVmkyMEN0S0wwbXlHNlA1Qm9STVl2cnNvN2EwWk1STURfbnI0YzR1dGVmV3NRNDRxd3pMT1p5LS1Jam5pYjZBM3drc3dSX1ZRR0JMOA?oc=5\" target=\"_blank\">再エネ出力制御はなぜ16倍に増えたのか――優先給電ルールと蓄電池の役割を読み解くウェビナーを開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 765451,
+      "title": "NEXTES、20億円のシンジケートローン契約を締結し蓄電池事業の拡大を目指す - ニュースメディアVOIX",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54YnFubGhGMFRSTnJxb1lySVByY08tN0hianpOX1daZUFic1hIM2ZyamdrMnltZEE4VFR5Z3NQTHJOX2hKRHBhWjQ2WjU2cTFSM0RNXzZsZW9KMzVDUkxpQUduX3VJQ1k?oc=5",
+      "published": "Fri, 16 Oct 2026 10:14:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54YnFubGhGMFRSTnJxb1lySVByY08tN0hianpOX1daZUFic1hIM2ZyamdrMnltZEE4VFR5Z3NQTHJOX2hKRHBhWjQ2WjU2cTFSM0RNXzZsZW9KMzVDUkxpQUduX3VJQ1k?oc=5\" target=\"_blank\">NEXTES、20億円のシンジケートローン契約を締結し蓄電池事業の拡大を目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 773303,
+      "title": "ソーラーパネル、フランス人にとっては環境よりも採算が最優先 - Korben",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TZVhLckJWa2lFeWdpbFpoQzkzbEtVaFRzNVI3cnRhOGZaMHFRa3JETUJ5ekVNclRRaXNTcGpRRjFRVG0tcEc4alFWYXhzMmgxRlo4NEtvRHpkMldFTjJTUzZHUlN1RlpwNVpZd3RTRElKWlc5WnFkRHhJXzRKQQ?oc=5",
+      "published": "Fri, 16 Oct 2026 15:14:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9TZVhLckJWa2lFeWdpbFpoQzkzbEtVaFRzNVI3cnRhOGZaMHFRa3JETUJ5ekVNclRRaXNTcGpRRjFRVG0tcEc4alFWYXhzMmgxRlo4NEtvRHpkMldFTjJTUzZHUlN1RlpwNVpZd3RTRElKWlc5WnFkRHhJXzRKQQ?oc=5\" target=\"_blank\">ソーラーパネル、フランス人にとっては環境よりも採算が最優先</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korben</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 864803,
+      "title": "TESSグループ、「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51NE9UMjlDS0FMX0VGYU1pN1BuWENvRVlZd1A1dDZPelVhdjBNVjRHUTdpYW1RbzBUaGE5SzhybzBPLXJ4NG1hQjQ1ci1OYndHNTZBc2xoMHE2cHhZZ29pWVA0cTdoY0pSYmRRNzM0VGE5cmxBb3c?oc=5",
+      "published": "Fri, 16 Oct 2026 17:30:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE51NE9UMjlDS0FMX0VGYU1pN1BuWENvRVlZd1A1dDZPelVhdjBNVjRHUTdpYW1RbzBUaGE5SzhybzBPLXJ4NG1hQjQ1ci1OYndHNTZBc2xoMHE2cHhZZ29pWVA0cTdoY0pSYmRRNzM0VGE5cmxBb3c?oc=5\" target=\"_blank\">TESSグループ、「静岡菊川蓄電所」にて機関投資家・アナリスト向け現場見学会を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 189886,
+      "title": "系統用高圧蓄電所「fantasista nagahama PSS（長浜蓄電所）」の着工に関するお知らせ - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91X01rOEdYSlNoYjdLZ1BaVFZUTms1SWRUNHBBeUFKYWJGVjgtOW5KeHZlVWx6V20wUUdVTzZNVHlaQWtyc25CbXVnVnNrOXNZLWRTS25EaHhfVmhoUC1KVG9RejVJUGJJRGFWZlRwaDQtd0N0eFdjczc2UQ?oc=5",
+      "published": "Fri, 16 Oct 2026 12:45:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE91X01rOEdYSlNoYjdLZ1BaVFZUTms1SWRUNHBBeUFKYWJGVjgtOW5KeHZlVWx6V20wUUdVTzZNVHlaQWtyc25CbXVnVnNrOXNZLWRTS25EaHhfVmhoUC1KVG9RejVJUGJJRGFWZlRwaDQtd0N0eFdjczc2UQ?oc=5\" target=\"_blank\">系統用高圧蓄電所「fantasista nagahama PSS（長浜蓄電所）」の着工に関するお知らせ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 800041,
+      "title": "企業の遊休社有地を「環境貢献＆防災拠点」へ。大気水生成ソリューション「AirElixir」を活用した「サステナブルパー - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55bEhZV3hlMXVtZFhPaEkxS1lqTmllOFJTdXZyZHlsVG5KbVVMYWpJWTg2VU9ObXgxTUVTYV9yMmpPTVYtekpTUFJKVENBTTNBWExidVdkdjZla2pURWlvVEJ0SUVERF9RUjk5VzZwZ2xKMDlUanc?oc=5",
+      "published": "Fri, 16 Oct 2026 06:45:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE55bEhZV3hlMXVtZFhPaEkxS1lqTmllOFJTdXZyZHlsVG5KbVVMYWpJWTg2VU9ObXgxTUVTYV9yMmpPTVYtekpTUFJKVENBTTNBWExidVdkdjZla2pURWlvVEJ0SUVERF9RUjk5VzZwZ2xKMDlUanc?oc=5\" target=\"_blank\">企業の遊休社有地を「環境貢献＆防災拠点」へ。大気水生成ソリューション「AirElixir」を活用した「サステナブルパー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 857702,
+      "title": "テックマイズ、2026年度「五反田バレーアクセラレーションプログラム」に採択 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SZENwWGFHV2ZQdU0zdkxVMzl4dnpfWktOMWQ2VzVjbGotUS00ZmdMSUF3YlFRem1XcEtJZWFSMV9EY2dEeFhSRFM1cmVuRk1BUUVBUG1KeDdiMHkzajZ2aUp5SWdvcU1SVXZRb2ZrMmNFbi1EVERNQVllaw?oc=5",
+      "published": "Fri, 16 Oct 2026 09:51:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9SZENwWGFHV2ZQdU0zdkxVMzl4dnpfWktOMWQ2VzVjbGotUS00ZmdMSUF3YlFRem1XcEtJZWFSMV9EY2dEeFhSRFM1cmVuRk1BUUVBUG1KeDdiMHkzajZ2aUp5SWdvcU1SVXZRb2ZrMmNFbi1EVERNQVllaw?oc=5\" target=\"_blank\">テックマイズ、2026年度「五反田バレーアクセラレーションプログラム」に採択</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 378713,
+      "title": "TESSグループ、合同会社クラダシ・インベストメント２号様から「系統用蓄電所」の設置工事を受注｜Infoseekニュース - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OQmEtaTQ3cDV6N3JObmxOem44cUdnNThMcFluWHNzV3V2djFuRUIzNGR0WUJoT01RVE9BNVZQRGlScDdZZUl3QUxiUkVtX01jM0haU3NKOGNQNHhJVVZPVVFQNkUyRGlYNzAya1B5ZVl2Zw?oc=5",
+      "published": "Fri, 16 Oct 2026 13:10:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5OQmEtaTQ3cDV6N3JObmxOem44cUdnNThMcFluWHNzV3V2djFuRUIzNGR0WUJoT01RVE9BNVZQRGlScDdZZUl3QUxiUkVtX01jM0haU3NKOGNQNHhJVVZPVVFQNkUyRGlYNzAya1B5ZVl2Zw?oc=5\" target=\"_blank\">TESSグループ、合同会社クラダシ・インベストメント２号様から「系統用蓄電所」の設置工事を受注｜Infoseekニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 303779,
+      "title": "NEXTES、総額20億円のシンジケートローンを締結 「革新的技術研究成果活用事業円滑化債務保証制度」を活用 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xRFNSVExyWndwaExpSlJqdnN0d2QtLURhOFZXUl9pano0VzZPZERVWERlSFdvZFptekR4bFhUQjJ1aldyb1FRRl9PbVVGb2tpcEh4UmFlNzVZQVdpWERLYXlkeEZIdktZ?oc=5",
+      "published": "Fri, 16 Oct 2026 17:15:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xRFNSVExyWndwaExpSlJqdnN0d2QtLURhOFZXUl9pano0VzZPZERVWERlSFdvZFptekR4bFhUQjJ1aldyb1FRRl9PbVVGb2tpcEh4UmFlNzVZQVdpWERLYXlkeEZIdktZ?oc=5\" target=\"_blank\">NEXTES、総額20億円のシンジケートローンを締結 「革新的技術研究成果活用事業円滑化債務保証制度」を活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 794713,
+      "title": "「欧州DSF最前線と需要家起点の電力市場」と題して、株式会社DIVE COMPASS 代表取締役 山本 英夫氏によるセミナーを2026年11月19日(木)に開催!! - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0QUxNRVdJeVpyTUVjQlpaXzNyVkF2UmhpaUxpS3g0UVMycnY5ZGtxSFBIVnRRcnNIQkFBSllwcUM0eU15ZTNqdi12M0hZZG5CZ0VNODM0elE2SzNmTG9PWkNiZzFuQmJzQV9CdEphNVpaU2pYN2M5NnFMNA?oc=5",
+      "published": "Fri, 16 Oct 2026 03:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFA0QUxNRVdJeVpyTUVjQlpaXzNyVkF2UmhpaUxpS3g0UVMycnY5ZGtxSFBIVnRRcnNIQkFBSllwcUM0eU15ZTNqdi12M0hZZG5CZ0VNODM0elE2SzNmTG9PWkNiZzFuQmJzQV9CdEphNVpaU2pYN2M5NnFMNA?oc=5\" target=\"_blank\">「欧州DSF最前線と需要家起点の電力市場」と題して、株式会社DIVE COMPASS 代表取締役 山本 英夫氏によるセミナーを2026年11月19日(木)に開催!!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     }
