@@ -1,409 +1,49 @@
 {
-  "updated_at": "2026-10-21 23:52:43",
-  "total_count": 70,
+  "updated_at": "2026-10-22 14:16:14",
+  "total_count": 56,
   "articles": [
     {
-      "id": 746730,
-      "title": "日本蓄電池とSBIスマートエナジー、「系統用蓄電池ファンド」組成 - ニュース - メガソーラービジネス plus - 日経BP",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mcGhtWGI3OGhiNHBZQU52MG1wd0lmeVJRS01CanNLRENpMHhNdEpwOG1uSkwtWFNNNS1SNzhCaHd1NGJubVVMVzNodER6LVZlUFZjelV0N29vUUQ2SUpOeTAyMlc1Z3B1VUx1SzEtY2xUbVdO?oc=5",
-      "published": "Wed, 21 Oct 2026 01:47:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9mcGhtWGI3OGhiNHBZQU52MG1wd0lmeVJRS01CanNLRENpMHhNdEpwOG1uSkwtWFNNNS1SNzhCaHd1NGJubVVMVzNodER6LVZlUFZjelV0N29vUUQ2SUpOeTAyMlc1Z3B1VUx1SzEtY2xUbVdO?oc=5\" target=\"_blank\">日本蓄電池とSBIスマートエナジー、「系統用蓄電池ファンド」組成 - ニュース - メガソーラービジネス plus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経BP</font>",
+      "id": 774251,
+      "title": "経産省、太陽光・蓄電池向けJC-STAR、「レベル２」以上も検討へ - ニュース - メガソーラービジネス plus - 日経BP",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xTDkwaE1EUllRMEE2V1RXdEdZZF9iSlNicEtaaVRxWHRZaTNQMVY2ejhTbkpTSThMZkVRTkRac21NLUZrWmwxdkU4VkhfWndDejJxYk9EOEJfZTI0Vk1rNHhIaUFkbThuYzZPbUx2NC1adGhf?oc=5",
+      "published": "Thu, 22 Oct 2026 05:17:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9xTDkwaE1EUllRMEE2V1RXdEdZZF9iSlNicEtaaVRxWHRZaTNQMVY2ejhTbkpTSThMZkVRTkRac21NLUZrWmwxdkU4VkhfWndDejJxYk9EOEJfZTI0Vk1rNHhIaUFkbThuYzZPbUx2NC1adGhf?oc=5\" target=\"_blank\">経産省、太陽光・蓄電池向けJC-STAR、「レベル２」以上も検討へ - ニュース - メガソーラービジネス plus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経BP</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 879506,
-      "title": "系統用蓄電池市場は2050年に何倍になるのか――2030・2050年見通しを読み解くウェビナーを開催 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ST0FvQW96MkxEbWNMeURfQzQ2TlVrT1FxbHBkd2VBekM2TU9BckExeGFjZVV3Um4zZ3lDclExVlktdGNaQ1oydFRLWU1uQUowZmdvLUZFSlhNSHByQlcxaU05S0FZNmo4Nnc?oc=5",
-      "published": "Wed, 21 Oct 2026 09:00:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5ST0FvQW96MkxEbWNMeURfQzQ2TlVrT1FxbHBkd2VBekM2TU9BckExeGFjZVV3Um4zZ3lDclExVlktdGNaQ1oydFRLWU1uQUowZmdvLUZFSlhNSHByQlcxaU05S0FZNmo4Nnc?oc=5\" target=\"_blank\">系統用蓄電池市場は2050年に何倍になるのか――2030・2050年見通しを読み解くウェビナーを開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "id": 301070,
+      "title": "パナソニックEW、太陽光・蓄電池など値上げ 27年1月から - 新建ハウジング",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wZEpBWlBhMVQyQ21xck9TMUFWV2NlSUN5NXJkNzRyVzdhZ01JaTdoSXZlVU1mMTZLQ0ltc0dSOGxkNW5ld01NWWJTOFpNYk1pMHc?oc=5",
+      "published": "Thu, 22 Oct 2026 08:02:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wZEpBWlBhMVQyQ21xck9TMUFWV2NlSUN5NXJkNzRyVzdhZ01JaTdoSXZlVU1mMTZLQ0ltc0dSOGxkNW5ld01NWWJTOFpNYk1pMHc?oc=5\" target=\"_blank\">パナソニックEW、太陽光・蓄電池など値上げ 27年1月から</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新建ハウジング</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 649658,
-      "title": "ソーラーパネル搭載のEVバイク「AGAO」に注目。1日15km分を自動充電できる「走る蓄電池」（スマートモビリティJP） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NbGNuV2ZTMlFoUXVkN1l1OXk0M3BVTTcxb1ZvWURKSDJ4QjBkWGFEUGNvWDRWbl93Mjd2alBVeGV1clFUeHBfZ2NiZDN3YndsZDlLZTNmMkR3WHJQcVc1aUNEWXRycnR5TTJZcm1Gb29DY2hxSVJBNlJ5djJ0bDA?oc=5",
-      "published": "Wed, 21 Oct 2026 07:30:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1NbGNuV2ZTMlFoUXVkN1l1OXk0M3BVTTcxb1ZvWURKSDJ4QjBkWGFEUGNvWDRWbl93Mjd2alBVeGV1clFUeHBfZ2NiZDN3YndsZDlLZTNmMkR3WHJQcVc1aUNEWXRycnR5TTJZcm1Gb29DY2hxSVJBNlJ5djJ0bDA?oc=5\" target=\"_blank\">ソーラーパネル搭載のEVバイク「AGAO」に注目。1日15km分を自動充電できる「走る蓄電池」（スマートモビリティJP）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "id": 413039,
+      "title": "EV普及啓発発信事業「つながる！電気とクルマと暮らし展-走る蓄電池が、家とまちを守る-」 - 北九州市",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lV3V6V3BlVlFtXy1hMktmd2VlS0lQUDZzZXZWR0xwTjNLOWcxcUo1SjlsdFhOMkZNN05EUWYxejNLN0lTdm9TMW03d0d0c3FoY1BVajhLb0dHWFdpZzdVeksyLUVnOUNfb2c?oc=5",
+      "published": "Thu, 22 Oct 2026 04:14:11 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1lV3V6V3BlVlFtXy1hMktmd2VlS0lQUDZzZXZWR0xwTjNLOWcxcUo1SjlsdFhOMkZNN05EUWYxejNLN0lTdm9TMW03d0d0c3FoY1BVajhLb0dHWFdpZzdVeksyLUVnOUNfb2c?oc=5\" target=\"_blank\">EV普及啓発発信事業「つながる！電気とクルマと暮らし展-走る蓄電池が、家とまちを守る-」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北九州市</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 887685,
-      "title": "カンエイ・TERASが系統用蓄電池事業を共同開発、Bluefield Energyがアグリゲーターとして運用 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12T004ZnJVbWR4aGNEZFBuQUZCeWN4UVhkTWZWSGxBUGlfVnNwc0VpYlZKNGxBNnU4QnhHcDhjdnc4d0R2YVBRNV9uMXMxUWhUNzI3c0ZLaUh5RXBMSXNSQ2JmQjdJbjI3X0ZXWjdTTHZYcFpBUk82cXJaQQ?oc=5",
-      "published": "Wed, 21 Oct 2026 08:30:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE12T004ZnJVbWR4aGNEZFBuQUZCeWN4UVhkTWZWSGxBUGlfVnNwc0VpYlZKNGxBNnU4QnhHcDhjdnc4d0R2YVBRNV9uMXMxUWhUNzI3c0ZLaUh5RXBMSXNSQ2JmQjdJbjI3X0ZXWjdTTHZYcFpBUk82cXJaQQ?oc=5\" target=\"_blank\">カンエイ・TERASが系統用蓄電池事業を共同開発、Bluefield Energyがアグリゲーターとして運用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "id": 678668,
+      "title": "NTTドコモとNTT、基地局の通信負荷と蓄電池をAIで協調制御 再エネ活用と停電対策を検証 - NOVAIST",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hMGlXSkxEVDhydkhrQVBsYl9GYWQxNHBMWGg5NHdtMmxZaWdPTHh0TFVYLWdpdGVOV2ZPU1BJMHVuN1Z4NTNtMXJjZV9ORTZXcGVLUmxnby1HYzg4cHYzTENId1FtM3c?oc=5",
+      "published": "Thu, 22 Oct 2026 09:42:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hMGlXSkxEVDhydkhrQVBsYl9GYWQxNHBMWGg5NHdtMmxZaWdPTHh0TFVYLWdpdGVOV2ZPU1BJMHVuN1Z4NTNtMXJjZV9ORTZXcGVLUmxnby1HYzg4cHYzTENId1FtM3c?oc=5\" target=\"_blank\">NTTドコモとNTT、基地局の通信負荷と蓄電池をAIで協調制御 再エネ活用と停電対策を検証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NOVAIST</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 348050,
-      "title": "ＧＰＵデータセンターに蓄電池活用 パワーエックス、電力費削減狙い - 山陽新聞デジタル｜さんデジ",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2RVNmZEhkbzEtMUFVOGNUYXV0TkpsbndFSVVWZmdMOHM4bHM0cVlQdi1EWGNsY2MwTG1jMEYtc0tDazgxaEFBdDFCOURISHpXWkE?oc=5",
-      "published": "Wed, 21 Oct 2026 07:27:49 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2RVNmZEhkbzEtMUFVOGNUYXV0TkpsbndFSVVWZmdMOHM4bHM0cVlQdi1EWGNsY2MwTG1jMEYtc0tDazgxaEFBdDFCOURISHpXWkE?oc=5\" target=\"_blank\">ＧＰＵデータセンターに蓄電池活用 パワーエックス、電力費削減狙い</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞デジタル｜さんデジ</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 269624,
-      "title": "東北大 「光蓄電池」の新設計を確立 太陽光で充電、約１ボルトの光電圧を実現 - 環境新聞オンライン",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aTjJtWkJndEF4c0tiQzZRXy1PUGdZYXZUQ2JBRTRYRG1OTHNrc0NFT3VweGlzX1oyQjhNTVdrbHQ4OVB5OC01ZzI2b21wY2JmODM4WEhMT3p1VXlCdElQYm5mWGd4T0pqOHlsbkVKeUJpOWdWTnE3Ymdwbw?oc=5",
-      "published": "Tue, 20 Oct 2026 22:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9aTjJtWkJndEF4c0tiQzZRXy1PUGdZYXZUQ2JBRTRYRG1OTHNrc0NFT3VweGlzX1oyQjhNTVdrbHQ4OVB5OC01ZzI2b21wY2JmODM4WEhMT3p1VXlCdElQYm5mWGd4T0pqOHlsbkVKeUJpOWdWTnE3Ymdwbw?oc=5\" target=\"_blank\">東北大 「光蓄電池」の新設計を確立 太陽光で充電、約１ボルトの光電圧を実現</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">環境新聞オンライン</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 747707,
-      "title": "【ゼミ】エナリス：脱炭素「義務化時代」の経営戦略を議論、産官学が制度改正と再エネ・蓄電池活用の最新動向を解説 - みんなの広報宣伝部",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIb1NPWldVdmF4QkFSSVM3dGhSZkZIYk5NTWVjSkM4bjlBekJBejluVWlFWnFLMHJtc013Y1V6WFBPV0FoSzk5dW11ZFItdG5qb18xeVI1OFpTZ1FnZXVqVUV6QVQyZ3p5em1BaUJuWlRYR1U?oc=5",
-      "published": "Wed, 21 Oct 2026 04:40:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBIb1NPWldVdmF4QkFSSVM3dGhSZkZIYk5NTWVjSkM4bjlBekJBejluVWlFWnFLMHJtc013Y1V6WFBPV0FoSzk5dW11ZFItdG5qb18xeVI1OFpTZ1FnZXVqVUV6QVQyZ3p5em1BaUJuWlRYR1U?oc=5\" target=\"_blank\">【ゼミ】エナリス：脱炭素「義務化時代」の経営戦略を議論、産官学が制度改正と再エネ・蓄電池活用の最新動向を解説</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 833249,
-      "title": "蓄電池事業における提携は、エクセロン（EXC）にとって重要な試金石となる可能性がある - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmp0Umw4SVpBazJVN2xJd3NleUdQZlpGUkxYYlFHcGV5NnJxUmRPV1ZRc2hTX3ZhV1BrYWlMYVluOFkxQmphckl0NUZHbVFacFg1RlRvSFJ5dkFtV3dIWDFDUVR1eXotbjg5Z0JXNEtBY3JTNkNuY1lHNUhKWndQS185Tmo4NjdSZkx3SNIBkgFBVV95cUxNZ0FRX3dkMGJNTnVrSFRvN0V1QXR1b09Rd0t1V3d6ZGRmNHBjODdPQXg1Uzd2OG5RX0lNM3lhaVJhbWluWk1ZSExwTm1EcmU4aVkybF8yUXk5OUpPalY3dy1RXzk0YUtvbldIbWRjaVo1T1pZUk9TX3R3YUMxRzV2b0pDcW01bGRraTBSTi1BX1dLdw?oc=5",
-      "published": "Tue, 20 Oct 2026 20:28:18 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmp0Umw4SVpBazJVN2xJd3NleUdQZlpGUkxYYlFHcGV5NnJxUmRPV1ZRc2hTX3ZhV1BrYWlMYVluOFkxQmphckl0NUZHbVFacFg1RlRvSFJ5dkFtV3dIWDFDUVR1eXotbjg5Z0JXNEtBY3JTNkNuY1lHNUhKWndQS185Tmo4NjdSZkx3SNIBkgFBVV95cUxNZ0FRX3dkMGJNTnVrSFRvN0V1QXR1b09Rd0t1V3d6ZGRmNHBjODdPQXg1Uzd2OG5RX0lNM3lhaVJhbWluWk1ZSExwTm1EcmU4aVkybF8yUXk5OUpPalY3dy1RXzk0YUtvbldIbWRjaVo1T1pZUk9TX3R3YUMxRzV2b0pDcW01bGRraTBSTi1BX1dLdw?oc=5\" target=\"_blank\">蓄電池事業における提携は、エクセロン（EXC）にとって重要な試金石となる可",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 710213,
-      "title": "「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串 康彦氏によるセミナーを2026年11月27日(金)に開催! - Excite エキサイト",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yMjhpSklnZWxzMUFTWlVWT3lnWkdLdFVVMjBRU1dpYjhUU20zclRia3FQYzloMzVXOG5VNUtZT2hMRzVmSjVuc1BwcVliOGhMZXhZVTNleDFiSnYxNVJvRlFwaU04V1ZuMVVtMVZHb2YxenhtelE?oc=5",
-      "published": "Wed, 21 Oct 2026 04:45:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8yMjhpSklnZWxzMUFTWlVWT3lnWkdLdFVVMjBRU1dpYjhUU20zclRia3FQYzloMzVXOG5VNUtZT2hMRzVmSjVuc1BwcVliOGhMZXhZVTNleDFiSnYxNVJvRlFwaU04V1ZuMVVtMVZHb2YxenhtelE?oc=5\" target=\"_blank\">「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串 康彦氏によるセミナーを2026年11月27日(金)に開催!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Excite エキサイト</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 752486,
-      "title": "電極を積層し光電圧100倍に 東北大らの光蓄電池（EE Times Japan） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mVTIzSy0zS0MySWJjUnR5ZE5OX0pIT1UtcGFTMlhENFRXQjBrc1d3VWZ4bE1PUnR5N3luTi1sMWdBSnR5Z1RaOWNVaFY0NE5JaUg4R2RsanpHblAtUV85T05ZaXkyR1ppQWNJMTlWWjZJdkVfME1feThYcmczOU0?oc=5",
-      "published": "Wed, 21 Oct 2026 00:38:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9mVTIzSy0zS0MySWJjUnR5ZE5OX0pIT1UtcGFTMlhENFRXQjBrc1d3VWZ4bE1PUnR5N3luTi1sMWdBSnR5Z1RaOWNVaFY0NE5JaUg4R2RsanpHblAtUV85T05ZaXkyR1ppQWNJMTlWWjZJdkVfME1feThYcmczOU0?oc=5\" target=\"_blank\">電極を積層し光電圧100倍に 東北大らの光蓄電池（EE Times Japan）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 561622,
-      "title": "「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JSEdxY3hDNTVUVk1zakQxVWZoS1M0VG9qbC1JVG9jSDBuSzZHbFU1Z2ZEMnVOOUFIeGZrRDB6R19hTVFxWDctZlRVeEpzaGlfRXI1WWdDYVp6WE5jRU9RdHJfbXZmY1JQQ1E1ZTJYNjVnajdscnJoM2hUOA?oc=5",
-      "published": "Wed, 21 Oct 2026 10:30:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9JSEdxY3hDNTVUVk1zakQxVWZoS1M0VG9qbC1JVG9jSDBuSzZHbFU1Z2ZEMnVOOUFIeGZrRDB6R19hTVFxWDctZlRVeEpzaGlfRXI1WWdDYVp6WE5jRU9RdHJfbXZmY1JQQ1E1ZTJYNjVnajdscnJoM2hUOA?oc=5\" target=\"_blank\">「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 59754,
-      "title": "日本気象協会とリチャージ 蓄電池運用の高度化で連携 電力価格予測を活用 - 環境新聞オンライン",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wTTBkQm4yLWFXOWZ4ZUlQcmRONUNKUTFsMTdEUjhiWm52dlF3TTF3Z3NLak5aUmNkbXJnXzlWc3RzdjNWYmtJVjZSUzB2VDVJVWtyX09QbmpMREpJVjJLRVVpYzdLcUJvRU5uOFhmWU5fVTZCcnpjbHpNYw?oc=5",
-      "published": "Tue, 20 Oct 2026 22:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE4wTTBkQm4yLWFXOWZ4ZUlQcmRONUNKUTFsMTdEUjhiWm52dlF3TTF3Z3NLak5aUmNkbXJnXzlWc3RzdjNWYmtJVjZSUzB2VDVJVWtyX09QbmpMREpJVjJLRVVpYzdLcUJvRU5uOFhmWU5fVTZCcnpjbHpNYw?oc=5\" target=\"_blank\">日本気象協会とリチャージ 蓄電池運用の高度化で連携 電力価格予測を活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">環境新聞オンライン</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 63354,
-      "title": "【海外】SolarPower Europe：EUの太陽光・蓄電関連雇用は98.2万人、蓄電池分野が10.8万人を創出 - みんなの広報宣伝部",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tNkNNWVAya1k0dk5ZUUVnbTFzTS1PTHZHVnk1V2xqbE95cUwtVU03VHBCSXU4WjlGYkt3WmgyZ29QLVNiRWtoc256bk9EYlZlVnRsWHBwWjhoNUVJYVlsMGpFMDViYWg2LUlHRV9fcmIxUQ?oc=5",
-      "published": "Tue, 20 Oct 2026 22:40:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE0tNkNNWVAya1k0dk5ZUUVnbTFzTS1PTHZHVnk1V2xqbE95cUwtVU03VHBCSXU4WjlGYkt3WmgyZ29QLVNiRWtoc256bk9EYlZlVnRsWHBwWjhoNUVJYVlsMGpFMDViYWg2LUlHRV9fcmIxUQ?oc=5\" target=\"_blank\">【海外】SolarPower Europe：EUの太陽光・蓄電関連雇用は98.2万人、蓄電池分野が10.8万人を創出</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 354572,
-      "title": "ソーラーパネル搭載のEVバイク「AGAO」に注目。1日15km分を自動充電できる「走る蓄電池」 (スマートモビリティJP) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUVBwVTh4OTBJY3RrQ1RwYWFoSDcxR2xLSHVsSWp6UXREaVNyS0ttOVotbkl4dThqNGJjYUlqekdCVkxJbk5VT0pYdkdQdW15bnh0ZGZmMjBGVU85Wk5hQjVaVGxHQWUwOVVzYng5NURhNkxNVzdrNGhCdXdYWDllU2tXN21ielloLVJBSmVB?oc=5",
-      "published": "Wed, 21 Oct 2026 07:51:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQUVBwVTh4OTBJY3RrQ1RwYWFoSDcxR2xLSHVsSWp6UXREaVNyS0ttOVotbkl4dThqNGJjYUlqekdCVkxJbk5VT0pYdkdQdW15bnh0ZGZmMjBGVU85Wk5hQjVaVGxHQWUwOVVzYng5NURhNkxNVzdrNGhCdXdYWDllU2tXN21ielloLVJBSmVB?oc=5\" target=\"_blank\">ソーラーパネル搭載のEVバイク「AGAO」に注目。1日15km分を自動充電できる「走る蓄電池」 (スマートモビリティJP)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 917765,
-      "title": "GBG製バッテリー管理システム、JC-STAR「★1」適合ラベルを取得台湾GBG - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90aHlzOFU0Rkk2UmtiNm5lN2F1aW45cVk2MXVEd2tFQWRSdmw0dFJ0T0E2SDlSWDU3UnJpWDFfTHVURmpJYXR3ZEpWMzJ2bzAyN195RVJjQnZKR2ZBZjRsdERzYlpTWDZGZ2lCTDdtN0xreGt5Mm5ocjlCcw?oc=5",
-      "published": "Wed, 21 Oct 2026 08:00:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE90aHlzOFU0Rkk2UmtiNm5lN2F1aW45cVk2MXVEd2tFQWRSdmw0dFJ0T0E2SDlSWDU3UnJpWDFfTHVURmpJYXR3ZEpWMzJ2bzAyN195RVJjQnZKR2ZBZjRsdERzYlpTWDZGZ2lCTDdtN0xreGt5Mm5ocjlCcw?oc=5\" target=\"_blank\">GBG製バッテリー管理システム、JC-STAR「★1」適合ラベルを取得台湾GBG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 311734,
-      "title": "電極を積層し光電圧100倍に 東北大らの光蓄電池 (EE Times Japan) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmdJWGJRQ3BwQkNDeGxtejhkRkgyNENYWDgyS3JEcFJ3Nm1ZX08tWEw2VXltRkNfelVaWHBOYzUyb1J6ZXpOenNOckxMMFJBUHNua01KZWhKYlppX01YN3hiR0NPN2dZcGJ4Q2hsOU1qZEFkRWxaYTI0RjU5V1lzT0EzTFJDMnlFWlI5UnBn?oc=5",
-      "published": "Wed, 21 Oct 2026 00:38:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmdJWGJRQ3BwQkNDeGxtejhkRkgyNENYWDgyS3JEcFJ3Nm1ZX08tWEw2VXltRkNfelVaWHBOYzUyb1J6ZXpOenNOckxMMFJBUHNua01KZWhKYlppX01YN3hiR0NPN2dZcGJ4Q2hsOU1qZEFkRWxaYTI0RjU5V1lzT0EzTFJDMnlFWlI5UnBn?oc=5\" target=\"_blank\">電極を積層し光電圧100倍に 東北大らの光蓄電池 (EE Times Japan)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 781443,
-      "title": "【蓄電池単体販売セミナー開催決定】2026年11月に全3回を予定―系統用蓄電池「Raptor」の導入・設備構成を解説 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwNHljV3NNeWNaRms2bkR0WkVNbHlzZ1E5TUF2LUlodzBoZ3FVcWtsZW56eXlwUWk1MVZDczd3bGZub2lKZ2lXT01jakNEQ2ROcFZjT0xpMkljZ1k3ZWl0RHVTOHhXQThBbDNjcklhbmEyR3FZV1E?oc=5",
-      "published": "Tue, 20 Oct 2026 19:45:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBwNHljV3NNeWNaRms2bkR0WkVNbHlzZ1E5TUF2LUlodzBoZ3FVcWtsZW56eXlwUWk1MVZDczd3bGZub2lKZ2lXT01jakNEQ2ROcFZjT0xpMkljZ1k3ZWl0RHVTOHhXQThBbDNjcklhbmEyR3FZV1E?oc=5\" target=\"_blank\">【蓄電池単体販売セミナー開催決定】2026年11月に全3回を予定―系統用蓄電池「Raptor」の導入・設備構成を解説</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 665179,
-      "title": "系統用蓄電池、連系済み容量はなぜ3年で10倍に増えたのか――導入量の推移を読み解くウェビナーを開催 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82MjlPcFJvczB2dzNEbVBmZUdRQUdlU2F3d2drdEFIMUZna25FN2VKM3FlNXRobVpvWFFUWkdsTHV6QU56amt5SElCMndBZDhNV21UblJOTzlXaDRidkNHaEVrRGtJOV8tNmNLYURXUzhBWVRBQllZNmYwSQ?oc=5",
-      "published": "Tue, 20 Oct 2026 20:18:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE82MjlPcFJvczB2dzNEbVBmZUdRQUdlU2F3d2drdEFIMUZna25FN2VKM3FlNXRobVpvWFFUWkdsTHV6QU56amt5SElCMndBZDhNV21UblJOTzlXaDRidkNHaEVrRGtJOV8tNmNLYURXUzhBWVRBQllZNmYwSQ?oc=5\" target=\"_blank\">系統用蓄電池、連系済み容量はなぜ3年で10倍に増えたのか――導入量の推移を読み解くウェビナーを開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 280796,
-      "title": "【日本蓄電池株式会社】福岡県嘉麻市にて系統用蓄電施設「NC口春蓄電所」需給調整市場への参入 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hdUxXOWJURlVqdEVfTEpybXBnUFVyeGsxZ2JxRzFPVlhjNUQyOXRaN1NTQ0xEcFRwR2E1VDNDallwdE1wVzJES2tMb2JPZllrdS1uZUZtQUdSV29OSm5KcGtkNTJJSjRn?oc=5",
-      "published": "Tue, 20 Oct 2026 17:15:29 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hdUxXOWJURlVqdEVfTEpybXBnUFVyeGsxZ2JxRzFPVlhjNUQyOXRaN1NTQ0xEcFRwR2E1VDNDallwdE1wVzJES2tMb2JPZllrdS1uZUZtQUdSV29OSm5KcGtkNTJJSjRn?oc=5\" target=\"_blank\">【日本蓄電池株式会社】福岡県嘉麻市にて系統用蓄電施設「NC口春蓄電所」需給調整市場への参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 978013,
-      "title": "イーレックス、系統用蓄電池第2号案件の商業運転を開始 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jNGp3S2x0SDhLUFhndjEwcklicnhkblpoaEh3SGF3VDNlV3ZLVU53MFBwM1ByZkVXeUZWbWtfV1VaT1lialpoWmxtbVg4OFFkS0M2cnd0cGNNQllVZE9zU0VuR29RNVBI?oc=5",
-      "published": "Tue, 20 Oct 2026 17:51:35 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jNGp3S2x0SDhLUFhndjEwcklicnhkblpoaEh3SGF3VDNlV3ZLVU53MFBwM1ByZkVXeUZWbWtfV1VaT1lialpoWmxtbVg4OFFkS0M2cnd0cGNNQllVZE9zU0VuR29RNVBI?oc=5\" target=\"_blank\">イーレックス、系統用蓄電池第2号案件の商業運転を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 279559,
-      "title": "連合がバージニア州の競争懸念を理由にドミニオン・ネクステラ合併に反対 - ニュースと統計 - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU0xxSWw2TnBtYXJGbUQ3WlhsdkQySjNETWs4QWZWUGYzVWd2WEpWVWVZRmp3UjFycTZoSGFiaVg3WUFQd1FNbzJZRmZkbmdNVk5WazZaaWpBaG9zdnRvV3JLWnE1bWxxcmYwTnQtSnZXRzZnNGYxa1FPdTdlenlVT3c5N2tPZTQxSWtIX2dzR09WVXZ3dnpGbWZsUE8za2swam9UbTRHS3dDVjZLdW1hUV85NEVDS29jNWt4QzQxc1RicndUZjIzZU9CdmxmVG8?oc=5",
-      "published": "Tue, 20 Oct 2026 18:51:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQU0xxSWw2TnBtYXJGbUQ3WlhsdkQySjNETWs4QWZWUGYzVWd2WEpWVWVZRmp3UjFycTZoSGFiaVg3WUFQd1FNbzJZRmZkbmdNVk5WazZaaWpBaG9zdnRvV3JLWnE1bWxxcmYwTnQtSnZXRzZnNGYxa1FPdTdlenlVT3c5N2tPZTQxSWtIX2dzR09WVXZ3dnpGbWZsUE8za2swam9UbTRHS3dDVjZLdW1hUV85NEVDS29jNWt4QzQxc1RicndUZjIzZU9CdmxmVG8?oc=5\" target=\"_blank\">連合がバージニア州の競争懸念を理由にドミニオン・ネクステラ合併に反対 - ニュースと統計</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 91496,
-      "title": "【太陽光パネル・蓄電池に関する意識調査】蓄電池の「後付け」ができること、84.6%が「知らなかった」と回答！ - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55YUVkMlU2blN6eFhzOUQwQkt6SzJtU3lVcFo4enhoSERoZm5hQXRsdWJ0Nnd5dGFHcDlETmJnQ2lTM3BQTHlRTVVTMWtrWDNNM0UzTw?oc=5",
-      "published": "Wed, 21 Oct 2026 03:15:35 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE55YUVkMlU2blN6eFhzOUQwQkt6SzJtU3lVcFo4enhoSERoZm5hQXRsdWJ0Nnd5dGFHcDlETmJnQ2lTM3BQTHlRTVVTMWtrWDNNM0UzTw?oc=5\" target=\"_blank\">【太陽光パネル・蓄電池に関する意識調査】蓄電池の「後付け」ができること、84.6%が「知らなかった」と回答！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 684940,
-      "title": "世界初、無線基地局におけるワークロードシフトとエネルギーマネジメントの協調制御の実現に向けた実証を開始 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YNTZBNFJqNlZNYjZyVkgyb2RyVW9XNGp6eUJRYnhJN0VsTEJLanlmajhkMTQxZHBFeG4tYTFKV2M3aFBtM19NX3ZLZF83SWlBVmN1ZjVnZzdlaVFQVGl6aGJkblc2dE5xOGpkSW1sTVJ3TXVELVZSSnBzZw?oc=5",
-      "published": "Tue, 20 Oct 2026 17:00:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5YNTZBNFJqNlZNYjZyVkgyb2RyVW9XNGp6eUJRYnhJN0VsTEJLanlmajhkMTQxZHBFeG4tYTFKV2M3aFBtM19NX3ZLZF83SWlBVmN1ZjVnZzdlaVFQVGl6aGJkblc2dE5xOGpkSW1sTVJ3TXVELVZSSnBzZw?oc=5\" target=\"_blank\">世界初、無線基地局におけるワークロードシフトとエネルギーマネジメントの協調制御の実現に向けた実証を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 283000,
-      "title": "CATLの第3四半期機関投資家持株比率が2.25ポイント低下、決算説明会で2027年の需要はなお見込みありと強調 - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fU3BkNXg2aFhmakRRSFdwNkFkd3A5dUtQeERzdE5YRHV3XzFVb0hRQW5kZnJWZjBkdXJWMUJtUFpIdnQyT00tWHRFeGtSY0hrMzZWdWxlT2FxZXhyYWthNV9PTnNRanBEVU9salQxLXJSdE9a?oc=5",
-      "published": "Wed, 21 Oct 2026 01:55:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9fU3BkNXg2aFhmakRRSFdwNkFkd3A5dUtQeERzdE5YRHV3XzFVb0hRQW5kZnJWZjBkdXJWMUJtUFpIdnQyT00tWHRFeGtSY0hrMzZWdWxlT2FxZXhyYWthNV9PTnNRanBEVU9salQxLXJSdE9a?oc=5\" target=\"_blank\">CATLの第3四半期機関投資家持株比率が2.25ポイント低下、決算説明会で2027年の需要はなお見込みありと強調</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 891277,
-      "title": "再エネ資産の価値最大化を目指す「ライフプロシューマー合同会社」が事業を本格始動｜Infoseekニュース - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0eGQybmFEcFlyakk5TzdrZmI1bVpPUnJScmJmWVRQTDVWU1l6SEM4SnZGRDZjSDNJeXVPV2dZaUFNTlNTWjU2Y0V4ZnNDU0c4QXJBaVRHY1pYNllfbXBJelV5NERURVh4QUNNT1lqbnZWdw?oc=5",
-      "published": "Tue, 20 Oct 2026 19:10:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB0eGQybmFEcFlyakk5TzdrZmI1bVpPUnJScmJmWVRQTDVWU1l6SEM4SnZGRDZjSDNJeXVPV2dZaUFNTlNTWjU2Y0V4ZnNDU0c4QXJBaVRHY1pYNllfbXBJelV5NERURVh4QUNNT1lqbnZWdw?oc=5\" target=\"_blank\">再エネ資産の価値最大化を目指す「ライフプロシューマー合同会社」が事業を本格始動｜Infoseekニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 668504,
-      "title": "クリーンエネルギー低コスト化で逆風、「気候ただ乗り」戦略に再考迫る - 디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYmNud2JhU1JhOFlENnRQR0tWbjkxQUJlel9pSWRfejdsVEFKVi1ZMWFlc0lUaTBreVNPMklyYjF3WnRzd09UYnQwUVBoVUJXY1JrQ1RBS2ZleDFmYUlodXYxekRUa2dlMlAyejZnWjZ1aldmdnVHaVZIRWpZZ2hUbVFvVFlMdzNwQ3Q3WGhHb0ducmZ1T2RlSUJHNVFOVkdPa05aR0NMZVBOZE14bmMxVmpoaHFPVUhHMGlsczRLX0hXWVBtNDE2U0dBNTlMdk5IZnhCZkVpWTI?oc=5",
-      "published": "Wed, 21 Oct 2026 02:28:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYmNud2JhU1JhOFlENnRQR0tWbjkxQUJlel9pSWRfejdsVEFKVi1ZMWFlc0lUaTBreVNPMklyYjF3WnRzd09UYnQwUVBoVUJXY1JrQ1RBS2ZleDFmYUlodXYxekRUa2dlMlAyejZnWjZ1aldmdnVHaVZIRWpZZ2hUbVFvVFlMdzNwQ3Q3WGhHb0ducmZ1T2RlSUJHNVFOVkdPa05aR0NMZVBOZE14bmMxVmpoaHFPVUhHMGlsczRLX0hXWVBtNDE2U0dBNTlMdk5IZnhCZkVpWTI?oc=5\" target=\"_blank\">クリーンエネルギー低コスト化で逆風、「気候ただ乗り」戦略に再考迫る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 635140,
-      "title": "ジャパンブランディング、系統用蓄電池の市場予測と実績を解説する無料ウェビナー開催へ - Dellows News",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yNWkxdkFtQjhldXA2Nmk5bkJBeEZZbVNNQndkOEFrcnQ5R0puVDBQTGI0YV9rdTBuTTBnYmhRSnFfRnVXaVVnMmI4WVI2X2pjWVZFVExqVXdtSmVQV1daaGdQOTM?oc=5",
-      "published": "Wed, 21 Oct 2026 09:40:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yNWkxdkFtQjhldXA2Nmk5bkJBeEZZbVNNQndkOEFrcnQ5R0puVDBQTGI0YV9rdTBuTTBnYmhRSnFfRnVXaVVnMmI4WVI2X2pjWVZFVExqVXdtSmVQV1daaGdQOTM?oc=5\" target=\"_blank\">ジャパンブランディング、系統用蓄電池の市場予測と実績を解説する無料ウェビナー開催へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 364370,
-      "title": "イーレックスが反発、系統用蓄電池第２号案件の商業運転を開始 - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MTURRS2ZLZldEdzExbVZjd3dUb1VzOXpPb2FGMVpZSzdqeGFQUktNQURQbnJTd1gxd0JRLXh4YkVJZnFXNVNPczN5a0l6bFR5X2VXUW9aWnF2Q1IxVEtZ?oc=5",
-      "published": "Wed, 21 Oct 2026 03:39:49 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MTURRS2ZLZldEdzExbVZjd3dUb1VzOXpPb2FGMVpZSzdqeGFQUktNQURQbnJTd1gxd0JRLXh4YkVJZnFXNVNPczN5a0l6bFR5X2VXUW9aWnF2Q1IxVEtZ?oc=5\" target=\"_blank\">イーレックスが反発、系統用蓄電池第２号案件の商業運転を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 257750,
-      "title": "【太陽光パネル・蓄電池に関する意識調査】蓄電池の「後付け」ができること、84.6%が「知らなかった」と回答！ - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZNG4tWWd5dmlaMUN5LXh5TEdrOHpELWEyd2w1anJ1YlFKd0pvanM5ZDF1a3JiVkVnZjdrYnRUQlhLOEQzTEJ0X3NaZk9KVDlJN0Q3NTIwYWFtQjNYMzFaZkpn?oc=5",
-      "published": "Wed, 21 Oct 2026 01:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZNG4tWWd5dmlaMUN5LXh5TEdrOHpELWEyd2w1anJ1YlFKd0pvanM5ZDF1a3JiVkVnZjdrYnRUQlhLOEQzTEJ0X3NaZk9KVDlJN0Q3NTIwYWFtQjNYMzFaZkpn?oc=5\" target=\"_blank\">【太陽光パネル・蓄電池に関する意識調査】蓄電池の「後付け」ができること、84.6%が「知らなかった」と回答！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 17750,
-      "title": "ジャパンブランディング、系統用蓄電池の料金体系を解説するウェビナーを11月開催へ - Dellows News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1CLVJfNWd3dGpqcEFUYWFyREFDZzRZcjRMc1NiOGRBYzRRVTNIQWlkT2tRZDBNRDhqbHh1c056a19YNy1SUlE?oc=5",
-      "published": "Wed, 21 Oct 2026 02:46:38 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1CLVJfNWd3dGpqcEFUYWFyREFDZzRZcjRMc1NiOGRBYzRRVTNIQWlkT2tRZDBNRDhqbHh1c056a19YNy1SUlE?oc=5\" target=\"_blank\">ジャパンブランディング、系統用蓄電池の料金体系を解説するウェビナーを11月開催へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 268957,
-      "title": "「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串 康彦氏によるセミナーを2026年11月27日(金)に開催! (2026年10月21日掲載) - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zLVVrWkdkM2hUNFFFRG9FZFZ5UWY5NjBqc0V5ZFJ2b0c0SV93dGREeldaeW0tay1KQl90MVRHbVNrUV9VUDhCUFo2YUdHbTRDb0VqZHpXZzloQkh5bHpYT0RB?oc=5",
-      "published": "Wed, 21 Oct 2026 03:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zLVVrWkdkM2hUNFFFRG9FZFZ5UWY5NjBqc0V5ZFJ2b0c0SV93dGREeldaeW0tay1KQl90MVRHbVNrUV9VUDhCUFo2YUdHbTRDb0VqZHpXZzloQkh5bHpYT0RB?oc=5\" target=\"_blank\">「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串 康彦氏によるセミナーを2026年11月27日(金)に開催! (2026年10月21日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 732188,
-      "title": "「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串 康彦氏によるセミナーを2026年11月27日(金)に開催!｜Infoseekニュース - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfdDhxU0M1YVF3RWgyWUtaVWpZYkhESEpjbk40N3ZOdmtiUmN3U2tJRHV0MVlUV0FvUnE2X3lsV3FVeVg5UGNydHI2c2VGcFRaT1VoeVR2RDl5S3EwckNnRlZjdUJ4ZVJ2QWlWc2pFMW5Edw?oc=5",
-      "published": "Wed, 21 Oct 2026 03:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBfdDhxU0M1YVF3RWgyWUtaVWpZYkhESEpjbk40N3ZOdmtiUmN3U2tJRHV0MVlUV0FvUnE2X3lsV3FVeVg5UGNydHI2c2VGcFRaT1VoeVR2RDl5S3EwckNnRlZjdUJ4ZVJ2QWlWc2pFMW5Edw?oc=5\" target=\"_blank\">「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串 康彦氏によるセミナーを2026年11月27日(金)に開催!｜Infoseekニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 332958,
-      "title": "リミックスポイント (3825) : IRwith(IR情報) [Remixpoint] - みんかぶ",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1CMVFvek1FbGh1eDlQVU1NcjNjeUdlUWUwMGVNcGJMY1BlZlpVUzJyV0s4MmN6X3hfMncxXzFSUVdRMGxsdWNr?oc=5",
-      "published": "Wed, 21 Oct 2026 06:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE1CMVFvek1FbGh1eDlQVU1NcjNjeUdlUWUwMGVNcGJMY1BlZlpVUzJyV0s4MmN6X3hfMncxXzFSUVdRMGxsdWNr?oc=5\" target=\"_blank\">リミックスポイント (3825) : IRwith(IR情報) [Remixpoint]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんかぶ</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 617910,
-      "title": "電気を蓄えて放電 芝山町に新たに“蓄電所” 電力の安定供給に効果期待｜Infoseekニュース - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96WW8xTnJHV3dTRXFPZENOX0ZEZ3FLelNLLTkwc3Z4M1c2MlA5dmk3bGZLaDRwaTJiRUdDYUtWNUYxNVVfYjZjRG1sU0pmY3c5c1lOU0JEQ3dqVFNIek95ZXNicHFIaTc1Qm0ya05ndWZPdw?oc=5",
-      "published": "Wed, 21 Oct 2026 01:41:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE96WW8xTnJHV3dTRXFPZENOX0ZEZ3FLelNLLTkwc3Z4M1c2MlA5dmk3bGZLaDRwaTJiRUdDYUtWNUYxNVVfYjZjRG1sU0pmY3c5c1lOU0JEQ3dqVFNIek95ZXNicHFIaTc1Qm0ya05ndWZPdw?oc=5\" target=\"_blank\">電気を蓄えて放電 芝山町に新たに“蓄電所” 電力の安定供給に効果期待｜Infoseekニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 541736,
-      "title": "【総額2,200万円】最大10万円分のAmazonギフトコードが抽選で1,000名様に当たる！事業投資型クラウドファンディング「ミラリタ」が『秋の大感謝キャンペーン』を開催 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jTnR6TzFmZllWUmtVNUs1anJVUHlqYTBIX2JrMkFBbFZpazktZDJHRXhvMGkwLXpUTi00MmRGekZDLU9ZbldpUkhrakQ4MnMtQVptNHE4ZHlQUi02MWV4VlkwazJIR1RfeVE?oc=5",
-      "published": "Wed, 21 Oct 2026 09:00:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1jTnR6TzFmZllWUmtVNUs1anJVUHlqYTBIX2JrMkFBbFZpazktZDJHRXhvMGkwLXpUTi00MmRGekZDLU9ZbldpUkhrakQ4MnMtQVptNHE4ZHlQUi02MWV4VlkwazJIR1RfeVE?oc=5\" target=\"_blank\">【総額2,200万円】最大10万円分のAmazonギフトコードが抽選で1,000名様に当たる！事業投資型クラウドファンディング「ミラリタ」が『秋の大感謝キャンペーン』を開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 50672,
-      "title": "再エネ資産の価値最大化を目指す「ライフプロシューマー合同会社」が事業を本格始動 - Excite エキサイト",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55LTBMZVNJcUVSR1RRdjRXVW1xOTdocjFwVG5fOHh0ZGtVOGNIVEZxNjNEbTVYYVlDSDdMWUJWc1d4cDdCeUJyT1g3Rl84VTFrMVB3LUUyZjRMbS03TW5WZVoxTnI4RjROLTFOb3lSWjQxcXc?oc=5",
-      "published": "Tue, 20 Oct 2026 19:10:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE55LTBMZVNJcUVSR1RRdjRXVW1xOTdocjFwVG5fOHh0ZGtVOGNIVEZxNjNEbTVYYVlDSDdMWUJWc1d4cDdCeUJyT1g3Rl84VTFrMVB3LUUyZjRMbS03TW5WZVoxTnI4RjROLTFOb3lSWjQxcXc?oc=5\" target=\"_blank\">再エネ資産の価値最大化を目指す「ライフプロシューマー合同会社」が事業を本格始動</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Excite エキサイト</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 16573,
-      "title": "需要が拡大する「定置型エネルギー貯蔵向けリチウムイオンバッテリー(BESS)」。市場背景、プレイヤー、技術動向に関する - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YRTFoTUVtZjRZaTZ4ZUxxaFA5ZEU1RXhLVDljNkZNc25FR2dEY1hpbWVkS1A4YU9FZXhXN1lPZjNZczJfVVRFN1M3SWI2ek5rb09mdGlMd3hQTGVuWkRDVVVHZmNyWWp3VHQwclFyVE1OWWNBZFVfd3JJWQ?oc=5",
-      "published": "Wed, 21 Oct 2026 00:03:25 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1YRTFoTUVtZjRZaTZ4ZUxxaFA5ZEU1RXhLVDljNkZNc25FR2dEY1hpbWVkS1A4YU9FZXhXN1lPZjNZczJfVVRFN1M3SWI2ek5rb09mdGlMd3hQTGVuWkRDVVVHZmNyWWp3VHQwclFyVE1OWWNBZFVfd3JJWQ?oc=5\" target=\"_blank\">需要が拡大する「定置型エネルギー貯蔵向けリチウムイオンバッテリー(BESS)」。市場背景、プレイヤー、技術動向に関する</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 752848,
-      "title": "ギガファクトリー、量産開始は平均6～9カ月遅延 6カ月の遅れで約2.5億ドルの価値損失リスクも - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLUmtDR0FQUVd5bng1V05RdDNyQ09YTmxSRmJibDBheWpQcmxxMHRNSkpmVzVGYThsdEpFb0dXUW01SlpTUUZfSzVhOVVEQnVxSTI2bGRPRDJrWDJHYjBRbkd1SkE5azYyUVpkd2xrZHF4anBiSFZKY3RRcw?oc=5",
-      "published": "Wed, 21 Oct 2026 05:51:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBLUmtDR0FQUVd5bng1V05RdDNyQ09YTmxSRmJibDBheWpQcmxxMHRNSkpmVzVGYThsdEpFb0dXUW01SlpTUUZfSzVhOVVEQnVxSTI2bGRPRDJrWDJHYjBRbkd1SkE5azYyUVpkd2xrZHF4anBiSFZKY3RRcw?oc=5\" target=\"_blank\">ギガファクトリー、量産開始は平均6～9カ月遅延 6カ月の遅れで約2.5億ドルの価値損失リスクも</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 447245,
-      "title": "需要が拡大する「定置型エネルギー貯蔵向けリチウムイオンバッテリー(BESS)」。市場背景、プレイヤー、技術動向に関する最新調査レポートのリリースと無料ウェビナー予定をIDTechExが公開しました。 - アニメ！アニメ！",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wTFlCY0xkWnpndXdfdDRJM3dXX3lVMUdmYmpnZDIzb2c1a2d4c2hqSi1Yc0lHM3Z6YkM5OWl4ZzBWTzFsZDA2cmZRVjQyNXNwVzk4UXdMTDI5X1hacjNlRVlNbnlxdW4zNzdpNg?oc=5",
-      "published": "Wed, 21 Oct 2026 00:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9wTFlCY0xkWnpndXdfdDRJM3dXX3lVMUdmYmpnZDIzb2c1a2d4c2hqSi1Yc0lHM3Z6YkM5OWl4ZzBWTzFsZDA2cmZRVjQyNXNwVzk4UXdMTDI5X1hacjNlRVlNbnlxdW4zNzdpNg?oc=5\" target=\"_blank\">需要が拡大する「定置型エネルギー貯蔵向けリチウムイオンバッテリー(BESS)」。市場背景、プレイヤー、技術動向に関する最新調査レポートのリリースと無料ウェビナー予定をIDTechExが公開しました。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アニメ！アニメ！</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 563566,
-      "title": "需要が拡大する「定置型エネルギー貯蔵向けリチウムイオンバッテリー(BESS)」。市場背景、プレイヤー、技術動向に関する最新調査レポートのリリースと無料ウェビナー予定をIDTechExが公開しました。 (2026年10月21日掲載) - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zWHlCMmEzR3FXMFI2eVoya2FHTFBHRGJSRUx0eHhqTUNkOUcyWWVvTkF4amU0SEtTcnQ1Rm1qZGdmaTNLWmxBdWlxdUh5VWtBRzZHWnVHa3ZicTUtZ2g0VFRn?oc=5",
-      "published": "Wed, 21 Oct 2026 00:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zWHlCMmEzR3FXMFI2eVoya2FHTFBHRGJSRUx0eHhqTUNkOUcyWWVvTkF4amU0SEtTcnQ1Rm1qZGdmaTNLWmxBdWlxdUh5VWtBRzZHWnVHa3ZicTUtZ2g0VFRn?oc=5\" target=\"_blank\">需要が拡大する「定置型エネルギー貯蔵向けリチウムイオンバッテリー(BESS)」。市場背景、プレイヤー、技術動向に関する最新調査レポートのリリースと無料ウェビナー予定をIDTechExが公開しました。 (2026年10月21日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 266723,
-      "title": "福岡・飯塚第一メガソーラー発電所における併設蓄電池の運転開始 | 鹿児島・九州プレスリリース | 生活情報 | くらし - 南日本新聞",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdEJjbmFXS1dPVkkzY2FZTlNxdnRsd2F0NV84WVlYUjRDVEdwcjdMUy1UVGx3REhlemVZamoxMU03ZkYzcVZWMk15YkF1UEt1eTI3eUNOY1ExT3lQbzlkVWZyNjJ6blVldFJaOW4xUkVEaExld2ZxTl9qMzNRSnZDMw?oc=5",
-      "published": "Tue, 20 Oct 2026 15:26:22 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQdEJjbmFXS1dPVkkzY2FZTlNxdnRsd2F0NV84WVlYUjRDVEdwcjdMUy1UVGx3REhlemVZamoxMU03ZkYzcVZWMk15YkF1UEt1eTI3eUNOY1ExT3lQbzlkVWZyNjJ6blVldFJaOW4xUkVEaExld2ZxTl9qMzNRSnZDMw?oc=5\" target=\"_blank\">福岡・飯塚第一メガソーラー発電所における併設蓄電池の運転開始 | 鹿児島・九州プレスリリース | 生活情報 | くらし</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">南日本新聞</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 235514,
-      "title": "GBG製バッテリー管理システム、JC-STAR「★1」適合ラベルを取得台湾GBG Technologyの日本法人として、系統用蓄電所向け設備の提案とセキュリティ情報の提供を推進｜Infoseekニュース - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwVU1kTTdNTS16LWtqdlB2dmNQQlgtOVVQaFJsdTQ5SFpQQ2M0UjRaX3RDQWVoN1Jwb0lDUHQ1NkMtX1g5Mnl3enNibnkzdjM3VW5oNHI2a0RRbzJKenhUN09nNGNNTDZsNFJzMlpNT2xmQQ?oc=5",
-      "published": "Wed, 21 Oct 2026 03:45:22 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAwVU1kTTdNTS16LWtqdlB2dmNQQlgtOVVQaFJsdTQ5SFpQQ2M0UjRaX3RDQWVoN1Jwb0lDUHQ1NkMtX1g5Mnl3enNibnkzdjM3VW5oNHI2a0RRbzJKenhUN09nNGNNTDZsNFJzMlpNT2xmQQ?oc=5\" target=\"_blank\">GBG製バッテリー管理システム、JC-STAR「★1」適合ラベルを取得台湾GBG Technologyの日本法人として、系統用蓄電所向け設備の提案とセキュリティ情報の提供を推進｜Infoseekニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 832804,
-      "title": "三菱総合研究所とMPX、電力市場の定量分析サービス提供を本格開始 - Dellows News",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mcUdYQ3RISUFkbVMzZ1haREFfTDRlc3o3OUJ3bzV2ZURfamhIdlVnMlBxazRuRVFxWlNCUENlaDZITURwMWRzWDFxN04zd1I3dFNab2loaTFtOGdBOW0wZQ?oc=5",
-      "published": "Tue, 20 Oct 2026 16:04:07 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mcUdYQ3RISUFkbVMzZ1haREFfTDRlc3o3OUJ3bzV2ZURfamhIdlVnMlBxazRuRVFxWlNCUENlaDZITURwMWRzWDFxN04zd1I3dFNab2loaTFtOGdBOW0wZQ?oc=5\" target=\"_blank\">三菱総合研究所とMPX、電力市場の定量分析サービス提供を本格開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 300592,
-      "title": "市場の噂：アマゾンは稼働可能な電力容量を上回る量のエヌビディア製AIハードウェアを購入 - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOS03VGh5MU4yWU1fSU4xc3poVGliMEJYaHFaVi1NYi1tMzFrLTFfTzNma0dwVDhhYXlxcjB0UndCUDBHS0pjbEN3cVRNSEFxNjdnRTlTNmdPOHRBQlhjRlNHdnVjSWhCV0kzQnhmNm5qbFJDVm5Zalo1eFZubnJybFlocnhyMU54RkZ4R0Z3bG9LUHNoS1RKQXhyN0NtR2kwbkZha0RTRnRXbDg?oc=5",
-      "published": "Tue, 20 Oct 2026 19:29:11 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOS03VGh5MU4yWU1fSU4xc3poVGliMEJYaHFaVi1NYi1tMzFrLTFfTzNma0dwVDhhYXlxcjB0UndCUDBHS0pjbEN3cVRNSEFxNjdnRTlTNmdPOHRBQlhjRlNHdnVjSWhCV0kzQnhmNm5qbFJDVm5Zalo1eFZubnJybFlocnhyMU54RkZ4R0Z3bG9LUHNoS1RKQXhyN0NtR2kwbkZha0RTRnRXbDg?oc=5\" target=\"_blank\">市場の噂：アマゾンは稼働可能な電力容量を上回る量のエヌビディア製AIハードウェアを購入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 943139,
-      "title": "「高平滑性MLCC剥離フィルムの世界市場」（～2030年までの市場規模予測）資料を発行、年平均6.4 %で成長する見込み - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5icmFzaUhKa0N2TFFoaFQ1NmtkTDRWVlpmWWdnV3FIOFB2d2V4YlU5TWN0RS0tTDA0d0swem9UQ19YY3ZjOEFyUEZWT0I3alZHWEJfZ2JYbEROSDVlZE9BRmRrd3U2eTFmaG5kT1hXUU9XSDUtbEs0d3R3QQ?oc=5",
-      "published": "Wed, 21 Oct 2026 08:03:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5icmFzaUhKa0N2TFFoaFQ1NmtkTDRWVlpmWWdnV3FIOFB2d2V4YlU5TWN0RS0tTDA0d0swem9UQ19YY3ZjOEFyUEZWT0I3alZHWEJfZ2JYbEROSDVlZE9BRmRrd3U2eTFmaG5kT1hXUU9XSDUtbEs0d3R3QQ?oc=5\" target=\"_blank\">「高平滑性MLCC剥離フィルムの世界市場」（～2030年までの市場規模予測）資料を発行、年平均6.4 %で成長する見込み</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "id": 76541,
+      "title": "太陽光・蓄電池制御と基地局通信処理をAIで ドコモなど、12月末まで実証 - 環境ビジネスオンライン",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SLUNQdnQ4VGNhWGY3YXZINzFpMVFQRDZBWTZ2aWcwN0NjaF9CcVIzZTAyZXRzSTN6VlZGTWRaaElFR2kwd0FZYkYydFl4Ukd4VS1SX043a2oxbVFDRDlhMGdrVVJDNW4tM1VhcGdOSWJSQk1DeG1fMFZjSjQ?oc=5",
+      "published": "Thu, 22 Oct 2026 05:08:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1SLUNQdnQ4VGNhWGY3YXZINzFpMVFQRDZBWTZ2aWcwN0NjaF9CcVIzZTAyZXRzSTN6VlZGTWRaaElFR2kwd0FZYkYydFl4Ukd4VS1SX043a2oxbVFDRDlhMGdrVVJDNW4tM1VhcGdOSWJSQk1DeG1fMFZjSjQ?oc=5\" target=\"_blank\">太陽光・蓄電池制御と基地局通信処理をAIで ドコモなど、12月末まで実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">環境ビジネスオンライン</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
@@ -417,6 +57,33 @@
       "source_type": "rss"
     },
     {
+      "id": 142260,
+      "title": "PowerX、今期の蓄電池エネルギー貯蔵システム（BESS）生産が順調に推移 - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVm1NTE4xQnY0Tk5yMTZWLXRuaVYxOUVtWGxtU3ZBOHhpRXR6eE5aV0xqMExYRDVVOUk1bnNiTzFDdHdMZEZTWjNXUmFzWjY1MUVDTldocUVxWDhzWnVLQ2RwTzUtR1B1aDV6ZjNtTHBZcUo2T0ZGQ0Y0eWtXQ3JKMEpqN2V0YXdXTEU1SkVoSHZ1WTc3eDY4RGU1Z2stTTQ5eWxUeEF6UVFLNW8?oc=5",
+      "published": "Thu, 22 Oct 2026 08:41:11 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVm1NTE4xQnY0Tk5yMTZWLXRuaVYxOUVtWGxtU3ZBOHhpRXR6eE5aV0xqMExYRDVVOUk1bnNiTzFDdHdMZEZTWjNXUmFzWjY1MUVDTldocUVxWDhzWnVLQ2RwTzUtR1B1aDV6ZjNtTHBZcUo2T0ZGQ0Y0eWtXQ3JKMEpqN2V0YXdXTEU1SkVoSHZ1WTc3eDY4RGU1Z2stTTQ5eWxUeEF6UVFLNW8?oc=5\" target=\"_blank\">PowerX、今期の蓄電池エネルギー貯蔵システム（BESS）生産が順調に推移</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 82957,
+      "title": "【系統用蓄電所】太陽光発電やデータセンター特需に伴い電力需給調整施設が急増しトラブルも…県内の現状と課題(静岡) - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lUmtqTWRZWUFJMnpNNGRZWUU1VDZkbXBfcUZxXzJaVS1tZktlMW5zWk5zY1gzdjViZm1tdTg4eVBLR3A2TVI5WVF0eWNtMG0tcDFOVUFCVHgyOFNxZDNGT1dfbVRnMG0xcEN2Q0N30gFuQVVfeXFMTmVSa2pNZFlZQUkyek00ZFlZRTVUNmRtcF9xRnFfMlpVLW1mS2UxbnNaTnNjWDN2NWJmbW11ODh5UEtHcDZNUjlZUXR5Y20wbS1wMU5VQUJUeDI4U3FkM0ZPV19tVGcwbTFwQ3ZDQ3c?oc=5",
+      "published": "Thu, 22 Oct 2026 08:20:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5lUmtqTWRZWUFJMnpNNGRZWUU1VDZkbXBfcUZxXzJaVS1tZktlMW5zWk5zY1gzdjViZm1tdTg4eVBLR3A2TVI5WVF0eWNtMG0tcDFOVUFCVHgyOFNxZDNGT1dfbVRnMG0xcEN2Q0N30gFuQVVfeXFMTmVSa2pNZFlZQUkyek00ZFlZRTVUNmRtcF9xRnFfMlpVLW1mS2UxbnNaTnNjWDN2NWJmbW11ODh5UEtHcDZNUjlZUXR5Y20wbS1wMU5VQUJUeDI4U3FkM0ZPV19tVGcwbTFwQ3ZDQ3c?oc=5\" target=\"_blank\">【系統用蓄電所】太陽光発電やデータセンター特需に伴い電力需給調整施設が急増しトラブルも…県内の現状と課題(静岡)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 963711,
+      "title": "系統用蓄電池はなぜ東北に集中するのか――エリア別の導入状況を読み解くウェビナーを開催 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EQlRhQUFQT2ktV3JfQ3VxMXAtTS1GWGpNZHdBTkRhSnRjaFNYSG9vTGRVcU0xNlZjUkg2Y2p4WkozblE0TFlYa0t6Tk5ZY29vVnR3bjk0X3pmUVJ6TXRjUHVtNjhncGlnSWc?oc=5",
+      "published": "Thu, 22 Oct 2026 09:00:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5EQlRhQUFQT2ktV3JfQ3VxMXAtTS1GWGpNZHdBTkRhSnRjaFNYSG9vTGRVcU0xNlZjUkg2Y2p4WkozblE0TFlYa0t6Tk5ZY29vVnR3bjk0X3pmUVJ6TXRjUHVtNjhncGlnSWc?oc=5\" target=\"_blank\">系統用蓄電池はなぜ東北に集中するのか――エリア別の導入状況を読み解くウェビナーを開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
       "id": 452270,
       "title": "ＧＳユアサ子会社の蓄電池、火星衛星探査機に - 京都新聞デジタル",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sZFl3bUttVmJqdVUxVjRBV0thcU4wbElkNU9femV4ZHp4T1N6S1ZpaTF4eVMyQ0Y5RXhfZXA1b3FBNFI3d09xUjc5MXdJc3RFeDVlZC1XUXRCNWc?oc=5",
@@ -426,11 +93,65 @@
       "source_type": "rss"
     },
     {
-      "id": 366855,
+      "id": 74047,
       "title": "テスラ 2026年12月期 第3四半期決算：売り上げはほぼ横ばい、本業のもうけは前の年より減少 - SmartNews",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sc3haWlNQSm5BNjhkTGNFUHljVXlUekhhSm9tOS1jZk1DZmFXcUpsQnVpMFJMaWI5d0tydzZwN2IySWIzaUR5M3RkX21ab2xKeXB0NHlBZHg4Tnc0cmtoeE4xNFEtYlhRVXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxPbUtUODRJVEMyYVVMbU5GNHNsbXlJek5XQmh0QUozWUVRdEFMNFpLTnV6enowV25nVU9hN29nSzJFUGdHMEVYY3Bwd0lrVmpJMGpFaWlseUxLRnBLWmNjYkt4S1JmcXBzckxtenRZRG9YbjZZT0tsVFlfRzRBaERZT3JPd1dGNlFWWmJkai1YSmVrQkhXdHR0WGIyVXVOSTlIclB2QmczcVBRQnlOWlZITGY0Vy1UV3E0a0dWek41bVNPSC1feWhRUnpmbHItd3NoZ01YV3B5RFpTc0gyNER0OW1hVUZTSkJQUTNqVmxMd0lfNDRuaVNqbnhuOVBIaXpSc2lSUVpJZGpmUGlkc2tkR0ROM19VX2JTZ3RlWG5xQ25ZT0hEdUJ4dFl3MmRZa09vdzVURURwTFZTTFVnZHYwS1ZMR1h0ZjZiOWV6alF4MXZCZ1ZaM0hQRFp0bEpHUzh6enBSRXFGQWszRkloSWR5U2ZRc3Z4a01uX0ZHZ1pkdlhWWk5iYS1RV09hdnJEOXJrazEwelBlNkxzSXBRVlVUOE1tbUhCNHlMX2xmcE9QYVg5OWszdGlsMzgtSi1RdmtjdmdfWU9HSzNjRHVmY0ZxZWVxZUFvdmtiRzZtX0lqM0NQX2o4VGUtTm80UGl2WTRreUZWWVJZN2ZnQXdyUUtpSmR4c3daeVlJM3Nma0pkUmZDSzZnbEFyaHJHWk5FVnI5Tm5QQjJfWFowQXRqZzlrTTNMdEh2MWdJSXVyTjFjVktoNnJE?oc=5",
       "published": "Wed, 21 Oct 2026 22:57:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9sc3haWlNQSm5BNjhkTGNFUHljVXlUekhhSm9tOS1jZk1DZmFXcUpsQnVpMFJMaWI5d0tydzZwN2IySWIzaUR5M3RkX21ab2xKeXB0NHlBZHg4Tnc0cmtoeE4xNFEtYlhRVXc?oc=5\" target=\"_blank\">テスラ 2026年12月期 第3四半期決算：売り上げはほぼ横ばい、本業のもうけは前の年より減少</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SmartNews</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixARBVV95cUxPbUtUODRJVEMyYVVMbU5GNHNsbXlJek5XQmh0QUozWUVRdEFMNFpLTnV6enowV25nVU9hN29nSzJFUGdHMEVYY3Bwd0lrVmpJMGpFaWlseUxLRnBLWmNjYkt4S1JmcXBzckxtenRZRG9YbjZZT0tsVFlfRzRBaERZT3JPd1dGNlFWWmJkai1YSmVrQkhXdHR0WGIyVXVOSTlIclB2QmczcVBRQnlOWlZITGY0Vy1UV3E0a0dWek41bVNPSC1feWhRUnpmbHItd3NoZ01YV3B5RFpTc0gyNER0OW1hVUZTSkJQUTNqVmxMd0lfNDRuaVNqbnhuOVBIaXpSc2lSUVpJZGpmUGlkc2tkR0ROM19VX2JTZ3RlWG5xQ25ZT0hEdUJ4dFl3MmRZa09vdzVURURwTFZTTFVnZHYwS1ZMR1h0ZjZiOWV6alF4MX",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 414064,
+      "title": "【系統用蓄電池の今期完工計画を公表】2026年8月～2027年7月、複数案件を順次竣工へ - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04OUR4d0EtandpNGV6Z2dSMkFkNkViVGZUYk9CY0liVEhKUGx4SGVLNFlsN3Mta00tcXYzd1pUUjdGZi1RVEFQSkplTlg1azA3cGxUZ3U0MVhqZk4tcFc1M1RvRkpOQU5EYjI0bG41Y3dYOTFJWWZnMjM3bw?oc=5",
+      "published": "Thu, 22 Oct 2026 00:50:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE04OUR4d0EtandpNGV6Z2dSMkFkNkViVGZUYk9CY0liVEhKUGx4SGVLNFlsN3Mta00tcXYzd1pUUjdGZi1RVEFQSkplTlg1azA3cGxUZ3U0MVhqZk4tcFc1M1RvRkpOQU5EYjI0bG41Y3dYOTFJWWZnMjM3bw?oc=5\" target=\"_blank\">【系統用蓄電池の今期完工計画を公表】2026年8月～2027年7月、複数案件を順次竣工へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 954489,
+      "title": "「日欧の蓄電池事業とNKESの取組」と題して、（株）日本総合研究所 段野 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTYUIxYTc5cTkyLVNZSzZRV1NXZ211RFVJRlpkNFNBMDU2blVyWUc0REVQeFo5RWNkNTNZLVhIOWN4WHhUQ1Z1V0RRb2ZRMTlfVFFJR3JFcVJWQ1Z0TWhiVU9PNDI4cnpFdnFZVWFpeFFPU2lCZEhhVzFhQQ?oc=5",
+      "published": "Thu, 22 Oct 2026 02:45:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBTYUIxYTc5cTkyLVNZSzZRV1NXZ211RFVJRlpkNFNBMDU2blVyWUc0REVQeFo5RWNkNTNZLVhIOWN4WHhUQ1Z1V0RRb2ZRMTlfVFFJR3JFcVJWQ1Z0TWhiVU9PNDI4cnpFdnFZVWFpeFFPU2lCZEhhVzFhQQ?oc=5\" target=\"_blank\">「日欧の蓄電池事業とNKESの取組」と題して、（株）日本総合研究所 段野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 736431,
+      "title": "炭酸リチウム粉末市場2035年予測：LFP電池需要が二桁成長を牽引 - ニュースと統計 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUDRDT2phdUxYSmsxdVJldXZXdnVOU0tZRklPZnF4LU1Za3ctZ3VFd2tzZlAtNm9UU0E3bkh1MlZOSWQtRmQtTHFqSUNFLUs1NUpaUDVtSHBtTG5QNTB6NkFSa1R5bnlXYURFbjdnakUwOElFamNwOHRfYUx3WFJCdVZfcmtQZjNfQmM4WHJNaEFscUZ2Z2JCcm5Vb0lPaDRvUWZqSnRmQ1NSaUMwVXZ2ak5PQmcxNjVKQWx1QzBYNllKVHJwX2RFNzYxSmN1VHFHMzlldDdFWjVPaEtvQlhTNzNiNA?oc=5",
+      "published": "Thu, 22 Oct 2026 05:36:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUDRDT2phdUxYSmsxdVJldXZXdnVOU0tZRklPZnF4LU1Za3ctZ3VFd2tzZlAtNm9UU0E3bkh1MlZOSWQtRmQtTHFqSUNFLUs1NUpaUDVtSHBtTG5QNTB6NkFSa1R5bnlXYURFbjdnakUwOElFamNwOHRfYUx3WFJCdVZfcmtQZjNfQmM4WHJNaEFscUZ2Z2JCcm5Vb0lPaDRvUWZqSnRmQ1NSaUMwVXZ2ak5PQmcxNjVKQWx1QzBYNllKVHJwX2RFNzYxSmN1VHFHMzlldDdFWjVPaEtvQlhTNzNiNA?oc=5\" target=\"_blank\">炭酸リチウム粉末市場2035年予測：LFP電池需要が二桁成長を牽引 - ニュースと統計</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 619123,
+      "title": "富士経済、定置用蓄電システム向け蓄電池の世界市場調査結果を発表 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yREtWcl9UdDRVb3JZbmRoNU15Ui1VYnMxTFdfT0RmLW9xZ3BiRV9zcjVnWHR2blBaNVd0ekEyZzhBSVpCdlQzUzJDNll5aU9uYkhpQVhrZnZEVElTRHdWTXNsbjFMbVJVU3NWcQ?oc=5",
+      "published": "Thu, 22 Oct 2026 02:49:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5yREtWcl9UdDRVb3JZbmRoNU15Ui1VYnMxTFdfT0RmLW9xZ3BiRV9zcjVnWHR2blBaNVd0ekEyZzhBSVpCdlQzUzJDNll5aU9uYkhpQVhrZnZEVElTRHdWTXNsbjFMbVJVU3NWcQ?oc=5\" target=\"_blank\">富士経済、定置用蓄電システム向け蓄電池の世界市場調査結果を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 405922,
+      "title": "EcoFlow、3000Wh超の大容量ポタ電DELTA 4。冷蔵庫71時間稼働 - 家電 Watch",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FcVZpZGx4WVVBMXEwSVVVeHBkQU1WUDZ3cm0wSXRwSDB0TWZMdWtZUENJLTFoUW8wa2M1Y1dNbnhuWG9peUFwdjRHNkJWZUcwd0N0Ym5zVENZS0NMUVlXcUlGRFlSQ2s?oc=5",
+      "published": "Thu, 22 Oct 2026 04:16:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FcVZpZGx4WVVBMXEwSVVVeHBkQU1WUDZ3cm0wSXRwSDB0TWZMdWtZUENJLTFoUW8wa2M1Y1dNbnhuWG9peUFwdjRHNkJWZUcwd0N0Ym5zVENZS0NMUVlXcUlGRFlSQ2s?oc=5\" target=\"_blank\">EcoFlow、3000Wh超の大容量ポタ電DELTA 4。冷蔵庫71時間稼働</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">家電 Watch</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 537570,
+      "title": "【系統用蓄電池の今期完工計画を公表】2026年8月～2027年7月、複数案件を順次竣工へ - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnY3VIVF90Z0NuUW8tTUd4Z3JKR3A4UDIyUkFyWlBpa09WYWhPUDFfS0ljblRyYjk0b28xa3VBMFU5U2tCMmh0ZDZTdXB5R0ZoTFJmS0c1R21EQXhuNVQ1ZzJ3N3ZSSXlCZEE?oc=5",
+      "published": "Thu, 22 Oct 2026 00:50:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBnY3VIVF90Z0NuUW8tTUd4Z3JKR3A4UDIyUkFyWlBpa09WYWhPUDFfS0ljblRyYjk0b28xa3VBMFU5U2tCMmh0ZDZTdXB5R0ZoTFJmS0c1R21EQXhuNVQ1ZzJ3N3ZSSXlCZEE?oc=5\" target=\"_blank\">【系統用蓄電池の今期完工計画を公表】2026年8月～2027年7月、複数案件を順次竣工へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
@@ -444,38 +165,20 @@
       "source_type": "rss"
     },
     {
-      "id": 688636,
+      "id": 168915,
       "title": "系統用蓄電池市場は2050年に何倍になるのか――2030・2050年見通しを読み解くウェビナーを開催 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mSkhVRV9YQ2lDY3NrdTBqamE4RkFTMUVyTkpRc0lXMlNxY2c0Q0puY2V6ZDRiTzRRVHhfWFZiY0FBMm5CZ2NJV3JjYW9fTld4SWtSbkRjN2NpbVVKXzQ0REVnU3BacWlDM24tT0VwSEZEaVpUNDJ1c3FuTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jemtTSFpBMDFDRFZrSW5iZGFMWmxWYVkzRG04Ri1IU0wwUXFveVV1YjJBazE1RkhISC1jQ0FVN1dkaU1ndldEZWpSdlhwanZkMndpUDVjRUd5ZDdiWGtydHNlQk15VTB2bVBKU3BYT2RmSm9sWnc?oc=5",
       "published": "Wed, 21 Oct 2026 19:15:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9mSkhVRV9YQ2lDY3NrdTBqamE4RkFTMUVyTkpRc0lXMlNxY2c0Q0puY2V6ZDRiTzRRVHhfWFZiY0FBMm5CZ2NJV3JjYW9fTld4SWtSbkRjN2NpbVVKXzQ0REVnU3BacWlDM24tT0VwSEZEaVpUNDJ1c3FuTQ?oc=5\" target=\"_blank\">系統用蓄電池市場は2050年に何倍になるのか――2030・2050年見通しを読み解くウェビナーを開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9jemtTSFpBMDFDRFZrSW5iZGFMWmxWYVkzRG04Ri1IU0wwUXFveVV1YjJBazE1RkhISC1jQ0FVN1dkaU1ndldEZWpSdlhwanZkMndpUDVjRUd5ZDdiWGtydHNlQk15VTB2bVBKU3BYT2RmSm9sWnc?oc=5\" target=\"_blank\">系統用蓄電池市場は2050年に何倍になるのか――2030・2050年見通しを読み解くウェビナーを開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 833528,
-      "title": "【太陽光パネル・蓄電池に関する意識調査】蓄電池の「後付け」ができること、84.6%が「知らなかった」と回答！ - イザ！",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sREs5OVRyZzRBWXA2MnhuUmQ5dkJVRE5QdmdWSV9OckJ0S2xMRUFOckVVRm5MTWdBcHpRVjNFd1BtSVRudmN6bnJxT2trYUFZcFlMQ1U2bmtodVBCMDNBOTl5VWRENElNMVhHU1oxclZmdnFPSEkxUm1B?oc=5",
-      "published": "Wed, 21 Oct 2026 01:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5sREs5OVRyZzRBWXA2MnhuUmQ5dkJVRE5QdmdWSV9OckJ0S2xMRUFOckVVRm5MTWdBcHpRVjNFd1BtSVRudmN6bnJxT2trYUFZcFlMQ1U2bmtodVBCMDNBOTl5VWRENElNMVhHU1oxclZmdnFPSEkxUm1B?oc=5\" target=\"_blank\">【太陽光パネル・蓄電池に関する意識調査】蓄電池の「後付け」ができること、84.6%が「知らなかった」と回答！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">イザ！</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 868301,
-      "title": "「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串 康彦氏によるセミナーを2026年11月27日(金)に開催! - イザ！",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XWEFjckNPM2E5dVVkS3FhN0RpTDZYbTgtVXlHNEhHM1N1dlh5ZTN2MTVRUlg4bUN1OE5NQUk0dXQ5S082alhmem5hbXFKUWY5QW1pdmlaTXM0eXhsdEFFSll0dTctLUE5dC1aZmZBQ2NDZWFBclQxcWNB?oc=5",
-      "published": "Wed, 21 Oct 2026 03:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1XWEFjckNPM2E5dVVkS3FhN0RpTDZYbTgtVXlHNEhHM1N1dlh5ZTN2MTVRUlg4bUN1OE5NQUk0dXQ5S082alhmem5hbXFKUWY5QW1pdmlaTXM0eXhsdEFFSll0dTctLUE5dC1aZmZBQ2NDZWFBclQxcWNB?oc=5\" target=\"_blank\">「どう変わる？系統用蓄電池の収益構造」と題して、Bayside Energy Insights LLP 共同代表 大串 康彦氏によるセミナーを2026年11月27日(金)に開催!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">イザ！</font>",
-      "site_name": "Googleニュース",
-      "source_type": "rss"
-    },
-    {
-      "id": 292864,
-      "title": "横浜港9月の輸出額14.5%増 EV需要で銅くずや蓄電池好調 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxYUl4NlRScEhGRkRnLWNuaC00d1J1eEFJU1hxbTBmWUxEMHY2YXpvVFI5VC1Mb0FIUk8yWmFIR280ZkpKZUhjdnVHdXZ3UWZPaW94aEl4d3k5SHpZby1GNFRtb2JiaXJvYkhpSA?oc=5",
-      "published": "Wed, 21 Oct 2026 09:28:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBxYUl4NlRScEhGRkRnLWNuaC00d1J1eEFJU1hxbTBmWUxEMHY2YXpvVFI5VC1Mb0FIUk8yWmFIR280ZkpKZUhjdnVHdXZ3UWZPaW94aEl4d3k5SHpZby1GNFRtb2JiaXJvYkhpSA?oc=5\" target=\"_blank\">横浜港9月の輸出額14.5%増 EV需要で銅くずや蓄電池好調</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "id": 993397,
+      "title": "世界初、無線基地局におけるワークロードシフトとエネルギーマネジメントの協調制御の実現に向けた実証を開始 - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wbkhQQWJ0NFNYYmw2VkpEQTV0dGJUalpmUFp2OXBaZmM1MlNqN2VfNTNEYXJMOWNhTmZadGJHek5EUjkybXJCdVNhNXBaSE5lVndUOEdvTzZaLUFlTTYzMEIzVnlEQ2VjMmRR?oc=5",
+      "published": "Thu, 22 Oct 2026 07:16:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1wbkhQQWJ0NFNYYmw2VkpEQTV0dGJUalpmUFp2OXBaZmM1MlNqN2VfNTNEYXJMOWNhTmZadGJHek5EUjkybXJCdVNhNXBaSE5lVndUOEdvTzZaLUFlTTYzMEIzVnlEQ2VjMmRR?oc=5\" target=\"_blank\">世界初、無線基地局におけるワークロードシフトとエネルギーマネジメントの協調制御の実現に向けた実証を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
@@ -483,26 +186,71 @@
       "id": 445897,
       "title": "NTTドコモとNTT、無線基地局のAI協調制御による実証実験を開始 再エネ活用と災害に強い通信基盤の構築へ - LIGARE（リガーレ）",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UVDNnWEQ3UFhOT3BJQ2xRLXpybmNoV3dyRndxZUJhblB4ekk0RzA5R2tnYWJrQ2hKRTRSWUpsTDJ3elNyb3hVZUNoSUxsbTVpUDAwbE5vRmFhQQ?oc=5",
-      "published": "Wed, 21 Oct 2026 23:31:55 GMT",
+      "published": "Wed, 21 Oct 2026 23:31:31 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UVDNnWEQ3UFhOT3BJQ2xRLXpybmNoV3dyRndxZUJhblB4ekk0RzA5R2tnYWJrQ2hKRTRSWUpsTDJ3elNyb3hVZUNoSUxsbTVpUDAwbE5vRmFhQQ?oc=5\" target=\"_blank\">NTTドコモとNTT、無線基地局のAI協調制御による実証実験を開始 再エネ活用と災害に強い通信基盤の構築へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LIGARE（リガーレ）</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 217672,
-      "title": "CATLが自信を表明：来年の電池需要はそれほど悲観的ではない、それでも株価は約1割急落 - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IY0xYak9vX1dFMDk2VVFYN01pVm83TVdNOUNIbS01OTBFVUx3dUNsNWJfUHhsN3Jnak14dDBHcE1uenJnRDNtZzhOcm9GU1lGRXQ0X0QzYl9nV00zYTMxVkFLQUhXNmw5S2N1M0F0SVJKLXQt?oc=5",
-      "published": "Wed, 21 Oct 2026 04:05:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9IY0xYak9vX1dFMDk2VVFYN01pVm83TVdNOUNIbS01OTBFVUx3dUNsNWJfUHhsN3Jnak14dDBHcE1uenJnRDNtZzhOcm9GU1lGRXQ0X0QzYl9nV00zYTMxVkFLQUhXNmw5S2N1M0F0SVJKLXQt?oc=5\" target=\"_blank\">CATLが自信を表明：来年の電池需要はそれほど悲観的ではない、それでも株価は約1割急落</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+      "id": 16112,
+      "title": "【系統用蓄電所】太陽光発電やデータセンター特需に伴い電力需給調整施設が急増しトラブルも…県内の現状と課題(静岡) - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVd4VHZxeGxEUnBldm5zaW1ETnlIY3Z1bDNnVDMwWHdfaUxaLWphZTY0MEtLdDYyT0NZazBoNURobWl1VEM1ai14WFdxWXhnQzc2VGZldkJ1MlpCTVVsQUt3Y0szN1R3Y0ZTYjBERm5jeVo1bmVaUHZYYm1UTk1pOVpqSXFpMXNkTHfSAYYBQVVfeXFMUEFwcTFzM0dVb2tkcUROZXZMQjAwZU5IQzdIdkdQdFdSZmZleGJKUU16WkxDSUwtMUxZU3ZlVkpJVGdYWS1EQVFBeTZRQUZnZlhXTWkxdkFic2RZRmItWFR0REFhT0dMRFpCNlp3cGcxM1BFNEpOdkZmRzk4ZUNPWFhuakNMWnc?oc=5",
+      "published": "Thu, 22 Oct 2026 08:20:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxORVd4VHZxeGxEUnBldm5zaW1ETnlIY3Z1bDNnVDMwWHdfaUxaLWphZTY0MEtLdDYyT0NZazBoNURobWl1VEM1ai14WFdxWXhnQzc2VGZldkJ1MlpCTVVsQUt3Y0szN1R3Y0ZTYjBERm5jeVo1bmVaUHZYYm1UTk1pOVpqSXFpMXNkTHfSAYYBQVVfeXFMUEFwcTFzM0dVb2tkcUROZXZMQjAwZU5IQzdIdkdQdFdSZmZleGJKUU16WkxDSUwtMUxZU3ZlVkpJVGdYWS1EQVFBeTZRQUZnZlhXTWkxdkFic2RZRmItWFR0REFhT0dMRFpCNlp3cGcxM1BFNEpOdkZmRzk4ZUNPWFhuakNMWnc?oc=5\" target=\"_blank\">【系統用蓄電所】太陽光発電やデータセンター特需に伴い電力需給調整施設が急増しトラブルも…県内の現状と課題(静岡)",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 196431,
-      "title": "プロシューマー協会は、自己消費を増やすため、プロシューマーに余剰電力を蓄電池に貯蔵するよう求めている - Informat.ro",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVhjZzQzc2pPWFo4aERmTmxLTGp4aVhsRXg5YTlNby1ZbHROcEpjMnpWTm9hRExOSWc2clZjLVUySnBhWGpHbmNsS2Q0dkkwMGxiSXNaU1MzcVVjNGF4WEh2OUhhTGNWNmtENWw2Y3JMSlRjRmtBQUdRQUFPNmlicVBDTEI3TmhXekxzMlZES0IxQ0I0UFBabFU2QVdPU0tYeXlRN3FSTnEySzJ3UlE?oc=5",
-      "published": "Wed, 21 Oct 2026 08:21:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVhjZzQzc2pPWFo4aERmTmxLTGp4aVhsRXg5YTlNby1ZbHROcEpjMnpWTm9hRExOSWc2clZjLVUySnBhWGpHbmNsS2Q0dkkwMGxiSXNaU1MzcVVjNGF4WEh2OUhhTGNWNmtENWw2Y3JMSlRjRmtBQUdRQUFPNmlicVBDTEI3TmhXekxzMlZES0IxQ0I0UFBabFU2QVdPU0tYeXlRN3FSTnEySzJ3UlE?oc=5\" target=\"_blank\">プロシューマー協会は、自己消費を増やすため、プロシューマーに余剰電力を蓄電池に貯蔵するよう求めている</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Informat.ro</font>",
+      "id": 537381,
+      "title": "台風・豪雨が続く千葉で、電力自給率100%の工場。被災し停電が続く社長宅にも導入へ - Excite エキサイト",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RckJfa1NqTGFLSGNId1hVVXA4VHVUOVBnamx3eHFHeFF6MDZLb3JjU1VPX29MWFNtWkp1YUdwRXBlQWN3UzJwTEgtMmhGS1IxSHp2UXo1aGpsYzB0UmM0cHp3?oc=5",
+      "published": "Thu, 22 Oct 2026 05:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RckJfa1NqTGFLSGNId1hVVXA4VHVUOVBnamx3eHFHeFF6MDZLb3JjU1VPX29MWFNtWkp1YUdwRXBlQWN3UzJwTEgtMmhGS1IxSHp2UXo1aGpsYzB0UmM0cHp3?oc=5\" target=\"_blank\">台風・豪雨が続く千葉で、電力自給率100%の工場。被災し停電が続く社長宅にも導入へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Excite エキサイト</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 421252,
+      "title": "GoodWe Japan、愛知県豊橋市で開催される「ガスコムフェスタ2026」に参加｜Infoseekニュース - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNSzR2d09RbDUtSDU2bDUzVTBNTnJidk83eTZYcHA5U3ctVExZLVh6ZFpxLW9FMk9mTW9fR1d1cWktRFVxdVYyZEprSlRidGJmbEJORUlydTEyd3NOQ196RWFvY2F4TExBcG5LQ0M2ZlBmdw?oc=5",
+      "published": "Thu, 22 Oct 2026 04:15:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBNSzR2d09RbDUtSDU2bDUzVTBNTnJidk83eTZYcHA5U3ctVExZLVh6ZFpxLW9FMk9mTW9fR1d1cWktRFVxdVYyZEprSlRidGJmbEJORUlydTEyd3NOQ196RWFvY2F4TExBcG5LQ0M2ZlBmdw?oc=5\" target=\"_blank\">GoodWe Japan、愛知県豊橋市で開催される「ガスコムフェスタ2026」に参加｜Infoseekニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 984851,
+      "title": "台風・豪雨が続く千葉で、電力自給率100%の工場。被災し停電が続く社長宅にも導入へ - アットプレス",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmaFY3N21lSUwzVldJSjRhTWRmS2dIT2RSWEktbS01MTZGbGU4ZURtcWpYQ2lYUUFraTFHVUV2R2xJSnhTalpDVzJGWGZaUQ?oc=5",
+      "published": "Thu, 22 Oct 2026 05:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmaFY3N21lSUwzVldJSjRhTWRmS2dIT2RSWEktbS01MTZGbGU4ZURtcWpYQ2lYUUFraTFHVUV2R2xJSnhTalpDVzJGWGZaUQ?oc=5\" target=\"_blank\">台風・豪雨が続く千葉で、電力自給率100%の工場。被災し停電が続く社長宅にも導入へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 204098,
+      "title": "BESS用ベントバルブ市場分析レポート：2026年109.65百万米ドル規模、成長率19.47%推移 - アットプレス",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTZmRkZ0hEXzJUaGtjZGdLdm03ZWNRb3hIb2hFSHB1S21POEN5c3Q0amlTQ2NobW02MGRoeVZ0bklUenpkMDgyZUdrQWZpZFk?oc=5",
+      "published": "Thu, 22 Oct 2026 06:52:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTZmRkZ0hEXzJUaGtjZGdLdm03ZWNRb3hIb2hFSHB1S21POEN5c3Q0amlTQ2NobW02MGRoeVZ0bklUenpkMDgyZUdrQWZpZFk?oc=5\" target=\"_blank\">BESS用ベントバルブ市場分析レポート：2026年109.65百万米ドル規模、成長率19.47%推移</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 426323,
+      "title": "レポートオーシャン株式会社プレスリリース:定置型エネルギー貯蔵用電池市場、2035年に751億7000万米ドルへ拡大、CAGR 12.02％、再生可能エネルギー導入拡大と電力系統安定化需要が成長を加速 - ドリームニュース",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xd2hpbkRVX2xta1B3UXFBUmkwS1JjY3M5ZnpiLUtKQWktV3pXVHZhMlBDNTFtdWdDeWNfd25BOU1qVkpuTHFabmxHbG9WcDV3elpz?oc=5",
+      "published": "Thu, 22 Oct 2026 03:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xd2hpbkRVX2xta1B3UXFBUmkwS1JjY3M5ZnpiLUtKQWktV3pXVHZhMlBDNTFtdWdDeWNfd25BOU1qVkpuTHFabmxHbG9WcDV3elpz?oc=5\" target=\"_blank\">レポートオーシャン株式会社プレスリリース:定置型エネルギー貯蔵用電池市場、2035年に751億7000万米ドルへ拡大、CAGR 12.02％、再生可能エネルギー導入拡大と電力系統安定化需要が成長を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドリームニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 235514,
+      "title": "GBG製バッテリー管理システム、JC-STAR「★1」適合ラベルを取得台湾GBG Technologyの日本法人として、系統用蓄電所向け設備の提案とセキュリティ情報の提供を推進｜Infoseekニュース - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwVU1kTTdNTS16LWtqdlB2dmNQQlgtOVVQaFJsdTQ5SFpQQ2M0UjRaX3RDQWVoN1Jwb0lDUHQ1NkMtX1g5Mnl3enNibnkzdjM3VW5oNHI2a0RRbzJKenhUN09nNGNNTDZsNFJzMlpNT2xmQQ?oc=5",
+      "published": "Wed, 21 Oct 2026 15:10:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAwVU1kTTdNTS16LWtqdlB2dmNQQlgtOVVQaFJsdTQ5SFpQQ2M0UjRaX3RDQWVoN1Jwb0lDUHQ1NkMtX1g5Mnl3enNibnkzdjM3VW5oNHI2a0RRbzJKenhUN09nNGNNTDZsNFJzMlpNT2xmQQ?oc=5\" target=\"_blank\">GBG製バッテリー管理システム、JC-STAR「★1」適合ラベルを取得台湾GBG Technologyの日本法人として、系統用蓄電所向け設備の提案とセキュリティ情報の提供を推進｜Infoseekニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
@@ -516,101 +264,218 @@
       "source_type": "rss"
     },
     {
-      "id": 779870,
-      "title": "SSK、系統用蓄電池の収益構造を解説するセミナーを２０２６年１１月２７日に開催へ - Dellows News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE96Z2JrYkpkMExXempSclF1MTFad3hiVmgwdm1BUF90M09WYmxQbDd1SzNjOWVwNEM3NURDSHhpQ2NPcXA2aUE?oc=5",
-      "published": "Wed, 21 Oct 2026 04:40:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE96Z2JrYkpkMExXempSclF1MTFad3hiVmgwdm1BUF90M09WYmxQbDd1SzNjOWVwNEM3NURDSHhpQ2NPcXA2aUE?oc=5\" target=\"_blank\">SSK、系統用蓄電池の収益構造を解説するセミナーを２０２６年１１月２７日に開催へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "id": 854063,
+      "title": "デジタルグリッド、系統用蓄電池の取扱量が計100拠点・200MWを突破 - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LOE1rZEphUDNYdDB2QVhHTVRVaXNibTdaUE9Eb05waGZ6eG95MHE3d2JzSVNOeTZ6WTlnZnBBeTNiZk9mUTNiVF9YRjZwTFNaM09fd3o0NWlIaVNJdlE?oc=5",
+      "published": "Wed, 21 Oct 2026 23:57:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LOE1rZEphUDNYdDB2QVhHTVRVaXNibTdaUE9Eb05waGZ6eG95MHE3d2JzSVNOeTZ6WTlnZnBBeTNiZk9mUTNiVF9YRjZwTFNaM09fd3o0NWlIaVNJdlE?oc=5\" target=\"_blank\">デジタルグリッド、系統用蓄電池の取扱量が計100拠点・200MWを突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 979774,
-      "title": "Q.ENESTホールディングスが初の系統用蓄電所を活用し需給調整市場へ参入 - Dellows News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJU2w5QmhMYkx1RGlmOGMxNDhxWXQzRVp5QkFudENfSjB3elVfbUN1NnZMLV9EUEp0RFd6TzVNMERXSTI3UlE?oc=5",
-      "published": "Wed, 21 Oct 2026 04:03:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJU2w5QmhMYkx1RGlmOGMxNDhxWXQzRVp5QkFudENfSjB3elVfbUN1NnZMLV9EUEp0RFd6TzVNMERXSTI3UlE?oc=5\" target=\"_blank\">Q.ENESTホールディングスが初の系統用蓄電所を活用し需給調整市場へ参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "id": 767100,
+      "title": "日欧の蓄電池事業を解説するセミナーが2026年11月25日に開催へ - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZX01LcHNod2Q1OFIxbVdoNko0QUhTamtJaDkyRTJBSi1wd0M4SmdOZGp6SlRGTWpsbENBdzF5eEtocGhpYTYxMEI0NnExWFVSVUxGcmFxZGpTaFc0X2VwclZfWUk?oc=5",
+      "published": "Thu, 22 Oct 2026 01:40:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZX01LcHNod2Q1OFIxbVdoNko0QUhTamtJaDkyRTJBSi1wd0M4SmdOZGp6SlRGTWpsbENBdzF5eEtocGhpYTYxMEI0NnExWFVSVUxGcmFxZGpTaFc0X2VwclZfWUk?oc=5\" target=\"_blank\">日欧の蓄電池事業を解説するセミナーが2026年11月25日に開催へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 522291,
-      "title": "パワーエックスと関西電力、ＰＬＡＮＴ－２上中店で超急速ＥＶ充電を開始 - Dellows News",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyQzhxZ1NHLVJveGFxTm9iUm5VUXJmMHFLTEFON3pLOEtZLVJqX2d5VHQ0VWlVV2kwWkY1dVpDMFo1Nm5HNWZPMWY5Q2hteGlzbDU2eVlHSUc5WTZ3bkd4U1JhZXpBczZz?oc=5",
-      "published": "Wed, 21 Oct 2026 08:26:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyQzhxZ1NHLVJveGFxTm9iUm5VUXJmMHFLTEFON3pLOEtZLVJqX2d5VHQ0VWlVV2kwWkY1dVpDMFo1Nm5HNWZPMWY5Q2hteGlzbDU2eVlHSUc5WTZ3bkd4U1JhZXpBczZz?oc=5\" target=\"_blank\">パワーエックスと関西電力、ＰＬＡＮＴ－２上中店で超急速ＥＶ充電を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "id": 407273,
+      "title": "サステナブルHD、系統用蓄電池の複数案件を2027年7月までに順次完工へ - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pQ05Bbjh5cHg0QUktSFozTHg1LWQ3b3MwUHJPY25ib3ZNZDhjc2l0ZXJvTjhuLWk4bTlNZlNSWWFGa0l4WThIM2tSb1RzRGplLXljcHRMTkJwdUtsNXFON3VmWlE?oc=5",
+      "published": "Thu, 22 Oct 2026 00:50:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pQ05Bbjh5cHg0QUktSFozTHg1LWQ3b3MwUHJPY25ib3ZNZDhjc2l0ZXJvTjhuLWk4bTlNZlNSWWFGa0l4WThIM2tSb1RzRGplLXljcHRMTkJwdUtsNXFON3VmWlE?oc=5\" target=\"_blank\">サステナブルHD、系統用蓄電池の複数案件を2027年7月までに順次完工へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 557568,
-      "title": "【プラパで充電】Divers - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tM25LX3FsZTBzYzJhNS1HWDJpWFFTZzc1aVdkUDVFMmN2RzhSZ0UzY1Z6RVFka1BWRW9FQlhkSEI2MEpUSmJuQW9CeFUwYS1GUFhzSE9tUEJva1BSTXpxWXJFQ3Z1X0tPYzVNMVRLWHduNDBOWDYxbTZ4cw?oc=5",
-      "published": "Wed, 21 Oct 2026 09:21:22 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1tM25LX3FsZTBzYzJhNS1HWDJpWFFTZzc1aVdkUDVFMmN2RzhSZ0UzY1Z6RVFka1BWRW9FQlhkSEI2MEpUSmJuQW9CeFUwYS1GUFhzSE9tUEJva1BSTXpxWXJFQ3Z1X0tPYzVNMVRLWHduNDBOWDYxbTZ4cw?oc=5\" target=\"_blank\">【プラパで充電】Divers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "id": 485429,
+      "title": "ジャパンブランディング、系統用蓄電池のウェビナーを2026年10月開催へ - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51U2xsQU1oWGtRalA2dU05cW1jWWZma21JV3F3NmJtMDB2a1dBXzZmRUtCLUdtaTZiODA5NXZscGd0dUZKd1ZocEZSX1VhWlNqWDYwN0dhMElOanRRbndVag?oc=5",
+      "published": "Wed, 21 Oct 2026 19:55:07 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE51U2xsQU1oWGtRalA2dU05cW1jWWZma21JV3F3NmJtMDB2a1dBXzZmRUtCLUdtaTZiODA5NXZscGd0dUZKd1ZocEZSX1VhWlNqWDYwN0dhMElOanRRbndVag?oc=5\" target=\"_blank\">ジャパンブランディング、系統用蓄電池のウェビナーを2026年10月開催へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 58786,
-      "title": "fantasista、滋賀県長浜市に系統用蓄電所を建設へ 27年4月に運用開始予定 - Dellows News",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Xd0pIcmh2Rm93UXpRSldHbGhpWFZpZXlVYmVCblJqTHNMTURnQTZzSU93UFRaektaN205cjQ2T1NWcERkeVpPWURkRGRSSGNIOG5GTFYtWDFHazZFN0E?oc=5",
-      "published": "Wed, 21 Oct 2026 12:05:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Xd0pIcmh2Rm93UXpRSldHbGhpWFZpZXlVYmVCblJqTHNMTURnQTZzSU93UFRaektaN205cjQ2T1NWcERkeVpPWURkRGRSSGNIOG5GTFYtWDFHazZFN0E?oc=5\" target=\"_blank\">fantasista、滋賀県長浜市に系統用蓄電所を建設へ 27年4月に運用開始予定</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "id": 732840,
+      "title": "「低圧蓄電池ビジネスの最前線」と題して、(株)AnPrenergy 代表取締役 村谷 敬氏/PandaPower(株) 代表取締役 中島 篤志氏によるセミナーを2026年11月20日(金)に開催!! - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2ejV2MHZRTmlrU2Q2dUFFT0d4aUFhbERuYkNZbnNtWTV0aDBJMUJhTXRfeDNfdk44VUNqX1ZvR2VqYms5UlE?oc=5",
+      "published": "Wed, 21 Oct 2026 21:49:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2ejV2MHZRTmlrU2Q2dUFFT0d4aUFhbERuYkNZbnNtWTV0aDBJMUJhTXRfeDNfdk44VUNqX1ZvR2VqYms5UlE?oc=5\" target=\"_blank\">「低圧蓄電池ビジネスの最前線」と題して、(株)AnPrenergy 代表取締役 村谷 敬氏/PandaPower(株) 代表取締役 中島 篤志氏によるセミナーを2026年11月20日(金)に開催!!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 842856,
-      "title": "ミツウロコグリーンエネルギー、北海道北広島市の蓄電所で需給調整市場に参入 - Dellows News",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FOUZZYnIweGMzclk1WUV2cnFjMkRyX01YX1JCaEZfaVdUd203RkI3Q2IxdlNEMGZjU1J2Y2VNQmNBdTRkREZ1dHN5UjgtemlHdGRHZVg4d2FIbkdBQWVQcA?oc=5",
-      "published": "Wed, 21 Oct 2026 07:44:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FOUZZYnIweGMzclk1WUV2cnFjMkRyX01YX1JCaEZfaVdUd203RkI3Q2IxdlNEMGZjU1J2Y2VNQmNBdTRkREZ1dHN5UjgtemlHdGRHZVg4d2FIbkdBQWVQcA?oc=5\" target=\"_blank\">ミツウロコグリーンエネルギー、北海道北広島市の蓄電所で需給調整市場に参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "id": 259771,
+      "title": "系統用蓄電池の契約や交渉を解説するセミナーが2026年11月に開催へ - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VbTJhOFNiWWFxdUN4bzQ4eXBLd2VaNHg4WjhuWDZyNGtvR2FsZXplbDQwMEZrajdLVkJfOFRZNmk3XzYxSHFlSHVhYTB6ZlVNSXZ1TjJUSDd0dFFyamtLNlpjS0Q5Tjhv?oc=5",
+      "published": "Wed, 21 Oct 2026 18:02:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VbTJhOFNiWWFxdUN4bzQ4eXBLd2VaNHg4WjhuWDZyNGtvR2FsZXplbDQwMEZrajdLVkJfOFRZNmk3XzYxSHFlSHVhYTB6ZlVNSXZ1TjJUSDd0dFFyamtLNlpjS0Q5Tjhv?oc=5\" target=\"_blank\">系統用蓄電池の契約や交渉を解説するセミナーが2026年11月に開催へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 970026,
-      "title": "GBG製バッテリー管理システム、JC-STAR「★1」適合ラベルを取得台湾GBG Technologyの日本法人として、系統用蓄電所向け設備の提案とセキュリティ情報の提供を推進 (2026年10月21日掲載) - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xdUFXbzhKVVBJSlEzVy1mNlppVEZmRWhMMlBFdktpV0JPYTJCNGRIQnlxUGVrdHVYWU1PVmt0OFpqZ21fbURBWEhnMVRfV3ZhMHIxMk95dEN4Y3M4NlhzbU9B?oc=5",
-      "published": "Wed, 21 Oct 2026 02:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xdUFXbzhKVVBJSlEzVy1mNlppVEZmRWhMMlBFdktpV0JPYTJCNGRIQnlxUGVrdHVYWU1PVmt0OFpqZ21fbURBWEhnMVRfV3ZhMHIxMk95dEN4Y3M4NlhzbU9B?oc=5\" target=\"_blank\">GBG製バッテリー管理システム、JC-STAR「★1」適合ラベルを取得台湾GBG Technologyの日本法人として、系統用蓄電所向け設備の提案とセキュリティ情報の提供を推進 (2026年10月21日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
+      "id": 625756,
+      "title": "エリーパワー、ハイニッケル採用の定置用電池を開発 26年度量産へ - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAwUHhhLTVIckN0OGZWMDFDZzh1eURESnNHS2ZKUHBNNXYxMGx2YlQ4OGZtNjhsZ1VNYkZReHF0NkZTeFp0c1E?oc=5",
+      "published": "Wed, 21 Oct 2026 21:19:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFAwUHhhLTVIckN0OGZWMDFDZzh1eURESnNHS2ZKUHBNNXYxMGx2YlQ4OGZtNjhsZ1VNYkZReHF0NkZTeFp0c1E?oc=5\" target=\"_blank\">エリーパワー、ハイニッケル採用の定置用電池を開発 26年度量産へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 3916,
-      "title": "まちスパチャプロジェクト、岡山県新見市のイベントFAN2026に出展へ - Dellows News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NQWNYM3duMU5kSXJZdDA5bWlZc052RFg5YmF6amVDeXdiWHJlZjRzMXN5WnBZSWNmNGxDZ2ZqVUxJUEY3cnc?oc=5",
-      "published": "Wed, 21 Oct 2026 10:42:54 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NQWNYM3duMU5kSXJZdDA5bWlZc052RFg5YmF6amVDeXdiWHJlZjRzMXN5WnBZSWNmNGxDZ2ZqVUxJUEY3cnc?oc=5\" target=\"_blank\">まちスパチャプロジェクト、岡山県新見市のイベントFAN2026に出展へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "id": 36737,
+      "title": "川崎市が学校の太陽光余剰電力を市内へ供給開始 東芝や川崎未来エナジー等と連携 - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5TGpWM0kwVmlfM1lHS1djUkJDejY3bUxIR2Fwd0U0QmYzSFRITm1kTUJmMXJGZnktcERQYzhSNHc5YTlfdlNqQVZtZGNqZF9sbXRlSHRqSUVyNlRzOEhmQ2tESkI?oc=5",
+      "published": "Thu, 22 Oct 2026 07:00:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5TGpWM0kwVmlfM1lHS1djUkJDejY3bUxIR2Fwd0U0QmYzSFRITm1kTUJmMXJGZnktcERQYzhSNHc5YTlfdlNqQVZtZGNqZF9sbXRlSHRqSUVyNlRzOEhmQ2tESkI?oc=5\" target=\"_blank\">川崎市が学校の太陽光余剰電力を市内へ供給開始 東芝や川崎未来エナジー等と連携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 331903,
-      "title": "ヨックモック、移動販売車で静岡・秋田・茨城の3か所へ期間限定出店へ - Dellows News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92cnVkc2doMDAxLURoYVFXX3FGQ1cyaDY0RjQ3U1E3VFFKRDJ5UXBIaHZacGYydHl4blRleWZmcmVhQXJyMGc?oc=5",
-      "published": "Wed, 21 Oct 2026 08:28:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE92cnVkc2doMDAxLURoYVFXX3FGQ1cyaDY0RjQ3U1E3VFFKRDJ5UXBIaHZacGYydHl4blRleWZmcmVhQXJyMGc?oc=5\" target=\"_blank\">ヨックモック、移動販売車で静岡・秋田・茨城の3か所へ期間限定出店へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "id": 983679,
+      "title": "【系統用蓄電所】太陽光発電やデータセンター特需に伴い電力需給調整施設が急増しトラブルも…県内の現状と課題(静岡) - 日テレNEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15OU1lRi00VFFNTjFZTkRqQ0tRcFFrMDdab0xuRkV1eGRFeTlaWHVyeVpoVHI1QnJrODhNZV9Mc2puREM3NUpMRzlNSXVfRXhtLVRwM1RxZmk3NFdnSlBnMmlfTk1idEFneGhaTDZYQ2c2aG1SekV6N2NWXzRMNEE?oc=5",
+      "published": "Thu, 22 Oct 2026 08:20:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE15OU1lRi00VFFNTjFZTkRqQ0tRcFFrMDdab0xuRkV1eGRFeTlaWHVyeVpoVHI1QnJrODhNZV9Mc2puREM3NUpMRzlNSXVfRXhtLVRwM1RxZmk3NFdnSlBnMmlfTk1idEFneGhaTDZYQ2c2aG1SekV6N2NWXzRMNEE?oc=5\" target=\"_blank\">【系統用蓄電所】太陽光発電やデータセンター特需に伴い電力需給調整施設が急増しトラブルも…県内の現状と課題(静岡)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日テレNEWS NNN</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 317601,
-      "title": "ギガファクトリー、量産開始は平均6～9カ月遅延 6カ月の遅れで約2.5億ドルの価値損失リスクも - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8waC1NZUJGVEgzeHZuNTgxNTZHYzd5MGJ2UG1mRWszMUI0dlJ0Njc0cHBrVFJOYVcwWi1ET0t3eENBRmt6SjRsNDRFN1BlRFRNbFRnMklpcUUtTEZfWFh1eW5VcHlqSDNTcTlhNnBEaXMzS0NSU0Uyb3RB?oc=5",
-      "published": "Wed, 21 Oct 2026 05:51:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8waC1NZUJGVEgzeHZuNTgxNTZHYzd5MGJ2UG1mRWszMUI0dlJ0Njc0cHBrVFJOYVcwWi1ET0t3eENBRmt6SjRsNDRFN1BlRFRNbFRnMklpcUUtTEZfWFh1eW5VcHlqSDNTcTlhNnBEaXMzS0NSU0Uyb3RB?oc=5\" target=\"_blank\">ギガファクトリー、量産開始は平均6～9カ月遅延 6カ月の遅れで約2.5億ドルの価値損失リスクも</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "id": 195257,
+      "title": "【系統用蓄電所】太陽光発電やデータセンター特需に伴い電力需給調整施設が急増しトラブルも…県内の現状と課題(静岡) - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm5WUm5La3BFZDMyVUJrMzZ5c1FHWXhCTXJXUVlEQnVKY2tIbXp3bU14Nmdod29wRzVjWDV6WEZyZUFGRzdTR24yVHgybGRTZVdITmhocnBjQnNFcVJlM2RmRjMtYnRxejRPdmFndlFuQXRfRlMxb0gySGJyZmY5bE85Wk1QZm9BUGfSAYYBQVVfeXFMUEFwcTFzM0dVb2tkcUROZXZMQjAwZU5IQzdIdkdQdFdSZmZleGJKUU16WkxDSUwtMUxZU3ZlVkpJVGdYWS1EQVFBeTZRQUZnZlhXTWkxdkFic2RZRmItWFR0REFhT0dMRFpCNlp3cGcxM1BFNEpOdkZmRzk4ZUNPWFhuakNMWnc?oc=5",
+      "published": "Thu, 22 Oct 2026 08:20:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm5WUm5La3BFZDMyVUJrMzZ5c1FHWXhCTXJXUVlEQnVKY2tIbXp3bU14Nmdod29wRzVjWDV6WEZyZUFGRzdTR24yVHgybGRTZVdITmhocnBjQnNFcVJlM2RmRjMtYnRxejRPdmFndlFuQXRfRlMxb0gySGJyZmY5bE85Wk1QZm9BUGfSAYYBQVVfeXFMUEFwcTFzM0dVb2tkcUROZXZMQjAwZU5IQzdIdkdQdFdSZmZleGJKUU16WkxDSUwtMUxZU3ZlVkpJVGdYWS1EQVFBeTZRQUZnZlhXTWkxdkFic2RZRmItWFR0REFhT0dMRFpCNlp3cGcxM1BFNEpOdkZmRzk4ZUNPWFhuakNMWnc?oc=5\" target=\"_blank\">【系統用蓄電所】太陽光発電やデータセンター特需に伴い電力需給調整施設が急増しトラブルも…県内の現状と課題(静岡)",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
     {
-      "id": 375588,
-      "title": "構内電力需要の拡大を受け、FuelCell Energy Block SystemがPJM容量市場で99.873%の評価を取得 - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUG41ci0tSF9sa3VNcldEb1BUVkpfWm9hWTlqS2p3ZU50dS1zQWxFWTJSQ01vLUZya1FRY05uU2RSYWEyTk5MOFdvTXlpb3lzQ3ZYMEN5VjlSdkxmSzVGejkxaVItMFZtVmFMelRiZUg5OGhWbmpNbjB6c0k2WUgyNUUwVFJGWm8tbHhxb2NoWE12dW5ZSW5sQlR2QmQwVkR1cHo2aU1xdlQzenY1dHY2LQ?oc=5",
-      "published": "Wed, 21 Oct 2026 12:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOUG41ci0tSF9sa3VNcldEb1BUVkpfWm9hWTlqS2p3ZU50dS1zQWxFWTJSQ01vLUZya1FRY05uU2RSYWEyTk5MOFdvTXlpb3lzQ3ZYMEN5VjlSdkxmSzVGejkxaVItMFZtVmFMelRiZUg5OGhWbmpNbjB6c0k2WUgyNUUwVFJGWm8tbHhxb2NoWE12dW5ZSW5sQlR2QmQwVkR1cHo2aU1xdlQzenY1dHY2LQ?oc=5\" target=\"_blank\">構内電力需要の拡大を受け、FuelCell Energy Block SystemがPJM容量市場で99.873%の評価を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+      "id": 211805,
+      "title": "グリーンエナジー＆カンパニー、自社保有の系統用蓄電所、京都府で運用開始― 鹿児島・広島に続く３拠点目、関西エリアへ展開 ― - 山陽新聞デジタル｜さんデジ",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KaHN1d3dUcWJWU3d1NDIyQm92eUh0aDVDMmwzaWdiUmgyTF9lWWtpSk5RWVVUc0FQSElvb0o4bGdJVDR3Z0NfdjdiaWx0VVdadmc?oc=5",
+      "published": "Wed, 21 Oct 2026 18:04:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KaHN1d3dUcWJWU3d1NDIyQm92eUh0aDVDMmwzaWdiUmgyTF9lWWtpSk5RWVVUc0FQSElvb0o4bGdJVDR3Z0NfdjdiaWx0VVdadmc?oc=5\" target=\"_blank\">グリーンエナジー＆カンパニー、自社保有の系統用蓄電所、京都府で運用開始― 鹿児島・広島に続く３拠点目、関西エリアへ展開 ―</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞デジタル｜さんデジ</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 574267,
+      "title": "BESS用ベントバルブ市場分析レポート：2026年109.65百万米ドル規模、成長率19.47%推移 - Newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14YUpXcVpMckNGb1FjZ29sZXJYUGtOREg0Q2tGNFRzYngwVXpuR29PLTdTUGMtUm9qQVcwN0J6REpKQmlHMUxMMDVKSzNxUzA?oc=5",
+      "published": "Thu, 22 Oct 2026 06:52:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE14YUpXcVpMckNGb1FjZ29sZXJYUGtOREg0Q2tGNFRzYngwVXpuR29PLTdTUGMtUm9qQVcwN0J6REpKQmlHMUxMMDVKSzNxUzA?oc=5\" target=\"_blank\">BESS用ベントバルブ市場分析レポート：2026年109.65百万米ドル規模、成長率19.47%推移</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newscast.jp</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 191350,
+      "title": "【系統用蓄電所】太陽光発電やデータセンター特需に伴い電力需給調整施設が急増しトラブルも…県内の現状と課題(静岡) - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vV0I3V21TS1BVVTJneUpwYlpIN1VQRjg0TDRqWWxidXYyeVJHbjBCd3BuU0F2RERXRUtIODlaWFZid3F1enNuQVFmYXk3c21qMWVqb01IamZMS1FqXzM2LTJ3Z3hCekJy0gFuQVVfeXFMTmVSa2pNZFlZQUkyek00ZFlZRTVUNmRtcF9xRnFfMlpVLW1mS2UxbnNaTnNjWDN2NWJmbW11ODh5UEtHcDZNUjlZUXR5Y20wbS1wMU5VQUJUeDI4U3FkM0ZPV19tVGcwbTFwQ3ZDQ3c?oc=5",
+      "published": "Thu, 22 Oct 2026 08:20:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vV0I3V21TS1BVVTJneUpwYlpIN1VQRjg0TDRqWWxidXYyeVJHbjBCd3BuU0F2RERXRUtIODlaWFZid3F1enNuQVFmYXk3c21qMWVqb01IamZMS1FqXzM2LTJ3Z3hCekJy0gFuQVVfeXFMTmVSa2pNZFlZQUkyek00ZFlZRTVUNmRtcF9xRnFfMlpVLW1mS2UxbnNaTnNjWDN2NWJmbW11ODh5UEtHcDZNUjlZUXR5Y20wbS1wMU5VQUJUeDI4U3FkM0ZPV19tVGcwbTFwQ3ZDQ3c?oc=5\" target=\"_blank\">【系統用蓄電所】太陽光発電やデータセンター特需に伴い電力需給調整施設が急増しトラブルも…県内の現状と課題(静岡)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 809488,
+      "title": "11月26日開催・無料セミナー「エネルギーSummit 2026 Winter」 - 日経BP",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnMk5kWVA3OEVyN3B3SmFPd3drRGlCdWVhSEc4QXNGRnQwRmlCTHYtQngtblUwODAtT0FMN0ExaHVvODAzNDZvTmthU05LaFpmclIxbDNMMXJSMzk4RTVzaHM1Wmd6ajVHZ0hXU294dHI?oc=5",
+      "published": "Wed, 21 Oct 2026 23:09:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBnMk5kWVA3OEVyN3B3SmFPd3drRGlCdWVhSEc4QXNGRnQwRmlCTHYtQngtblUwODAtT0FMN0ExaHVvODAzNDZvTmthU05LaFpmclIxbDNMMXJSMzk4RTVzaHM1Wmd6ajVHZ0hXU294dHI?oc=5\" target=\"_blank\">11月26日開催・無料セミナー「エネルギーSummit 2026 Winter」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経BP</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 528308,
+      "title": "Bluefield Energy、日経BP総合研究所主催「エネルギーSummit 2026Winter」に協賛・登壇 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45RUhfLUNHZ19zRXpUa01ZblVRdWlGNnF3Q2xtZkg1TGwwaV80ZEw2d0didVplRTdwVGdseTJqclpWclY5Uzh0UlFtSEJEMDdHNk9LWkJCTVZvUHV1c0JHTVhNTGxWYkpyN29tY1dFLWxuSE9DZ29ZZFR3MA?oc=5",
+      "published": "Thu, 22 Oct 2026 07:51:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE45RUhfLUNHZ19zRXpUa01ZblVRdWlGNnF3Q2xtZkg1TGwwaV80ZEw2d0didVplRTdwVGdseTJqclpWclY5Uzh0UlFtSEJEMDdHNk9LWkJCTVZvUHV1c0JHTVhNTGxWYkpyN29tY1dFLWxuSE9DZ29ZZFR3MA?oc=5\" target=\"_blank\">Bluefield Energy、日経BP総合研究所主催「エネルギーSummit 2026Winter」に協賛・登壇</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 527384,
+      "title": "デジタルグリッド初の地方拠点 福岡オフィスを開設｜Infoseekニュース - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpbkpnWFVQcUlnNXh1bjlfbTM3ZFM2bWFrMUJEa1oweERkWDZWLXFtR1ltVi14RGw1M01pZ1d2YjFZLWJ5RklSenQ2WnNjaTlEUVZwa2MycGg0TnlkeWx4MVk3ZXJtbndtWDM1YkJJSjEtZw?oc=5",
+      "published": "Thu, 22 Oct 2026 02:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBpbkpnWFVQcUlnNXh1bjlfbTM3ZFM2bWFrMUJEa1oweERkWDZWLXFtR1ltVi14RGw1M01pZ1d2YjFZLWJ5RklSenQ2WnNjaTlEUVZwa2MycGg0TnlkeWx4MVk3ZXJtbndtWDM1YkJJSjEtZw?oc=5\" target=\"_blank\">デジタルグリッド初の地方拠点 福岡オフィスを開設｜Infoseekニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 542596,
+      "title": "GBP、一次調整力向け高速周波数計測器UMG 604-PROの対応を発表 - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9rcDgtc0g2eFF2TldtSnh3TThvVDhVV2pudGNKRGVTUjdRcTJmTkFjNEo4RTh0M2l3MldZbk9jeGZHRW5qNEE?oc=5",
+      "published": "Wed, 21 Oct 2026 21:58:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9rcDgtc0g2eFF2TldtSnh3TThvVDhVV2pudGNKRGVTUjdRcTJmTkFjNEo4RTh0M2l3MldZbk9jeGZHRW5qNEE?oc=5\" target=\"_blank\">GBP、一次調整力向け高速周波数計測器UMG 604-PROの対応を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 196875,
+      "title": "岡村製油のアスリートオイルがジャパン・フード・セレクションでグランプリを受賞 - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hUzdMRWprY3pESDhKWms2dDNEdG10bWdhRG9HNEJZVndYSXB4SHI0cjgzSzlsT2FOeXFpem1MWTlaSFNWTkE?oc=5",
+      "published": "Thu, 22 Oct 2026 05:14:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hUzdMRWprY3pESDhKWms2dDNEdG10bWdhRG9HNEJZVndYSXB4SHI0cjgzSzlsT2FOeXFpem1MWTlaSFNWTkE?oc=5\" target=\"_blank\">岡村製油のアスリートオイルがジャパン・フード・セレクションでグランプリを受賞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 596156,
+      "title": "雲南市で木次駅前秋の賑わい市が2026年10月12日に開催へ - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JQm9sOE5nT3hNT2NFRXFxM2FmTWVQaUtCYUl3cUNfNXJ2M2txanc2aFpqaURJWUFYZHhodzhiNzZULUxpeVE?oc=5",
+      "published": "Thu, 22 Oct 2026 03:48:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JQm9sOE5nT3hNT2NFRXFxM2FmTWVQaUtCYUl3cUNfNXJ2M2txanc2aFpqaURJWUFYZHhodzhiNzZULUxpeVE?oc=5\" target=\"_blank\">雲南市で木次駅前秋の賑わい市が2026年10月12日に開催へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 57241,
+      "title": "第24回ITSシンポジウム2026が札幌で開催へ MIWJ2026と連携 - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90LWpRUXFVSmY4NVAxdmJNZUZnME92YXNlT3BCM3pKTWp6ZHhfZVRCSTJ0bVptamFMUjdIYVBKOWtkS3VvMlE?oc=5",
+      "published": "Thu, 22 Oct 2026 04:18:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE90LWpRUXFVSmY4NVAxdmJNZUZnME92YXNlT3BCM3pKTWp6ZHhfZVRCSTJ0bVptamFMUjdIYVBKOWtkS3VvMlE?oc=5\" target=\"_blank\">第24回ITSシンポジウム2026が札幌で開催へ MIWJ2026と連携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 51371,
+      "title": "第一興商、すし酒場 七合目 日本橋八重洲店を2026年10月7日オープン - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1saTFsNnB6NU0yY2lOelU1NFJlQ2JNWmNQUnlUQm5mVDg0bXBfd1hBUFJ3SHJuUXBXSUtDS1BlZmw1bGlTd3l1ZzN6eUJZOXFodk9kdHpiVGtaUDVSMGc?oc=5",
+      "published": "Wed, 21 Oct 2026 17:31:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1saTFsNnB6NU0yY2lOelU1NFJlQ2JNWmNQUnlUQm5mVDg0bXBfd1hBUFJ3SHJuUXBXSUtDS1BlZmw1bGlTd3l1ZzN6eUJZOXFodk9kdHpiVGtaUDVSMGc?oc=5\" target=\"_blank\">第一興商、すし酒場 七合目 日本橋八重洲店を2026年10月7日オープン</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 509634,
+      "title": "香川モビリティサービスとあなぶきヘルスケア、タクシーサイネージ広告事業を開始へ - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fdWkxaktCQ0h6cnhseDV2b3p0dGdMSXB0Z1VBVm9haEotdy1mNVY5dDd1UHZLRVVwWnVKMjNlRzBtOHNqUnBKUGpXSzlMang4VlI4VEdkQTFIWUVxUjdMbg?oc=5",
+      "published": "Wed, 21 Oct 2026 16:34:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fdWkxaktCQ0h6cnhseDV2b3p0dGdMSXB0Z1VBVm9haEotdy1mNVY5dDd1UHZLRVVwWnVKMjNlRzBtOHNqUnBKUGpXSzlMang4VlI4VEdkQTFIWUVxUjdMbg?oc=5\" target=\"_blank\">香川モビリティサービスとあなぶきヘルスケア、タクシーサイネージ広告事業を開始へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 995154,
+      "title": "Bluefield Energy、日経BP総合研究所主催「エネルギーSummit 2026Winter」に協賛・登壇 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sOEZDU09fUG5WWTdkMUJ3UDB2ZFFVZVRXREhMUG5UX2lsYzI0X1Fhem13SWZWTXVHVGVBak5NOFBoaW1CTzJZa0RVUldFaW91eF9Lbw?oc=5",
+      "published": "Thu, 22 Oct 2026 07:51:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sOEZDU09fUG5WWTdkMUJ3UDB2ZFFVZVRXREhMUG5UX2lsYzI0X1Fhem13SWZWTXVHVGVBak5NOFBoaW1CTzJZa0RVUldFaW91eF9Lbw?oc=5\" target=\"_blank\">Bluefield Energy、日経BP総合研究所主催「エネルギーSummit 2026Winter」に協賛・登壇</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 916840,
+      "title": "アルカリ電解槽スタック市場2035年予測：ギガワット級グリーン水素プロジェクトが成長を牽引 - ニュースと統計 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVV2emNVMG0zbFpjNzduV09vTVQwR3ZwZ2hEMmFPQnJ1c0I3dndjM3FmWnRGc0xYUDNlNjh2S1V0T1NqczBLcDZWVlZ1bDl3cFpDWndkWVBtOWh0NXpKV2RIYTRkWUZRSWhVdWx6ZXVVajVGX2g4Sjk0ekl5QXRfOG5kZnJmVFpMb005cTRTamZCX1hFcHFXSUZFWE1pNG5ibjEyOHZQbUoyYXlmOURGRExPZHZ0Q3Y5dHNMZUhhOUlrRTZoNUJkVXZLdEY2RGZYYW1DVA?oc=5",
+      "published": "Thu, 22 Oct 2026 13:11:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVV2emNVMG0zbFpjNzduV09vTVQwR3ZwZ2hEMmFPQnJ1c0I3dndjM3FmWnRGc0xYUDNlNjh2S1V0T1NqczBLcDZWVlZ1bDl3cFpDWndkWVBtOWh0NXpKV2RIYTRkWUZRSWhVdWx6ZXVVajVGX2g4Sjk0ekl5QXRfOG5kZnJmVFpMb005cTRTamZCX1hFcHFXSUZFWE1pNG5ibjEyOHZQbUoyYXlmOURGRExPZHZ0Q3Y5dHNMZUhhOUlrRTZoNUJkVXZLdEY2RGZYYW1DVA?oc=5\" target=\"_blank\">アルカリ電解槽スタック市場2035年予測：ギガワット級グリーン水素プロジェクトが成長を牽引 - ニュースと統計</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     },
@@ -624,11 +489,20 @@
       "source_type": "rss"
     },
     {
-      "id": 157577,
-      "title": "「高平滑性MLCC剥離フィルムの世界市場」（～2030年までの市場規模予測）資料を発行、年平均6.4 %で成長する見込み - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IdVlVRmUyTEdSZGFGSENkZXR6YXd2WHVQVlQ0THBsY0ROU2E4UkRXS0pWRjRmNUh3ZDRZMExIQ21KcVpocFU2aUN2aUZHYnZJTk5WSkgzUDlZRUdUaUlHOEo0c3VUbVY3RGxaenZxejV5NnA2V2c?oc=5",
-      "published": "Wed, 21 Oct 2026 08:03:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1IdVlVRmUyTEdSZGFGSENkZXR6YXd2WHVQVlQ0THBsY0ROU2E4UkRXS0pWRjRmNUh3ZDRZMExIQ21KcVpocFU2aUN2aUZHYnZJTk5WSkgzUDlZRUdUaUlHOEo0c3VUbVY3RGxaenZxejV5NnA2V2c?oc=5\" target=\"_blank\">「高平滑性MLCC剥離フィルムの世界市場」（～2030年までの市場規模予測）資料を発行、年平均6.4 %で成長する見込み</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "id": 688636,
+      "title": "系統用蓄電池市場は2050年に何倍になるのか――2030・2050年見通しを読み解くウェビナーを開催 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mSkhVRV9YQ2lDY3NrdTBqamE4RkFTMUVyTkpRc0lXMlNxY2c0Q0puY2V6ZDRiTzRRVHhfWFZiY0FBMm5CZ2NJV3JjYW9fTld4SWtSbkRjN2NpbVVKXzQ0REVnU3BacWlDM24tT0VwSEZEaVpUNDJ1c3FuTQ?oc=5",
+      "published": "Wed, 21 Oct 2026 19:15:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9mSkhVRV9YQ2lDY3NrdTBqamE4RkFTMUVyTkpRc0lXMlNxY2c0Q0puY2V6ZDRiTzRRVHhfWFZiY0FBMm5CZ2NJV3JjYW9fTld4SWtSbkRjN2NpbVVKXzQ0REVnU3BacWlDM24tT0VwSEZEaVpUNDJ1c3FuTQ?oc=5\" target=\"_blank\">系統用蓄電池市場は2050年に何倍になるのか――2030・2050年見通しを読み解くウェビナーを開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 832804,
+      "title": "三菱総合研究所とMPX、電力市場の定量分析サービス提供を本格開始 - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mcUdYQ3RISUFkbVMzZ1haREFfTDRlc3o3OUJ3bzV2ZURfamhIdlVnMlBxazRuRVFxWlNCUENlaDZITURwMWRzWDFxN04zd1I3dFNab2loaTFtOGdBOW0wZQ?oc=5",
+      "published": "Thu, 22 Oct 2026 00:44:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mcUdYQ3RISUFkbVMzZ1haREFfTDRlc3o3OUJ3bzV2ZURfamhIdlVnMlBxazRuRVFxWlNCUENlaDZITURwMWRzWDFxN04zd1I3dFNab2loaTFtOGdBOW0wZQ?oc=5\" target=\"_blank\">三菱総合研究所とMPX、電力市場の定量分析サービス提供を本格開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     }
