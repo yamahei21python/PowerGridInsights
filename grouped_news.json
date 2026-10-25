@@ -1,0 +1,43 @@
+[
+  {
+    "topic_name": "系統用蓄電所の建設・運用案件",
+    "article_ids": [
+      309205,
+      972726,
+      211805,
+      923854,
+      214070
+    ],
+    "is_grouped": true
+  },
+  {
+    "topic_name": "蓄電池を活用したデマンドレスポンス・仮想発電所の実証と運用",
+    "article_ids": [
+      880587,
+      508719,
+      854787
+    ],
+    "is_grouped": true
+  },
+  {
+    "topic_name": "東芝によるモンゴル向け蓄電池システム受注",
+    "article_ids": [
+      793694
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "定置用蓄電池スタートアップNEXTESへのシンジケートローン提供",
+    "article_ids": [
+      143951
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "中国南方区域電力市場の正式運営開始",
+    "article_ids": [
+      861690
+    ],
+    "is_grouped": false
+  }
+]
