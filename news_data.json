@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26 15:40:59",
-  "total_count": 38,
+  "updated_at": "2026-10-27 00:11:04",
+  "total_count": 49,
   "articles": [
     {
       "id": 815941,
@@ -341,6 +341,105 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRaGRwS3h2bWFwSUNwQkhCNWZJWVdFQmpoMGdPdElEYlhZcEllZmhlM19jdUdKazJpd1ByYkpScUxONG5qekFsZktMMWhJMDg?oc=5",
       "published": "Mon, 26 Oct 2026 02:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRaGRwS3h2bWFwSUNwQkhCNWZJWVdFQmpoMGdPdElEYlhZcEllZmhlM19jdUdKazJpd1ByYkpScUxONG5qekFsZktMMWhJMDg?oc=5\" target=\"_blank\">エアキャスタースキッドシステム市場の規模、シェア、および成長分析：システムタイプ別、積載容量別、用途別、エンドユーザー別、地域別 - 業界予測、2026年～2033年</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newscast.jp</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 409522,
+      "title": "東北大学など、光蓄電池で約1Vの光電圧 IoT機器電源に - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmNiQnFvV3BfajB2SER5UHJSSFFuVV9XRGNkQ0VtWGVmRTBvUkcyWVRxYXV6czczTTNIUG01WS1zYnBLd18xY3hIQWh3M3hyYUlmWU1KTGlBWFg4RFNIUjFVaW5MekNMRzdGX3pKckJuZC01eUFURWhlYTNlUVFOT1pjWExjQVU?oc=5",
+      "published": "Mon, 26 Oct 2026 20:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmNiQnFvV3BfajB2SER5UHJSSFFuVV9XRGNkQ0VtWGVmRTBvUkcyWVRxYXV6czczTTNIUG01WS1zYnBLd18xY3hIQWh3M3hyYUlmWU1KTGlBWFg4RFNIUjFVaW5MekNMRzdGX3pKckJuZC01eUFURWhlYTNlUVFOT1pjWExjQVU?oc=5\" target=\"_blank\">東北大学など、光蓄電池で約1Vの光電圧 IoT機器電源に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 276945,
+      "title": "日本蓄電池 系統用蓄電池ファンド - 住宅新報",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GbC1TcGMzLWljWlBMN0hZWWJrVUxwZjRpS2xOZFFueDZkanJyelFiczJvdUFGNTBsQVczZlB5bERyX2pzVFJUcnVhS3AxSnF0UVE?oc=5",
+      "published": "Mon, 26 Oct 2026 21:34:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GbC1TcGMzLWljWlBMN0hZWWJrVUxwZjRpS2xOZFFueDZkanJyelFiczJvdUFGNTBsQVczZlB5bERyX2pzVFJUcnVhS3AxSnF0UVE?oc=5\" target=\"_blank\">日本蓄電池 系統用蓄電池ファンド</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">住宅新報</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 212405,
+      "title": "積水化学工業カンパニー 10万棟超の電力データをAI分析 太陽光・蓄電池の最適容量を提案 - 住宅新報",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16c2RSMnR2VG1XZ05YNUhPb0xBVnlSazZQWGlLbGlId3c0dm1YS0E4ZklDS3VtM3BQVVJqd0Rqck94TzdtUmJGWmVQSmpOcUFMaVE?oc=5",
+      "published": "Mon, 26 Oct 2026 15:01:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE16c2RSMnR2VG1XZ05YNUhPb0xBVnlSazZQWGlLbGlId3c0dm1YS0E4ZklDS3VtM3BQVVJqd0Rqck94TzdtUmJGWmVQSmpOcUFMaVE?oc=5\" target=\"_blank\">積水化学工業カンパニー 10万棟超の電力データをAI分析 太陽光・蓄電池の最適容量を提案</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">住宅新報</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 560107,
+      "title": "アグリゲーションビジネスへの本格展開に向け、事業基盤を強化 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hMmlGRGs1Qm5PVXFNQk9rZ1NfWlAzNFRlWjJZcGJ5WWM2YkhpWEoyX1hkdWRuM1FINy0wQjJtUTZKRUEySWdvUVp3dmFYNnpRN29yOQ?oc=5",
+      "published": "Mon, 26 Oct 2026 10:46:06 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hMmlGRGs1Qm5PVXFNQk9rZ1NfWlAzNFRlWjJZcGJ5WWM2YkhpWEoyX1hkdWRuM1FINy0wQjJtUTZKRUEySWdvUVp3dmFYNnpRN29yOQ?oc=5\" target=\"_blank\">アグリゲーションビジネスへの本格展開に向け、事業基盤を強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 387093,
+      "title": "編集者の視点「蓄電システム、ガスタービンより安く」 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckVQZkpROGtFVldlclhIRnNvUTM2X3hPM1duUE1XbW5aX1FPOXVTZXJPZ09SRzd2RUNPa2tkQkN4cXpJNkF1d19FdDBxTzR2Zm9BV3FXOF83UXJaWk9tRUFhdURLRU5GbXNaLUMyNTFaUlg1REp5RVYwSzNUM1Vfc2tHSGlrWms?oc=5",
+      "published": "Mon, 26 Oct 2026 20:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNckVQZkpROGtFVldlclhIRnNvUTM2X3hPM1duUE1XbW5aX1FPOXVTZXJPZ09SRzd2RUNPa2tkQkN4cXpJNkF1d19FdDBxTzR2Zm9BV3FXOF83UXJaWk9tRUFhdURLRU5GbXNaLUMyNTFaUlg1REp5RVYwSzNUM1Vfc2tHSGlrWms?oc=5\" target=\"_blank\">編集者の視点「蓄電システム、ガスタービンより安く」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 554209,
+      "title": "世界の太陽光昇圧変圧器市場規模、2026年1743百万米ドルから2032年2711百万米ドルへ拡大 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YcXhKZVdVd3V0eGhZRTNqREpyS0hjNlF6dHhaaE9sRkdiVmdwZk01MktDNjRBcHpvSlNYZ1RXeHRxYmhaRHNhdHZHWUI1anYxMFdDZWl5YWVkZGw3MGhjdTh3Q0NsQ095?oc=5",
+      "published": "Mon, 26 Oct 2026 04:03:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YcXhKZVdVd3V0eGhZRTNqREpyS0hjNlF6dHhaaE9sRkdiVmdwZk01MktDNjRBcHpvSlNYZ1RXeHRxYmhaRHNhdHZHWUI1anYxMFdDZWl5YWVkZGw3MGhjdTh3Q0NsQ095?oc=5\" target=\"_blank\">世界の太陽光昇圧変圧器市場規模、2026年1743百万米ドルから2032年2711百万米ドルへ拡大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 542013,
+      "title": "ジャパンブランディング、系統用蓄電池の市場予測と実績を解説する無料ウェビナー開催へ - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uQXJWZU5RVGpZeGhuQ1V1SGZGaGs1YUJRNG5yWGZUMGJZOFNHY3FjLTd5RW5YSnZtSVNUZVdSdmQ5VFBTbU0waGoxT1U4d1dOaVdVaG8tcmVlZENxdU5rY1F2VHFfNnR4?oc=5",
+      "published": "Mon, 26 Oct 2026 13:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uQXJWZU5RVGpZeGhuQ1V1SGZGaGs1YUJRNG5yWGZUMGJZOFNHY3FjLTd5RW5YSnZtSVNUZVdSdmQ5VFBTbU0waGoxT1U4d1dOaVdVaG8tcmVlZENxdU5rY1F2VHFfNnR4?oc=5\" target=\"_blank\">ジャパンブランディング、系統用蓄電池の市場予測と実績を解説する無料ウェビナー開催へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 673466,
+      "title": "fantasista、滋賀県長浜市に系統用蓄電所を建設へ 27年4月に運用開始予定 - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBfZkxOajFhalRYcUhZdmh2YWpDd3NwVUpHck5MNlFlLXB1dzhmQ3ZSTnYtZVNWVXUwQlFOX3R0OVc5X3Jxb3c?oc=5",
+      "published": "Mon, 26 Oct 2026 18:22:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBfZkxOajFhalRYcUhZdmh2YWpDd3NwVUpHck5MNlFlLXB1dzhmQ3ZSTnYtZVNWVXUwQlFOX3R0OVc5X3Jxb3c?oc=5\" target=\"_blank\">fantasista、滋賀県長浜市に系統用蓄電所を建設へ 27年4月に運用開始予定</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 516398,
+      "title": "詳細なバーチャル・パワープラント（VPP）市場レビュー：規模、シェア、および6.6％（C - pando.life",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1hdjIxbmR6S3hoY1pSbjZnMUk2MW5neU1TNzV1UHJWYlBrZDBNTDdUdWx1ODhMdGhHdVY1clF1RXgtNEFXWDBwX0x3?oc=5",
+      "published": "Mon, 26 Oct 2026 17:21:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1hdjIxbmR6S3hoY1pSbjZnMUk2MW5neU1TNzV1UHJWYlBrZDBNTDdUdWx1ODhMdGhHdVY1clF1RXgtNEFXWDBwX0x3?oc=5\" target=\"_blank\">詳細なバーチャル・パワープラント（VPP）市場レビュー：規模、シェア、および6.6％（C</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pando.life</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 440813,
+      "title": "GBP、トランスデューサに代わるJanitza製「高速周波数計測器」の一次調整力向け対応を発表 企業リリース - 日刊工業新聞",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YWmgzR2h5RUpfNGFuUFlub2FNUDByRTJSSE9xR0RoV2JRYW9fQjlHNVBQOUZkUWR6elljYVV0VS1YV3ZGbmQzTzFKb3JBTWExLVZnaXU4NTM?oc=5",
+      "published": "Mon, 26 Oct 2026 12:29:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YWmgzR2h5RUpfNGFuUFlub2FNUDByRTJSSE9xR0RoV2JRYW9fQjlHNVBQOUZkUWR6elljYVV0VS1YV3ZGbmQzTzFKb3JBTWExLVZnaXU4NTM?oc=5\" target=\"_blank\">GBP、トランスデューサに代わるJanitza製「高速周波数計測器」の一次調整力向け対応を発表 企業リリース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊工業新聞</font>",
+      "site_name": "Googleニュース",
+      "source_type": "rss"
+    },
+    {
+      "id": 208452,
+      "title": "西日本で電力需給逼迫／連系線枠開放し融通 – - 電気新聞ウェブサイト",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CY1E1Tl9LNldTdnBkWW4xclZqNmVac1MydkVpQ3pVdVZzb25lQS1zbXdSNmx0eENsdXVvNEM5d1VacURMYzA4SVN4VlJHckU?oc=5",
+      "published": "Mon, 26 Oct 2026 07:01:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CY1E1Tl9LNldTdnBkWW4xclZqNmVac1MydkVpQ3pVdVZzb25lQS1zbXdSNmx0eENsdXVvNEM5d1VacURMYzA4SVN4VlJHckU?oc=5\" target=\"_blank\">西日本で電力需給逼迫／連系線枠開放し融通 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
       "site_name": "Googleニュース",
       "source_type": "rss"
     }
