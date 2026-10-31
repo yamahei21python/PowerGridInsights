@@ -1,60 +1,182 @@
 [
   {
-    "topic_name": "パワーエックスと関西電力送配電による蓄電池を活用した系統接続の実証検討",
+    "topic_name": "マツダの三次事業所における蓄電池・太陽光併用システムの稼働",
     "article_ids": [
-      214345,
-      119202,
-      560980
+      23625
     ],
     "articles": [
       {
-        "id": 214345,
-        "title": "パワーエックス[485A]：関西電力送配電株式会社との蓄電池を活用した新たな系統接続・設備形成手法に関する基本合意書締結のお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zcVZlQ0FYV2RPVk9KQUczS0lNWGkzeEZjQWZMT3FYWHJSZEs2X0w1RWZ6Q0NDRkQ3UUpWOTg3MEd4Wng5cmw5aVFfaWN4UHV0eHBEcEZCekt5WHQ4eXFQcExlRC1UYTJmOEE?oc=5",
-        "published": "Fri, 30 Oct 2026 09:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1zcVZlQ0FYV2RPVk9KQUczS0lNWGkzeEZjQWZMT3FYWHJSZEs2X0w1RWZ6Q0NDRkQ3UUpWOTg3MEd4Wng5cmw5aVFfaWN4UHV0eHBEcEZCekt5WHQ4eXFQcExlRC1UYTJmOEE?oc=5\" target=\"_blank\">パワーエックス[485A]：関西電力送配電株式会社との蓄電池を活用した新たな系統接続・設備形成手法に関する基本合意書締結のお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+        "id": 23625,
+        "title": "マツダ、三次事業所で蓄電池と太陽光を併用のシステム稼働 - 47NEWS",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92ZHJZQ1VLbDVSQ3N3a1QyREg5TFhMZHFtZGZPRElpbDVSVFZSMFZUZ09pdzZsdlIyVGpNZkYtbnVjOGxfMWtockFnQQ?oc=5",
+        "published": "Sat, 31 Oct 2026 01:38:20 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE92ZHJZQ1VLbDVSQ3N3a1QyREg5TFhMZHFtZGZPRElpbDVSVFZSMFZUZ09pdzZsdlIyVGpNZkYtbnVjOGxfMWtockFnQQ?oc=5\" target=\"_blank\">マツダ、三次事業所で蓄電池と太陽光を併用のシステム稼働</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "Project",
-        "reason": "送配電手法の新提案、制度・技術の両面で高重要。",
-        "score": 90,
-        "is_highly_important": true
-      },
+        "primary_category": "技術・プロジェクト",
+        "reason": "大手メーカーの事業所での蓄電池活用事例であり、実証的価値が高い。",
+        "score": 70,
+        "is_highly_important": false
+      }
+    ],
+    "is_grouped": false,
+    "analysis": {
+      "summary_points": [
+        "三次事業所に太陽光と車載二次電池を組み合わせたエネルギーマネジメントシステムを導入",
+        "試験車両から回収した車載バッテリーのセカンドライフ活用を本格化",
+        "再エネの地産地消による工場の脱炭素化と電力コスト低減のモデルケース構築"
+      ],
+      "insight": "本件の真価は単なる再エネ導入ではなく、自社の車載電池を循環させる『電池の資産価値最大化』にある。製造工程の電力負荷平準化に加え、リユース蓄電池の性能評価データ蓄積が狙いだろう。OEMが自ら再エネと中古電池を統合運用することで、将来的なVPPやエネルギー需給調整市場への参入障壁を下げ、EV時代の新たな収益柱を模索する戦略的布石と読む。"
+    }
+  },
+  {
+    "topic_name": "蓄電池AI開発のデータ不足と特許分析",
+    "article_ids": [
+      910019
+    ],
+    "articles": [
       {
-        "id": 119202,
-        "title": "蓄電池を活用した新たな系統接続・設備形成手法の実現に向けた基本合意書の締結について - PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14eFVjdWxvb2lIM1ZSbmlyeDBiWWE5S0NISHd0NzJSU3hMWjk4WDFfT3ltOFVBZWdod2ExY1BScGxEX1AzdEZNbm9ybnp2UDRla2dPUjJGS0JNSnAwajZXaVRxd3V5eGFFNXc?oc=5",
-        "published": "Fri, 30 Oct 2026 05:00:01 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE14eFVjdWxvb2lIM1ZSbmlyeDBiWWE5S0NISHd0NzJSU3hMWjk4WDFfT3ltOFVBZWdod2ExY1BScGxEX1AzdEZNbm9ybnp2UDRla2dPUjJGS0JNSnAwajZXaVRxd3V5eGFFNXc?oc=5\" target=\"_blank\">蓄電池を活用した新たな系統接続・設備形成手法の実現に向けた基本合意書の締結について</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+        "id": 910019,
+        "title": "【技術動向レポート】蓄電池AI開発の壁は「データ不足」 国内特許動向からみる日本企業の開発機会―MyTokkyo.Ai - STRAIGHT PRESS",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pTVFGWTRoVzJJNndDLXZFaTJFbVVlUV9VcmgxakV6bk5ZUTFnUV9qYjIyZDRldmp6Tm1EbTlLamhURWw4al9mMTMzekRxN0RubTJpX205WXFVWU5YM3doak9Vd2I1TVJ6ckk0QTlFNHhicGU2?oc=5",
+        "published": "Sat, 31 Oct 2026 00:26:49 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9pTVFGWTRoVzJJNndDLXZFaTJFbVVlUV9VcmgxakV6bk5ZUTFnUV9qYjIyZDRldmp6Tm1EbTlLamhURWw4al9mMTMzekRxN0RubTJpX205WXFVWU5YM3doak9Vd2I1TVJ6ckk0QTlFNHhicGU2?oc=5\" target=\"_blank\">【技術動向レポート】蓄電池AI開発の壁は「データ不足」 国内特許動向からみる日本企業の開発機会―MyTokkyo.Ai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STRAIGHT PRESS</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "Project",
-        "reason": "系統接続手法の合意に関する公式リリース。",
-        "score": 85,
-        "is_highly_important": true
-      },
-      {
-        "id": 560980,
-        "title": "パワーエックス、蓄電池で電力インフラの早期接続と効率化を推進 - ニュースメディアVOIX",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mUkRaMjRQaHNMNEVhUHA2X040eDBjWmw1VkFNQ2lTN2R4SE44c2xreGhLaUFGQjdKenpfeXhYS01Da0N5bjF6a2FGYmcxNVlCRlRz?oc=5",
-        "published": "Fri, 30 Oct 2026 05:01:46 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mUkRaMjRQaHNMNEVhUHA2X040eDBjWmw1VkFNQ2lTN2R4SE44c2xreGhLaUFGQjdKenpfeXhYS01Da0N5bjF6a2FGYmcxNVlCRlRz?oc=5\" target=\"_blank\">パワーエックス、蓄電池で電力インフラの早期接続と効率化を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "Project",
-        "reason": "電力インフラ効率化への取り組み。",
+        "primary_category": "技術・市場動向",
+        "reason": "蓄電池AIと特許動向の分析レポートであり、業界の技術課題を突いている。",
         "score": 75,
         "is_highly_important": true
       }
     ],
-    "is_grouped": true,
+    "is_grouped": false,
     "analysis": {
       "summary_points": [
-        "パワーエックスと関西電力送配電が、蓄電池を用いた系統混雑緩和と設備増強の回避・繰延べを目指す実証検討に合意。",
-        "2027年度より大阪北部で2MW/8MWhの蓄電池を運用し、物理的な増設に代わる『仮想的な設備増強』手法を検証。",
-        "データセンター等の急増に伴う系統接続待機問題に対し、蓄電池制御による迅速かつ投資効率の高いインフラ運用モデルを構築。"
+        "学習用データの圧倒的不足と、製造プロセスから品質までを一気通貫で紐付けるデータ設計がボトルネックとなっている。",
+        "中古電池のリユース市場拡大に伴い、不明瞭な使用履歴を補完し残存価値を客観的に説明する診断モデルが急務。",
+        "単なる異常検知を超え、検査結果を製造条件へフィードバックし、歩留まり向上へ直結させるプロセス最適化が競争の焦点。"
       ],
-      "insight": "本件は、ノンファーム型接続の延長線上にある『蓄電池による系統制約の動的緩和』を狙った戦略的布石だ。従来の数年を要する物理的な変電設備増強を、AI制御された蓄電池の高速応答で代替できれば、資産効率は劇的に改善する。容量市場や卸市場のアービトラージだけでなく、送配電網の『渋滞緩和サービス』という新たな収益源を確立する極めて実戦的なモデルとなる。"
+      "insight": "蓄電池のAI活用は「モデルの精度」というフェーズを終え、「物理現象と紐付いたデータの構造化」というドメイン知識が試される領域に入った。特に日本企業は、素材から製造プロセス、廃棄・再利用に至る『電池のデジタルツイン』を垂直統合で構築できる強みを活かすべき。ブラックボックスなAIモデルではなく、劣化の物理学的因果関係を説明可能なAIこそが、今後の国際競争の勝機となる。"
+    }
+  },
+  {
+    "topic_name": "大分県「AEJ野津蓄電池プロジェクト」への蓄電システム供給",
+    "article_ids": [
+      77281
+    ],
+    "articles": [
+      {
+        "id": 77281,
+        "title": "【蓄電関連】トリナ・ストレージ：大分県の系統用蓄電所に196MWhの蓄電システム供給、長期脱炭素電源オークション落札案件で2028年完成へ - みんなの広報宣伝部",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xcF9QaTFBQ0ZRZjhqa2JkY0Nibl9mRlFKNjRCM1pJYTRSY29QM0IxYnhtT0s5SWE0Z3JGQ3Q0Q3pLOXNQYm5aeGxqQkpXQ2FvLUlzRE1GemRGaXpCV25kQkowOWRtMFFBRW04YUo2UnJRdw?oc=5",
+        "published": "Fri, 30 Oct 2026 17:02:19 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5xcF9QaTFBQ0ZRZjhqa2JkY0Nibl9mRlFKNjRCM1pJYTRSY29QM0IxYnhtT0s5SWE0Z3JGQ3Q0Q3pLOXNQYm5aeGxqQkpXQ2FvLUlzRE1GemRGaXpCV25kQkowOWRtMFFBRW04YUo2UnJRdw?oc=5\" target=\"_blank\">【蓄電関連】トリナ・ストレージ：大分県の系統用蓄電所に196MWhの蓄電システム供給、長期脱炭素電源オークション落札案件で2028年完成へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "市場動向",
+        "reason": "長期脱炭素電源オークション落札案件の具体化であり、市場的インパクトが大きい。",
+        "score": 85,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": false,
+    "analysis": {
+      "summary_points": [
+        "長期脱炭素電源オークションを活用した系統用蓄電所の開発案件",
+        "トリナ・ストレージの最新鋭機「Elementa G2 Pro」の採用による高密度運用",
+        "九州エリアにおける累計蓄電容量の拡大と国内保守体制の本格強化"
+      ],
+      "insight": "長期脱炭素電源オークションの落札案件であり、容量単価と設備利用率の採算性が問われる。注目すべきは、単なる製品供給に留まらず、日本国内の厳しいグリッドコードや運用要件に適合させるための専門チーム体制だ。今後は、系統運用能力と蓄電池の長寿命化・高効率運用を組み合わせた、日本市場特有の複雑なビジネスモデルへの適応が市場シェア維持の鍵となる。"
+    }
+  },
+  {
+    "topic_name": "エクセロンの2026年第3四半期決算と蓄電池事業の成長見通し",
+    "article_ids": [
+      894301
+    ],
+    "articles": [
+      {
+        "id": 894301,
+        "title": "【エクセロン Q3 2026 決算説明会】エクセロン、2026年通期見通しを2.85～2.91ドルに絞り込み 嵐による影響0.07ドル、蓄電池で30億～70億ドルの上振れ余地が浮上 - BigGo ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52VEg4aVRQcjVKWndrVXlmWjVZS25BdW1ORmdOWlpTQXEyc2MxV2poamlOX1p6WDBKRzVWcTN4WDJ0bS0welJKcVRhUlp0Z29ZWG93QWt4RHhackU?oc=5",
+        "published": "Fri, 30 Oct 2026 16:14:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE52VEg4aVRQcjVKWndrVXlmWjVZS25BdW1ORmdOWlpTQXEyc2MxV2poamlOX1p6WDBKRzVWcTN4WDJ0bS0welJKcVRhUlp0Z29ZWG93QWt4RHhackU?oc=5\" target=\"_blank\">【エクセロン Q3 2026 決算説明会】エクセロン、2026年通期見通しを2.85～2.91ドルに絞り込み 嵐による影響0.07ドル、蓄電池で30億～70億ドルの上振れ余地が浮上</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "市場動向",
+        "reason": "海外電力大手による蓄電池収益の寄与が明確に示されており、投資判断として重要。",
+        "score": 75,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": false,
+    "analysis": {
+      "summary_points": [
+        "異常気象による多額の損失を、適正な料金改定と網投資による効率化で完全に吸収し、安定的な利益成長を維持。",
+        "規制対象資産としての蓄電池（BESS）投資機会を最大70億ドルと公表し、従来型の送電投資に加え、蓄電池が次なる成長エンジンの筆頭へ浮上。",
+        "PJM市場の送電網整備の遅れという外部課題を抱えつつも、11GWの負荷需要パイプラインを確保し、中長期的な増収基盤を構築。"
+      ],
+      "insight": "エクセロンの戦略転換は、公益事業者が蓄電池を『調整力』だけでなく、送電線同様の『規制報酬対象（レートベース）』として定義し直した点に本質がある。特に最大3.5GWもの蓄電池投資枠は、再エネ出力変動への対応のみならず、限界費用が高いピーク電源を代替する送電網の戦略的アップグレードとして位置づけられており、規制当局からの回収が確実視される点は極めて強固な競争優位となるだろう。"
+    }
+  },
+  {
+    "topic_name": "AIデータセンター向け蓄電池の投資・産業テーマ解説",
+    "article_ids": [
+      146856
+    ],
+    "articles": [
+      {
+        "id": 146856,
+        "title": "｢データセンター向け蓄電池｣関連銘柄を紹介！ 消費電力の変動が激しいAIサーバーへの電力供給や非常用電源に必須な｢蓄電池｣は政府も注力する“国策テーマ”！ - ダイヤモンド・オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxM0Y2TjBuNGtqdlJrYTNHeERNdEd5X2RJUEZSZnBxal92b0FXZVhBY1d2a2ZQOENMUG1ibWNGelA5ZHlmZFJ0LUJJa0s0ZHpwZ09j?oc=5",
+        "published": "Sat, 31 Oct 2026 21:32:49 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxM0Y2TjBuNGtqdlJrYTNHeERNdEd5X2RJUEZSZnBxal92b0FXZVhBY1d2a2ZQOENMUG1ibWNGelA5ZHlmZFJ0LUJJa0s0ZHpwZ09j?oc=5\" target=\"_blank\">｢データセンター向け蓄電池｣関連銘柄を紹介！ 消費電力の変動が激しいAIサーバーへの電力供給や非常用電源に必須な｢蓄電池｣は政府も注力する“国策テーマ”！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ダイヤモンド・オンライン</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "市場動向",
+        "reason": "データセンター向け蓄電池の国策テーマ性について解説しており、投資的観点から重要。",
+        "score": 70,
+        "is_highly_important": false
+      }
+    ],
+    "is_grouped": false,
+    "analysis": {
+      "summary_points": [
+        "AIサーバーの負荷変動に伴うピーク出力対応が、従来型UPSから高出力蓄電池へのシフトを加速させている。",
+        "政府の戦略17分野における蓄電池売上3倍増目標が、供給側企業の投資リソースをデータセンター向けに集中させている。",
+        "BBU（バッテリーバックアップ）やスーパーキャパシタなど、瞬時電力品質と冗長性を担保する電源管理システムが競争の要となっている。"
+      ],
+      "insight": "AIデータセンターは単なる『電力消費地』から、蓄電池を核とした『高度なエネルギーマネジメント拠点』へと変貌しています。注目すべきは、単なる容量競争ではなく、いかに瞬時の電力変動を吸収し高可用性を維持するかという、パワーエレクトロニクス制御の統合力です。電池メーカーとUPS・受配電インテグレーターの連携が、今後の市場シェアを決定づける重要な鍵となるでしょう。"
+    }
+  },
+  {
+    "topic_name": "クラダシによる「島根安来蓄電所」の着工",
+    "article_ids": [
+      545528
+    ],
+    "articles": [
+      {
+        "id": 545528,
+        "title": "クラダシ、島根県安来市で「島根安来蓄電所」を着工 - 山陽新聞",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSOWlQYzlCR3dnM1lwckN1RTNEMVpibkxGRThXSEQ3RkRMblN3NExSS1N5UlVhTUh5R09sMVpPeXhyRG1vd20tWkZsbWlKM2xBNWc?oc=5",
+        "published": "Sat, 31 Oct 2026 02:51:31 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSOWlQYzlCR3dnM1lwckN1RTNEMVpibkxGRThXSEQ3RkRMblN3NExSS1N5UlVhTUh5R09sMVpPeXhyRG1vd20tWkZsbWlKM2xBNWc?oc=5\" target=\"_blank\">クラダシ、島根県安来市で「島根安来蓄電所」を着工</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "市場動向",
+        "reason": "地方での蓄電所着工は再エネ主力電源化における具体的な進展として評価できる。",
+        "score": 70,
+        "is_highly_important": false
+      }
+    ],
+    "is_grouped": false,
+    "analysis": {
+      "summary_points": [
+        "クラダシが中国地方初となる系統用蓄電所（2MW/8MWh）を島根県安来市で着工",
+        "グリーンエナジー＆カンパニーとの合弁事業として開発・運用を展開",
+        "2027年1月の受電開始に向け、系統安定化を担う調整力資産のポートフォリオを拡大"
+      ],
+      "insight": "フードロス削減企業がなぜ系統用蓄電池か。本質は収益の多角化と脱炭素の垂直統合にある。今回の2MW/8MWh規模は小規模だが、電力卸売市場のボラティリティを捉える「裁定取引」に加え、将来の容量市場や需給調整市場への参入を見据えた布石だ。再エネ主力化に向けた市場の需要を捉え、既存のアセット活用とファイナンス構造をいかに効率化できるかが、この異業種参入の成否を分ける。"
     }
   }
 ]
