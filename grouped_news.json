@@ -1,0 +1,31 @@
+[
+  {
+    "topic_name": "マツダによる三次事業所への蓄電池システム導入",
+    "article_ids": [
+      476546,
+      155740
+    ],
+    "is_grouped": true
+  },
+  {
+    "topic_name": "データセンター向け蓄電池の需要",
+    "article_ids": [
+      146856
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "パワーエックスと関西電力送配電による蓄電池を用いた系統接続手法の実証",
+    "article_ids": [
+      197718
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "グリーングロースの太陽光発電所向け蓄電池事業での資金調達",
+    "article_ids": [
+      771902
+    ],
+    "is_grouped": false
+  }
+]
