@@ -1,0 +1,46 @@
+[
+  {
+    "topic_name": "系統用蓄電池の事業収益化・最適運用支援",
+    "article_ids": [
+      246283,
+      621423
+    ],
+    "articles": [
+      {
+        "id": 246283,
+        "title": "需給調整市場の一次調整力（オフライン枠）、10月の単価は2.69円上限価格引下げ前の8月から約7割低下（速報） - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0VThkcWRsWEw0MDEtcGRtaU1ST1YyWURld2VvOWpnQ0luTXBBc3NFMjRCMDM3emRrbmU1ai0tV18xdzJVUlkxZE5VSzZjTDRGbkVTdmVhUmV6aFRBVmpLN3BNV1RrbldqTEE?oc=5",
+        "published": "Mon, 02 Nov 2026 01:30:02 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB0VThkcWRsWEw0MDEtcGRtaU1ST1YyWURld2VvOWpnQ0luTXBBc3NFMjRCMDM3emRrbmU1ai0tV18xdzJVUlkxZE5VSzZjTDRGbkVTdmVhUmV6aFRBVmpLN3BNV1RrbldqTEE?oc=5\" target=\"_blank\">需給調整市場の一次調整力（オフライン枠）、10月の単価は2.69円上限価格引下げ前の8月から約7割低下（速報）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Market",
+        "reason": "需給調整市場の単価動向、市場環境の分析に寄与。",
+        "score": 80,
+        "is_highly_important": true
+      },
+      {
+        "id": 621423,
+        "title": "株式会社グローアップ、系統用蓄電池向けAIアグリゲーション「かせぐり」を開始 複数市場・運用手法を組み合わせ収益向上を目指す 中部エリアの市場データを用いたバックテストで、一般的な一次調整力ポジワット運用と比較し、年間収益ベースで最大7,500万円の差 | チバテレ - 千葉テレビ放送株式会社",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tYTJNTnRIeWs3STIzd3p0MmdYZ01DbmdqSmFwd2YtMHBNY3NUSFFnWFhJNWNMTUk5cjFiSnhRUmI5dHJmTjZ1a0ZLaWdFdVN3VVJseThMd1UwTWFuTmI0?oc=5",
+        "published": "Tue, 03 Nov 2026 00:27:25 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tYTJNTnRIeWs3STIzd3p0MmdYZ01DbmdqSmFwd2YtMHBNY3NUSFFnWFhJNWNMTUk5cjFiSnhRUmI5dHJmTjZ1a0ZLaWdFdVN3VVJseThMd1UwTWFuTmI0?oc=5\" target=\"_blank\">株式会社グローアップ、系統用蓄電池向けAIアグリゲーション「かせぐり」を開始 複数市場・運用手法を組み合わせ収益向上を目指す 中部エリアの市場データを用いたバックテストで、一般的な一次調整力ポジワット運用と比較し、年間収益ベースで最大7,500万円の差 | チバテレ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">千葉テレビ放送株式会社</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Technology",
+        "reason": "蓄電池収益最適化サービスの具体的な実効数値。",
+        "score": 70,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": true,
+    "analysis": {
+      "summary_points": [
+        "需給調整市場の一次調整力（オフライン枠）単価が、上限価格改定の影響により8月から約7割下落",
+        "単価下落に対し約定量は増加傾向にあるものの、収益性の低下は不可避な構造へシフト",
+        "調整力市場への依存を脱却し、AIアグリゲーションを活用したマルチ市場運用への戦略転換が急務"
+      ],
+      "insight": "需給調整市場の単価急落は、調整力確保のメカニズムが「供給力不足」から「飽和」へと転換した証左です。今後は単一市場のポジワット運用で許容CAPEXを維持することは困難であり、スポット、需給調整、容量市場、さらには卸取引をAIで最適化する「収益の多層化」が、蓄電池事業の生存戦略として不可欠なフェーズに入りました。"
+    }
+  }
+]
