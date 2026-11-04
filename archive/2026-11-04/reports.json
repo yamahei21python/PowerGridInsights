@@ -1,0 +1,46 @@
+[
+  {
+    "topic_name": "株式会社グローアップによる系統用蓄電池向けAIアグリゲーション「かせぐり」の開始",
+    "article_ids": [
+      621423,
+      802791
+    ],
+    "articles": [
+      {
+        "id": 621423,
+        "title": "株式会社グローアップ、系統用蓄電池向けAIアグリゲーション「かせぐり」を開始 複数市場・運用手法を組み合わせ収益向上を目指す 中部エリアの市場データを用いたバックテストで、一般的な一次調整力ポジワット運用と比較し、年間収益ベースで最大7,500万円の差 | チバテレ - 千葉テレビ放送株式会社",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tYTJNTnRIeWs3STIzd3p0MmdYZ01DbmdqSmFwd2YtMHBNY3NUSFFnWFhJNWNMTUk5cjFiSnhRUmI5dHJmTjZ1a0ZLaWdFdVN3VVJseThMd1UwTWFuTmI0?oc=5",
+        "published": "Tue, 03 Nov 2026 00:27:25 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tYTJNTnRIeWs3STIzd3p0MmdYZ01DbmdqSmFwd2YtMHBNY3NUSFFnWFhJNWNMTUk5cjFiSnhRUmI5dHJmTjZ1a0ZLaWdFdVN3VVJseThMd1UwTWFuTmI0?oc=5\" target=\"_blank\">株式会社グローアップ、系統用蓄電池向けAIアグリゲーション「かせぐり」を開始 複数市場・運用手法を組み合わせ収益向上を目指す 中部エリアの市場データを用いたバックテストで、一般的な一次調整力ポジワット運用と比較し、年間収益ベースで最大7,500万円の差 | チバテレ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">千葉テレビ放送株式会社</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Market Trends",
+        "reason": "AIを活用した系統用蓄電池の収益化モデルの具体例",
+        "score": 85,
+        "is_highly_important": true
+      },
+      {
+        "id": 802791,
+        "title": "株式会社グローアップ、系統用蓄電池向けAIアグリゲーション 「かせぐり」を開始 複数市場・運用手法を組み合わせ収益向上を目指す - アットプレス",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mSDk0dmZGTzBKWWpNRmxiOE11OWQyVms1aVRlU1duVkJJeXA2SUxMTUd1c2VTT3dwVjlYdkNaV29YWC1tYU51c2MwRkVQZw?oc=5",
+        "published": "Tue, 03 Nov 2026 00:15:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mSDk0dmZGTzBKWWpNRmxiOE11OWQyVms1aVRlU1duVkJJeXA2SUxMTUd1c2VTT3dwVjlYdkNaV29YWC1tYU51c2MwRkVQZw?oc=5\" target=\"_blank\">株式会社グローアップ、系統用蓄電池向けAIアグリゲーション 「かせぐり」を開始 複数市場・運用手法を組み合わせ収益向上を目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Market Trends",
+        "reason": "系統用蓄電池のAI運用最適化に関する事業告知",
+        "score": 70,
+        "is_highly_important": false
+      }
+    ],
+    "is_grouped": true,
+    "analysis": {
+      "summary_points": [
+        "需給調整市場のみならず、JEPXや容量市場を組み合わせたマルチ市場戦略へのシフト",
+        "独自AIによる高精度な需要予測と落札確率最適化を用いた充放電制御の強化",
+        "バックテストで年間最大7,500万円の収益差を創出し、EPC事業者の差別化支援へ"
+      ],
+      "insight": "系統用蓄電池の収益モデルは『調整力単一』から、AIを用いた動的な『クロス市場アービトラージ』へと急速に高度化しています。特筆すべきは一次調整力のポジ・ネガ両運用とスポット市場の最適化をAIで統合している点。蓄電池の資産価値を最大化する鍵は、単なる放電戦略から、落札率を高める予測精度と市場間の鞘取り能力の高度な融合に移ったと断言できます。"
+    }
+  }
+]
