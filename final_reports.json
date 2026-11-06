@@ -1,152 +1,104 @@
 [
   {
-    "topic_name": "家庭用蓄電池の系統放電買取サービスの開始",
+    "topic_name": "東京ガス家庭用蓄電池買取",
     "article_ids": [
-      722139
+      843525,
+      368896,
+      39311
     ],
     "articles": [
       {
-        "id": 722139,
-        "title": "家庭用蓄電池の系統放電を最大70円/kWhで買い取るサービスを開始 - 東京ガス",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9laUVQaENzRUl6UnoyMnhlQ3ZTcWRmckJkaS1LeXh5ZTlaYjlONm5rSUhQdklmeU5tWDJUNXkzSDVkUXpnSnRJejNlLTJuZmhES216eVpEVTRveTBsMVREckEzOGVIUQ?oc=5",
-        "published": "Wed, 04 Nov 2026 02:02:39 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9laUVQaENzRUl6UnoyMnhlQ3ZTcWRmckJkaS1LeXh5ZTlaYjlONm5rSUhQdklmeU5tWDJUNXkzSDVkUXpnSnRJejNlLTJuZmhES216eVpEVTRveTBsMVREckEzOGVIUQ?oc=5\" target=\"_blank\">家庭用蓄電池の系統放電を最大70円/kWhで買い取るサービスを開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京ガス</font>",
+        "id": 843525,
+        "title": "写真・図版（1枚目）| 家庭用蓄電池の系統放電を最大70円/kWhで買い取るサービスを開始～「制御に応じた継続的な還元」と「効果の見える化」で低圧DR・VPPの普及を加速 - AERA DIGITAL",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yam9NbjNiTElZRnNoOTd1OWtXb0tjRXpubjhiajFWLWkyMjFyd3NGWEZ4eGxnb0s2Y0JiczZHbExvajliZmRMb293ZGdaLVJfQ2FCdHdB?oc=5",
+        "published": "Thu, 05 Nov 2026 11:03:23 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yam9NbjNiTElZRnNoOTd1OWtXb0tjRXpubjhiajFWLWkyMjFyd3NGWEZ4eGxnb0s2Y0JiczZHbExvajliZmRMb293ZGdaLVJfQ2FCdHdB?oc=5\" target=\"_blank\">写真・図版（1枚目）| 家庭用蓄電池の系統放電を最大70円/kWhで買い取るサービスを開始～「制御に応じた継続的な還元」と「効果の見える化」で低圧DR・VPPの普及を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AERA DIGITAL</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "Market Trend",
-        "reason": "電力市場の新たなビジネスモデルとして重要。",
-        "score": 75,
+        "primary_category": "Service",
+        "reason": "VPP普及に向けた具体的な買い取りサービス開始のため。",
+        "score": 85,
+        "is_highly_important": true
+      },
+      {
+        "id": 368896,
+        "title": "家庭用蓄電池の系統放電を最大70円/kWhで買い取り 東京ガスが新サービス：蓄電・発電機器 - スマートジャパン - ITmedia",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ENld2eVZoVEZ6NUt4MWJFTkFWY0gwTkw0UzJxZVFoOEVHM2M1RENaQU04SUdUTW5PNTNMSXZEc0FFLWpMZ0QwbDlBWXFfRXdZMGRmcThPY1BOY2tTSXNsbmxoN0E0dm5QSU5RZ3JTeXZIUFZx?oc=5",
+        "published": "Wed, 04 Nov 2026 22:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1ENld2eVZoVEZ6NUt4MWJFTkFWY0gwTkw0UzJxZVFoOEVHM2M1RENaQU04SUdUTW5PNTNMSXZEc0FFLWpMZ0QwbDlBWXFfRXdZMGRmcThPY1BOY2tTSXNsbmxoN0E0dm5QSU5RZ3JTeXZIUFZx?oc=5\" target=\"_blank\">家庭用蓄電池の系統放電を最大70円/kWhで買い取り 東京ガスが新サービス：蓄電・発電機器 - スマートジャパン</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Service",
+        "reason": "家庭用蓄電池を活用した新サービス発表として重要。",
+        "score": 80,
+        "is_highly_important": true
+      },
+      {
+        "id": 39311,
+        "title": "東京ガス、家庭用蓄電池の電気を最大70円/kWhで買い取りへ、11月から新サービス開始 - XenoSpectrum",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05elZOdUhORkU3NG84R1NRZ1lKRS11MnJGMEo2WUZFYlBVT0plTlhKZTBwN1pWdGV2ejV4UnhNTkdlRmdXa2o5cDh0SUd2M0JnbHdaUDI2WUVvQmJWWVpvVmVXY2JRUTg?oc=5",
+        "published": "Wed, 04 Nov 2026 20:48:30 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05elZOdUhORkU3NG84R1NRZ1lKRS11MnJGMEo2WUZFYlBVT0plTlhKZTBwN1pWdGV2ejV4UnhNTkdlRmdXa2o5cDh0SUd2M0JnbHdaUDI2WUVvQmJWWVpvVmVXY2JRUTg?oc=5\" target=\"_blank\">東京ガス、家庭用蓄電池の電気を最大70円/kWhで買い取りへ、11月から新サービス開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Service",
+        "reason": "同上ニュース。重要案件。",
+        "score": 80,
         "is_highly_important": true
       }
     ],
-    "is_grouped": false,
+    "is_grouped": true,
     "analysis": {
       "summary_points": [
-        "VPP制御による家庭用蓄電池の『系統放電』への対価支払いの本格化",
-        "当日制御（70円/kWh）と前日制御の二段構えによる需給調整力確保",
-        "ユーザーインターフェース強化による「蓄電池の資産価値化」への意識変革"
+        "需給状況に応じた「当日制御（70円/kWh）」と予測に基づく「前日制御（電力量料金+10円）」の二段構えによる柔軟なDR設計",
+        "オムロン・京セラ・長州産業の特定機種に限定し、制御履歴と経済メリットを可視化するマイページでユーザーの心理的障壁を払拭",
+        "2027年4月の容量市場本格始動を見据え、小売電気事業者が主導して分散型リソースの束ね（VPP）の収益化モデルを確立"
       ],
-      "insight": "本件の本質は、蓄電池を単なる自家消費ツールから、電力市場と連動した『分散型電源』へと昇華させた点にある。70円/kWhという高単価は、容量市場発動指令等の緊急時対応を想定したものであり、東京ガスがVPP事業者としての実効性を高めるための先行投資と言える。今後はハードウェアの性能以上に、制御アルゴリズムの最適化と顧客の許容度をどう引き出すかが競争の焦点となる。"
+      "insight": "本サービスは、単なるDRの枠を超えた『容量市場対応への布石』です。70円という高単価は、容量市場からの発動指令に対する応答性の価値を転嫁したものであり、小売側がVPP構築の主導権を握るための構造的な試金石といえます。課題は年間2,000〜5,000円という還元額に対し、蓄電池劣化リスクと制御による利便性低下をどう正当化し、顧客を納得させ続けられるかというLTV（顧客生涯価値）管理の難しさにあります。"
     }
   },
   {
-    "topic_name": "長崎県宇久島メガソーラー発電所のFIP転換と蓄電池設置",
+    "topic_name": "NC枕崎市桜山東町蓄電所の受電開始",
     "article_ids": [
-      846085
+      712462,
+      968270
     ],
     "articles": [
       {
-        "id": 846085,
-        "title": "宇久島の国内最大メガソーラー計画、「FIP転＋蓄電池」に変更 - ニュース - メガソーラービジネス plus - 日経BP",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJTnVFbEx0QV9aUmtIa0JxMVdmcEZHTWVndUxsYk9ybzF2YXI5MjRMeVJGdlpseGtzUzJVMFpFdGlLbjNTaFBJOFJMNFJDaEFoZVdjSmxjYWd1VjhGOHhCZmtQSGdpeWZTTlozYm1FeENkUlVY?oc=5",
-        "published": "Wed, 04 Nov 2026 04:39:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBJTnVFbEx0QV9aUmtIa0JxMVdmcEZHTWVndUxsYk9ybzF2YXI5MjRMeVJGdlpseGtzUzJVMFpFdGlLbjNTaFBJOFJMNFJDaEFoZVdjSmxjYWd1VjhGOHhCZmtQSGdpeWZTTlozYm1FeENkUlVY?oc=5\" target=\"_blank\">宇久島の国内最大メガソーラー計画、「FIP転＋蓄電池」に変更 - ニュース - メガソーラービジネス plus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経BP</font>",
+        "id": 712462,
+        "title": "【日本蓄電池株式会社】鹿児島県枕崎市にて系統用蓄電施設「NC枕崎市桜山東町蓄電所」受電開始 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JZjlDNW1idUkyZ3dvRlZuTmZVM3M3VmZUb3BkM3JGRUNqbkp6dTZEY3oySENOd1oyVVFqbVFSM0FWUWtxemJoX0hkOTV6Y3Nuc3o4OGVueTFXSmdKS1RKeEw2QWJMb3R0cUE?oc=5",
+        "published": "Thu, 05 Nov 2026 06:00:02 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5JZjlDNW1idUkyZ3dvRlZuTmZVM3M3VmZUb3BkM3JGRUNqbkp6dTZEY3oySENOd1oyVVFqbVFSM0FWUWtxemJoX0hkOTV6Y3Nuc3o4OGVueTFXSmdKS1RKeEw2QWJMb3R0cUE?oc=5\" target=\"_blank\">【日本蓄電池株式会社】鹿児島県枕崎市にて系統用蓄電施設「NC枕崎市桜山東町蓄電所」受電開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
         "primary_category": "Project",
-        "reason": "国内最大級の案件における技術構成の変更で注目度高。",
-        "score": 85,
+        "reason": "系統用蓄電所の受電開始という確実な進捗。",
+        "score": 70,
         "is_highly_important": true
-      }
-    ],
-    "is_grouped": false,
-    "analysis": {
-      "summary_points": [
-        "国内最大級480MW規模の事業がFITからFIP制度へ移行し、蓄電池併設のハイブリッド型へ構造転換",
-        "海底ケーブルを通じた長距離送電と、オフサイトPPAを通じた大規模需要家への直接供給を模索",
-        "施工遅延によるコスト増大を吸収するため、蓄電池投資を含めた追加増資を不可避とするシビアな財務状況"
-      ],
-      "insight": "FITの「無条件売電」からFIPの「市場統合・需給調整」への舵取りは、開発黎明期の遺産を現代の系統運用に適合させる苦肉の策だ。国内最大規模の出力は、変動性再エネの出力制御リスクを極大化させるため、蓄電池の実装は必須条件。オフサイトPPAでの出口戦略が成否を分けるが、長大な海底ケーブルの運用コストと併せ、日本の電力市場における「再エネの収益性」を占う試金石となる。"
-    }
-  },
-  {
-    "topic_name": "中国蓄電池生産が2.1倍",
-    "article_ids": [
-      268337
-    ],
-    "articles": [
+      },
       {
-        "id": 268337,
-        "title": "中国の蓄電池生産、1～6月は2.1倍の420GWh超 主要設備の国産化率は9割 - 36Kr Japan",
-        "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9ZYjlfV0c1TTZHRXJSSzdPNUI5TXFSTWgzZ0lSZ19YZzB6RE9sNUVwYjhMODFYckFudGNJ?oc=5",
-        "published": "Wed, 04 Nov 2026 09:04:23 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE9ZYjlfV0c1TTZHRXJSSzdPNUI5TXFSTWgzZ0lSZ19YZzB6RE9sNUVwYjhMODFYckFudGNJ?oc=5\" target=\"_blank\">中国の蓄電池生産、1～6月は2.1倍の420GWh超 主要設備の国産化率は9割</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr Japan</font>",
+        "id": 968270,
+        "title": "【日本蓄電池との共同プロジェクト】鹿児島県枕崎市で約2MW系統用蓄電所が受電開始 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tRHg2eWZMR1BaU3d1MjJ0NlI5RHduMlM4eUVPZmFtaHZtMzFRT2cwSzNqMFFHU1RkbzdfTHZXUkgtRGVwLVNiWmloX0pTTmUtVHpjY2pJZFhPOHpUNzB2QzlKZlRfQk9UX2c?oc=5",
+        "published": "Thu, 05 Nov 2026 02:00:02 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE4tRHg2eWZMR1BaU3d1MjJ0NlI5RHduMlM4eUVPZmFtaHZtMzFRT2cwSzNqMFFHU1RkbzdfTHZXUkgtRGVwLVNiWmloX0pTTmUtVHpjY2pJZFhPOHpUNzB2QzlKZlRfQk9UX2c?oc=5\" target=\"_blank\">【日本蓄電池との共同プロジェクト】鹿児島県枕崎市で約2MW系統用蓄電所が受電開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "Industry Analysis",
-        "reason": "中国の蓄電池市場の急成長を示す定量的データとして重要。",
+        "primary_category": "Project",
+        "reason": "同上案件。プロジェクトの具体性が高い。",
         "score": 70,
         "is_highly_important": true
       }
     ],
-    "is_grouped": false,
+    "is_grouped": true,
     "analysis": {
       "summary_points": [
-        "2024年上半期の蓄電池生産量は前年比2.1倍の420GWh超と爆発的成長を記録",
-        "蓄電池関連の主要製造設備の国産化率が90%を超え、完全な自給自足体制を確立",
-        "成長戦略が量的な規模拡大から、イノベーション主導の質的転換フェーズへ移行"
+        "日本蓄電池とリミックスポイントの共同プロジェクトにより、鹿児島県枕崎市にて約2MW/8MWhの系統用蓄電所が受電開始",
+        "CATL製セルとTMEIC製PCSを採用した、需給調整・JEPX・容量市場の3市場横断型モデル",
+        "リミックスポイントは2029年3月期までに48か所の開発目標を掲げ、7か所が稼働済みと急ピッチでポートフォリオを拡大"
       ],
-      "insight": "中国の蓄電池産業は、垂直統合によるコスト競争力で市場を制圧後、製造装置の国産化達成で『脱・海外依存』を完了しました。今後は低価格な汎用品の供給過多を回避すべく、長寿命化・高密度化等の技術革新と、送電網・データセンター等多角的な需要創出による産業の「成熟化」が焦点です。このパラダイムシフトは世界市場の需給バランスを劇的に変えるでしょう。"
-    }
-  },
-  {
-    "topic_name": "系統用蓄電池向けAI運用支援サービス「かせぐり」の提供",
-    "article_ids": [
-      621423
-    ],
-    "articles": [
-      {
-        "id": 621423,
-        "title": "株式会社グローアップ、系統用蓄電池向けAIアグリゲーション「かせぐり」を開始 複数市場・運用手法を組み合わせ収益向上を目指す 中部エリアの市場データを用いたバックテストで、一般的な一次調整力ポジワット運用と比較し、年間収益ベースで最大7,500万円の差 | チバテレ - 千葉テレビ放送",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tYTJNTnRIeWs3STIzd3p0MmdYZ01DbmdqSmFwd2YtMHBNY3NUSFFnWFhJNWNMTUk5cjFiSnhRUmI5dHJmTjZ1a0ZLaWdFdVN3VVJseThMd1UwTWFuTmI0?oc=5",
-        "published": "Tue, 03 Nov 2026 17:42:23 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tYTJNTnRIeWs3STIzd3p0MmdYZ01DbmdqSmFwd2YtMHBNY3NUSFFnWFhJNWNMTUk5cjFiSnhRUmI5dHJmTjZ1a0ZLaWdFdVN3VVJseThMd1UwTWFuTmI0?oc=5\" target=\"_blank\">株式会社グローアップ、系統用蓄電池向けAIアグリゲーション「かせぐり」を開始 複数市場・運用手法を組み合わせ収益向上を目指す 中部エリアの市場データを用いたバックテストで、一般的な一次調整力ポジワット運用と比較し、年間収益ベースで最大7,500万円の差 | チバテレ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">千葉テレビ放送</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "Technical/Profitability",
-        "reason": "AI運用による収益最大化の検証データは業界関心が高い。",
-        "score": 75,
-        "is_highly_important": true
-      }
-    ],
-    "is_grouped": false,
-    "analysis": {
-      "summary_points": [
-        "AIアグリゲーション「かせぐり」による系統用蓄電池の収益最大化",
-        "単一の調整力運用から、複数市場・手法を跨ぐ複合運用への転換",
-        "バックテストで一次調整力運用比・最大7,500万円の収益差を実証"
-      ],
-      "insight": "本質は単なる需給調整から、ボラティリティを活用した市場裁定への進化だ。容量市場の安定的報酬に加え、スポット・需給調整市場の価格差をAIで最適化する手法は、今後の蓄電池事業のデファクトとなる。7,500万円の差は運用アルゴリズムの優位性を証明しており、今後はアセット単体の性能差以上に、AI運用の習熟度が投資回収の成否を分ける決定打になるだろう。"
-    }
-  },
-  {
-    "topic_name": "世界の蓄電池導入拡大と政府目標の乖離",
-    "article_ids": [
-      939094
-    ],
-    "articles": [
-      {
-        "id": 939094,
-        "title": "世界の蓄電池導入が急拡大 政府目標は追い付かず、日本は未設定 - Sustainable Brands Japan",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUEtzY3hiSlhLb3ZJYTQxU3U5S19GR1g0T3JkcG1xcGs0R0k3cHZTaEJBS3lkTk94bFRRWDJVSVRLdjRiLU9zZDEyVmIwYjRoMVFfM29uMFBuQQ?oc=5",
-        "published": "Wed, 04 Nov 2026 23:01:47 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUEtzY3hiSlhLb3ZJYTQxU3U5S19GR1g0T3JkcG1xcGs0R0k3cHZTaEJBS3lkTk94bFRRWDJVSVRLdjRiLU9zZDEyVmIwYjRoMVFfM29uMFBuQQ?oc=5\" target=\"_blank\">世界の蓄電池導入が急拡大 政府目標は追い付かず、日本は未設定</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sustainable Brands Japan</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "Industry Analysis",
-        "reason": "国際的な導入状況とのギャップを示すマクロデータ。",
-        "score": 70,
-        "is_highly_important": true
-      }
-    ],
-    "is_grouped": false,
-    "analysis": {
-      "summary_points": [
-        "蓄電池は揚水発電を抜き去り、エネルギー貯蔵の主役へ成長した",
-        "世界的に導入は急拡大しているが、COP29で掲げた「2030年1500GW」達成には目標と実勢の乖離が大きい",
-        "日本は蓄電池導入の国家目標が欠如しており、投資予見性の低さがボトルネックとなっている"
-      ],
-      "insight": "蓄電池の主戦場は、もはや技術開発から『系統運用との統合』へ移った。世界がanytime solarを目指す中、日本の課題は単なる容量不足ではなく、容量市場や卸電力市場での収益モデルを確立する制度設計の遅れだ。目標数値がないことは、投資家のリスクプレミアムを不当に高め、電力システムの脱炭素化を座視させる最大の要因となっている。"
+      "insight": "リミックスポイントは、系統用蓄電池を成長の柱と位置づけ、市場参入のタイミングを分散させつつ複数市場で収益を最大化する「高回転・マルチ市場戦略」を加速させている。特にPCSにTMEIC、セルにCATLを採用する標準化モデルの横展開により、開発工期の短縮と運用効率化を両立。2029年の48拠点体制に向け、いかに市場価格のボラティリティをヘッジし、予期せぬ収益変動を吸収できるかが事業の真価となる。"
     }
   }
 ]

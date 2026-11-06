@@ -1,0 +1,104 @@
+[
+  {
+    "topic_name": "東京ガス家庭用蓄電池買取",
+    "article_ids": [
+      843525,
+      368896,
+      39311
+    ],
+    "articles": [
+      {
+        "id": 843525,
+        "title": "写真・図版（1枚目）| 家庭用蓄電池の系統放電を最大70円/kWhで買い取るサービスを開始～「制御に応じた継続的な還元」と「効果の見える化」で低圧DR・VPPの普及を加速 - AERA DIGITAL",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yam9NbjNiTElZRnNoOTd1OWtXb0tjRXpubjhiajFWLWkyMjFyd3NGWEZ4eGxnb0s2Y0JiczZHbExvajliZmRMb293ZGdaLVJfQ2FCdHdB?oc=5",
+        "published": "Thu, 05 Nov 2026 11:03:23 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yam9NbjNiTElZRnNoOTd1OWtXb0tjRXpubjhiajFWLWkyMjFyd3NGWEZ4eGxnb0s2Y0JiczZHbExvajliZmRMb293ZGdaLVJfQ2FCdHdB?oc=5\" target=\"_blank\">写真・図版（1枚目）| 家庭用蓄電池の系統放電を最大70円/kWhで買い取るサービスを開始～「制御に応じた継続的な還元」と「効果の見える化」で低圧DR・VPPの普及を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AERA DIGITAL</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Service",
+        "reason": "VPP普及に向けた具体的な買い取りサービス開始のため。",
+        "score": 85,
+        "is_highly_important": true
+      },
+      {
+        "id": 368896,
+        "title": "家庭用蓄電池の系統放電を最大70円/kWhで買い取り 東京ガスが新サービス：蓄電・発電機器 - スマートジャパン - ITmedia",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ENld2eVZoVEZ6NUt4MWJFTkFWY0gwTkw0UzJxZVFoOEVHM2M1RENaQU04SUdUTW5PNTNMSXZEc0FFLWpMZ0QwbDlBWXFfRXdZMGRmcThPY1BOY2tTSXNsbmxoN0E0dm5QSU5RZ3JTeXZIUFZx?oc=5",
+        "published": "Wed, 04 Nov 2026 22:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1ENld2eVZoVEZ6NUt4MWJFTkFWY0gwTkw0UzJxZVFoOEVHM2M1RENaQU04SUdUTW5PNTNMSXZEc0FFLWpMZ0QwbDlBWXFfRXdZMGRmcThPY1BOY2tTSXNsbmxoN0E0dm5QSU5RZ3JTeXZIUFZx?oc=5\" target=\"_blank\">家庭用蓄電池の系統放電を最大70円/kWhで買い取り 東京ガスが新サービス：蓄電・発電機器 - スマートジャパン</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Service",
+        "reason": "家庭用蓄電池を活用した新サービス発表として重要。",
+        "score": 80,
+        "is_highly_important": true
+      },
+      {
+        "id": 39311,
+        "title": "東京ガス、家庭用蓄電池の電気を最大70円/kWhで買い取りへ、11月から新サービス開始 - XenoSpectrum",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05elZOdUhORkU3NG84R1NRZ1lKRS11MnJGMEo2WUZFYlBVT0plTlhKZTBwN1pWdGV2ejV4UnhNTkdlRmdXa2o5cDh0SUd2M0JnbHdaUDI2WUVvQmJWWVpvVmVXY2JRUTg?oc=5",
+        "published": "Wed, 04 Nov 2026 20:48:30 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05elZOdUhORkU3NG84R1NRZ1lKRS11MnJGMEo2WUZFYlBVT0plTlhKZTBwN1pWdGV2ejV4UnhNTkdlRmdXa2o5cDh0SUd2M0JnbHdaUDI2WUVvQmJWWVpvVmVXY2JRUTg?oc=5\" target=\"_blank\">東京ガス、家庭用蓄電池の電気を最大70円/kWhで買い取りへ、11月から新サービス開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Service",
+        "reason": "同上ニュース。重要案件。",
+        "score": 80,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": true,
+    "analysis": {
+      "summary_points": [
+        "需給状況に応じた「当日制御（70円/kWh）」と予測に基づく「前日制御（電力量料金+10円）」の二段構えによる柔軟なDR設計",
+        "オムロン・京セラ・長州産業の特定機種に限定し、制御履歴と経済メリットを可視化するマイページでユーザーの心理的障壁を払拭",
+        "2027年4月の容量市場本格始動を見据え、小売電気事業者が主導して分散型リソースの束ね（VPP）の収益化モデルを確立"
+      ],
+      "insight": "本サービスは、単なるDRの枠を超えた『容量市場対応への布石』です。70円という高単価は、容量市場からの発動指令に対する応答性の価値を転嫁したものであり、小売側がVPP構築の主導権を握るための構造的な試金石といえます。課題は年間2,000〜5,000円という還元額に対し、蓄電池劣化リスクと制御による利便性低下をどう正当化し、顧客を納得させ続けられるかというLTV（顧客生涯価値）管理の難しさにあります。"
+    }
+  },
+  {
+    "topic_name": "NC枕崎市桜山東町蓄電所の受電開始",
+    "article_ids": [
+      712462,
+      968270
+    ],
+    "articles": [
+      {
+        "id": 712462,
+        "title": "【日本蓄電池株式会社】鹿児島県枕崎市にて系統用蓄電施設「NC枕崎市桜山東町蓄電所」受電開始 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JZjlDNW1idUkyZ3dvRlZuTmZVM3M3VmZUb3BkM3JGRUNqbkp6dTZEY3oySENOd1oyVVFqbVFSM0FWUWtxemJoX0hkOTV6Y3Nuc3o4OGVueTFXSmdKS1RKeEw2QWJMb3R0cUE?oc=5",
+        "published": "Thu, 05 Nov 2026 06:00:02 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5JZjlDNW1idUkyZ3dvRlZuTmZVM3M3VmZUb3BkM3JGRUNqbkp6dTZEY3oySENOd1oyVVFqbVFSM0FWUWtxemJoX0hkOTV6Y3Nuc3o4OGVueTFXSmdKS1RKeEw2QWJMb3R0cUE?oc=5\" target=\"_blank\">【日本蓄電池株式会社】鹿児島県枕崎市にて系統用蓄電施設「NC枕崎市桜山東町蓄電所」受電開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Project",
+        "reason": "系統用蓄電所の受電開始という確実な進捗。",
+        "score": 70,
+        "is_highly_important": true
+      },
+      {
+        "id": 968270,
+        "title": "【日本蓄電池との共同プロジェクト】鹿児島県枕崎市で約2MW系統用蓄電所が受電開始 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tRHg2eWZMR1BaU3d1MjJ0NlI5RHduMlM4eUVPZmFtaHZtMzFRT2cwSzNqMFFHU1RkbzdfTHZXUkgtRGVwLVNiWmloX0pTTmUtVHpjY2pJZFhPOHpUNzB2QzlKZlRfQk9UX2c?oc=5",
+        "published": "Thu, 05 Nov 2026 02:00:02 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE4tRHg2eWZMR1BaU3d1MjJ0NlI5RHduMlM4eUVPZmFtaHZtMzFRT2cwSzNqMFFHU1RkbzdfTHZXUkgtRGVwLVNiWmloX0pTTmUtVHpjY2pJZFhPOHpUNzB2QzlKZlRfQk9UX2c?oc=5\" target=\"_blank\">【日本蓄電池との共同プロジェクト】鹿児島県枕崎市で約2MW系統用蓄電所が受電開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Project",
+        "reason": "同上案件。プロジェクトの具体性が高い。",
+        "score": 70,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": true,
+    "analysis": {
+      "summary_points": [
+        "日本蓄電池とリミックスポイントの共同プロジェクトにより、鹿児島県枕崎市にて約2MW/8MWhの系統用蓄電所が受電開始",
+        "CATL製セルとTMEIC製PCSを採用した、需給調整・JEPX・容量市場の3市場横断型モデル",
+        "リミックスポイントは2029年3月期までに48か所の開発目標を掲げ、7か所が稼働済みと急ピッチでポートフォリオを拡大"
+      ],
+      "insight": "リミックスポイントは、系統用蓄電池を成長の柱と位置づけ、市場参入のタイミングを分散させつつ複数市場で収益を最大化する「高回転・マルチ市場戦略」を加速させている。特にPCSにTMEIC、セルにCATLを採用する標準化モデルの横展開により、開発工期の短縮と運用効率化を両立。2029年の48拠点体制に向け、いかに市場価格のボラティリティをヘッジし、予期せぬ収益変動を吸収できるかが事業の真価となる。"
+    }
+  }
+]
