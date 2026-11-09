@@ -1,162 +1,226 @@
 [
   {
-    "topic_name": "各地で系統用蓄電所が稼働",
+    "topic_name": "系統用蓄電池取引プラットフォーム「BLUEHOUR」の公開",
     "article_ids": [
-      996113,
-      990178,
-      791243
+      856713,
+      698060
     ],
     "articles": [
       {
-        "id": 996113,
-        "title": "【日本蓄電池株式会社】佐賀県唐津市にて系統用蓄電施設「NC唐津市浜玉町浜崎蓄電所」需給調整市場への参入 - Infoseek",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xMVduRklGdzBja0tjemNTMERpalRKWHZaSWFUeHdPNktjaVQ5dTlULWdzc0J5V2RDbG5RX0ozdUU5QmM4ZXRTVXJMTUlUZjJ5cFdxVE1kblpwa05HNmxESkN3SWVvTXlMYjVxNW0zNS1pUQ?oc=5",
-        "published": "Fri, 06 Nov 2026 20:15:23 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5xMVduRklGdzBja0tjemNTMERpalRKWHZaSWFUeHdPNktjaVQ5dTlULWdzc0J5V2RDbG5RX0ozdUU5QmM4ZXRTVXJMTUlUZjJ5cFdxVE1kblpwa05HNmxESkN3SWVvTXlMYjVxNW0zNS1pUQ?oc=5\" target=\"_blank\">【日本蓄電池株式会社】佐賀県唐津市にて系統用蓄電施設「NC唐津市浜玉町浜崎蓄電所」需給調整市場への参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+        "id": 856713,
+        "title": "再エネ発電に、系統用蓄電池への接続権限を確保するための「取引プラットフォーム」をスタートアップ企業が立ち上げ。開発段階の権限から、運転中を含む完成設備の販売まで手掛ける（RIEF） | 一般社団法人環境金融研究機構 - 環境金融研究機構",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4VWMyQjllOEVzWl9mWDFFX05iVi1FS00yOHBmaGhRLW13NWpJOXQzTnAzVDdiSXNUei04UWY5MzAwdUt2ZVE?oc=5",
+        "published": "Sun, 08 Nov 2026 12:28:17 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4VWMyQjllOEVzWl9mWDFFX05iVi1FS00yOHBmaGhRLW13NWpJOXQzTnAzVDdiSXNUei04UWY5MzAwdUt2ZVE?oc=5\" target=\"_blank\">再エネ発電に、系統用蓄電池への接続権限を確保するための「取引プラットフォーム」をスタートアップ企業が立ち上げ。開発段階の権限から、運転中を含む完成設備の販売まで手掛ける（RIEF） | 一般社団法人環境金融研究機構</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">環境金融研究機構</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "大型プロジェクト",
-        "reason": "系統用蓄電所の市場参入。需給調整市場への貢献度が高い。",
+        "primary_category": "Market",
+        "reason": "系統用蓄電池の取引プラットフォーム構築は市場流動性に寄与する重要動向。",
         "score": 85,
         "is_highly_important": true
       },
+      {
+        "id": 698060,
+        "title": "系統用蓄電池案件の売主と買主をつなぐ取引プラットフォーム「BLUEHOUR」を公開 - 千葉日報オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDUWZiaHVzUUM3MXVRRVBXXzFtNTFQOGJTV0JMVEY5NXhoeFU1eVNRZ1pvRlo3Y2dwTlB0R19jTDVRcF9EOWtOVEZ3U2NjQWVoRzJFYVdR?oc=5",
+        "published": "Sun, 08 Nov 2026 13:16:28 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDUWZiaHVzUUM3MXVRRVBXXzFtNTFQOGJTV0JMVEY5NXhoeFU1eVNRZ1pvRlo3Y2dwTlB0R19jTDVRcF9EOWtOVEZ3U2NjQWVoRzJFYVdR?oc=5\" target=\"_blank\">系統用蓄電池案件の売主と買主をつなぐ取引プラットフォーム「BLUEHOUR」を公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">千葉日報オンライン</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Market",
+        "reason": "取引プラットフォームの公開は市場発展に寄与する重要ニュース。",
+        "score": 70,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": true,
+    "analysis": {
+      "summary_points": [
+        "系統用蓄電池の権利譲渡・売買に特化した、信頼性担保型の取引プラットフォーム「BLUEHOUR」の登場",
+        "運営による厳格な権限確認と、NDAから交渉までの一気通貫プロセスによる「情報の非対称性」の解消",
+        "系統接続済み容量と申請容量の巨大なギャップを背景とした、開発パイプラインの流動性向上と海外投資家誘致の促進"
+      ],
+      "insight": "系統用蓄電池市場は、接続検討受付1.7億kWに対し実運用が64万kWという極端な『ボトルネック経済』にある。本質的な課題は案件の不足ではなく、権利の所在が不明瞭な『幽霊案件』や多重仲介による情報の不透明性だ。BLUEHOURは単なるマッチングではなく、開発パイプラインの質を担保する一種の『セカンダリー市場のインフラ』として機能しようとしている。特に海外資本が嫌う『情報の不透明さ』をクリアにすることで、停滞しがちな開発スキームの早期換金化と再エネ投資の好循環を促す重要な一手となるだろう。"
+    }
+  },
+  {
+    "topic_name": "中西祐介官房副長官による徳島県の蓄電池関連企業視察",
+    "article_ids": [
+      110364
+    ],
+    "articles": [
+      {
+        "id": 110364,
+        "title": "中西祐介官房副長官、徳島の蓄電池関連企業を視察…「原料のレアアース調達が鍵」と支援明言 - 読売新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMWFhxV0xnZUpiQm56Q1JRS3NBNjJsTFNQTlhIUlpsVXh2a1N6SUFyM1haM2NObV9fV25OblhiTlBiUGZSdXFMV2U5NmZsLVJWb0RzVjlIUWlWSThtMXBSc0loUzVkZw?oc=5",
+        "published": "Sun, 08 Nov 2026 09:34:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMWFhxV0xnZUpiQm56Q1JRS3NBNjJsTFNQTlhIUlpsVXh2a1N6SUFyM1haM2NObV9fV25OblhiTlBiUGZSdXFMV2U5NmZsLVJWb0RzVjlIUWlWSThtMXBSc0loUzVkZw?oc=5\" target=\"_blank\">中西祐介官房副長官、徳島の蓄電池関連企業を視察…「原料のレアアース調達が鍵」と支援明言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Policy",
+        "reason": "政府高官の蓄電池産業支援への言及であり重要。",
+        "score": 75,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": false,
+    "analysis": {
+      "summary_points": [
+        "経済安全保障の文脈で徳島県の蓄電池産業を政府が戦略的に位置付け",
+        "レアアース等の重要鉱物調達が供給網の最重要ボトルネックと認識",
+        "パナソニックエナジーと日亜化学工業の連携によるAI・データセンター向け需要への対応を重視"
+      ],
+      "insight": "単なる地域振興の枠を超え、データセンター急増による電力負荷増大へ向けた『蓄電インフラの国産化』が政府の至上命題となっている。特に日亜化学の材料技術とパナソニックの量産知見を繋ぐサプライチェーンの垂直統合は、中国依存からの脱却を狙う『経済安全保障』の試金石であり、今後の財政支援のあり方を占う重要な動きである。"
+    }
+  },
+  {
+    "topic_name": "E-Flowによる系統用蓄電池の運用受託容量1.5GW突破",
+    "article_ids": [
+      814750
+    ],
+    "articles": [
+      {
+        "id": 814750,
+        "title": "【プレス】系統用蓄電池事業の運用受託容量が1.5GWを突破 - Infoseek",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1na3R4ci1pa3IteVptOXdaMnlkUENBM1J0Z0hPSkhKeHI2YURNdXVxaWxtTHNzLWVpcHdnRlJCSjZmTXJxelFkUzUta3JGZHU1V3dydk9FY09adnZ4VkMta2ZMcnNkcDJweUpCcDNCc2dqdw?oc=5",
+        "published": "Sat, 07 Nov 2026 17:10:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1na3R4ci1pa3IteVptOXdaMnlkUENBM1J0Z0hPSkhKeHI2YURNdXVxaWxtTHNzLWVpcHdnRlJCSjZmTXJxelFkUzUta3JGZHU1V3dydk9FY09adnZ4VkMta2ZMcnNkcDJweUpCcDNCc2dqdw?oc=5\" target=\"_blank\">【プレス】系統用蓄電池事業の運用受託容量が1.5GWを突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Market",
+        "reason": "運用受託容量の拡大は、アグリゲーション市場の成長を示す指標。",
+        "score": 70,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": false,
+    "analysis": {
+      "summary_points": [
+        "2030年を見据えた運用受託容量が目標を上回る1.5GWを突破",
+        "再生可能エネルギー普及に伴う需給安定化と価格変動対応の重要性が背景",
+        "単なる系統用蓄電池の運用から、分散型リソース全体のアグリゲーション事業へ進化"
+      ],
+      "insight": "1.5GWという規模は原子力発電所1.5基分に相当し、市場の急速な立ち上がりを象徴する。E-Flowの真価は、制度や設備特性への深い理解に基づく運用ノウハウの蓄積にある。今後は「ストレージ式運用」に加え、VPP的なリソース最適化へと舵を切っており、市場価格差益（アービトラージ）から調整力市場へと収益源を多角化できるかが、勝ち残りの条件となる。"
+    }
+  },
+  {
+    "topic_name": "SUNPINによるSP滋賀大津蓄電所の系統接続",
+    "article_ids": [
+      990178
+    ],
+    "articles": [
       {
         "id": 990178,
         "title": "SUNPIN、45MWの滋賀大津蓄電所を系統接続 - Infoseek",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sYWFqZUVvY1ZIa0RtaFRQQjVBR3IwdHQ3YUNJdzRJYVJrNWNZYlRHUDFaOUdibmpzaWNtX0lNdGh1elZydV9JWEdhU3lsTTlTeFdfUFdhZUdTQnF6NG14Skp4RzFNR3lrWWMxTkhkRlVyUQ?oc=5",
-        "published": "Fri, 06 Nov 2026 22:10:00 GMT",
+        "published": "Sun, 08 Nov 2026 04:10:00 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5sYWFqZUVvY1ZIa0RtaFRQQjVBR3IwdHQ3YUNJdzRJYVJrNWNZYlRHUDFaOUdibmpzaWNtX0lNdGh1elZydV9JWEdhU3lsTTlTeFdfUFdhZUdTQnF6NG14Skp4RzFNR3lrWWMxTkhkRlVyUQ?oc=5\" target=\"_blank\">SUNPIN、45MWの滋賀大津蓄電所を系統接続</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "大型プロジェクト",
-        "reason": "系統接続の実施は蓄電容量確保の重要事例。",
-        "score": 80,
-        "is_highly_important": true
-      },
-      {
-        "id": 791243,
-        "title": "【蓄電関連】グリーンエナジー＆カンパニー：神戸市で容量8.1MWhの系統用蓄電所が完成、出力約2MWの設備を企業に引き渡し - みんなの広報宣伝部",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XTmtwNHZfVDdWN3J2amhIcklfRVluSVk5bEFoU283NGYtcDN4NUJKZXR1eDdVbVBmdVVmb1drelhzbGRRM1NUN21oSjBBT0hFN293Z1Zka29XbXpPRUVLeTk1NGlTS0FtZ2E1UlFKdDBRQQ?oc=5",
-        "published": "Sat, 07 Nov 2026 01:43:35 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1XTmtwNHZfVDdWN3J2amhIcklfRVluSVk5bEFoU283NGYtcDN4NUJKZXR1eDdVbVBmdVVmb1drelhzbGRRM1NUN21oSjBBT0hFN293Z1Zka29XbXpPRUVLeTk1NGlTS0FtZ2E1UlFKdDBRQQ?oc=5\" target=\"_blank\">【蓄電関連】グリーンエナジー＆カンパニー：神戸市で容量8.1MWhの系統用蓄電所が完成、出力約2MWの設備を企業に引き渡し</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "大型プロジェクト",
-        "reason": "地域における系統用蓄電所の竣工・引き渡し。",
-        "score": 80,
+        "primary_category": "Project",
+        "reason": "45MW級の系統連系は実質的なプロジェクト進捗として重要。",
+        "score": 75,
         "is_highly_important": true
       }
     ],
-    "is_grouped": true,
+    "is_grouped": false,
     "analysis": {
       "summary_points": [
-        "需給調整市場参入と系統接続の同時進行により、系統用蓄電所の商業運用フェーズが本格化",
-        "「開発・運用・市場参入」を分業またはプラットフォーム活用で最適化する連携モデルの定着",
-        "大規模案件（45MW級）から分散型・個別案件まで、開発・運営戦略が多様化し全国展開へ加速"
+        "SUNPIN JAPANが滋賀県大津市にて出力45MW、容量180MWhの系統用蓄電所の接続を完了",
+        "関西電力送配電の77kV湖南新山科線へ接続、E-Flow社と連携し市場価格連動型の充放電を実施",
+        "開発・EPC・O&Mを自社グループで完結させる垂直統合モデルを確立し、全国展開を加速"
       ],
-      "insight": "系統用蓄電所は「インフラ開発」から「アグリゲーションによる収益最大化」へと焦点がシフトしています。特にデジタルグリッドやE-Flow等の市場運用パートナーを介した参入が標準化しており、今後は需給調整、容量、JEPX市場の複利的な収益構造をいかに早期に確立できるかが、プロジェクトファイナンス成功の分水嶺となります。"
+      "insight": "容量4時間（180MWh/45MW）という構成は、卸電力市場での裁定取引に加え、需給調整市場での収益性も強く意識した設計です。注目すべきは、開発からEPCまでを自社グループで完結させる「内製化モデル」の構築です。熾烈化する系統枠確保と資材調達コストの管理において、この垂直統合体制は他社に対する強力な競合優位性となり、今後の開発スピードに直結するでしょう。"
     }
   },
   {
-    "topic_name": "低圧系統用蓄電所の最新技術",
+    "topic_name": "エコ革による系統用蓄電池事業の本格稼働",
     "article_ids": [
-      625021,
-      749682
+      856326
     ],
     "articles": [
       {
-        "id": 625021,
-        "title": "【グリーンエナジー&カンパニー】低圧系統用蓄電所向けパッケージ「GREEN CHORD」提供開始 - 山陽新聞",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95UkFRemJLNDN1bUNHYnpxN2cxTVNlY25Od3ZCbTdNc1F5MDVMaXE4NjZVOHNMOGRfWkJ6akxxcXkydmNaYUxPbEgwY0JnRFBWblE?oc=5",
-        "published": "Sat, 07 Nov 2026 04:48:37 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE95UkFRemJLNDN1bUNHYnpxN2cxTVNlY25Od3ZCbTdNc1F5MDVMaXE4NjZVOHNMOGRfWkJ6akxxcXkydmNaYUxPbEgwY0JnRFBWblE?oc=5\" target=\"_blank\">【グリーンエナジー&カンパニー】低圧系統用蓄電所向けパッケージ「GREEN CHORD」提供開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+        "id": 856326,
+        "title": "エコ革、系統用蓄電池事業が本格稼働フェーズへ。全国11か所の系統用蓄電所が系統連系完了、3か所が運転開始。 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4aGdjTjNtTnFzazI1TlVTTjFNRDBIUUJxbVJDcmVDT1o5R1FjYnRtZUl6MFpRUFB1OG1acXZPOW9ka0t1UnFmQjBWYnpQeTRQVU9CdVFTZzJGTE1faVFsaF9tTmwwNEZ5cEE?oc=5",
+        "published": "Mon, 09 Nov 2026 00:17:29 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB4aGdjTjNtTnFzazI1TlVTTjFNRDBIUUJxbVJDcmVDT1o5R1FjYnRtZUl6MFpRUFB1OG1acXZPOW9ka0t1UnFmQjBWYnpQeTRQVU9CdVFTZzJGTE1faVFsaF9tTmwwNEZ5cEE?oc=5\" target=\"_blank\">エコ革、系統用蓄電池事業が本格稼働フェーズへ。全国11か所の系統用蓄電所が系統連系完了、3か所が運転開始。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "技術革新",
-        "reason": "系統用蓄電所のパッケージ製品展開。市場活性化に寄与。",
+        "primary_category": "Project",
+        "reason": "全国11か所の連系完了は事業規模の拡大として重要。",
         "score": 80,
-        "is_highly_important": true
-      },
-      {
-        "id": 749682,
-        "title": "日本蓄電開発機構、低圧蓄電所向けVPPサービス「JESDI VPP」を発表 - ニコニコニュース",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZM1pyZ1AzRUtVU2tvX1cwNnIxWVFMaHd1aEFjQXBUUnB0NlQ1RE1WVkNNQWxIUHpmVFRfTDJveWl3UTJvUk9JWXpiOS1rTnpkM1RqYQ?oc=5",
-        "published": "Fri, 06 Nov 2026 18:15:31 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZM1pyZ1AzRUtVU2tvX1cwNnIxWVFMaHd1aEFjQXBUUnB0NlQ1RE1WVkNNQWxIUHpmVFRfTDJveWl3UTJvUk9JWXpiOS1rTnpkM1RqYQ?oc=5\" target=\"_blank\">日本蓄電開発機構、低圧蓄電所向けVPPサービス「JESDI VPP」を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "技術革新",
-        "reason": "低圧向けVPPサービス開始。分散型電源管理の高度化。",
-        "score": 75,
         "is_highly_important": true
       }
     ],
-    "is_grouped": true,
+    "is_grouped": false,
     "analysis": {
       "summary_points": [
-        "低圧蓄電市場への最適解として、施工・設定・物流・保守を一括パッケージ化した「GREEN CHORD」を投入",
-        "2026年4月の制度改正による低圧リソースの需給調整市場参加を見越し、住宅事業由来の規格化・効率化ノウハウを転用",
-        "機器供給、O&M、市場運用（アグリゲーション）をグループ内完結させる垂直統合モデルで、参入障壁を低減"
+        "全国11か所、合計約22MW/83MWhの系統用蓄電池が連系完了し本格稼働へ移行",
+        "FIT/FIPの調整力を担う2MW級の分散型蓄電所を各地に同時多発展開するモデル",
+        "用地開発から施工・運用までの一気通貫体制による高い実行スピードを実証"
       ],
-      "insight": "低圧蓄電所事業は、個別の工事管理費が収益を圧迫する『小規模分散の罠』にあります。本製品は、単なる機器売りではなく、現場の「人」に依存する工数を徹底排除し、サプライチェーン全体を製品化した点に勝機があります。VPP参入ハードルを物理・運用両面で解消し、非住宅・小規模市場の標準化を狙う、極めて実務的な市場攻略です。"
+      "insight": "特筆すべきは、2MW級という高圧連系規模での多地点同時展開です。系統混雑が深刻化する中で、配電線レベルの調整力を全国に分散配置するエコ革の戦略は、広域的な需給調整よりも『地域内の電力需給バランス安定化』に主眼があり、今後の託送料金体系や容量市場の変化を見据えた非常に賢明かつ現実的なアプローチと言えます。"
     }
   },
   {
-    "topic_name": "系統用蓄電池の新規開発・案件形成",
+    "topic_name": "グリーンエナジー＆カンパニーによる「GREEN CHORD」実証拠点の公開",
     "article_ids": [
-      456203,
-      339077,
-      309642
+      102377
     ],
     "articles": [
       {
-        "id": 456203,
-        "title": "【系統用蓄電池の今期完工計画を公表】2026年8月～2027年7月、複数案件を順次竣工へ - 朝日新聞",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VRnRGa1k0azFvZDVRM3FmNWFVMkY2WDVVWnJWSkstc2JBcXdSdzZ4TWZWQjg2RU01YzBKQkc5NlBvbDVUUG55bl9qSjBZTkdsa3BFNlZwVmN5UVU?oc=5",
-        "published": "Fri, 06 Nov 2026 22:01:19 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VRnRGa1k0azFvZDVRM3FmNWFVMkY2WDVVWnJWSkstc2JBcXdSdzZ4TWZWQjg2RU01YzBKQkc5NlBvbDVUUG55bl9qSjBZTkdsa3BFNlZwVmN5UVU?oc=5\" target=\"_blank\">【系統用蓄電池の今期完工計画を公表】2026年8月～2027年7月、複数案件を順次竣工へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+        "id": 102377,
+        "title": "グリーンエナジー＆カンパニー、低圧蓄電システム「GREEN CHORD」の実機を徳島市に公開 - 山陽新聞",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWMXZLRTBVMngzN05kTEVlbUc0LXpoTlhUQ0VjOFBydDhwejdKSVktUFhrZjdlLWR5LVNpaDZ5V24tMXNCako1T19rM0VLenltY1E?oc=5",
+        "published": "Sun, 08 Nov 2026 08:05:05 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWMXZLRTBVMngzN05kTEVlbUc0LXpoTlhUQ0VjOFBydDhwejdKSVktUFhrZjdlLWR5LVNpaDZ5V24tMXNCako1T19rM0VLenltY1E?oc=5\" target=\"_blank\">グリーンエナジー＆カンパニー、低圧蓄電システム「GREEN CHORD」の実機を徳島市に公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "大型プロジェクト",
-        "reason": "系統用蓄電池の竣工計画。市場供給能力の増大に関与。",
-        "score": 85,
+        "primary_category": "Project",
+        "reason": "地域単位の実機披露。地方紙だが実証の一次情報として一定の価値。",
+        "score": 70,
         "is_highly_important": true
-      },
+      }
+    ],
+    "is_grouped": false,
+    "analysis": {
+      "summary_points": [
+        "低圧系統用蓄電システム「GREEN CHORD」の実稼働モデルを徳島で初公開",
+        "エネルギー地産地消と災害時の地域貢献（防災拠点化）を両立したビジネスモデル",
+        "低圧リソース市場の解禁を追い風に、蓄電所、ソーラーシェアリング、EV充電を統合したソリューション展開"
+      ],
+      "insight": "2026年の制度改正により、低圧リソースは再エネ主力電源化のキーパーツとなりました。単なる蓄電池販売ではなく、地産地消・防災・モビリティを統合した「地域エネルギーハブ」として提示する戦略は、B2Gや地域脱炭素ビジネスにおいて非常に強力です。今後は高圧系統との融合による、マイクログリッド構築の実効性が評価の分かれ目となります。"
+    }
+  },
+  {
+    "topic_name": "Sustechによる綜電所有の京都蓄電所2件のアグリゲーション受託",
+    "article_ids": [
+      455803
+    ],
+    "articles": [
       {
-        "id": 339077,
-        "title": "【系統用蓄電池案件の販売契約締結に向け手続きを開始】土地・設備・権利を含む案件を引き渡しへ - Excite エキサイト",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjWHZfNm9fb0dnRFJmeHFUZWQ3SWd4am53Q3FHaWp3NGdqNjdBeEpDY2RIaHpPZG9Qajh1cXhqakl2RmxCREVTczdNYnFCUUZyQ0dMQlZkc3NvejFNSXUzcVYtbk9ud3V1Uk9NWGo0R2lmMVd5?oc=5",
-        "published": "Fri, 06 Nov 2026 19:10:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBjWHZfNm9fb0dnRFJmeHFUZWQ3SWd4am53Q3FHaWp3NGdqNjdBeEpDY2RIaHpPZG9Qajh1cXhqakl2RmxCREVTczdNYnFCUUZyQ0dMQlZkc3NvejFNSXUzcVYtbk9ud3V1Uk9NWGo0R2lmMVd5?oc=5\" target=\"_blank\">【系統用蓄電池案件の販売契約締結に向け手続きを開始】土地・設備・権利を含む案件を引き渡しへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Excite エキサイト</font>",
+        "id": 455803,
+        "title": "Sustech、綜電が所有する京都の蓄電所2件のアグリゲーション事業を受託 - Dellows News",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQaHpLNDlwVy1yanlEZUROcEgyQ1hfOG1SRFlwMkIxUHh3dmNXekI3TDd5S2dJSjRPVGVLVVlScVNFUnhVb1E?oc=5",
+        "published": "Sun, 08 Nov 2026 04:57:12 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQaHpLNDlwVy1yanlEZUROcEgyQ1hfOG1SRFlwMkIxUHh3dmNXekI3TDd5S2dJSjRPVGVLVVlScVNFUnhVb1E?oc=5\" target=\"_blank\">Sustech、綜電が所有する京都の蓄電所2件のアグリゲーション事業を受託</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "市場動向",
-        "reason": "蓄電池案件の資産流通。プロジェクト市場の活発化を示す。",
-        "score": 75,
-        "is_highly_important": true
-      },
-      {
-        "id": 309642,
-        "title": "【蓄電関連】カンエイ・TERAS・Bluefield Energy：出力2MWの系統用蓄電所を共同開発、AI活用の市場運用と非常用電源を両立 - みんなの広報宣伝部",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tQjE5ZU1OcXNjaThJSGR6LUpPWDVnY3Z5T0lacGtpdVNja2stTUFNeDBGTDJ6ZFdWN1JINkswNGVFNWk3aHE4UXY2UWJ0TGRTUzdXX1Ewb09qVmdUSWU5Qy1kSjU0MmtzcWE3b0FGRVRNQQ?oc=5",
-        "published": "Sat, 07 Nov 2026 01:43:35 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5tQjE5ZU1OcXNjaThJSGR6LUpPWDVnY3Z5T0lacGtpdVNja2stTUFNeDBGTDJ6ZFdWN1JINkswNGVFNWk3aHE4UXY2UWJ0TGRTUzdXX1Ewb09qVmdUSWU5Qy1kSjU0MmtzcWE3b0FGRVRNQQ?oc=5\" target=\"_blank\">【蓄電関連】カンエイ・TERAS・Bluefield Energy：出力2MWの系統用蓄電所を共同開発、AI活用の市場運用と非常用電源を両立</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "大型プロジェクト",
-        "reason": "AI活用による市場運用の最適化事例。",
+        "primary_category": "Market",
+        "reason": "アグリゲーション受託は蓄電池の有効活用事例として重要。",
         "score": 75,
         "is_highly_important": true
       }
     ],
-    "is_grouped": true,
+    "is_grouped": false,
     "analysis": {
       "summary_points": [
-        "系統用蓄電池事業における、用地開発から系統連系、設計、施工までを一貫して管理する「垂直統合型」開発モデルの一般化",
-        "電力会社側の接続制約や設備納期といった不確実な外部要因を逆算し、案件ごとに個別最適化するプロジェクトマネジメント能力が勝敗を分ける",
-        "単なる容量売却から、AIを用いた市場運用（卸・需給調整）と地域防災機能（非常用電源）を組み合わせた収益モデルへの高度化"
+        "Sustechが綜電の京都内2蓄電所の運用を受託し、市場取引を全自動化",
+        "独自プラットフォーム「ELIC」を活用し、JEPX・需給調整・容量市場を横断したマルチ市場戦略を展開",
+        "蓄電所の収益最大化と系統安定化の最適化を通じ、一気通貫型の運用モデルを確立"
       ],
-      "insight": "系統用蓄電池市場は、初期の「開発・売却」モデルから、長期間の収益最大化を狙う「アセットマネジメント主導」へと潮目が変わっている。特に機器調達と系統連系というボトルネックを、プロジェクト横断でどう統合管理するかが開発企業の真価だ。今後は、単なる容量確保に留まらない、地域レジリエンスとの二刀流運用こそが、収益性と社会的合意形成を両立させる唯一の解となる。"
+      "insight": "系統用蓄電所の競争軸は、既にハードウェアの選定から『AIによる運用最適化（アルゴリズム取引）』へ完全に移行した。特にELICのような統合プラットフォームが市場取引を全自動化することで、人件費を抑えつつ、複雑な需給調整市場の需給逼迫時に高い収益を叩き出す「運用の地産地消」が加速する。今後の勝者は、どれだけ精度の高い予測モデルを実装し、設備制約をギリギリまで攻められるかにかかっている。"
     }
   }
 ]
