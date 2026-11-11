@@ -1,0 +1,46 @@
+[
+  {
+    "topic_name": "JC-STAR制度の要件化詳細",
+    "article_ids": [
+      720925,
+      761570
+    ],
+    "articles": [
+      {
+        "id": 720925,
+        "title": "JC-STARで変わる系統用蓄電池【第2回】2027年から何が変わるのか - 新電力ネット",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53ajJBTjF3TkVubkk5OUJEZDJrWWpTa0licGU0Um1oU1ZYZzRIei1zNVo0akk2UW1PM2NvT1ZGMTQxV0NnMXBFMQ?oc=5",
+        "published": "Tue, 10 Nov 2026 16:42:56 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE53ajJBTjF3TkVubkk5OUJEZDJrWWpTa0licGU0Um1oU1ZYZzRIei1zNVo0akk2UW1PM2NvT1ZGMTQxV0NnMXBFMQ?oc=5\" target=\"_blank\">JC-STARで変わる系統用蓄電池【第2回】2027年から何が変わるのか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新電力ネット</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Policy/Regulatory",
+        "reason": "2027年以降の制度変化の解説。実務的に極めて重要。",
+        "score": 95,
+        "is_highly_important": true
+      },
+      {
+        "id": 761570,
+        "title": "要件化まで半年を切ったJC-STAR制度──太陽光・蓄電池事業者が再確認したい制度のポイント - ITmedia",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGZ2NkaVZXSVVnY3J0ZTc3RThnSFBGQzNDVU5La1c2V2RQUE4yb3RkUG9CRy1Gd191eGcxTTltZkJ3S0gzQm5WWjQtdTJ4N19PTWZfOXZhT0VZSGNNbUhoeGxBaDBVR3ZsMVdJd2hod2R0S0lC?oc=5",
+        "published": "Tue, 10 Nov 2026 22:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBGZ2NkaVZXSVVnY3J0ZTc3RThnSFBGQzNDVU5La1c2V2RQUE4yb3RkUG9CRy1Gd191eGcxTTltZkJ3S0gzQm5WWjQtdTJ4N19PTWZfOXZhT0VZSGNNbUhoeGxBaDBVR3ZsMVdJd2hod2R0S0lC?oc=5\" target=\"_blank\">要件化まで半年を切ったJC-STAR制度──太陽光・蓄電池事業者が再確認したい制度のポイント</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Policy/Regulatory",
+        "reason": "JC-STAR制度の要件化対応。事業者の必読情報。",
+        "score": 95,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": true,
+    "analysis": {
+      "summary_points": [
+        "適用判定は工事完了日ではなく「契約申込みの受付日（高圧以上は2027年4月1日、低圧は10月1日）」。",
+        "対象はIP通信機能を具備する全ての機器であり、売電の有無や通信機能の使用可否を問わず要件化される。",
+        "既存設備においてもPCS交換や増設時は対象となるが、過度な負担が生じる場合は個別の猶予協議が可能。"
+      ],
+      "insight": "本制度の真のインパクトは、調達サプライチェーンの強制的な『脱・中国依存』にある。実質的に中国主要メーカーがJC-STARラベル取得から除外される中、今回の制度化は電力インフラのサイバー強靭化という大義名分のもと、事実上の排除措置として機能する。事業者は機器選定においてコスト競争力よりも『供給安定性とセキュリティ適合』という非価格競争軸への転換を急ぐ必要があり、PCS更新需要が先行する既存案件ほど、製品調達難による工程のボトルネック化リスクが高い。"
+    }
+  }
+]
