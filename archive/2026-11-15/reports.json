@@ -1,0 +1,46 @@
+[
+  {
+    "topic_name": "ベトナムの2026年蓄電池発電向け価格設定枠組み",
+    "article_ids": [
+      369762,
+      59654
+    ],
+    "articles": [
+      {
+        "id": 369762,
+        "title": "産業貿易省は、2026年に蓄電池システムによる発電の価格設定枠組みを承認する。 - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTFGbENnck5PeHZ0LXJic0EzRnpIQkJUUk5nYkxYVjhFbWlRUzNOb0VHVWlTUGZBMnY1MVl2N1lDRlpod0p4VFJTcHhyQlhrc09wekk0aWhXXzlHbkRfdU03ak1KQ2pNMDZPS0h4eV9rUHI5cGtleGFJb3Z6X2wwUXM1LThVVndZamV6WjJyUHo3VV8xbjB2M182QWotNUtBeXA2MlJkcDMzaXZaVzc4cg?oc=5",
+        "published": "Sat, 14 Nov 2026 06:59:52 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTFGbENnck5PeHZ0LXJic0EzRnpIQkJUUk5nYkxYVjhFbWlRUzNOb0VHVWlTUGZBMnY1MVl2N1lDRlpod0p4VFJTcHhyQlhrc09wekk0aWhXXzlHbkRfdU03ak1KQ2pNMDZPS0h4eV9rUHI5cGtleGFJb3Z6X2wwUXM1LThVVndZamV6WjJyUHo3VV8xbjB2M182QWotNUtBeXA2MlJkcDMzaXZaVzc4cg?oc=5\" target=\"_blank\">産業貿易省は、2026年に蓄電池システムによる発電の価格設定枠組みを承認する。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Policy & Regulation",
+        "reason": "ベトナムの国家レベルの制度改正情報のため重要。",
+        "score": 75,
+        "is_highly_important": true
+      },
+      {
+        "id": 59654,
+        "title": "太陽光発電の価格を引き上げ、蓄電池への投資を促進する。 - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX3V6T3I4NFIwbnNrVjR0aENOQ1J0eWpodFlBbnVsNjdIV2gyQzd0ZEJERFhaZ1ZLRlZpRm4tcEtPVlNlX1A5bjRfZUdBdlJyMDNhMnFMSEdKWUhXVG1hR1gzUy1RazE5azhjNHZ6djR0TU1pMjJpWnhKdW5PZEJpZU8xal91Zjg?oc=5",
+        "published": "Fri, 13 Nov 2026 23:50:13 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPX3V6T3I4NFIwbnNrVjR0aENOQ1J0eWpodFlBbnVsNjdIV2gyQzd0ZEJERFhaZ1ZLRlZpRm4tcEtPVlNlX1A5bjRfZUdBdlJyMDNhMnFMSEdKWUhXVG1hR1gzUy1RazE5azhjNHZ6djR0TU1pMjJpWnhKdW5PZEJpZU8xal91Zjg?oc=5\" target=\"_blank\">太陽光発電の価格を引き上げ、蓄電池への投資を促進する。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Policy & Regulation",
+        "reason": "投資促進の政策動向であり重要。",
+        "score": 70,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": true,
+    "analysis": {
+      "summary_points": [
+        "2026年蓄電池システム(BESS)の最大発電価格を3,209.98 VND/kWhと設定",
+        "充放電効率85%、経済寿命15年、年間劣化率2%を算定の基準パラメータとして明文化",
+        "地域別太陽光発電価格の上昇と合わせ、BESS統合型プロジェクトへの投資インセンティブを強化"
+      ],
+      "insight": "ベトナムがBESSに対して高単価な価格枠組みを提示したのは、再エネの導入拡大による系統不安定化への危機感の裏返しです。特に8,000サイクルの耐久要件やオフピーク電力を基準とした価格算出式は、単なる貯蔵ではなく、系統調整力としての役割をBESSに求めていることを示唆します。投資家は、LCOEと実効稼働率の乖離をどこまで管理できるかが鍵となるでしょう。"
+    }
+  }
+]
