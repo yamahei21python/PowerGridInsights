@@ -1,0 +1,33 @@
+[
+  {
+    "topic_name": "蓄電池の系統連系に関する制度・技術要件",
+    "article_ids": [
+      756080
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "系統用蓄電所の建設および事業開始",
+    "article_ids": [
+      361106,
+      144384,
+      309205
+    ],
+    "is_grouped": true
+  },
+  {
+    "topic_name": "家庭用蓄電池市場および製造動向",
+    "article_ids": [
+      613246,
+      381565
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "低圧系統用蓄電池パッケージの提供開始",
+    "article_ids": [
+      625021
+    ],
+    "is_grouped": false
+  }
+]

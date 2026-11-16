@@ -1,46 +1,164 @@
 [
   {
-    "topic_name": "ベトナムの2026年蓄電池発電向け価格設定枠組み",
+    "topic_name": "蓄電池のJC-STAR対応と対策",
     "article_ids": [
-      369762,
-      59654
+      756080
     ],
     "articles": [
       {
-        "id": 369762,
-        "title": "産業貿易省は、2026年に蓄電池システムによる発電の価格設定枠組みを承認する。 - Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTFGbENnck5PeHZ0LXJic0EzRnpIQkJUUk5nYkxYVjhFbWlRUzNOb0VHVWlTUGZBMnY1MVl2N1lDRlpod0p4VFJTcHhyQlhrc09wekk0aWhXXzlHbkRfdU03ak1KQ2pNMDZPS0h4eV9rUHI5cGtleGFJb3Z6X2wwUXM1LThVVndZamV6WjJyUHo3VV8xbjB2M182QWotNUtBeXA2MlJkcDMzaXZaVzc4cg?oc=5",
-        "published": "Sat, 14 Nov 2026 06:59:52 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTFGbENnck5PeHZ0LXJic0EzRnpIQkJUUk5nYkxYVjhFbWlRUzNOb0VHVWlTUGZBMnY1MVl2N1lDRlpod0p4VFJTcHhyQlhrc09wekk0aWhXXzlHbkRfdU03ak1KQ2pNMDZPS0h4eV9rUHI5cGtleGFJb3Z6X2wwUXM1LThVVndZamV6WjJyUHo3VV8xbjB2M182QWotNUtBeXA2MlJkcDMzaXZaVzc4cg?oc=5\" target=\"_blank\">産業貿易省は、2026年に蓄電池システムによる発電の価格設定枠組みを承認する。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+        "id": 756080,
+        "title": "中国メーカーがJC-STAR対応に苦戦する理由──太陽光・蓄電池事業者がとるべき対応は - ITmedia",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qSlZrbEtWekdrQUZ3OVZ0TXRjeHFybGhmcEtMbk9POG9aQWpMbGRBZEVlVHFfY2ZXV01mZnQ0ZHpjdW5zNHNkcUxOU3Yzc3VBNFlRa1RpU2ZFVzRHd1pPT3c5LXBiSm5kMFdja3llZ2pBcXVy?oc=5",
+        "published": "Sun, 15 Nov 2026 22:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9qSlZrbEtWekdrQUZ3OVZ0TXRjeHFybGhmcEtMbk9POG9aQWpMbGRBZEVlVHFfY2ZXV01mZnQ0ZHpjdW5zNHNkcUxOU3Yzc3VBNFlRa1RpU2ZFVzRHd1pPT3c5LXBiSm5kMFdja3llZ2pBcXVy?oc=5\" target=\"_blank\">中国メーカーがJC-STAR対応に苦戦する理由──太陽光・蓄電池事業者がとるべき対応は</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "Policy & Regulation",
-        "reason": "ベトナムの国家レベルの制度改正情報のため重要。",
-        "score": 75,
+        "primary_category": "Market Trends",
+        "reason": "業界規格対応の重要課題を指摘しており、実務上の示唆に富むため。",
+        "score": 85,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": false,
+    "analysis": {
+      "summary_points": [
+        "2027年以降の系統連系必須となるJC-STAR制度に対し、シェアを握る中国勢が未対応で「調達空白」のリスクが急浮上している",
+        "適合リストの偏りはサイバーセキュリティ要件の厳格化を背景とするが、審査基準の不透明さが業界の先行投資を阻害している",
+        "大手メーカーの取得遅延は単なる技術課題ではなく、地政学的リスクを内包したサプライチェーン再編のトリガーとなる可能性が高い"
+      ],
+      "insight": "今回の事態は、単なる認証作業の遅れではなく、電力インフラの「経済安全保障」が実運用レベルで調達網を揺るがし始めた転換点です。中国メーカーがグローバル基準を満たしていても審査を通過できない現状は、機能要件以上に『データの完全なクローズド環境』を求めている証左でしょう。事業者は、中国製PCS/蓄電池からのポートフォリオ転換を前提とした、調達先の多角化とコスト構造の見直しを早急に行う必要があります。"
+    }
+  },
+  {
+    "topic_name": "系統用蓄電所の建設および事業開始",
+    "article_ids": [
+      361106,
+      144384,
+      309205
+    ],
+    "articles": [
+      {
+        "id": 361106,
+        "title": "パワーエックスと蓄電池ビジネスに関する基本合意書を締結 -第１号案件として松江市に系統用蓄電所を建設- - 山陽新聞",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTOTBTaUk0b3hEZmlRS0JXNk4wY2dCbGJqSGlaNFNaZ0NtcGZxRzE1eGRTUWtEOEIzamR1UFQ0eUpqZkdxVHlMUURLMG8wWmNaNnc?oc=5",
+        "published": "Sun, 15 Nov 2026 09:08:45 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTOTBTaUk0b3hEZmlRS0JXNk4wY2dCbGJqSGlaNFNaZ0NtcGZxRzE1eGRTUWtEOEIzamR1UFQ0eUpqZkdxVHlMUURLMG8wWmNaNnc?oc=5\" target=\"_blank\">パワーエックスと蓄電池ビジネスに関する基本合意書を締結 -第１号案件として松江市に系統用蓄電所を建設-</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Project/Infrastructure",
+        "reason": "松江市での系統用蓄電所の建設という地域特有の重要な一次情報のため。",
+        "score": 80,
         "is_highly_important": true
       },
       {
-        "id": 59654,
-        "title": "太陽光発電の価格を引き上げ、蓄電池への投資を促進する。 - Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX3V6T3I4NFIwbnNrVjR0aENOQ1J0eWpodFlBbnVsNjdIV2gyQzd0ZEJERFhaZ1ZLRlZpRm4tcEtPVlNlX1A5bjRfZUdBdlJyMDNhMnFMSEdKWUhXVG1hR1gzUy1RazE5azhjNHZ6djR0TU1pMjJpWnhKdW5PZEJpZU8xal91Zjg?oc=5",
-        "published": "Fri, 13 Nov 2026 23:50:13 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPX3V6T3I4NFIwbnNrVjR0aENOQ1J0eWpodFlBbnVsNjdIV2gyQzd0ZEJERFhaZ1ZLRlZpRm4tcEtPVlNlX1A5bjRfZUdBdlJyMDNhMnFMSEdKWUhXVG1hR1gzUy1RazE5azhjNHZ6djR0TU1pMjJpWnhKdW5PZEJpZU8xal91Zjg?oc=5\" target=\"_blank\">太陽光発電の価格を引き上げ、蓄電池への投資を促進する。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+        "id": 144384,
+        "title": "石狩に「国産」特高蓄電所、再エネ地産地消に貢献も（4ページ目） - 日経クロステック",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IbW9adDd2X0xxR01iQloxaTl3NkR6d2I0LVJYZnBWck85dVlWUEw2THVqQ3FTUG9fdExZSGxqY2F5a0NEaDJvcF9GUk9udWZJVVg4YUpfbk1Pek03M3VFWm1uWDk4V0xnQVA2a0V0aTExdw?oc=5",
+        "published": "Sun, 15 Nov 2026 20:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1IbW9adDd2X0xxR01iQloxaTl3NkR6d2I0LVJYZnBWck85dVlWUEw2THVqQ3FTUG9fdExZSGxqY2F5a0NEaDJvcF9GUk9udWZJVVg4YUpfbk1Pek03M3VFWm1uWDk4V0xnQVA2a0V0aTExdw?oc=5\" target=\"_blank\">石狩に「国産」特高蓄電所、再エネ地産地消に貢献も（4ページ目）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "Policy & Regulation",
-        "reason": "投資促進の政策動向であり重要。",
-        "score": 70,
+        "primary_category": "Project/Infrastructure",
+        "reason": "専門メディアによる国内特高蓄電所プロジェクトの深い分析のため。",
+        "score": 85,
+        "is_highly_important": true
+      },
+      {
+        "id": 309205,
+        "title": "岡山県で8MWhの系統用蓄電池設備が連系開始 - 山陽新聞",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRQ3BVRXJMbUQzVkh0SmhNZ3EtY0JCTGZ6cnAxVGR4Q3VqRWdvVThQZXRiQTltcFRmeENySmVnWDZFVk5sQ2FuTHp3YjlNMl9DR1E?oc=5",
+        "published": "Sun, 15 Nov 2026 08:49:25 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRQ3BVRXJMbUQzVkh0SmhNZ3EtY0JCTGZ6cnAxVGR4Q3VqRWdvVThQZXRiQTltcFRmeENySmVnWDZFVk5sQ2FuTHp3YjlNMl9DR1E?oc=5\" target=\"_blank\">岡山県で8MWhの系統用蓄電池設備が連系開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Project/Infrastructure",
+        "reason": "岡山県における系統用蓄電所の連系という地域一次情報のため。",
+        "score": 75,
         "is_highly_important": true
       }
     ],
     "is_grouped": true,
     "analysis": {
       "summary_points": [
-        "2026年蓄電池システム(BESS)の最大発電価格を3,209.98 VND/kWhと設定",
-        "充放電効率85%、経済寿命15年、年間劣化率2%を算定の基準パラメータとして明文化",
-        "地域別太陽光発電価格の上昇と合わせ、BESS統合型プロジェクトへの投資インセンティブを強化"
+        "金融機関（ちゅうぎんエナジー）が主導する地産地消型蓄電池ビジネスの本格化と、パワーエックスの運用モデル確立",
+        "電力需給調整市場への参入を前提とした、高圧・特高双方での市場セグメントの拡大と多様な事業者の参入加速",
+        "サプライチェーンにおける『国産回帰』と『グローバル調達（Gotion/LS等）』の二極化が進む中、信頼性と経済性の最適解が模索されている"
       ],
-      "insight": "ベトナムがBESSに対して高単価な価格枠組みを提示したのは、再エネの導入拡大による系統不安定化への危機感の裏返しです。特に8,000サイクルの耐久要件やオフピーク電力を基準とした価格算出式は、単なる貯蔵ではなく、系統調整力としての役割をBESSに求めていることを示唆します。投資家は、LCOEと実効稼働率の乖離をどこまで管理できるかが鍵となるでしょう。"
+      "insight": "系統用蓄電池事業は、単なる需給調整市場での収益化段階から、金融資本を巻き込んだ地域エネルギーマネジメントへと進化しています。今後は、欧米で顕在化している『脱中国依存』や地政学的リスクを背景とした国産化要請と、市場競争力を優先したコスト最適化のバランスが、プロジェクトの成否を分ける重要指標となります。"
+    }
+  },
+  {
+    "topic_name": "家庭用蓄電池の製造拡大",
+    "article_ids": [
+      613246,
+      381565
+    ],
+    "articles": [
+      {
+        "id": 613246,
+        "title": "テスラ元幹部の「ルナー・エナジー」が挑む家庭用蓄電池の覇権、生産は2年で3倍超へ - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUy1XQjB6TXJ4YTd4QmVhMUtreHhHUXN4OVVHVE5xZEwyLVlSMnhtcWs4bUVHYXdDTTFfamhsM09LMDlWVlRKYmxCS20xaFk1ZFhFZFZ4Wm1YSXhXNDJOU0NJWVB5VkwyQWZHa2dEb2pzNm5hd01aUUg3Z3NSM2JkYmpNVzRYdktw?oc=5",
+        "published": "Sun, 15 Nov 2026 02:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUy1XQjB6TXJ4YTd4QmVhMUtreHhHUXN4OVVHVE5xZEwyLVlSMnhtcWs4bUVHYXdDTTFfamhsM09LMDlWVlRKYmxCS20xaFk1ZFhFZFZ4Wm1YSXhXNDJOU0NJWVB5VkwyQWZHa2dEb2pzNm5hd01aUUg3Z3NSM2JkYmpNVzRYdktw?oc=5\" target=\"_blank\">テスラ元幹部の「ルナー・エナジー」が挑む家庭用蓄電池の覇権、生産は2年で3倍超へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Technology/Market",
+        "reason": "海外市場の主要プレイヤーの生産拡大戦略を示しており重要。",
+        "score": 75,
+        "is_highly_important": true
+      },
+      {
+        "id": 381565,
+        "title": "【インド】蓄電池向けＰＬＩ入札、ＲＩＬなど22社応札［製造］ - 千葉テレビ放送",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92UGdRTEZ6bk5LNWlRdHlhUUh5RXdRVldyWU5NZ3JVTWw2cmthdkxqb1JZYzFhOG9maEtyOVVnel9zWThCOGNyUnlPVER2ckZYLS0yU0JkX29DLVkyU09r?oc=5",
+        "published": "Sun, 15 Nov 2026 17:01:43 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE92UGdRTEZ6bk5LNWlRdHlhUUh5RXdRVldyWU5NZ3JVTWw2cmthdkxqb1JZYzFhOG9maEtyOVVnel9zWThCOGNyUnlPVER2ckZYLS0yU0JkX29DLVkyU09r?oc=5\" target=\"_blank\">【インド】蓄電池向けＰＬＩ入札、ＲＩＬなど22社応札［製造］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">千葉テレビ放送</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Policy/Market",
+        "reason": "インドでの大型蓄電池入札は国際的な市場動向として重要性が高い。",
+        "score": 70,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": false,
+    "analysis": {
+      "summary_points": [
+        "インド政府のPLIスキームによる先端化学蓄電池（ACC）製造の現地化加速",
+        "リライアンス・インダストリーズ（RIL）を含む22社の大規模応札による競争激化",
+        "エネルギー自給率向上とグローバルサプライチェーン再編へのインドの野心"
+      ],
+      "insight": "インドのPLIスキームは、単なる産業育成を超え、EVや再エネ蓄電の供給源を中国依存から脱却させる国家戦略だ。RILのような巨大財閥が参画することで、セル製造から川下までの一貫体制構築が加速する。技術・素材調達の難度は高いが、巨大市場を武器にした製造拠点化は、グローバル電池市場の勢力図を塗り替えるポテンシャルを秘めている。"
+    }
+  },
+  {
+    "topic_name": "低圧系統用蓄電池パッケージの提供開始",
+    "article_ids": [
+      625021
+    ],
+    "articles": [
+      {
+        "id": 625021,
+        "title": "【グリーンエナジー&カンパニー】低圧系統用蓄電所向けパッケージ「GREEN CHORD」提供開始 - 山陽新聞",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95UkFRemJLNDN1bUNHYnpxN2cxTVNlY25Od3ZCbTdNc1F5MDVMaXE4NjZVOHNMOGRfWkJ6akxxcXkydmNaYUxPbEgwY0JnRFBWblE?oc=5",
+        "published": "Sun, 15 Nov 2026 08:46:53 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE95UkFRemJLNDN1bUNHYnpxN2cxTVNlY25Od3ZCbTdNc1F5MDVMaXE4NjZVOHNMOGRfWkJ6akxxcXkydmNaYUxPbEgwY0JnRFBWblE?oc=5\" target=\"_blank\">【グリーンエナジー&カンパニー】低圧系統用蓄電所向けパッケージ「GREEN CHORD」提供開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Product/Business",
+        "reason": "地方発の蓄電所パッケージ提供開始という具体的事業ニュースのため。",
+        "score": 75,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": false,
+    "analysis": {
+      "summary_points": [
+        "低圧蓄電所参入の障壁となる現場の施工負荷を、部材の完全規格化と工場での事前試験で徹底排除",
+        "2026年4月の制度改正による低圧リソースの需給調整市場参入を機に、小規模用地での収益化モデルを確立",
+        "機器供給、O&M、市場運用を一気通貫でパッケージ化し、EPCの工数と参入事業者の運用リスクを同時に低減"
+      ],
+      "insight": "本件の本質は『低圧蓄電池の家電化』による市場のコモディティ化加速である。施工現場の職人芸を排し、事前設定済みの箱として提供するモデルは、薄利多売の住宅建築ノウハウの転用だ。EPCの技術的ボトルネックを解消することで、土地選定さえできれば誰でも参入できる状態を作り、分散型リソースの規模拡大を一気に狙う野心的な布石と言える。"
     }
   }
 ]
