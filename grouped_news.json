@@ -1,0 +1,31 @@
+[
+  {
+    "topic_name": "ソネディックス・ジャパンによる大分県大分市の太陽光発電所併設型蓄電池の稼働",
+    "article_ids": [
+      803187,
+      907016
+    ],
+    "is_grouped": true
+  },
+  {
+    "topic_name": "太陽光と蓄電池による世界電力システムコスト削減の推計",
+    "article_ids": [
+      610998
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "LehmanSoft Japanの系統用蓄電池EMSのJC-STARラベル取得",
+    "article_ids": [
+      138180
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "パワーエックスと関西電力送配電による蓄電池を活用した系統接続の実証検討",
+    "article_ids": [
+      645621
+    ],
+    "is_grouped": false
+  }
+]
