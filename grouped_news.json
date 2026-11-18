@@ -1,0 +1,32 @@
+[
+  {
+    "topic_name": "エー・ディー・ワークスのADW熊本益城町蓄電所の需給調整市場参入",
+    "article_ids": [
+      128527,
+      661194,
+      309026
+    ],
+    "is_grouped": true
+  },
+  {
+    "topic_name": "野村不動産の系統用蓄電池事業への参入",
+    "article_ids": [
+      301110
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "リミックスポイントの系統用蓄電所の需給調整市場参入",
+    "article_ids": [
+      247980
+    ],
+    "is_grouped": false
+  },
+  {
+    "topic_name": "東京ガスの家庭用蓄電池サービス拡充",
+    "article_ids": [
+      956697
+    ],
+    "is_grouped": false
+  }
+]
