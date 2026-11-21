@@ -1,270 +1,46 @@
 [
   {
-    "topic_name": "Looopでんきのデマンドレスポンス大規模実証",
+    "topic_name": "日加バッテリーサプライチェーン協力",
     "article_ids": [
-      353641,
-      562473
+      69531,
+      83719
     ],
     "articles": [
       {
-        "id": 353641,
-        "title": "Looopでんき、暖房の自動節電に協力で電気代1,000円割引 1万世帯で容量市場めざす冬の実証 - セレクトラ",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ick5pTmlDeXo0eDNsaUI0eV9xOUhZdkd0SHJDQnhiVXI5TEFPWTN1c2Fmb1ZfY1FvUjNJWDl0WDdNNkdqRV92bjU5RXRNdGZUUXROYzd6LVpFM3Q3bTdQaDh1SEZXRGRMVkxmZ0V4S3ZnUWlGYUhYcm1vcw?oc=5",
-        "published": "Wed, 18 Nov 2026 21:30:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9ick5pTmlDeXo0eDNsaUI0eV9xOUhZdkd0SHJDQnhiVXI5TEFPWTN1c2Fmb1ZfY1FvUjNJWDl0WDdNNkdqRV92bjU5RXRNdGZUUXROYzd6LVpFM3Q3bTdQaDh1SEZXRGRMVkxmZ0V4S3ZnUWlGYUhYcm1vcw?oc=5\" target=\"_blank\">Looopでんき、暖房の自動節電に協力で電気代1,000円割引 1万世帯で容量市場めざす冬の実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">セレクトラ</font>",
+        "id": 69531,
+        "title": "カナダとの蓄電池サプライチェーンに関する協力覚書に基づく第三回局長級対話を実施しました - 経済産業省",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mall0OFdXenhGS2N1eWNQVmV5aTAxTXVRa1NsZk5pTWtRVHgtN1ZDYjI5c0paVkt4UzRVLW55RGVaSjFDRU43WllBYV9mdkczUWdCaDM3WWIwS3Y4clNtZXV1aw?oc=5",
+        "published": "Fri, 20 Nov 2026 01:04:17 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mall0OFdXenhGS2N1eWNQVmV5aTAxTXVRa1NsZk5pTWtRVHgtN1ZDYjI5c0paVkt4UzRVLW55RGVaSjFDRU43WllBYV9mdkczUWdCaDM3WWIwS3Y4clNtZXV1aw?oc=5\" target=\"_blank\">カナダとの蓄電池サプライチェーンに関する協力覚書に基づく第三回局長級対話を実施しました</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">経済産業省</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "VPP/需給調整",
-        "reason": "容量市場向けの実証実験。重要な市場動向。",
-        "score": 70,
+        "primary_category": "政策・国際協力",
+        "reason": "政府間での蓄電池サプライチェーン強化のため重要。",
+        "score": 85,
         "is_highly_important": true
       },
       {
-        "id": 562473,
-        "title": "「Looopでんき」、約1万件のお客さまと、容量市場への参加を目指すデマンドレスポンスの大規模実証を開始 - Excite エキサイト",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15a01oWllFQUpXUlI4aVprQUI1UUJ5ZmhFVzRLS0pZMDR6ZFFoUkdiZVhOV3g4OER2MlRveXlKMmJvc1VGTEVUV05UZ1dxNGJBand4dXVCcVo4aDJWV2NJNkZlNDZRcmNaSVM0dHFsS3c5Nlg3?oc=5",
-        "published": "Wed, 18 Nov 2026 19:15:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE15a01oWllFQUpXUlI4aVprQUI1UUJ5ZmhFVzRLS0pZMDR6ZFFoUkdiZVhOV3g4OER2MlRveXlKMmJvc1VGTEVUV05UZ1dxNGJBand4dXVCcVo4aDJWV2NJNkZlNDZRcmNaSVM0dHFsS3c5Nlg3?oc=5\" target=\"_blank\">「Looopでんき」、約1万件のお客さまと、容量市場への参加を目指すデマンドレスポンスの大規模実証を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Excite エキサイト</font>",
+        "id": 83719,
+        "title": "蓄電池の供給網強靱化、日加が官民連携を加速 - LOGISTICS TODAY",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IUWtVMGZGT0R0MmZ2NUVsM1lVdkJzZHZvVHg3RWZyRXpHaW5UYUcyVnF0QWhaSVhmOWlXVUo3blBNM0pxNmxVRVJB?oc=5",
+        "published": "Fri, 20 Nov 2026 05:54:01 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IUWtVMGZGT0R0MmZ2NUVsM1lVdkJzZHZvVHg3RWZyRXpHaW5UYUcyVnF0QWhaSVhmOWlXVUo3blBNM0pxNmxVRVJB?oc=5\" target=\"_blank\">蓄電池の供給網強靱化、日加が官民連携を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "VPP/需給調整",
-        "reason": "同上。複数のメディアで報じられる重要事案。",
-        "score": 70,
+        "primary_category": "政策・国際協力",
+        "reason": "日加の官民連携によるサプライチェーン強化の進展。",
+        "score": 80,
         "is_highly_important": true
       }
     ],
     "is_grouped": true,
     "analysis": {
       "summary_points": [
-        "Looopでんきが約1万世帯規模でのデマンドレスポンス（DR）実証を開始",
-        "暖房機器の自動制御によるピークシフトと電気代割引のインセンティブ設計",
-        "最終目標は容量市場への参画による収益化と分散型リソースの束ね"
+        "カナダを北米EV市場への重要拠点と位置づけ、資源開発から製造までの一貫したサプライチェーン強化を目指す。",
+        "2023年の協力覚書に基づき、リチウム・ニッケル・黒鉛等の重要鉱物確保と加工技術の連携を深化。",
+        "政府間対話と産業ラウンドテーブルの同時開催により、政策協調と民間投資機会の創出を並行して加速。"
       ],
-      "insight": "本実証の肝は、需要家側の個別行動に頼る節電から、HEMS等を通じた機器自動制御による『アグリゲーション』への転換にある。特に容量市場を視野に入れた1万世帯規模のVPP構築は、単なる需給調整を超え、小売電気事業の収益モデルを『電力販売』から『調整力提供』へ高度にシフトさせる戦略的な一歩だ。"
-    }
-  },
-  {
-    "topic_name": "デジタルグリッドの系統用蓄電池需給調整市場参入容量150MW突破",
-    "article_ids": [
-      581450,
-      59863
-    ],
-    "articles": [
-      {
-        "id": 581450,
-        "title": "デジタルグリッド[350A]：需給調整市場への参入済み容量が150MW超に 系統用蓄電池の市場参入が加速 2026年11月20日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TSlV3RmswZThOX3h4blZRQ21fb1M5eEg1Z2F5RFhJbkNGVWhwM0ZmNk43Nkg3UTRJaXVQQTk0cFg5RlFvQ1oxYmtmWFpKY1l4bXN4UXVmQWl4Q0c3UUo2M3dnN0NKdXd1bkE?oc=5",
-        "published": "Thu, 19 Nov 2026 23:30:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5TSlV3RmswZThOX3h4blZRQ21fb1M5eEg1Z2F5RFhJbkNGVWhwM0ZmNk43Nkg3UTRJaXVQQTk0cFg5RlFvQ1oxYmtmWFpKY1l4bXN4UXVmQWl4Q0c3UUo2M3dnN0NKdXd1bkE?oc=5\" target=\"_blank\">デジタルグリッド[350A]：需給調整市場への参入済み容量が150MW超に 系統用蓄電池の市場参入が加速 2026年11月20日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "VPP/需給調整",
-        "reason": "アグリゲーターの運用実績拡大。重要指標。",
-        "score": 75,
-        "is_highly_important": true
-      },
-      {
-        "id": 59863,
-        "title": "デジタルグリッド、1年5カ月で蓄電池運用150MW超を達成 - ニュースメディアVOIX",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pUXA3aDl5ekdDejNJUFh3VWF0a2gyM2xYTEZPSUlPVXItMVE5MWdmU2xrWGc4NWNXZmVLZWwxVlF1RkpTZ3hEN2NPZl8yZjNzaWZZ?oc=5",
-        "published": "Thu, 19 Nov 2026 23:31:41 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pUXA3aDl5ekdDejNJUFh3VWF0a2gyM2xYTEZPSUlPVXItMVE5MWdmU2xrWGc4NWNXZmVLZWwxVlF1RkpTZ3hEN2NPZl8yZjNzaWZZ?oc=5\" target=\"_blank\">デジタルグリッド、1年5カ月で蓄電池運用150MW超を達成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "VPP/需給調整",
-        "reason": "重複する運用実績のニュース。重要。",
-        "score": 70,
-        "is_highly_important": true
-      }
-    ],
-    "is_grouped": true,
-    "analysis": {
-      "summary_points": [
-        "需給調整市場への参入容量が1年5カ月で150MWを突破し、アグリゲーション事業の急成長を証明",
-        "メーカーフリーの柔軟な対応と金融市場仕込みの分析技術が、オーナー獲得の強力な差別化要因として機能",
-        "制度改正による市場の精緻化と系統用蓄電池の急増を背景に、運用の「実力」が問われるフェーズへ移行"
-      ],
-      "insight": "再エネ主力電源化に伴う市場の複雑化により、単なる設備保有から『高度な運用能力』へのシフトが起きている。デジタルグリッドの勝因は、ハードウェアの互換性を担保しつつ、金融的視点での裁定取引を実装した点にある。今後は、接続検討段階の膨大な潜在容量をどれだけ高精度なアグリゲーションポートフォリオに取り込めるかが、インフラ企業としての地位を決定づけるだろう。"
-    }
-  },
-  {
-    "topic_name": "ニチコンと中部電力ミライズの家庭用蓄電池制御連携",
-    "article_ids": [
-      293524
-    ],
-    "articles": [
-      {
-        "id": 293524,
-        "title": "ニチコンと中部電力ミライズ、家庭用蓄電池の自動制御で連携 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVUE1VlVKdjVab013ZzVEdVFBeW9pWUQ3QmRsQ3hreGVmNHoxQWVfTjBBS2RIV0YySDdtQzZmMlFOR050TlJmM0hIVEp6UWwyU1ladmhxdjNpNHM2V0k0THhPenY2LTdoQUpvRQ?oc=5",
-        "published": "Thu, 19 Nov 2026 05:47:18 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVUE1VlVKdjVab013ZzVEdVFBeW9pWUQ3QmRsQ3hreGVmNHoxQWVfTjBBS2RIV0YySDdtQzZmMlFOR050TlJmM0hIVEp6UWwyU1ladmhxdjNpNHM2V0k0THhPenY2LTdoQUpvRQ?oc=5\" target=\"_blank\">ニチコンと中部電力ミライズ、家庭用蓄電池の自動制御で連携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "VPP/需給調整",
-        "reason": "大手企業間の連携による市場活性化事例。重要。",
-        "score": 75,
-        "is_highly_important": true
-      }
-    ],
-    "is_grouped": false,
-    "analysis": {
-      "summary_points": [
-        "ニチコンと中部電力ミライズが家庭用蓄電池の自動DR制御で連携を開始",
-        "電力需給に応じた充放電の自動制御で再エネの有効活用と調整力を確保",
-        "利用者は意識することなく節電・調整に協力し、ポイント還元を受けるモデル"
-      ],
-      "insight": "単なる機器販売から、蓄電池を『分散型エネルギー資源（DER）』として束ねるVPP（仮想発電所）への転換が加速しています。特筆すべきは、メーカー側がAPI連携で制御を簡素化し、ユーザーのUXを損なわずにリソースを供出させた点です。今後は調整力の価値をどう収益化し、ユーザー還元に反映し続けられるかが、他社追随の鍵となります。"
-    }
-  },
-  {
-    "topic_name": "福島市先達山のメガソーラー景観規制強化",
-    "article_ids": [
-      777843
-    ],
-    "articles": [
-      {
-        "id": 777843,
-        "title": "先達山のメガソーラー問題受け福島市が規制強化へ 景観計画改定、蓄電池も対象（ふくしまNEWS -KFBデジタル-） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VbFo0b1JUcTYzVDRNckpCNVdpNGNTVU1qTE43ZHB1QmRtWE91a2FkekxuS0w1MXVrYXNKMlZWMUw1X1duUGVPX2VhdlM2S3dWVGYtX0s2SU1VV2o1c09fbDc3ZS14VHNKZWZSS19haGRjVDc4V29ia19tOHZiek0?oc=5",
-        "published": "Thu, 19 Nov 2026 10:32:25 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1VbFo0b1JUcTYzVDRNckpCNVdpNGNTVU1qTE43ZHB1QmRtWE91a2FkekxuS0w1MXVrYXNKMlZWMUw1X1duUGVPX2VhdlM2S3dWVGYtX0s2SU1VV2o1c09fbDc3ZS14VHNKZWZSS19haGRjVDc4V29ia19tOHZiek0?oc=5\" target=\"_blank\">先達山のメガソーラー問題受け福島市が規制強化へ 景観計画改定、蓄電池も対象（ふくしまNEWS -KFBデジタル-）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "規制・政策",
-        "reason": "自治体による蓄電池規制強化。地域固有の重要情報。",
-        "score": 85,
-        "is_highly_important": true
-      }
-    ],
-    "is_grouped": false,
-    "analysis": {
-      "summary_points": [
-        "福島市が先達山のメガソーラー問題を受け、景観まちづくり計画を抜本改定へ",
-        "規制対象を太陽光発電施設だけでなく、拡大する蓄電池施設まで範囲を拡張",
-        "設備の高さや設置位置を厳格化し、法的拘束力のある実効的な規制を2027年10月施行予定"
-      ],
-      "insight": "再エネ主力電源化の裏で、地域受容性が最大のボトルネックと化している。蓄電池は太陽光の併設設備と見なされ、景観や防災観点での規制対象となるのは業界の既定路線だが、全国的な『駆け込み設置』と『事後規制』のいたちごっこを誘発する。今後は景観調和を前提とした設計（デザイン・イン）が、FIT/FIPの採算性以上に事業継続の要となる。"
-    }
-  },
-  {
-    "topic_name": "大分県大分市の再エネ併設型蓄電池商業運転開始",
-    "article_ids": [
-      116094
-    ],
-    "articles": [
-      {
-        "id": 116094,
-        "title": "大分県大分市の太陽光発電所における国内最大級の再エネ併設型蓄電池の商業運転開始について - PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94MkxOaE1JcFE2MDkyNUMwNVdhVC1zU1B0cjY4cUk1b2VEWnM1YzY5VFpFY1dmV1FkS2VER3QzenVKOVMyWVplVVpiQ0hyUkVxOVJ6Um4xdU1DdUZ4VzhDWm9GcUpFbEVyQXc?oc=5",
-        "published": "Thu, 19 Nov 2026 02:00:02 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE94MkxOaE1JcFE2MDkyNUMwNVdhVC1zU1B0cjY4cUk1b2VEWnM1YzY5VFpFY1dmV1FkS2VER3QzenVKOVMyWVplVVpiQ0hyUkVxOVJ6Um4xdU1DdUZ4VzhDWm9GcUpFbEVyQXc?oc=5\" target=\"_blank\">大分県大分市の太陽光発電所における国内最大級の再エネ併設型蓄電池の商業運転開始について</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "系統用蓄電池",
-        "reason": "大規模蓄電池の商業運転開始という重要なマイルストーン。",
-        "score": 85,
-        "is_highly_important": true
-      }
-    ],
-    "is_grouped": false,
-    "analysis": {
-      "summary_points": [
-        "国内最大級（30MW/125MWh）の再エネ併設型蓄電池が商業運転を開始",
-        "FITからFIP制度への移行に伴い、蓄電池活用による出力制御回避と市場価値最大化を狙う",
-        "大阪ガスが2030年度1GW目標に対し、早期に300MW超を確保し運用ノウハウを蓄積"
-      ],
-      "insight": "出力制御リスクが高まる中、既存メガソーラーのFIP転換と大規模蓄電池の併設は収益モデルの防衛策として不可欠だ。単なる系統安定化に留まらず、大阪ガスが自社で遠隔制御を行う点に注目したい。VPP市場における運用益と電力の卸取引を組み合わせ、再エネの『変動する商品』から『価値あるエネルギー』への変容を急ぐ先行事例と言える。"
-    }
-  },
-  {
-    "topic_name": "ウインテストのWeLion社製半固体リチウム電池事業参入",
-    "article_ids": [
-      718720
-    ],
-    "articles": [
-      {
-        "id": 718720,
-        "title": "WeLion社製半固体リチウム電池を活用した蓄電システム事業への参入に関するお知らせ - PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NTm5rRmo5VGs4OWVidzR5NG5KS2Q2andlTTk2d0czMGxWYkFoN3ZFcVprckczbEpmSjNtTTdXLVI4eTBBZ1FreUVpNnd2MkNhODRITHNrUlNCVmlrWmh6S2llQXNNTksxQXc?oc=5",
-        "published": "Thu, 19 Nov 2026 06:10:01 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1NTm5rRmo5VGs4OWVidzR5NG5KS2Q2andlTTk2d0czMGxWYkFoN3ZFcVprckczbEpmSjNtTTdXLVI4eTBBZ1FreUVpNnd2MkNhODRITHNrUlNCVmlrWmh6S2llQXNNTksxQXc?oc=5\" target=\"_blank\">WeLion社製半固体リチウム電池を活用した蓄電システム事業への参入に関するお知らせ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "技術革新",
-        "reason": "半固体電池の活用事業参入。技術トレンドとして重要。",
-        "score": 70,
-        "is_highly_important": true
-      }
-    ],
-    "is_grouped": false,
-    "analysis": {
-      "summary_points": [
-        "半導体検査装置メーカーのウインテストが、WeLion社の半固体電池を採用した蓄電システム事業に参入",
-        "大阪事業所を拠点に、住宅用から系統用コンテナまで幅広い蓄電システムの組立・製造体制を構築",
-        "既存の精密検査技術とWeLionの次世代電池を融合させ、新規の収益基盤としての直接販売と製造受託を並行展開"
-      ],
-      "insight": "NIOへの供給で実績のあるWeLionの半固体電池を国内でパッケージングする動きは、輸入依存リスクの低減と、国内の厳格な品質・安全要求に対応できるかが鍵。半導体検査で培った精密な電気特性評価技術は蓄電池管理システム（BMS）の信頼性向上に寄与する可能性があり、商社経由の単なる組立に留まらぬ、高度な品質保証型メーカーへの脱皮が成否を分ける。"
-    }
-  },
-  {
-    "topic_name": "ADワークスの系統用蓄電所による需給調整市場参入",
-    "article_ids": [
-      389151
-    ],
-    "articles": [
-      {
-        "id": 389151,
-        "title": "ADワークス、熊本県益城町の系統用蓄電所が需給調整市場へ参入 - ニュース - メガソーラービジネス plus - 日経BP",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YeVBZdHRaYnhzSTRhbGtqN013Q0NEcUJEYm56TVp5OHVXLWhzUWFLVjNhQS0zMzBtT3hXNnB1WHB5Yi1fY3lTTVlaRkZhZ3JVa0FCbHBvbjdUTTNHMF9sRmZhWjNHZDhqOE1XazJZRUlsVXdt?oc=5",
-        "published": "Thu, 19 Nov 2026 01:45:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9YeVBZdHRaYnhzSTRhbGtqN013Q0NEcUJEYm56TVp5OHVXLWhzUWFLVjNhQS0zMzBtT3hXNnB1WHB5Yi1fY3lTTVlaRkZhZ3JVa0FCbHBvbjdUTTNHMF9sRmZhWjNHZDhqOE1XazJZRUlsVXdt?oc=5\" target=\"_blank\">ADワークス、熊本県益城町の系統用蓄電所が需給調整市場へ参入 - ニュース - メガソーラービジネス plus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経BP</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "需給調整市場",
-        "reason": "需給調整市場への参入は事業戦略上重要な動き。",
-        "score": 70,
-        "is_highly_important": true
-      }
-    ],
-    "is_grouped": false,
-    "analysis": {
-      "summary_points": [
-        "ADワークスが熊本県益城町の2MW/8MWh蓄電所で需給調整市場へ正式参入",
-        "卸電力市場と需給調整市場を組み合わせたマルチ収益モデルへの転換",
-        "2026年までに15拠点の確保を目指す積極的なパイプライン戦略"
-      ],
-      "insight": "容量4時間相当の蓄電所は卸市場でのアービトラージには不向きだが、需給調整市場のΔ（デルタ）調整力としての収益性は高い。特筆すべきは松山、益城、日南と地方分散型で進む市場参入スピードだ。アグリゲーター非公表の裏には独自制御アルゴリズムの磨き込みがあると推察され、商社・不動産系参入組の中で、単なるアセット保有から運用知見の蓄積へシフトしつつある。"
-    }
-  },
-  {
-    "topic_name": "オクトパスエナジーとCATLの家庭用蓄電池開発提携",
-    "article_ids": [
-      246220
-    ],
-    "articles": [
-      {
-        "id": 246220,
-        "title": "英オクトパスエナジー、CATLと家庭用蓄電池の開発を検討！安い時間に充電する次世代バッテリー - セレクトラ",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5namZvYkl6eEoxdGdfY1V0SnVUS25kZkM2NGJhNE05ejVOU19hMTFfNGpvOTRUWmIzUnlKWGRvT09oSkhMWERwSkdiY09kSk85dGVwVURqNDVyUmdPS0M0UkZZOVk2T1hJUVN4ZzJadndzVExCVk5hVl9lcw?oc=5",
-        "published": "Thu, 19 Nov 2026 22:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5namZvYkl6eEoxdGdfY1V0SnVUS25kZkM2NGJhNE05ejVOU19hMTFfNGpvOTRUWmIzUnlKWGRvT09oSkhMWERwSkdiY09kSk85dGVwVURqNDVyUmdPS0M0UkZZOVk2T1hJUVN4ZzJadndzVExCVk5hVl9lcw?oc=5\" target=\"_blank\">英オクトパスエナジー、CATLと家庭用蓄電池の開発を検討！安い時間に充電する次世代バッテリー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">セレクトラ</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "技術開発",
-        "reason": "大手とCATLの共同開発。世界的な技術動向。",
-        "score": 75,
-        "is_highly_important": true
-      }
-    ],
-    "is_grouped": false,
-    "analysis": {
-      "summary_points": [
-        "オクトパスエナジーがCATL・Ampaceと家庭用蓄電池開発でMoUを締結",
-        "ソフトウェア（オクトパス）とハード製造（CATL系）の垂直統合的シナジーを追求",
-        "低コストなナトリウムイオン電池や充放電制御によるVPP活用の可能性を示唆"
-      ],
-      "insight": "本提携の真価は、CATLの電池コスト競争力とオクトパスのVPP制御技術の結合にある。家庭用蓄電池を単なるハードから『電力価格の裁定取引ツール』へと進化させ、小売電気事業者が顧客の需給を直接制御するモデルだ。これは従来の機器販売から、蓄電池を安価に配布してDR収益で回収するエネルギー・アズ・ア・サービス（EaaS）への転換を予感させる。"
+      "insight": "本対話の真骨頂は、カナダの豊富な資源量と、米国のIRA（インフレ抑制法）への適合性をセットにした対米戦略の構築にある。資源の川上から電池の川下まで日本企業を直接接続し、中国への依存脱却と強靱なサプライチェーンを構築する狙いだ。単なる原料調達にとどまらず、先端材料開発での技術連携に踏み込んだ点が、対中競争における日本の勝算を左右する重要な布石となる。"
     }
   }
 ]
