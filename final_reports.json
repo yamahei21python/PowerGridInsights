@@ -1,64 +1,164 @@
 [
   {
-    "topic_name": "需給調整市場と蓄電アグリゲーター",
+    "topic_name": "スズキとエリーパワーによるリン酸鉄リチウムイオン（LFP）電池の国内量産計画",
     "article_ids": [
-      966151,
-      594217
+      997914,
+      150761,
+      826559,
+      414017,
+      997560
     ],
     "articles": [
       {
-        "id": 966151,
-        "title": "「蓄電所の市場ノート」に毎朝更新の速報を追加 需給調整市場の一次調整力（オンライン）は2026年10月に応札倍率145.9%・平均落札価格3.22円 - Infoseek",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpY3NaV05lMVJJOTlqWmhBN1pCMjNocmF1UkwxNHJGY2Vab3BxaTlDbGVLczdGelhaMHRRZmNRdlZ2MllBakVNSVhGS0FRVXBzUEZoUDBzN3h6NHk2c3AydUx6aW5oUE1BN01tWmE2YnFtdw?oc=5",
-        "published": "Wed, 25 Nov 2026 13:10:03 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBpY3NaV05lMVJJOTlqWmhBN1pCMjNocmF1UkwxNHJGY2Vab3BxaTlDbGVLczdGelhaMHRRZmNRdlZ2MllBakVNSVhGS0FRVXBzUEZoUDBzN3h6NHk2c3AydUx6aW5oUE1BN01tWmE2YnFtdw?oc=5\" target=\"_blank\">「蓄電所の市場ノート」に毎朝更新の速報を追加 需給調整市場の一次調整力（オンライン）は2026年10月に応札倍率145.9%・平均落札価格3.22円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+        "id": 997914,
+        "title": "エリーパワーとスズキ、定置用リチウムイオン電池の開発・量産に向けた「蓄電池に係る供給確保計画」が経済産業省より認定 - ニコニコニュース",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OVFdiaDA2dWNpZ3lqWW5WbGRsb0ZET1V1TFdtdjhuNUY0dXpyMGxORVRjdzlURXl5a25yTzZWN05QYzBSeFl3a1IyYzh2cjZvamtqc0RBbXlDaGhXSW1fSnJRWUtRZTF6?oc=5",
+        "published": "Thu, 26 Nov 2026 18:00:30 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OVFdiaDA2dWNpZ3lqWW5WbGRsb0ZET1V1TFdtdjhuNUY0dXpyMGxORVRjdzlURXl5a25yTzZWN05QYzBSeFl3a1IyYzh2cjZvamtqc0RBbXlDaGhXSW1fSnJRWUtRZTF6?oc=5\" target=\"_blank\">エリーパワーとスズキ、定置用リチウムイオン電池の開発・量産に向けた「蓄電池に係る供給確保計画」が経済産業省より認定</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "Market Trends",
-        "reason": "需給調整市場の価格・応札データは専門的な重要指標。",
+        "primary_category": "Policy/Strategy",
+        "reason": "蓄電池の供給確保計画に対する経産省の公式認定",
+        "score": 90,
+        "is_highly_important": true
+      },
+      {
+        "id": 150761,
+        "title": "スズキ、中国依存脱却へLFP電池を国内自製 447億円投じ29年10月稼働 - BigGo ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sY3FPUlY4S1VISkctTXZDY3ByQmh0clgzQkFCQkNyQm82Q3NnU1JnWmJ5d2N1WldDRVRKanNEcHpRLXgwclFpRnlGNmljS1BqOEVMTlgzbUxOb1NUOUhQYmlVX3p2a3pBdlU5NDBrbklpaE9H?oc=5",
+        "published": "Thu, 26 Nov 2026 06:05:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1sY3FPUlY4S1VISkctTXZDY3ByQmh0clgzQkFCQkNyQm82Q3NnU1JnWmJ5d2N1WldDRVRKanNEcHpRLXgwclFpRnlGNmljS1BqOEVMTlgzbUxOb1NUOUhQYmlVX3p2a3pBdlU5NDBrbklpaE9H?oc=5\" target=\"_blank\">スズキ、中国依存脱却へLFP電池を国内自製 447億円投じ29年10月稼働</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Strategy",
+        "reason": "車載電池の国内自製化、重要サプライチェーン案件",
+        "score": 95,
+        "is_highly_important": true
+      },
+      {
+        "id": 826559,
+        "title": "【脱・中国依存】スズキが約447億円投じLFP電池を国内自製へ！BYD調達を見直し2029年稼働 - MSRweb",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1OQVJkVVFHSS1BaENVYlJPNGhEdi1XMzJ6WkFleEV3U0xhb2Q1cDVCZ1NBbUFaMWl6TVRPRVRSRHcwRWhsd09z?oc=5",
+        "published": "Fri, 27 Nov 2026 02:00:22 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE1OQVJkVVFHSS1BaENVYlJPNGhEdi1XMzJ6WkFleEV3U0xhb2Q1cDVCZ1NBbUFaMWl6TVRPRVRSRHcwRWhsd09z?oc=5\" target=\"_blank\">【脱・中国依存】スズキが約447億円投じLFP電池を国内自製へ！BYD調達を見直し2029年稼働</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSRweb</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Strategy",
+        "reason": "国内自製化による中国依存からの脱却戦略",
         "score": 85,
         "is_highly_important": true
       },
       {
-        "id": 594217,
-        "title": "蓄電所（系統用蓄電池）の運用を預ける「アグリゲーター」を数える連載を開始 届出187社のうち需給調整市場の取引会員は115社 - PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RTXZqSzhwSER3N09uV2liQ1FjRW1FNlI2T3gyZG92OHZRby1mR3RNNU1heDgydVE3UXRTWEVXRXJRcWRsbHhCRHlvRjdNOFhTZ1gxUFJ6ZEs2bmFPRldRYnlLMGNpSUNfSHc?oc=5",
-        "published": "Thu, 26 Nov 2026 01:00:03 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5RTXZqSzhwSER3N09uV2liQ1FjRW1FNlI2T3gyZG92OHZRby1mR3RNNU1heDgydVE3UXRTWEVXRXJRcWRsbHhCRHlvRjdNOFhTZ1gxUFJ6ZEs2bmFPRldRYnlLMGNpSUNfSHc?oc=5\" target=\"_blank\">蓄電所（系統用蓄電池）の運用を預ける「アグリゲーター」を数える連載を開始 届出187社のうち需給調整市場の取引会員は115社</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+        "id": 414017,
+        "title": "スズキとエリーパワー、LFP電池を国内量産へ。車載用と定置用で共用する設計 - Howl.Link",
+        "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1xQUd1WFI1bnRoZG5FOEdfRmVwRndscXh4VzZwRkExS2ZGRjhWdHJJNm1MQmg0OHlwUFFn?oc=5",
+        "published": "Thu, 26 Nov 2026 13:43:14 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE1xQUd1WFI1bnRoZG5FOEdfRmVwRndscXh4VzZwRkExS2ZGRjhWdHJJNm1MQmg0OHlwUFFn?oc=5\" target=\"_blank\">スズキとエリーパワー、LFP電池を国内量産へ。車載用と定置用で共用する設計</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Howl.Link</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "Market Trends",
-        "reason": "アグリゲーターの市場動向追跡記事として重要。",
-        "score": 70,
+        "primary_category": "Strategy",
+        "reason": "電池の車載・定置用共用設計への転換",
+        "score": 80,
+        "is_highly_important": true
+      },
+      {
+        "id": 997560,
+        "title": "スズキとエリーパワー、定置用リチウムイオン電池の開発・量産計画が経産省に認定…2029年から生産へ - レスポンス（Response.jp）",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82TFVnSlFVN1oxeTl5QU84NGVyVzRmcUotbVBCdnU0SFF1WWlHVFN3MEZ6ejg2X0ZlTG1uQkFfbjBBRm1mVV9VMWFrZFhjMzRKc3V5dmMtdV90Q28yLWRJ?oc=5",
+        "published": "Thu, 26 Nov 2026 21:00:03 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE82TFVnSlFVN1oxeTl5QU84NGVyVzRmcUotbVBCdnU0SFF1WWlHVFN3MEZ6ejg2X0ZlTG1uQkFfbjBBRm1mVV9VMWFrZFhjMzRKc3V5dmMtdV90Q28yLWRJ?oc=5\" target=\"_blank\">スズキとエリーパワー、定置用リチウムイオン電池の開発・量産計画が経産省に認定…2029年から生産へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Policy/Strategy",
+        "reason": "経産省認定を受けた定置用電池の量産計画",
+        "score": 90,
         "is_highly_important": true
       }
     ],
     "is_grouped": true,
     "analysis": {
       "summary_points": [
-        "需給調整市場における一次調整力（オンライン）の応札倍率上昇と価格低下傾向、およびオフライン応札の募集割れ発生。",
-        "JEPXスポット市場における価格差の拡大（東京・九州）と、11月以降のシステムプライス上昇による市場環境の変化。",
-        "アグリゲーター乱立と実態の乖離：届出187社のうち実運用（入札）を行うプレーヤーが限定的であり、参入障壁と実務能力の透明性が課題。"
+        "スズキとエリーパワーが静岡県湖西市でLFP電池の国内生産を決定、2029年10月稼働へ",
+        "車載と定置用で設計を共用化し、リパーパス（再利用）を前提とした長寿命設計を確立",
+        "経産省の経済安全保障に基づき約187億円の補助金を獲得、BYD依存の脱却とサプライチェーン強靭化を狙う"
       ],
-      "insight": "需給調整市場の需給逼迫と価格抑制が共存する中、蓄電池運用は単なる「調整力」から「JEPX裁定取引」への収益源シフトが鮮明化している。アグリゲーターの選定においては、届出数に惑わされず、市場参加資格だけでなく、実際の応札実績や予測・入札アルゴリズムの『運用腕』を如何に検証するかが、蓄電所投資の成否を分ける決定的な要素となる。"
+      "insight": "LFP電池の主戦場であるコスト競争において、単なる国内生産では中国勢に勝てない。本プロジェクトの勝算は『定置用での圧倒的耐久性』と『車載後の再利用価値』を設計段階で融合させる独自エコシステムにある。BEV普及後のリサイクル・再利活用までを見据えたトータルコスト低減戦略は、電池産業における日本流の勝ち筋を示唆している。"
     }
   },
   {
-    "topic_name": "需給調整市場における一次調整力オフライン枠のVPPシステム検証",
+    "topic_name": "滋賀県米原市におけるオリックスの系統用大規模蓄電所（米原湖東蓄電所）の稼働",
     "article_ids": [
-      853333
+      647636,
+      294371
     ],
     "articles": [
       {
-        "id": 853333,
-        "title": "ビリオン電機、AfterAIと共同で需給調整市場の「一次調整力（オフライン枠）」向けVPPシステムを実機検証 事前審査を想定した自主試験で全判定項目の基準を満たす - イザ！",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWekNzNVZ3MmVSQlZFLTNJSTVGR0NRVmh6UGQtMjZjd3JHUkQ2eDZ4aTZhTHFVQXg1dE9iOUUwbEp5TGlDRVZCbjZxejhBRmVrR0tyZkRMbjZnRVY1aXF4NzJuSVJYV2ZpdlQ3RWFXZUk3cnZ1cXNRZ2F3?oc=5",
-        "published": "Wed, 25 Nov 2026 23:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBWekNzNVZ3MmVSQlZFLTNJSTVGR0NRVmh6UGQtMjZjd3JHUkQ2eDZ4aTZhTHFVQXg1dE9iOUUwbEp5TGlDRVZCbjZxejhBRmVrR0tyZkRMbjZnRVY1aXF4NzJuSVJYV2ZpdlQ3RWFXZUk3cnZ1cXNRZ2F3?oc=5\" target=\"_blank\">ビリオン電機、AfterAIと共同で需給調整市場の「一次調整力（オフライン枠）」向けVPPシステムを実機検証 事前審査を想定した自主試験で全判定項目の基準を満たす</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">イザ！</font>",
+        "id": 647636,
+        "title": "オリックス、滋賀・米原に国内最大級の蓄電所 134MW - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwSHRDM2dkOEV0aHl5SmtweDBrNF9xY2p3NXVIQUlUc2ROc0ttMlJ3a0ZpSFFGTEZuZ043S1VEcDUwemF0UF80UGFzbDNBSTd3UjVKNmVRX3hBSFJXYjNyN05ITmNUVEkzLVhSTnljUWFQOTJBNFNZ?oc=5",
+        "published": "Thu, 26 Nov 2026 20:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBwSHRDM2dkOEV0aHl5SmtweDBrNF9xY2p3NXVIQUlUc2ROc0ttMlJ3a0ZpSFFGTEZuZ043S1VEcDUwemF0UF80UGFzbDNBSTd3UjVKNmVRX3hBSFJXYjNyN05ITmNUVEkzLVhSTnljUWFQOTJBNFNZ?oc=5\" target=\"_blank\">オリックス、滋賀・米原に国内最大級の蓄電所 134MW</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "Technology",
-        "reason": "需給調整市場のVPPシステム実機検証は技術的に重要。",
+        "primary_category": "Project",
+        "reason": "国内最大級蓄電所の稼働に関する主要紙報道",
+        "score": 85,
+        "is_highly_important": true
+      },
+      {
+        "id": 294371,
+        "title": "テスラ製の大型蓄電池140台が滋賀・米原に 約5万世帯の1日分を蓄える国内最大級の蓄電所、12月1日稼働へ - 再都市化",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rNHNZVmdHaktZd2JvX2ZyUTdqMlplOVYtMlJmRVI1b1pNOHY5S3NGQzhMMEFIUTEtZHdlOTBWeDktN05GV3daU1p6U3J6ZlVZZW1qa2JsemtBdWJoNUE?oc=5",
+        "published": "Thu, 26 Nov 2026 21:00:15 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rNHNZVmdHaktZd2JvX2ZyUTdqMlplOVYtMlJmRVI1b1pNOHY5S3NGQzhMMEFIUTEtZHdlOTBWeDktN05GV3daU1p6U3J6ZlVZZW1qa2JsemtBdWJoNUE?oc=5\" target=\"_blank\">テスラ製の大型蓄電池140台が滋賀・米原に 約5万世帯の1日分を蓄える国内最大級の蓄電所、12月1日稼働へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">再都市化</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Project",
+        "reason": "国内最大級蓄電所の詳細スペック報道",
+        "score": 75,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": true,
+    "analysis": {
+      "summary_points": [
+        "134MW/548MWhの国内最大級の容量を誇り、4.1時間の長時間放電が可能で系統調整力が極めて高い。",
+        "長期脱炭素電源オークションの活用により、20年間の安定収益構造を構築し、プロジェクトファイナンスを成立させた。",
+        "テスラのMegapackを中核に、自治体の遊休地活用と全国展開をセットにした「開発・運営モデル」の確立。"
+      ],
+      "insight": "本案件は、単なるアービトラージ（価格差益）狙いから、長期脱炭素電源オークションを前提とした「容量確保によるインフラ事業化」への明確な転換点です。特に注目すべきは、テスラ製Megapackの高密度・高信頼性を背景に、紀の川蓄電所から大幅なスケールアップを実現した点。今後は、全国各地での開発・運用ノウハウの共有化が、オリックスの蓄電池セクターにおける競争優位性の源泉となるでしょう。"
+    }
+  },
+  {
+    "topic_name": "日本蓄電池の系統用蓄電所展開",
+    "article_ids": [
+      394025,
+      305204
+    ],
+    "articles": [
+      {
+        "id": 394025,
+        "title": "【日本蓄電池株式会社】静岡県御前崎市にて系統用蓄電施設「NC御前崎市池新田蓄電所」需給調整市場への参入 - Infoseek",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Jc1hqWjJ4cWJfTnBDM3doSXZHWTJTTXE3Z0FESnpyQUdjdENkYkxtYng4bVhXa291eUg5Tmprems4ZTBZRlNnX3ZQa2Z0T2RjUlZITmxUakFGT01xOExEb045NVdZVmFjTDFNWkR3cEQ3QQ?oc=5",
+        "published": "Thu, 26 Nov 2026 09:15:25 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1Jc1hqWjJ4cWJfTnBDM3doSXZHWTJTTXE3Z0FESnpyQUdjdENkYkxtYng4bVhXa291eUg5Tmprems4ZTBZRlNnX3ZQa2Z0T2RjUlZITmxUakFGT01xOExEb045NVdZVmFjTDFNWkR3cEQ3QQ?oc=5\" target=\"_blank\">【日本蓄電池株式会社】静岡県御前崎市にて系統用蓄電施設「NC御前崎市池新田蓄電所」需給調整市場への参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Project",
+        "reason": "系統用蓄電所の需給調整市場参入に関する実務情報",
+        "score": 70,
+        "is_highly_important": true
+      },
+      {
+        "id": 305204,
+        "title": "【日本蓄電池株式会社】滋賀県愛知郡にて系統用蓄電施設「NC愛知郡愛荘町蓄電所」受電開始 - Infoseek",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83eXBhRjZqcFJWOVp2dHFvSnMyNlA3TnZWOHJ5RGFVbGQxRndJb2dZc1plbWNsV0pzNWJNVU1DQ3RWUzVLVjlqUDRZTVRoaV9JYnh2ZTJzaWdaWVlNc1ZZVk04VFphcDJCOHRCWW5Tb1lDZw?oc=5",
+        "published": "Thu, 26 Nov 2026 06:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE83eXBhRjZqcFJWOVp2dHFvSnMyNlA3TnZWOHJ5RGFVbGQxRndJb2dZc1plbWNsV0pzNWJNVU1DQ3RWUzVLVjlqUDRZTVRoaV9JYnh2ZTJzaWdaWVlNc1ZZVk04VFphcDJCOHRCWW5Tb1lDZw?oc=5\" target=\"_blank\">【日本蓄電池株式会社】滋賀県愛知郡にて系統用蓄電施設「NC愛知郡愛荘町蓄電所」受電開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Project",
+        "reason": "系統用蓄電所の稼働開始に関する具体的な事業進捗",
         "score": 70,
         "is_highly_important": true
       }
@@ -66,15 +166,45 @@
     "is_grouped": true,
     "analysis": {
       "summary_points": [
-        "「一次調整力（オフライン）」参入へ、蓄電池本体の計測機能とVPP制御の冗長性を実機検証で立証",
-        "通信途絶等の障害発生時でも6.7秒以内のフェイルオーバーを実現し、実運用に耐えうる堅牢性を確認",
-        "台湾電力での先行実績を持つグループの知見を基盤に、2027年の国内市場参入へ向けたロードマップを提示"
+        "デジタルグリッド社との連携による需給調整市場参入で、単なるハードウェア運用から市場収益最大化へシフト",
+        "CATL製セルとTMEIC製PCSの採用により、高い信頼性と制御性能を担保した国内標準モデルの構築",
+        "卸売・需給調整・容量市場を網羅し、防災機能を付与することで地域共生型エネルギーインフラへと昇華"
       ],
-      "insight": "一次調整力の核心は応答速度と冗長性にあり、特に「オフライン枠」では計測から制御までの自律性が鍵となる。本件は、蓄電池本体計測と高レスポンスなVPP制御を統合したことで、通信依存リスクを低減させ、将来的な分散型電源の市場参入障壁を技術的に突破する好例。台湾実績に裏打ちされた実装能力は、日本市場での差別化要因となる。"
+      "insight": "日本蓄電池社の戦略は、単一市場への依存を避け、複数の市場収益を最適化するポートフォリオ経営への転換点にあります。特にアグリゲーターとの協業による市場参入の迅速化は、系統用蓄電池の乱立期における収益の安定化に不可欠な布石です。ハードウェア選定の標準化と地域レジリエンスを絡めた社会貢献性を両立させており、中長期的な資産価値最大化を狙った非常に手堅い先行投資戦略と言えます。"
     }
   },
   {
-    "topic_name": "需給調整市場の上限価格引き下げによる投資影響",
+    "topic_name": "コスモエネルギーグループによる太陽光発電所への蓄電池併設事業",
+    "article_ids": [
+      712420
+    ],
+    "articles": [
+      {
+        "id": 712420,
+        "title": "COSMO、香川県・小豆島太陽光発電所に再エネ電源併設型蓄電池を導入 FIP移行と蓄電池の最適運用で価値最大化へ - AMP[アンプ]",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vZW1kYnpmcGV1SGYzUDAwdVBMVVR4ZzNyeTVsLVVUTDVkLU5ab3Vmby1vcUpVQThsZ0VZaEFSd2VPOVJKSnV4OXdXOHY1M2gzNjg5RWdHTkVUWUFqclJFZ04yZw?oc=5",
+        "published": "Wed, 25 Nov 2026 23:16:13 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vZW1kYnpmcGV1SGYzUDAwdVBMVVR4ZzNyeTVsLVVUTDVkLU5ab3Vmby1vcUpVQThsZ0VZaEFSd2VPOVJKSnV4OXdXOHY1M2gzNjg5RWdHTkVUWUFqclJFZ04yZw?oc=5\" target=\"_blank\">COSMO、香川県・小豆島太陽光発電所に再エネ電源併設型蓄電池を導入 FIP移行と蓄電池の最適運用で価値最大化へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AMP[アンプ]</font>",
+        "site_name": "Googleニュース",
+        "source_type": "rss",
+        "primary_category": "Project",
+        "reason": "再エネ併設型蓄電池の導入とFIP運用事例",
+        "score": 75,
+        "is_highly_important": true
+      }
+    ],
+    "is_grouped": false,
+    "analysis": {
+      "summary_points": [
+        "コスモエネルギーG初の再エネ電源併設型蓄電池事業を小豆島で開始",
+        "FITからFIPへの移行を前提とした収益モデルへの転換",
+        "タイムシフトと需給調整市場を組み合わせたマルチユース運用による収益極大化"
+      ],
+      "insight": "本件の本質は単なる再エネ併設ではなく、FIP移行による『市場価格リスクの受容』と『裁定取引へのシフト』にある。FITの固定買取から脱却し、蓄電池をアセットとして需給調整市場等でマルチユース運用することで、ボラティリティを収益源へと転換する戦略だ。出力制御回避と市場運用を両立させ、再エネの経済性を再定義する試金石となるだろう。"
+    }
+  },
+  {
+    "topic_name": "需給調整市場の上限価格引き下げによる影響",
     "article_ids": [
       859325
     ],
@@ -87,80 +217,50 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1tanJkdEFueU11VjZmM08tY2V1VjlCdlhmWTE3cDlhWWk4bHBXS3daNGNUUXFRVEdTVTdZNm03eFloR1Vh?oc=5\" target=\"_blank\">需給調整市場の上限価格を引き下げ 風力発電への影響は？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ウインドジャーナル</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "Policy",
-        "reason": "需給調整市場の価格上限改定は蓄電池事業の収益に直結。",
+        "primary_category": "Policy/Strategy",
+        "reason": "需給調整市場の制度変更が再エネへ与える影響分析",
         "score": 85,
         "is_highly_important": true
       }
     ],
-    "is_grouped": true,
+    "is_grouped": false,
     "analysis": {
       "summary_points": [
-        "需給調整市場の上限価格が10円へ大幅引き下げ、将来的な7.21円への段階的縮小も示唆",
-        "従来の上限価格依存型モデルからの転換を強要し、市場競争の強制加速を図る政策意図",
-        "蓄電池・洋上風力投資の採算性悪化が不可避であり、再エネ主力化に向けた調達環境に不確実性が拡大"
+        "需給調整市場の上限価格が15円から10円へ引き下げられ、将来的には7.21円まで下落する可能性を示唆。",
+        "「3年で投資回収」を前提とした高収益モデルは終焉し、蓄電所投資の収益性と参入意欲の低下が懸念される。",
+        "蓄電池投資の停滞は、変動性の高い洋上風力等の再エネ導入拡大と需給バランス維持のトレードオフを先鋭化させている。"
       ],
-      "insight": "本措置は市場の「適正価格発見機能」を再構築する外科手術ですが、実態は投資回収の予見性を削ぐリスクを内包しています。蓄電所事業は固定費回収が厳しくなる一方、火力側も限界費用の高騰で追随できず、結果として需給調整力の「質と量」の確保が不安定化する恐れがあります。制度設計の不備を市場の競争で解決しようとする経産省の焦燥感が、むしろ投資家のリスクプレミアムを押し上げるパラドックスを生んでいます。"
+      "insight": "本政策は、これまで需給調整市場を「高利回りな金融商品」と見なしてきた投資家への冷や水となる。しかし、真の課題は単なる価格引き下げではなく、国内の再エネ出力制御が激増する中で、需給調整機能の「投資回収サイクル」が市場の価格形成と整合していない点にある。調整力は再エネのインフラ的価値であり、CAPEX補助金依存からの脱却を急ぐ一方で、市場メカニズムだけでは長周期の調整力を担保できない『市場の限界』が露呈し始めている。"
     }
   },
   {
-    "topic_name": "データセンターおよび蓄電池の系統接続制約と解消策",
+    "topic_name": "正興電機製作所による研究開発拠点「ひびきの研究開発センター」の開設",
     "article_ids": [
-      450106
+      368486
     ],
     "articles": [
       {
-        "id": 450106,
-        "title": "長期化するデータセンターや系統用蓄電池の系統接続、解消策に受電制限などを導入へ - ITmedia",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlLThPYmlIeVFOLVdfTXdJSXN4UWhFTngwUEx1MVRabEJfOE96dkFDMFRFN1dXaXZEYkRzd2ZEOS14YTE2bkp6SjVrT3AtdDNSVlBBajVQdXduWm1KREhQd3lHZHZDTU1mc3JKY2NORnhNR1VXNXdj?oc=5",
-        "published": "Tue, 24 Nov 2026 22:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBlLThPYmlIeVFOLVdfTXdJSXN4UWhFTngwUEx1MVRabEJfOE96dkFDMFRFN1dXaXZEYkRzd2ZEOS14YTE2bkp6SjVrT3AtdDNSVlBBajVQdXduWm1KREhQd3lHZHZDTU1mc3JKY2NORnhNR1VXNXdj?oc=5\" target=\"_blank\">長期化するデータセンターや系統用蓄電池の系統接続、解消策に受電制限などを導入へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+        "id": 368486,
+        "title": "正興電機、初の研究拠点 AIと社外の知見活用し蓄電池開発へ（毎日新聞） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiTlRqQ1ZZMlE1emFrRWU5ZkZ1Y2FJM2R1c3ZxZk5FX0Y5WmtaMml3SWtmcjdXRW5XTTlEYVJ0ekI5M01FTkNMaFdtVmJkS3E1SFc3dE1kTlIzd1RXZ3ktWUdvcENNZ1ZLcVNsbE5rdGoxUmdDSkx3SWdOOW41UlU?oc=5",
+        "published": "Thu, 26 Nov 2026 22:45:21 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBiTlRqQ1ZZMlE1emFrRWU5ZkZ1Y2FJM2R1c3ZxZk5FX0Y5WmtaMml3SWtmcjdXRW5XTTlEYVJ0ekI5M01FTkNMaFdtVmJkS3E1SFc3dE1kTlIzd1RXZ3ktWUdvcENNZ1ZLcVNsbE5rdGoxUmdDSkx3SWdOOW41UlU?oc=5\" target=\"_blank\">正興電機、初の研究拠点 AIと社外の知見活用し蓄電池開発へ（毎日新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
         "site_name": "Googleニュース",
         "source_type": "rss",
-        "primary_category": "Policy",
-        "reason": "系統接続課題への受電制限導入は業界全体に影響する重要施策。",
-        "score": 85,
+        "primary_category": "Technology",
+        "reason": "企業による研究拠点開設と蓄電池開発への注力",
+        "score": 70,
         "is_highly_important": true
       }
     ],
-    "is_grouped": true,
+    "is_grouped": false,
     "analysis": {
       "summary_points": [
-        "系統混雑時における蓄電池の充電が、データセンター等の受電制限を招くボトルネックとなっている",
-        "蓄電池運用が需給調整市場でのΔkW確保に偏っており、価格シグナル（JEPX）を反映した賢い充放電ができていない",
-        "一般送配電事業者は安全側の「全時間帯最大需要」で見積もっており、これが過剰な系統制約を生んでいる"
+        "創業103年で初の研究拠点を開設し、社外知見を融合したオープンイノベーション体制へ転換",
+        "2027年以降の蓄電池量産を見据えた生産・開発ラインの一貫整備",
+        "リチウムイオン電池から全固体電池、バナジウムフロー電池まで網羅する技術ポートフォリオの構築"
       ],
-      "insight": "本質は蓄電池の『運用の硬直性』です。現状、ΔkW調整用としての性質が強く、系統負荷を考慮しない無差別な充電が混雑を悪化させています。今後、系統空き容量を動的に管理する『時間帯別・電源特性別』の接続ルールへの移行は不可避であり、DR（需要応答）能力を備えた次世代型の蓄電池運用スキームが、接続承認を勝ち取るための必須要件となるでしょう。"
-    }
-  },
-  {
-    "topic_name": "系統用蓄電池の設置規制条例（静岡市）",
-    "article_ids": [
-      436381
-    ],
-    "articles": [
-      {
-        "id": 436381,
-        "title": "系統用蓄電池を規制する条例案を2月議会に提出へ 電力不足時に放電できるメリットも火災リスクや騒音指摘 静岡市（LOOK） - ｄメニューニュース",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGbVdWZ0o4UFNPazZTQW1hVUtzRjBKYTJGeURia0pxZkt4RlUxVkNfQmNCRkVFd2RzeGNpUVpuMERHOGVDSU9iRXBoa203ZGpMMXJwRWtSTi05R2J6ZXJobXBBZ0J1U2hkcWdzTmpyQlM?oc=5",
-        "published": "Wed, 25 Nov 2026 00:20:18 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBGbVdWZ0o4UFNPazZTQW1hVUtzRjBKYTJGeURia0pxZkt4RlUxVkNfQmNCRkVFd2RzeGNpUVpuMERHOGVDSU9iRXBoa203ZGpMMXJwRWtSTi05R2J6ZXJobXBBZ0J1U2hkcWdzTmpyQlM?oc=5\" target=\"_blank\">系統用蓄電池を規制する条例案を2月議会に提出へ 電力不足時に放電できるメリットも火災リスクや騒音指摘 静岡市（LOOK）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
-        "site_name": "Googleニュース",
-        "source_type": "rss",
-        "primary_category": "Policy",
-        "reason": "自治体による安全規制条例は業界全体の先例となり重要。",
-        "score": 85,
-        "is_highly_important": true
-      }
-    ],
-    "is_grouped": true,
-    "analysis": {
-      "summary_points": [
-        "静岡市が系統用蓄電池の設置に関する独自の規制条例案を策定し、2月議会へ提出予定",
-        "住宅・商業地域での設置には市長の同意を義務化し、災害リスクの高い区域は原則不許可とする方針",
-        "住民の不安（火災・騒音）を背景に、再エネ主力電源化に必須の蓄電池導入が自治体主導で制約を受ける構図"
-      ],
-      "insight": "再エネ調整力としての重要性が高まる系統用蓄電池に対し、立地規制という「公的制約」が明文化される動きは全国波及の懸念がある。単なる住民エゴの問題ではなく、安全基準の標準化が遅れたことで、自治体が独自に防衛手段を講じる事態を招いた。今後は国主導の安全指針と、地域共生の経済的インセンティブ設計をどう同期させるかが開発事業者の死活問題となる。"
+      "insight": "電力インフラ制御の老舗が、AI活用と自社生産ライン整備を同時に進める戦略は、単なる機器メーカーからの脱却を意味する。特にバナジウムフロー電池の実証は、長周期蓄電市場を見据えた動きであり、インフラ事業者特有の「保守性と長寿命」を武器に、過当競争のリチウム市場とは異なる高付加価値な分散型電源市場での覇権を狙う巧妙な布石だ。"
     }
   }
 ]
